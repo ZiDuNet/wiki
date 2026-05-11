@@ -1,0 +1,17 @@
+.obsidian/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# BM25 index
+indexes/*.json
+!indexes/.gitkeep
+
+# Temp files
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+> 📎 来源: [未知](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzY4MjI0MjYyOQ==&mid=2247483865&idx=1&sn=827112f385ab7896894656ed2636184f&from_masonry=1&sharer_shareinfo_first=674a304ddf318311cc06ea77b749b226&sharer_shareinfo=674a304ddf318311cc06ea77b749b226) | 时间: 2026-04-25 18:01
+
+---
+
+1.怎么远程指挥你的龙虾干活？2.别人的龙虾为什么可以接微信、飞书、Telegram?->一文讲懂OpenClaw的多Channel接入#Openclaw教程#openclaw消息通道接入#openclaw多channel接入#openclaw接入telegram

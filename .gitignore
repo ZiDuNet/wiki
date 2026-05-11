@@ -1,0 +1,24 @@
+# Obsidian
+.obsidian/
+
+# Syncthing
+.stfolder/
+.stignore
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.part
+~*
+*.swp
+
+# Claude
+.claude/
+
+# Python 缓存
+__pycache__/
+*.pyc

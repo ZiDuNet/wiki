@@ -1,0 +1,81 @@
+================================================================================
+Wiki 健康检查报告
+================================================================================
+
+## 总体统计
+
+Wiki 总文件数: 1073
+  concepts/: 96 个文件
+  entities/: 114 个文件
+  root/: 2 个文件
+  sources/: 856 个文件
+  synthesis/: 5 个文件
+
+Wikilink 总数: 15394
+唯一 slug 数: 1073
+断裂 wikilink 总数: 609
+断裂目标数 (去重): 94
+孤立页面数: 0
+
+## 断裂链接分类
+
+A) 链接名带 .md 后缀 (应为文件名去掉.md): 82 个目标, 共 179 条链接
+B) 空格 vs 连字符不匹配 (如 Hermes Agent vs Hermes-Agent): 8 个目标, 共 347 条链接
+C) 其他模式不匹配: 4 个目标, 共 83 条链接
+
+## A) 带 .md 后缀的断裂链接 (Top 20 by ref count)
+
+  [[Hermes-AI-助手技能体系面向真实生产环境的配置方案.md]]  (9 references)
+  [[Hermes-AI-Assistant：安装、配置、工作流与排障指南.md]]  (8 references)
+  [[15-项可能你从未体验过的-Hermes-Agent-功能.md]]  (7 references)
+  [[Hermes-Agent-+-playwright-cli：Linux-服务器免费自动签到，零-Token-消耗.md]]  (6 references)
+  [[Hermes-Agent-Windows-安装-+-个人微信接入，保姆级教程.md]]  (6 references)
+  [[Hermes-Agent-v0.13.0更新：一台机器，三个-AI-团队成员各司其职.md]]  (6 references)
+  [[Hermes-Agent-保姆级安装配置指南.md]]  (5 references)
+  [[Hermes-Agent-完全指南：从入门到实践.md]]  (5 references)
+  [[Hermes-Agent-5种协作模式详解.md]]  (5 references)
+  [[5个让Hermes-AI脱胎换骨的skills，用过就回不去了.md]]  (4 references)
+  [[Hermes-Agent-使用技巧与最佳实践：一份写给中文开发者的实战指南.md]]  (4 references)
+  [[Hermes-Agent-完整指南.md]]  (4 references)
+  [[8-步配好两个-Hermes-Profile，让它们互相打配合.md]]  (4 references)
+  [[1分钟看尽天下事，Hermes-新闻总结方案，海康部署TrendRadar.md]]  (4 references)
+  [[Hermes-Agent-从入门到精通（下）.md]]  (4 references)
+  [[2026年AIOps革命：如何用Hermes-Agent打造私有化智能运维平台？.md]]  (4 references)
+  [[Hermes-+-Webhook：让工作流真正自动化.md]]  (4 references)
+  [[Hermes-Agent-三大进阶玩法：免费模型-+-美化界面-+-省-Token.md]]  (3 references)
+  [[Hermes-Agent-的四个Web-UI面板深度横评：哪款才是你的菜？.md]]  (3 references)
+  [[Hermes-Agent-最大的彩蛋，90%-的人不知道这些斜杠命令.md]]  (3 references)
+
+## B) 空格/连字符不匹配的断裂链接
+
+  [[Hermes Agent]] -> 应为 [[Hermes-Agent]]  (264 references)
+  [[Claude Code]] -> 应为 [[Claude-Code]]  (36 references)
+  [[Learning Loop]] -> 应为 [[Learning-Loop]]  (18 references)
+  [[Hermes Agent生态]] -> 应为 [[(unknown)]]  (16 references)
+  [[Agent Browser]] -> 应为 [[Agent-Browser]]  (4 references)
+  [[Open WebUI]] -> 应为 [[Open-WebUI]]  (4 references)
+  [[LLM Wiki]] -> 应为 [[LLM-Wiki]]  (4 references)
+  [[JVS Claw]] -> 应为 [[JVS-Claw]]  (1 references)
+
+## C) 其他断裂链接
+
+  [[SOUL.md配置]]  (43 references)
+    <- concepts/Agent路由.md
+    <- concepts/Cron定时任务.md
+    <- concepts/Harness框架.md
+    <- concepts/Skill开发.md
+    <- concepts/Sub-Agent.md
+    ... and 38 more
+  [[AGENTS.md配置]]  (36 references)
+    <- concepts/Agent路由.md
+    <- concepts/Cron定时任务.md
+    <- concepts/Harness框架.md
+    <- concepts/Skill开发.md
+    <- concepts/Sub-Agent.md
+    ... and 31 more
+  [[Hermes-Agent安装教程-_-_AI爱马仕_越用越懂你、永久记忆、微信直连、完全免费_手机也能养“会成长的AI”！基于Termux-Android系统.]]  (3 references)
+    <- concepts/Learning-Loop.md
+    <- entities/Honcho.md
+    <- entities/Termux.md
+  [[wikilinks]]  (1 references)
+    <- sources/核心逻辑defcleanmarkdowncontentstrstr去掉frontmatterwikilinks图片URL保留纯文本去掉YAMLfrontmatt.md

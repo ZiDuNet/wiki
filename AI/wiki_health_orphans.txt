@@ -1,0 +1,6 @@
+Total entity+concept files: 210
+Orphan pages (no incoming links): 0
+
+--- Entities orphans: 0 ---
+
+--- Concepts orphans: 0 ---
