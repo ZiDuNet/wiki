@@ -1,11 +1,11 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-12.
+Master catalog of all wiki pages. Updated on 2026-05-13.
 
 ## Statistics
 
-- Sources: 927
-- Entities: 141
+- Sources: 928
+- Entities: 143
 - Concepts: 104
 - Synthesis: 12
 
@@ -138,6 +138,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
 - [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
 - [[千问PPT-Agent实测]] — 千问 PPT Agent 实测
+- [[NAS-赚外快啦！5个-Agent-自动生成「百万小说」，极空间部署-InkOS]] — NAS 赚外快啦！5个 Agent 自动生成「百万小说」，极空间部署 InkOS
 - [[Browser-Use四行代码AI刷网页]] — Browser Use：四行代码让 AI 替你刷网页
 - [[DeepSeek-V4-Flash家用推理现状]] — DeepSeek V4 Flash 在 RTX 5090/DGX Spark 上的推理现状
 - [[Playwright-三Agent全自动写测试]] — Playwright 又出新东西了：三个 Agent 帮你全自动写测试
@@ -1250,6 +1251,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[Hermes]] (213篇)
 - [[Honcho]]
 - [[Horizon]] — AI 驱动的个人新闻雷达
+- [[InkOS]] — 多 Agent AI 小说生成流水线
 - [[JVS-Claw]]
 - [[Karpathy]]
 - [[LLM-Wiki]]
@@ -1333,6 +1335,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[淘宝]]
 - [[清华大学]]
 - [[简道云]]
+- [[极空间]]
 - [[网易]]
 - [[钉钉]] (39篇)
 - [[飞书]] (148篇)

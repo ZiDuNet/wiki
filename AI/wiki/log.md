@@ -591,3 +591,25 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - [[浏览器自动化]] — Computer Use 本质是桌面自动化
 - [[MCP协议]] — Computer Use 底层驱动协议
 - [[Token优化]] — 四层截图压缩节省上下文
+
+## 2026-05-13 — InkOS + 极空间 文章摄入
+
+**Operator:** Automated ingestion (karpathy-llm-wiki)
+**Source:** 微信公众号/Agent/ (1 file)
+**Time:** 2026-05-13
+
+### Results
+
+- **Sources processed:** 1
+- **Source pages created:** 1
+  - [[NAS-赚外快啦！5个-Agent-自动生成「百万小说」，极空间部署-InkOS]]
+- **Entity pages created:** 2
+  - [[InkOS]] — 多 Agent AI 小说生成流水线
+  - [[极空间]] — 国内 NAS 厂商，支持 Docker 部署
+- **Concept pages updated:** 1
+  - [[多Agent协作]] — 新增 InkOS/极空间 相关实体
+
+### Key Concepts Covered
+
+- [[多Agent协作]] — 5 Agent（雷达/建筑师/写手/审计员/修订者）流水线
+- [[工作流自动化]] — InkOS 小说生成完整工作流
