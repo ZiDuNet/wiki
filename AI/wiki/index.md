@@ -1461,3 +1461,1270 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[Skills精选]] — Skills 精选
 - [[hermes-agent-知识全景]] — Hermes Agent 知识全景
 - [[企业AI-Agent落地指南]] — 企业 AI Agent 落地指南
+## Unindexed Sources
+
+- [[01-2.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, RAG, Harness, Prompt]
+- [[01｜事情的起因.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, API, Python, OpenAI]
+- [[01AI生成PPT“血与泪”的故事.md]] — tags: [Claude, Agent, PPT, Prompt, Skill]
+- [[01.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, Python, Skill]
+- [[「0基础AI应用入门---HERMES篇」第四弹---HERMES-接入飞书与飞书-CLI.md]] — tags: [安装部署, 平台接入]
+- [[0基础AI应用入门-HERMES篇第四弹-HERMES-接入飞书与飞书-CLI.md]] — tags: [Hermes, Agent, GitHub, 飞书, API, OpenClaw]
+- [[10-个顶级-Claude-Code-Skills装上就删不掉附真实使用场景和效果对比.md]] — tags: [Claude, Agent, GitHub, Prompt, API, Skill]
+- [[10-篇论文拆解-Skill-自进化的技术路线.md]] — tags: [PPT skill, Agent, Claude, Prompt, Skill, OpenClaw]
+- [[14B模型.md]] — tags: [OpenClaw, Agent, Claude, Prompt, API, Python, OpenAI, Skill]
+- [[15-项可能你从未体验过的-Hermes-Agent-功能.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, Prompt, API, OpenAI]
+- [[16秒上膛互联网再无围墙OpenClaw-Agent-Browser-暴力实测.md]] — tags: [OpenClaw]
+- [[192-个-OpenClaw-Agent-模板免费用复制粘贴就能跑覆盖-24-个职场场景.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, Prompt, API, OpenAI]
+- [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai.md]] — tags: [Obsidian, Agent, Claude, MCP, GitHub, 飞书, RAG, Prompt]
+- [[1背景信息.md]] — tags: [Hermes, Agent, GitHub, 飞书, API, Skill, OpenClaw]
+- [[1-产品规划的skill.md]] — tags: [Skills, Agent, Claude, GitHub, Obsidian, API, Skill]
+- [[1-创建技能目录mkdir-p-claudeskills-2-安装核心技能cdclaudeskills-luwillresearchskillsgitclone.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, API, Python, Skill]
+- [[1-创建-Profile克隆当前配置.md]] — tags: [Hermes, Agent, GitHub, API, Skill]
+- [[1分钟看尽天下事，Hermes-新闻总结方案，海康部署TrendRadar.md]] — tags: [安装部署]
+- [[1-克隆并链接到Claude-Code的技能目录git-clone-httpsgithubcombrowserusevideousecd-videouseln-.md]] — tags: [Claude, GitHub, API, Skill]
+- [[1-克隆仓库.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, Prompt, API, Python]
+- [[1-停掉-browse-后台进程.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, Prompt, API, Skill]
+- [[1-AwesomeClaudeSkills.md]] — tags: [Skills, Claude, GitHub, Obsidian, PPT, Prompt, Skill, Vibe Coding]
+- [[1-cd-到下载的-GA-文件目录cd-d-如果你的安装地址在D盘终端打开后默认在c盘安装在c盘跳过此步骤仅限windows用户cd-你的GenericAgen.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, Prompt, API, Python]
+- [[1-Python-310.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, PPT, Dify, Harness]
+- [[20260420今日Skill分享.md]] — tags: [Harness, GitHub, Skill]
+- [[🌟-20260421-GitHub-Python-热点项目精选11个.md]] — tags: [GitHub, Agent, MCP, RAG, API, Python, OpenAI]
+- [[🌟-20260426-GitHub-Python-热点项目精选20个.md]] — tags: [GitHub, Claude, API, Python, OpenAI, Skill, OpenClaw]
+- [[🌟-20260504-GitHub-Python-热点项目精选17个.md]] — tags: [GitHub, Agent, Claude, Dify, Python, Skill]
+- [[2026年暴利风口曝光API中转站Token进口背后隐藏的惊人真相.md]] — tags: [API中转]
+- [[2026年AIOps革命：如何用Hermes-Agent打造私有化智能运维平台？.md]] — tags: [企业应用]
+- [[2026年AIOps革命如何用Hermes-Agent打造私有化智能运维平台.md]] — tags: [Hermes, Agent, API, OpenAI, Skill, OpenClaw]
+- [[2026用上这48个Skills，你就跑赢了95%的人.md]] — tags: []
+- [[2026用上这48个Skills你就跑赢了95的人.md]] — tags: [Skills, OpenClaw]
+- [[24个开源-ai-ppt-skill-推荐收藏.md]] — title: "再盘 | 24 个开源的 AI PPT Skill，推荐收藏"
+- [[2-从零安装-Hermes.md]] — tags: [Hermes, Agent, API, Python, Skill]
+- [[2小时，做一套客户自动跟进系统（自动提醒-+-自动触达）.md]] — tags: ["AI办公", "客户跟进系统", "Self-Refinement", "自动化工作流", "科研工具"]
+- [[2小时做一套客户自动跟进系统自动提醒-自动触达.md]] — tags: [Skills]
+- [[37.9k-Star-agent-skills-AI-Agent-工程纪律.md]] — title: "37.9k Star 的 agent-skills：AI Agent 也该有工程纪律"
+- [[47个产品经理的skills，这1个要单独评测，否则再好的skill也会退化.md]] — tags: ["Skill资产化", "反模式先行", "Agent Teams"]
+- [[47个产品经理的skills这1个要单独评测否则再好的skill也会退化.md]] — tags: [Skills, Agent, Skill]
+- [[500-ai-agents-projects-别再问-agent-能不能落地了.md]] — tags: [Agent, 开源项目, 项目地图, LangGraph, CrewAI]
+- [[5-分钟搭建-Hermes-Agent：安装、配置、运行你的第一个-Agent.md]] — tags: [安装部署]
+- [[5个让Hermes-AI脱胎换骨的skills，用过就回不去了.md]] — tags: [Skills技能]
+- [[5个让Hermes-AI脱胎换骨的skills用过就回不去了.md]] — tags: [Hermes, Agent, Claude, GitHub, API, Skill]
+- [[5个Skills让你的Openclaw搜索技能起飞.md]] — tags: [OpenClaw, Agent, API, Skill]
+- [[677k星一个人就是一支团队的开源项目.md]] — tags: [GitHub, Agent, API, OpenAI]
+- [[8-步配好两个-Hermes-Profile，让它们互相打配合.md]] — tags: [多Agent协作]
+- [[8-步配好两个-Hermes-Profile让它们互相打配合.md]] — tags: [Hermes, Agent, Claude, GitHub, API, Skill]
+- [[阿里QoderWake上岗有身份有记忆有红线先给它一版“职业行为指南“.md]] — tags: [QoderWake, Agent, GitHub, Harness, Prompt, Skill]
+- [[_爱马仕_-Hermes-Agent-全面介绍与超详细使用教程.md]] — tags: [安装部署]
+- [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-.md]] — tags: [skill-CLI-Anything, Agent, Claude, GitHub, Harness, API, Python, Skill]
+- [[安装飞书CLInpm-install-g-larksuitecli.md]] — tags: [飞书, Agent, Claude, API, Python, Skill]
+- [[安装brew-install-rtk-或一键脚本curl-fsSL-httpsrawgithubusercontentcomrtkairtkrefsheadsm.md]] — tags: [Hermes, Agent, Claude, GitHub, Prompt, API, Python, Skill]
+- [[安装-CLInpm-install-g-larksuitecli-安装-CLI-SKILL必需npx-skills-add-larksuitecli-y-g.md]] — tags: [Agent, Claude, GitHub, 飞书, API, Skill, OpenClaw]
+- [[安装Hermes-Agent完全指南-github-66kstar-实战安装.md]] — tags: [GitHub, Agent, Claude, MCP, Obsidian, 飞书, API, Python]
+- [[安装httpsgithubcomjnMetaCodeagencyagentszh-安装这个存储库-激活模式以小红书写作模式为例子激活小红书内容写作模式.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, Skill, OpenClaw]
+- [[安装-Skill推荐npx-skills-add-yizhiyanhuaaifireworkstechgraph-macOS-需额外安装-rsvgconvert.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, RAG, OpenAI, Skill]
+- [[安装skill.md]] — tags: [GitHub, Agent, Claude, API, Python, Skill, OpenClaw]
+- [[八个工具用下来他终于承认效率没变.md]] — tags: [办公效率, Agent, Claude, Prompt, API, OpenAI, Skill]
+- [[把截图丢给AI5倍提升不止.md]] — tags: [WorkBuddy, Prompt, Skill]
+- [[把收藏夹训练成表达力一个Skill用飞书CLI把审美沉淀成结构化可调用的-AI-工作流.md]] — tags: [飞书, GitHub, PPT, Prompt, API, OpenAI, Skill]
+- [[把Hermes-Agent装进微信.md]] — tags: [Hermes, 微信, Agent, 集成]
+- [[把-YOURAPIKEY-替换成你刚才复制的那串字符youdaonote-configsetapiKey-YOURAPIKEYyoudaonote-list.md]] — tags: [Hermes, Agent, MCP, RAG, API, Skill]
+- [[【保姆级教程】Hermes-Agent安装避坑+微信_飞书双接入｜自我进化能力太绝了.md]] — tags: [安装部署, 平台接入, 自进化机制]
+- [[保证格式一致性的自动主题分类要点提取与文本合并.md]] — tags: [Skills, Agent, GitHub, Skill]
+- [[宝典-Hermes-设置模型和-Fallback-模型.md]] — tags: [模型与成本]
+- [[本文你会看到什么.md]] — tags: [Hermes, Agent, Claude, MCP, Prompt, API, Python, OpenAI]
+- [[比龙虾更强的智能体hermes实战部署教程（保姆级）.md]] — tags: [Hermes Agent]
+- [[必装技能库：baoyu-skills，免费文章配图神器，100+风格任意选​.md]] — tags: ["AI办公", "自动化工作流", "内容创作", "GitHub开源项目", "PPT制作"]
+- [[必装技能库baoyuskills免费文章配图神器100风格任意选.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, API, OpenAI, Skill]
+- [[必装skillhub-install-wechatarticleexportskillskillhub-install-materialinboxskillhu.md]] — tags: [OpenClaw, Agent, 飞书, API, Skill]
+- [[标题别再手动做PPTAI-10分钟出20页精品.md]] — tags: [AI工具, PPT]
+- [[别到处翻文档了！Hermes-Agent-终端命令完整版，复制就能用.md]] — tags: [命令操作]
+- [[别到处翻文档了Hermes-Agent-终端命令完整版复制就能用.md]] — tags: [Hermes, Agent, MCP, API, Skill, OpenClaw]
+- [[别人的-Hermes-有记忆会画图还省钱，你的只会聊天——差在这五步.md]] — tags: [记忆系统, 模型与成本, 多媒体能力, 工具集成]
+- [[别人的-Hermes-有记忆会画图还省钱你的只会聊天差在这五步.md]] — tags: [Hermes, Agent, Claude, GitHub, Prompt, API, OpenAI, Skill]
+- [[别死磕一个-ai-4-个工具一键搞定工作汇报-ppt.md]] — tags: [AI工具, PPT, Kimi, 通义千问, 文心一言, 豆包]
+- [[别再乱比了Hermes-Agent-和-OpenClaw-根本不是一个打法.md]] — tags: [OpenClaw, Agent, GitHub, API, Python, OpenAI, Skill]
+- [[别再手抄设计稿了：我做了个-Skill，把任意网站变成设计文档.md]] — tags: ["MCP协议", "Agent开发", "AI编程", "Harness Engineering", "Skill编排"]
+- [[别再手抄设计稿了我做了个-Skill把任意网站变成设计文档.md]] — tags: [Skills, Agent, Claude, MCP, GitHub, RAG, Prompt, Skill]
+- [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定.md]] — tags: [AI Coding, GitHub, PPT, Python]
+- [[别再手工盯竞品了：用-Hermes-Agent-搭一套会进化的数据监控系统.md]] — tags: [自进化机制]
+- [[别再手工盯竞品了用-Hermes-Agent-搭一套会进化的数据监控系统.md]] — tags: [Hermes, Agent, 飞书, API, Skill]
+- [[并迁移到了我的龙虾上.md]] — tags: [Hermes, Agent, GitHub, Skill]
+- [[不会这6点就别说你会养龙虾.md]] — tags: [AI技术, Agent, GitHub, 飞书, Skill, OpenClaw]
+- [[不设置任何云浏览器-API-key-Hermes-自动-fallback-到-agentbrowser-本地模式.md]] — tags: [Hermes, Agent, MCP, GitHub, API, Skill]
+- [[不知道你有没有过这样的经历.md]] — tags: [Obsidian, API, Python]
+- [[操作微信发消息.md]] — tags: [GitHub, Agent, Claude, API, Python, Skill, OpenClaw]
+- [[查看当前所有临时覆盖项.md]] — tags: [OpenClaw, Agent, Claude, MCP, Prompt, Python, OpenAI, Skill]
+- [[查看某个智能体的所有可用技能.md]] — tags: [OpenClaw, Agent, Obsidian, 飞书, Harness, API, Skill]
+- [[差距从来不在于你有没有AI而在于你有没有用AI彻底重构你的业务底座.md]] — tags: [AI技术, RAG]
+- [[拆解-Claude-Code-的大循环机制.md]] — tags: [Claude, Agent, Prompt, API, Skill]
+- [[拆开Hermes-Agent：企业怎么自建一套会“越用越强”的AI-Agent系统.md]] — tags: [企业应用]
+- [[拆开Hermes-Agent企业怎么自建一套会“越用越强”的AI-Agent系统.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, RAG, Dify, Prompt]
+- [[长的Hermes-AgentK26-保姆教程-实战案例.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, PPT, Harness, API]
+- [[触发机制.md]] — tags: [Hermes, Agent, Claude, GitHub, Harness, Prompt, API, OpenAI]
+- [[传统-SaaS-接一层-Agent-操作引擎.md]] — tags: [Agent, MCP, GitHub, API]
+- [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu.md]] — tags: [API中转, Agent, GitHub, Dify, API, OpenAI]
+- [[创建持久会话persistentterminalcreate-mybrowserserver-在会话中启动服务器persistentterminalexec-m.md]] — tags: [浏览器自动化, Agent, Claude, MCP, GitHub, Python, Skill]
+- [[创建文档larkcli-docs-create-title标题markdown-标题nn内容-更新文档larkcli-docs-update-doc-mode-.md]] — tags: [Hermes, Agent, 飞书]
+- [[创建项目经理-Agentopenclaw-agents-add-pm-workspaceCUsersadminopenclawworkspacepmnonint.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, API, Python]
+- [[创建研究助手openclaw-agents-add-name-研究助手openclaw-agents-setidentity-agent-研究助手-name-研.md]] — tags: [OpenClaw, Agent, 飞书, Prompt, API, OpenAI, Skill]
+- [[从-0-搭建-obsidian-llm-wiki.md]] — tags: [Obsidian, LLM-Wiki, Karpathy, 知识库搭建]
+- [[从安装到实战.md]] — tags: [飞书, Agent, Claude, GitHub, Prompt, API, Skill, OpenClaw]
+- [[从零养马到精通：Hermes-Agent保姆级教程，让AI真正越用越聪明.md]] — tags: [安装部署]
+- [[从零养马到精通Hermes-Agent保姆级教程让AI真正越用越聪明.md]] — tags: [Hermes, Agent, Claude, 飞书, API, OpenAI, Skill, OpenClaw]
+- [[从“转头就忘”到“越用越聪明”：一份让Hermes-Agent真正为你所用的深度指南.md]] — tags: [安装部署, 深度解析]
+- [[从“转头就忘”到“越用越聪明”一份让Hermes-Agent真正为你所用的深度指南.md]] — tags: [Hermes, Agent, MCP, API, Python, Skill]
+- [[从-Vibe-Coding-到-Harness-Engineering注意力时代的软件工程.md]] — tags: [Vibe Coding, Agent, Harness, Prompt, OpenAI]
+- [[错误做法所有-agent-监听所有消息allagentsforEachagent-agentlistenmessage-❌-会导致抢答混乱-正确做法通过-bin.md]] — tags: [OpenClaw, Agent, RAG]
+- [[搭建OpenClaw-多-Agent-搞懂角色分工与协作流程.md]] — tags: [OpenClaw, Agent, 飞书, Skill]
+- [[🤖-打造你的私人-AI-团队：Hermes-Agent-+-飞书-+-多模型配置实战.md]] — tags: [安装部署, 多Agent协作, 平台接入, 模型与成本, 实战案例]
+- [[打造你的-AI-特工队.md]] — tags: [OpenClaw, Agent, 飞书, Prompt, API, Python]
+- [[大部份人只会用Hermes的8-剩下的92-你肯定没碰过.md]] — tags: [Hermes, Agent, Skills, 高级功能]
+- [[大模型不卷聊天了GPT‑55Deepseek-V4MiMo-V25-Pro-正在卷“干活能力”.md]] — tags: [GPT‑5.5, Agent, Claude, OpenAI]
+- [[大模型提示词工程Prompt.md]] — tags: [Prompt]
+- [[单Agent时代正式结束一个干不过就上300个.md]] — tags: [Agent, Claude, PPT, API, OpenAI, Skill, Vibe Coding, OpenClaw]
+- [[当Agent开始干活每个人都是“管理者”我们到底该管什么.md]] — tags: [Agent, Skill]
+- [[当-ai-遇到私有组件-cli-才是-ai-coding-的起点.md]] — tags: [AI编程, MCP, 企业AI, CLI, Skill]
+- [[当-OpenViking-遇上-GitNexus.md]] — tags: [Hermes, Agent, Claude, RAG, API, OpenAI]
+- [[导读.md]] — tags: [AI技术, Agent, Claude, GitHub, Dify, Prompt, OpenAI, Skill]
+- [[导语什么样的架构设计才能真正让AI-Agent从工具进化到员工这不是一篇单纯的技术文档而是一个从业人员对Agent架构设计的系统性反思.md]] — tags: [OpenClaw, Agent, Harness, API, Skill]
+- [[的隐藏玩法.md]] — tags: [Hermes, Agent, RAG, Prompt, API, OpenAI, Skill, OpenClaw]
+- [[第-009-篇｜个人副业真正跑起来把-Hermes-Top-30-skills-串成系统。（主业也可以用）.md]] — tags: [Skills技能]
+- [[第-009-篇｜个人副业真正跑起来把-Hermes-Top-30-skills-串成系统主业也可以用.md]] — tags: [Hermes, Obsidian, Skill]
+- [[第-010-篇｜别再只会hermes多开几个-Profile：一套可复用的本地-AI-团队搭建指南.md]] — tags: [安装部署, 多Agent协作]
+- [[第-010-篇｜别再只会hermes多开几个-Profile一套可复用的本地-AI-团队搭建指南.md]] — tags: [Hermes, Agent, Claude, Obsidian, Prompt, API, Skill]
+- [[第一步装-clawhub-CLInpm-i-g-clawhub-第二步装需要的-Skillclawhub-install-skill名字.md]] — tags: [Claude, Agent, GitHub, 飞书, Prompt, API, Skill]
+- [[第一种方式一键部署.md]] — tags: [Hermes, Agent, GitHub, 飞书, API, Python, OpenClaw]
+- [[多智能体系统把-AI-组建成一家公司而不是堆砌人头.md]] — tags: [Agent, Claude, GitHub, Prompt, API, OpenAI]
+- [[多-Agent-团队协作：Hermes-Agent-的正确打开方式.md]] — tags: [多Agent协作]
+- [[方法论的诞生.md]] — tags: [AI技术, Prompt, API, Skill]
+- [[方法一轻量化之王QMD插件模式.md]] — tags: [OpenClaw, Agent, RAG, Dify, API]
+- [[方式1命令配置hermes-configsetTELEGRAMBOTTOKEN-yourbottoken-方式2手动编辑配置文件hermesconfigyaml.md]] — tags: [Hermes, Agent, MCP, GitHub, 飞书, API, Python, Skill]
+- [[方式一全新-Profile空白hermes-profile-create-mybot-方式二克隆配置复用-API-Key-和模型但记忆和会话独立hermes-p.md]] — tags: [Hermes, Agent, Claude, MCP, API, Python, OpenAI, Skill]
+- [[方式一全新-Profile空白.md]] — tags: [Hermes, Agent, Claude, MCP, Prompt, API, Python, OpenAI]
+- [[方式-AGit-克隆gitclonehttpsgithubcommucsbrpptagentworkflowsangit-将文件夹放到-skills-目录即可-.md]] — tags: [Agent, Claude, GitHub, PPT, Prompt, API, OpenAI, Skill]
+- [[访问国外服务器丢包-vpn-还是-isp-问题.md]] — tags: [网络, VPN, 丢包, ISP, 排障]
+- [[飞书多维表格实战.md]] — tags: [飞书]
+- [[飞书机器人-webhook-地址创建飞书机器人后获取.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, API]
+- [[飞书双接入｜自我进化能力太绝了.md]] — tags: [Hermes, Agent, GitHub, 飞书, Harness, API, Python, Skill]
+- [[飞书-CLI-开源200-命令覆盖-11-个模块附安装教程.md]] — tags: [飞书, Agent, Claude, MCP, GitHub, API, Skill]
+- [[飞书CLI开源了我花了一小时测完3个案例直呼太香.md]] — tags: [飞书, Agent, Claude, GitHub, API, Python]
+- [[分享3个新发现的Skills.md]] — tags: [Skills, 商汤, Warp, Lenny, 产品管理]
+- [[分享6个宝藏Skills.md]] — tags: ["Prompt Engineering", "AI编程", "Vibe Coding", "GitHub开源项目", "PPT制作"]
+- [[分享一个用AI写PPT的技巧.md]] — tags: [AI办公, PPT, Dify, Harness, Prompt]
+- [[封神！7步配置让Hermes脱胎换骨：Token省80%+记忆翻倍+效率炸裂.md]] — tags: [安装部署, 记忆系统, 模型与成本]
+- [[封神！Hermes-Agent新手到高手全教程.md]] — tags: [安装部署]
+- [[干货｜PromptSkillProjectMCP一套完整的-AI-工作流.md]] — tags: [AI技术, Agent, MCP, GitHub, Prompt, API, Skill]
+- [[高效养虾OpenClaw-操作浏览器.md]] — tags: [OpenClaw, Agent, GitHub, Skill]
+- [[搞完-Hermes-多-Agent-我才发现，这根本不是技术活，是管理活.md]] — tags: [多Agent协作]
+- [[告别黑终端Claude-Code-最强桌面客户端来了-开源免费可视化操作顺手太多了.md]] — tags: [Claude, Agent, MCP, GitHub, API, OpenAI, Skill]
+- [[告别裸奔！搞定-Hermes-Agent-后强烈建议尝试的-10-件事.md]] — tags: [Hermes Agent]
+- [[告别裸奔搞定-Hermes-Agent-后强烈建议尝试的-10-件事.md]] — tags: [Hermes, Agent, Python, Skill]
+- [[告别命令行！Hermes-Agent-的-Web-界面进化指南.md]] — tags: [安装部署, WebUI界面, 命令操作, 自进化机制]
+- [[告别命令行Hermes-Agent-的-Web-界面进化指南.md]] — tags: [Hermes, Agent, GitHub, 飞书, API, Python]
+- [[告别AI失忆-OpenClaw-Obsidian搭自媒体记忆宫殿.md]] — tags: [OpenClaw, Obsidian, 知识管理, 自媒体, 记忆系统]
+- [[告别AI-PPT10带你沉浸式体验AI-PPT20的科技感进入万物皆可PPT的时代.md]] — tags: [Skills, PPT, RAG, Prompt]
+- [[告别AI-PPT1.0，带你沉浸式体验AI-PPT2.0的科技感，进入万物皆可PPT的时代.md]] — tags: ["Prompt Engineering", "PPT制作", "内容创作"]
+- [[告别API-KeyOpenClaw免费搜索方案全攻略.md]] — tags: [OpenClaw, Agent, API, Skill]
+- [[个人知识库还得是Obsidian-AI-Agent.md]] — tags: [Obsidian, Agent, Claude, OpenAI, Skill]
+- [[个人-env-文件OPENAIAPIKEYskpersonalxxxDEEPSEEKAPIKEYskdeepseekxxxMOONSHOTAPIKEYskmoo.md]] — tags: [Agent, API, OpenAI, Skill, OpenClaw]
+- [[给-10-万-Star-的-Hermes-装个记忆外挂，AI-终于能越用越聪明了。.md]] — tags: [记忆系统]
+- [[给-10-万-Star-的-Hermes-装个记忆外挂AI-终于能越用越聪明了.md]] — tags: [Hermes, Agent, GitHub, Python, Skill, OpenClaw]
+- [[给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60.md]] — tags: [OpenClaw, Agent, Claude, GitHub, API, OpenAI]
+- [[给知识库装上水管：信息自动流进来.md]] — tags: [知识库, RAG, 搜索, 信息流, 工程化]
+- [[给-AI-Agent-装上一双会看网页的眼睛Dokobot-Skill-体验.md]] — tags: [Agent, Claude, MCP, API, Skill, OpenClaw]
+- [[给Hermes接入生图新王Image2，太强了！.md]] — tags: [平台接入, 多媒体能力]
+- [[给Hermes接入生图新王Image2太强了.md]] — tags: [Hermes, Agent, Prompt, API, OpenAI, Skill]
+- [[给-Hermes-装个好看的壳：Open-WebUI-接入完整指南.md]] — tags: [安装部署, 平台接入, WebUI界面]
+- [[给-Hermes-装个好看的壳Open-WebUI-接入完整指南.md]] — tags: [Hermes, Agent, GitHub, 飞书, Prompt, API, Python, OpenAI]
+- [[给-Hermes-装上_第二颗大脑_：当-OpenViking-遇上-GitNexus.md]] — tags: [Hermes Agent]
+- [[给-VibeCoding-开发者的扫码登录神器一个-SKILL-搞定一切.md]] — tags: [Vibe Coding, Claude, GitHub, API, Skill]
+- [[国产AI工具openclaw选对了让你轻松很多.md]] — tags: [OpenClaw]
+- [[过去一年很多人谈-AI-Agent谈到最后都会落到一个问题上.md]] — tags: [Skills, Agent, Claude, MCP, GitHub, 飞书, Prompt, API]
+- [[还在手动盯监控飞书Webhook自动告警配置全攻略.md]] — tags: [飞书, GitHub, API, Python]
+- [[还在折腾原版龙虾中文版早出了3分钟装好御三家模型随便切.md]] — tags: [OpenClaw, Agent, 飞书, API, Skill]
+- [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天.md]] — tags: [WebUI界面]
+- [[汉化Hermes-Web-UI一个界面管住所有AI聊天.md]] — tags: [Hermes, GitHub, 飞书, Skill]
+- [[好的记忆条目信息密度高.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, API, Python]
+- [[好工具和用得起来的工具之间隔着一个界面.md]] — tags: [Hermes, Agent, Claude, API, Python, OpenAI, Skill, OpenClaw]
+- [[核心逻辑defcleanmarkdowncontentstrstr去掉frontmatterwikilinks图片URL保留纯文本去掉YAMLfrontmatt.md]] — tags: [Hermes, Agent, Obsidian, RAG, API, OpenClaw]
+- [[核心数据最全最火最稳的Skill聚合平台.md]] — tags: [Claude, Agent, MCP, GitHub, Skill]
+- [[很多企业做不好RAG不是模型不行是知识库从一开始就搭歪了.md]] — tags: [RAG]
+- [[划重点-教程部分.md]] — tags: [Hermes, Claude, GitHub, API, OpenClaw]
+- [[获取最新文章ID列表url'httpshackernewsfirebaseiocomv0topstoriesjson'rrequestsgeturlstoryi.md]] — tags: [GitHub, API, Python]
+- [[基础要求使用中文输出内容适合普通读者表达清楚少废话输出-Markdown-文件不要随意修改原始资料需要新建内容时写入指定目录-目录规则01收集箱原始素材临时灵感.md]] — tags: [Obsidian, Claude, GitHub, API]
+- [[极度简化！从-2500-接口到-19-个-skill-飞书-cli-正在补齐智能体最后一块办公拼图.md]] — tags: [飞书, Skill, CLI, 自动化工作流, Agent]
+- [[加了几个-Skill，小龙虾变身高阶分析师.md]] — tags: ["浏览器自动化", "Agent Teams", "Harness Engineering", "Skill编排", "自动化工作流"]
+- [[加了几个-Skill小龙虾变身高阶分析师.md]] — tags: [Skills, Agent, API, Skill, OpenClaw]
+- [[假期结束，打工人上线：5-个做-PPT-的-AI-工具skill，按场景选就够了.md]] — tags: ["AI办公", "Prompt Engineering", "Harness Engineering", "GitHub开源项目", "PPT制作"]
+- [[假期结束打工人上线5-个做-PPT-的-AI-工具skill按场景选就够了.md]] — tags: [Skills, GitHub, PPT, Prompt, API, Python, Skill]
+- [[检查-WSL-版本wsl-version-检查-Linux-内核wslunamea-检查-Python-版本Hermes-需要-311python3-versi.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, 飞书, API, Python]
+- [[教程：我是怎么给AI“立人设”的——一个外行的Skill制作全记录.md]] — tags: ["经验蒸馏", "客户跟进系统", "Skill设计模式", "科研工具", "知识管理"]
+- [[【教程】Hermes-Agent在win系统本地部署保姆级教程.md]] — tags: [安装部署]
+- [[揭秘Hermes高阶配置全攻略，一文搞定！.md]] — tags: [安装部署]
+- [[今日-GitHub-爆款-Top-5-20260428.md]] — tags: [GitHub, Claude, PPT, API, Python]
+- [[仅使用-web-和-terminal-工具.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, PPT, API, Python]
+- [[精选-10-个开发者常用的-AI-智能体技能（Agent-Skills）.md]] — tags: ["反模式先行", "Agent开发", "Agent Teams", "自动化工作流", "GitHub开源项目"]
+- [[精选-10-个开发者常用的-AI-智能体技能Agent-Skills.md]] — tags: [Skills, Agent, Claude, GitHub, Dify, API, Skill]
+- [[开源剪映小助手capcutmatev500发布.md]] — tags: [剪映]
+- [[开源洁癖skill让你的Agent越用越聪明.md]] — tags: [Agent, Claude, GitHub, Prompt, Skill, Vibe Coding, OpenClaw]
+- [[开源Turix你可以把任何App当Agent-Skill用比如微信.md]] — tags: [Agent, GitHub, Prompt, API, Skill, OpenClaw]
+- [[（可能全网最全_长的）Hermes-Agent+K2.6-保姆教程-+-实战案例.md]] — tags: [安装部署, 实战案例]
+- [[克隆仓库gitclonehttpsgithubcomhugohe3pptmastergitcdpptmaster-安装依赖pip-install-r-requi.md]] — tags: [PPT Master, Claude, GitHub, PPT, Prompt, API, Python, OpenAI]
+- [[克隆仓库-git-clone-httpsgithubcomKKKKhazixkhazixskillsgit-或直接下载-ZIP-并解压.md]] — tags: [OpenClaw, Agent, Claude, GitHub, PPT, Prompt, Skill]
+- [[克隆项目gitclone项目地址cdagentharness-一键启动startsh.md]] — tags: [Harness, Agent, GitHub, RAG, Prompt, API, Python]
+- [[扣子实战第6期BotAgentSkill插件看完这篇再也不晕.md]] — tags: [Agent, Skill]
+- [[快瞧瞧-4-月-GitHub-上哪些开源项目最火火火火.md]] — tags: [GitHub, Agent, Claude, 飞书, PPT, Prompt, API, Python]
+- [[快速启动推荐npxtokscalelatest或用Bun更轻量bunxtokscalelatest.md]] — tags: [Hermes, Agent, GitHub, 飞书, Prompt, API, Python, Skill]
+- [[来了叫MCP.md]] — tags: [AI Coding, Claude, MCP, GitHub, Harness, OpenAI, Vibe Coding]
+- [[了.md]] — tags: [飞书, Skill]
+- [[例如-Gemini-CLI-for-plugin-in-pm-do-cp-r-$pluginskills-geminiskills-2devnull-done.md]] — tags: [GitHub, Agent, Claude, Skill]
+- [[列出当前所有浏览器标签页curlhttplocalhost3456targets.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, 飞书, Dify, API]
+- [[零基础上手：Hermes-Agent-最详细安装指南，踩坑汇总.md]] — tags: [安装部署]
+- [[浏览器打开-httplocalhost3001.md]] — tags: [Hermes, Agent, GitHub, Prompt, API]
+- [[龙虾🦞命令行太痛苦来试试Moxt多Agents协作平台.md]] — tags: [Agent, MCP, GitHub, 飞书, Harness, Prompt, API, OpenAI]
+- [[“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果.md]] — tags: [OpenClaw, PPT, Prompt]
+- [[🦞龙虾OpenClaw-带回来了怎么养装完这-15-个插件龙虾直接变-AI-超人.md]] — tags: [OpenClaw, Agent, Claude, GitHub, Obsidian, PPT, API, Python]
+- [[论文写作-Skills-整理.md]] — tags: ["AI办公", "Agent开发", "自动化工作流", "GitHub开源项目", "PPT制作"]
+- [[裸装-Hermes-的朋友，你用的根本不是-Hermes！7-步满配教程，能力直接翻几倍！.md]] — tags: [安装部署]
+- [[每日一-Skills-推荐｜baoyu-skills：13000-Star-的内容创作全家桶，从选题到发一条龙.md]] — tags: ["浏览器自动化", "内容创作", "知识管理", "GitHub开源项目", "PPT制作"]
+- [[每日一-Skills-推荐｜baoyuskills13000-Star-的内容创作全家桶从选题到发一条龙.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, API, Skill, OpenClaw]
+- [[每日skill系列之项目经理工作流.md]] — tags: ["垂直切片", "AI办公", "Harness Engineering", "Skill编排", "GitHub开源项目"]
+- [[每周更新帮你快速了解全球最热门的技术项目.md]] — tags: [GitHub, Agent, Claude, 飞书, PPT, RAG, API, Python]
+- [[免费的开源Skill，可能是企业AI化路上最贵的选择.md]] — tags: ["AI办公", "Harness Engineering", "门禁机制", "Skill编排", "GitHub开源项目"]
+- [[免费的开源Skill可能是企业AI化路上最贵的选择.md]] — tags: [Skills, Agent, GitHub, 飞书, API, Skill]
+- [[📚-目录.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, OpenAI, Skill, OpenClaw]
+- [[你的-AI-skills-有多少在摸鱼？.md]] — tags: ["上下文管理", "GitHub开源项目", "自动化工作流", "PPT制作"]
+- [[你的-Hermes-为什么总是记不住？这篇教你如何给-Hermes-添加长期记忆！.md]] — tags: [记忆系统]
+- [[你的-Hermes-为什么总是记不住这篇教你如何给-Hermes-添加长期记忆.md]] — tags: [Hermes, Agent, Claude, API, OpenAI, Skill, OpenClaw]
+- [[你的-OpenClaw-为什么这么笨因为你少做了一步.md]] — tags: [OpenClaw, Agent, Claude, Obsidian, 飞书]
+- [[你的PPT不一定是PPTXhtmlpptskill帮你把PPT做成一门艺术.md]] — tags: [PPT skill, Agent, GitHub, PPT, Skill, OpenClaw]
+- [[“你那个AI分析财报是怎么做的我也想做一个能教教吗”.md]] — tags: [Skills, Skill]
+- [[你有没有这种感觉别人和AI聊几句就能搞定一件事你折腾半天出来的结果却总是差点意思不是AI不行是你没给它配上“武器库”.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, Prompt, OpenAI, Skill]
+- [[年轻人的第一个爱马仕，10分钟入门-Hermes-Agent.md]] — tags: [安装部署]
+- [[年轻人的第一个爱马仕10分钟入门-Hermes-Agent.md]] — tags: [Hermes, Agent, GitHub, 飞书, Prompt, API, OpenAI, Skill]
+- [[配置示例.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, API, Python]
+- [[朋友被-Hermes-卡了两天，我帮他找到了小白版的-LLM-Wiki.md]] — tags: [Hermes Agent]
+- [[普通人用OpenClaw创业的6个方向.md]] — tags: [OpenClaw, Agent, RAG, OpenAI, Skill]
+- [[启动连接.md]] — tags: [OpenClaw, Agent, MCP, API]
+- [[启用防火墙sudopfctle-阻止-VNC-端口的外部访问echoblock-in-from-any-to-any-port-5900sudopfctlf-阻.md]] — tags: [OpenClaw, Agent, API]
+- [[启用虚拟机平台功能WSL-2-必需.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, API, Python]
+- [[起因现-AI-PPT-方案都难受.md]] — tags: [PPT制作, Agent, Claude, GitHub, PPT, RAG, Prompt, API]
+- [[弃虾投马：我放弃了养虾，加入Hermes（爱马仕）Agent.md]] — tags: [Hermes Agent]
+- [[弃虾投马我放弃了养虾加入Hermes爱马仕Agent.md]] — tags: [Hermes, Agent, MCP, Prompt, API, Skill, OpenClaw]
+- [[千问PPT-Agent实测.md]] — tags: [PPT, 千问, AI工具, Agent]
+- [[前阵子用-OpenClaw-跑通了新闻聚合推送养虾日记🦞我用4个AI-Agent搭了个内容创作团队httpsmpweixinqqcomsbizMzAwMzU3N.md]] — tags: [Hermes, Agent, 飞书, Skill, OpenClaw]
+- [[清华大学：Hermes-Agent-深度研究报告（附完整报告下载）.md]] — tags: [深度解析, 研究报告]
+- [[清华大学Hermes-Agent-深度研究报告附完整报告下载.md]] — tags: [Hermes, Agent, GitHub, OpenAI]
+- [[去年开始我就在给几家知名上市公司做AI项目其中客户需求量最大要求最高的当属企业知识库项目.md]] — tags: [知识库, Agent, PPT, RAG, Prompt, Skill, OpenClaw]
+- [[全解析-Hermes-Agent：持久记忆、技能自研、模型无关的开源-Agent-框架.md]] — tags: [记忆系统, Skills技能, 深度解析, 模型与成本, 版本更新]
+- [[全解析-Hermes-Agent持久记忆技能自研模型无关的开源-Agent-框架.md]] — tags: [Hermes, Agent, Skill]
+- [[全流程图文部署！把-Hermes-塞进你的微信、飞书和-TG，打造-24-小时在线的-AI-助手.md]] — tags: [安装部署, 平台接入]
+- [[全网最全-Hermes-Agent-安装配置指南：零基础入门-+-避坑大全（附图文）.md]] — tags: [安装部署]
+- [[全在这了！我把Hermes-Agent学透后，整理出-80+-条命令和用法（含教程）.md]] — tags: [Hermes Agent]
+- [[让-AI-更好的自动干活：Hermes-Agent-定时任务实战指南.md]] — tags: [安装部署, 实战案例, 自动化]
+- [[让-AI-更好的自动干活Hermes-Agent-定时任务实战指南.md]] — tags: [Hermes, Agent, 飞书, PPT, Prompt, Skill, OpenClaw]
+- [[让-Hermes-越用越顺的-3-个核心方法.md]] — tags: [Hermes, Agent, Skill]
+- [[扔掉-ppt-用这44个-html-动画模板让-ai-帮你做科普视频.md]] — tags: [视频制作, GitHub开源项目, Skill, AI工具]
+- [[扔掉PPT用这44个HTML动画模板让AI帮你做科普视频.md]] — tags: [AI Coding, Agent, GitHub, PPT, Prompt, API, Skill, OpenClaw]
+- [[日记-30我用-Obsidian-Hermes把流水账变成洞察与成长的飞轮周洞察版.md]] — tags: [Obsidian, Agent, Prompt, Skill]
+- [[如果使用-zshmacOS-默认sourcezshrc-如果使用-bashsourcebashrc.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, API, Python, OpenAI]
+- [[如何把经验装到Skills？.md]] — tags: ["Prompt Engineering", "Agent Teams", "Harness Engineering", "自动化工作流", "SVG绘图"]
+- [[如何把OpenClaw接入你的业务系统.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, Prompt, API, OpenAI, Skill]
+- [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者.md]] — title: "如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）"
+- [[如何写好-Skill：如何正确“蒸馏”同事.md]] — tags: ["Prompt Engineering", "Harness Engineering", "Skill设计模式", "渐进式披露", "GitHub开源项目"]
+- [[如何写好-Skill如何正确“蒸馏”同事.md]] — tags: [Skills, Agent, GitHub, RAG, Harness, Prompt, API, Skill]
+- [[如何选到一只适合自己的龙虾.md]] — tags: [内容创作, Agent, Claude, MCP, GitHub, 飞书, Prompt, API]
+- [[如何用-AI-生成“麦肯锡级”的解决方案PPT我写了这套工具.md]] — tags: [AI技术, PPT, Prompt, Skill]
+- [[如何用-OpenClaw-搭建一个有记忆会协作的AI-Agent团队.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, API, OpenAI, Skill]
+- [[三层工程.md]] — tags: [Harness, Agent, Claude, MCP, Prompt, API, Python, OpenAI]
+- [[三个效果爆炸的原型-skill彻底告别手动绘制.md]] — tags: [AI技术, Agent, MCP, GitHub, Skill]
+- [[深度报告-_-Hermes-Agent：会自我进化的开源AI-Agent.md]] — tags: [研究报告]
+- [[深度解析三大-Agent-上下文工程Claude-CodeOpenClawHermes-的设计哲学.md]] — tags: [OpenClaw, Agent, Claude, MCP, 飞书, Harness, Prompt, Skill]
+- [[深度解析-Hermes-Agent-如何实现“自进化”及其-Prompt-_-Context-_-Harness-的设计实践.md]] — tags: [深度解析, 自进化机制, Harness框架]
+- [[深度实操：将-Hermes-Agent-训练成企业级“数据摆渡人”.md]] — tags: [深度解析, 企业应用]
+- [[深入-Open-Agent-SDK四多-Agent-协作子代理团队与任务编排.md]] — tags: [Agent, Claude, MCP, GitHub, RAG, Prompt, API, Skill]
+- [[身份你是一位代码任务调度专家你自己不直接编写代码而是通过调用-CodeX-或-Claude-Code-来完成所有编码工作-工作方式收到需求时先分析任务类型和复杂.md]] — tags: [Hermes, Agent, Claude, 飞书, Prompt, API, OpenAI, Skill]
+- [[升级飞书官方插件到最新版.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, API, OpenAI, Skill]
+- [[什么是-Matt-Pocock-的-Skills.md]] — tags: [Skills, Agent, Claude, GitHub, Prompt, API, Skill, Vibe Coding]
+- [[什么是-Matt-Pocock-的-Skills？.md]] — tags: ["Agent开发", "AI编程", "Harness Engineering", "Skill设计模式", "GitHub开源项目"]
+- [[实操案例｜今日实操你们想要的Mck-PMO-Skill.md]] — tags: ["AI办公", "AI编程", "Skill设计模式", "GitHub开源项目", "PPT制作"]
+- [[实操案例｜今日实操你们想要的MckPMOSkill.md]] — tags: [Skills, PPT, Skill]
+- [[实测版医学科研人员必备的10个OpenClaw技能.md]] — tags: [OpenClaw, Claude, PPT, Python, OpenAI, Skill]
+- [[实测千问-AI一个对话框装下了我的半个工作流.md]] — tags: [AI办公, Agent, PPT, Prompt, Skill]
+- [[实测同样叫企业Agent但飞书aily跟钉钉悟空根本不是一回事.md]] — tags: [Agent, 飞书, Prompt]
+- [[实践为-Hermes-添加一个自定义工具.md]] — tags: [Hermes, Agent, GitHub, API, Python, Skill]
+- [[输出-Hermes-Agent-v090-2026413.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, API, Python, Skill]
+- [[私有组件为什么会把很多-AI-Coding-方案打回原形.md]] — tags: [AI Coding, Agent, Claude, MCP, Prompt, API, Skill, Vibe Coding]
+- [[四十岁熬一次夜三天缓不过来我的“中年回血”实操手册httpsmpweixinqqcomsbizMzIyODU1MzkwNQmid2247484758idx1sn.md]] — tags: [AI办公, Agent, 飞书, PPT, Prompt, Skill, OpenClaw]
+- [[搜索-Skillclawhub-search-obsidian-安装指定-Skillclawhub-install-obsidianopenclaw-查看已安装.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, Obsidian, Prompt, API]
+- [[他搭了个API中转站-月入过万.md]] — title: "他搭了个API中转站，月入过万"
+- [[太多-Skills-管理麻烦-不妨试试这款开源的客户端工具.md]] — tags: [Skills, Claude, GitHub, Skill, Vibe Coding, OpenClaw]
+- [[太多-Skills-管理麻烦？-不妨试试这款开源的客户端工具.md]] — tags: ["客户跟进系统", "AI编程", "Vibe Coding", "Skill设计模式", "GitHub开源项目"]
+- [[太强了！一个Skills同时检索六大文献数据库：百度学术_Semantic-Scholar_arxiv_Pubmed_Crossref_OpenAlex.md]] — tags: ["Agent Teams", "Skill设计模式", "自动化工作流", "内容创作", "GitHub开源项目"]
+- [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g.md]] — tags: [WorkBuddy, Agent, OpenClaw]
+- [[添加一个新-Agent.md]] — tags: [OpenClaw, Agent, Claude, RAG, Prompt, API, OpenAI]
+- [[添加一个专注编程的-Agentopenclaw-agents-add-coder-添加一个负责营销写作的-Agentopenclaw-agents-add-wr.md]] — tags: [OpenClaw, Agent, Claude, 飞书, API, Python, OpenAI]
+- [[突然间又多了一个Hermes智能体.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, API, OpenAI, Skill]
+- [[推荐-3-个-GitHub-画图-Skill一句话生成流程图架构图.md]] — tags: [GitHub, Agent, Claude, PPT, RAG, Prompt, Skill]
+- [[完整拆解.md]] — tags: [PPT skill, Claude, GitHub, PPT, Harness, Prompt, Skill]
+- [[玩了一周-Hermes，我发现99%的人都用错了！这5个技巧能让它直接起飞！.md]] — tags: [Hermes Agent]
+- [[玩了一周-Hermes我发现99的人都用错了这5个技巧能让它直接起飞.md]] — tags: [Hermes, Agent, Claude, MCP, API, OpenAI, Skill, OpenClaw]
+- [[玩虾养马如何构建Agentfirst自我进化型知识库引擎.md]] — tags: [Agent, Claude, MCP, GitHub, Obsidian, PPT, RAG, Harness]
+- [[万万没想到淘宝竟然开放给龙虾了openclaw.md]] — tags: [OpenClaw, API]
+- [[万字长文保姆级本地部署爱马仕Hermes.md]] — tags: [Hermes, Agent, GitHub, 飞书, API, Python, OpenAI]
+- [[万字长文保姆级：本地部署你的爱马仕Hermes超级助手（小白版）.md]] — tags: [安装部署]
+- [[万字长文彻底搞清Hermes-Agent和OpenClaw到底差别在哪里.md]] — tags: [OpenClaw, Agent]
+- [[▽往期推荐△.md]] — tags: [Hermes, Agent, GitHub, 飞书, API, Python, OpenAI, Skill]
+- [[⬆️往期文章内容.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, PPT, Skill]
+- [[网易又一次走在了前面给你的OpenClawHermes-配一个专属工作邮箱.md]] — tags: [OpenClaw, Agent, GitHub, API, Skill]
+- [[微信上线免费-AI-Agent研发也能手机开发功能了.md]] — tags: [Agent, Claude, MCP, GitHub, RAG, Python, OpenAI, OpenClaw]
+- [[微信一键同步Obsidian链接文章随笔轻松储存.md]] — tags: [Obsidian, API]
+- [[为了这篇-Hermes-胚胎级教程，我花了两天，龙虾死了两次，重装了-10-次系统.md]] — tags: [安装部署]
+- [[为了这篇-Hermes-胚胎级教程我花了两天龙虾死了两次重装了-10-次系统.md]] — tags: [Hermes, 飞书, Prompt, Skill]
+- [[为什么说它是目前最稳的-Agent-框架.md]] — tags: [Hermes, Agent, GitHub, API, Python, OpenAI, Skill, OpenClaw]
+- [[为什么我会开始折腾这个问题.md]] — tags: [Skills, Claude, Prompt, API, Skill]
+- [[为什么要用Obsidian.md]] — tags: [Obsidian, GitHub, 飞书, OpenClaw]
+- [[为什么-Hermes-越用越聪明.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, API, OpenAI, Skill]
+- [[为什么-Hermes-越用越聪明？.md]] — tags: [Hermes Agent]
+- [[文科新手20分钟速通Claude-Code.md]] — tags: [Claude, Agent, API, Skill]
+- [[文献分析-Skill-元数据Name-literatureanalysisDescription-当用户需要分析学术文献提取关键信息或生成文献综述时使用-指令你.md]] — tags: [Claude, Agent, GitHub, Prompt, Python, OpenAI, Skill]
+- [[我把-Claude-Design-做成了-Skill人人都能成为顶级网站设计师.md]] — tags: [Claude, Agent, GitHub, PPT, Harness, Prompt, API, Skill]
+- [[我把-Hermes-Agent-装起来了，但养成才刚刚开始.md]] — tags: [Hermes Agent]
+- [[我把-Hermes-Agent-装起来了但养成才刚刚开始.md]] — tags: [Hermes, Agent, Claude, GitHub, Python, OpenAI, Skill]
+- [[我的龙虾能抓任何网页了.md]] — tags: [OpenClaw, GitHub, Harness, Skill]
+- [[我发现了一种高效制作PPT的新思路.md]] — tags: [PPT制作, Agent, MCP, Obsidian, PPT, Prompt, API, Python]
+- [[我高频在用的-24-个-Skills，按-7-条工作流一次讲清楚.md]] — tags: ["AI办公", "Agent Teams", "内容创作", "GitHub开源项目", "PPT制作"]
+- [[我高频在用的-24-个-Skills按-7-条工作流一次讲清楚.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, Skill, OpenClaw]
+- [[我给龙虾装上好用的PPT-Skill.md]] — tags: ["MCP协议", "Prompt Engineering", "自动化工作流", "内容创作", "PPT制作"]
+- [[我给Hermes配了个日报助理.md]] — tags: [Hermes, Agent, Claude]
+- [[我花3个月做了一个AI做PPT的工具每个字都能改数据不出本地.md]] — tags: [PPT制作, Agent, Claude, GitHub, PPT, API, Python, OpenAI]
+- [[“我就想用这个PPT模版你的AI能搞定吗”.md]] — tags: [PPT Master, PPT, Prompt]
+- [[我开源了一个不直接生成-PPT-的PPT-Skill.md]] — tags: ["Skill资产化", "客户跟进系统", "自动化工作流", "GitHub开源项目", "PPT制作"]
+- [[我让-Hermes-Agent-自己写了一个数据质量-Skill，结果它真的开始自我修正了.md]] — tags: [Skills技能]
+- [[我让-Hermes-Agent-自己写了一个数据质量-Skill结果它真的开始自我修正了.md]] — tags: [Hermes, Agent, GitHub, API, Python, OpenAI, Skill, OpenClaw]
+- [[我试了几乎所有能生成-PPT-的-AI-技能最后只留了-4-个特别是最后一个.md]] — tags: [PPT skill, Agent, GitHub, PPT, Skill]
+- [[我手搓了个PPT生成skill决策路由器然后发现了一件好笑的事.md]] — tags: [PPT skill, Agent, Claude, PPT, Skill]
+- [[我玩了2天「自进化」龙虾，然后它开始自己调教自己了。真的回不去了！.md]] — tags: [自进化机制]
+- [[我玩了2天自进化龙虾然后它开始自己调教自己了真的回不去了.md]] — tags: [Hermes, Agent, Claude, GitHub, PPT, Skill]
+- [[我为什么要升级知识管理到obsidian.md]] — tags: [Obsidian]
+- [[我现在如何使用AI-不是找一个更强模型而是搭一套自己的工作系统.md]] — tags: [AI办公, AI方法论, 工作系统, Harness]
+- [[我用AI做了个杂志风PPT发到群里没人信是HTML写的.md]] — tags: [PPT skill, Claude, GitHub, PPT, Skill]
+- [[我用-Hermes-Agent-把「新闻早报」接入微信了.md]] — tags: [多Agent协作, 自动化]
+- [[我用Obsidian搭建了一个全球信息订阅系统.md]] — tags: [Obsidian, 知识管理, RSS, 信息输入]
+- [[我用-OpenClaw-5-分钟做了一条视频连剪辑软件都没打开.md]] — tags: [OpenClaw, RAG, Prompt, Skill]
+- [[我在-Tabbit-浏览器里做了一个调研神器从此写文章快了一倍.md]] — tags: [Tabbit, Agent, GitHub, Prompt, API, Skill, OpenClaw]
+- [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工.md]] — tags: [Harness框架]
+- [[我只别手搓Prompt了用HermesAgent搭个24小时数字员工.md]] — tags: [Hermes, Agent, Claude, 飞书, Prompt, API, OpenAI]
+- [[我装了-1000-个-skills，最后只保留了这-35-个.md]] — tags: ["AI办公", "Prompt Engineering", "Skill设计模式", "GitHub开源项目", "PPT制作"]
+- [[我装了-1000-个-skills最后只保留了这-35-个.md]] — tags: [Skills, Agent, Claude, GitHub, Obsidian, 飞书, PPT, Prompt]
+- [[先讲清楚这不是“更会写代码”是“更会交付”-🧱.md]] — tags: [Agent, GitHub, Prompt, API, Skill]
+- [[想真正玩转-Hermes-Agent，这-8-个实用项目值得一看.md]] — tags: [实战案例]
+- [[想真正玩转-Hermes-Agent这-8-个实用项目值得一看.md]] — tags: [Hermes, Agent]
+- [[项目上下文这是一个-FastAPI-后端项目使用-SQLAlchemy-ORM所有数据库操作必须使用-asyncawait测试文件放在-tests-目录下使用-.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, Prompt, API]
+- [[项目体验.md]] — tags: [知识库, Agent, 飞书, RAG, API, OpenAI]
+- [[小红书专用的爬虫技能来啦OpenClaw这个新技能太香了.md]] — tags: [OpenClaw, API, Skill]
+- [[小研-研究专员你是一个以信源为先带点怀疑主义的研究专员你的工作是收集核实整理而不是生产观点-行为原则区分已证实的事实和听起来合理的推断主动标注信息来源的可靠度不.md]] — tags: [Hermes, Agent, Claude, API, Python, Skill]
+- [[效率翻10倍Claude-Code-深度实战全攻略5大机制42条技巧这篇就够了.md]] — tags: [Claude, Agent, MCP, GitHub, RAG, Prompt, API, Python]
+- [[写个智能体Skill：refine-markdown-to-mkdocs-_-保证格式一致性的自动主题分类、要点提取与文本合并.md]] — tags: ["论文写作", "自动化工作流", "科研工具", "知识管理", "GitHub开源项目"]
+- [[写好一个-Agent-Skill到底需要注意什么从-6-个维度拆解-Skill-黄金法则.md]] — tags: [Agent, Prompt, API, Python, Skill]
+- [[写-SKILL-总是卡住？这-5-Skill-设计模式能救你.md]] — tags: ["Agent开发", "Harness Engineering", "Skill设计模式", "渐进式披露", "GitHub开源项目"]
+- [[新用户一行装好curl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmainscriptsi.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, Obsidian, 飞书, Prompt]
+- [[选择-hindsight.md]] — tags: [Hermes, Agent, API, OpenAI, Skill]
+- [[研究了3天Hermes，我偷走了它的_进化能力_，并迁移到了我的龙虾上.md]] — tags: [自进化机制, 研究报告]
+- [[厌烦了理论给你Harness真正的工程实践.md]] — tags: [Harness, Agent, Claude, GitHub, Prompt, Skill]
+- [[养虾还是骑马Hermes-vs-OpenClaw实测对比.md]] — tags: [OpenClaw, Agent, GitHub, PPT, API, Python, Skill]
+- [[养虾进阶｜我们给-OpenClaw-接上了-OpenSpace但发现了一个根本性问题.md]] — tags: [OpenClaw, Agent, Claude, MCP, 飞书, API, OpenAI, Skill]
+- [[一部署-TrendRadar.md]] — tags: [Hermes, Agent, MCP, 飞书, API, OpenClaw]
+- [[一次扯淡之旅：我将-Hermes-的多个子-Agent-扔到了一个飞书群里（附-Hermes-接入飞书详细教程）.md]] — tags: [安装部署, 平台接入]
+- [[一次扯淡之旅我将-Hermes-的多个子-Agent-扔到了一个飞书群里附-Hermes-接入飞书详细教程.md]] — tags: [Hermes, Agent, 飞书, OpenAI, OpenClaw]
+- [[一从一个-CTO-的真实崩溃说起.md]] — tags: [Agent, Claude, API, Python, Skill]
+- [[一定位痛点测试工程师真正的瓶颈在哪.md]] — tags: [Hermes, Agent, GitHub, 飞书, Prompt, API, Python, Skill]
+- [[一个测试人必备的Hermes-Agent-全流程UI测试方案，简直太牛了（附详细实操）.md]] — tags: [测试]
+- [[一个超爽的-OpenClaw-UI.md]] — tags: [OpenClaw, Agent, 飞书, OpenAI, Skill]
+- [[一行命令完整安装推荐.md]] — tags: [Hermes, Agent, GitHub, PPT, Prompt, API, OpenAI, Skill]
+- [[一键部署开启云端大脑.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, API, Skill]
+- [[一句话生成架构图！这个开源-Skill-让你告别熬夜画图.md]] — tags: ["Harness Engineering", "Skill编排", "SVG绘图", "GitHub开源项目", "PPT制作"]
+- [[一句话生成PPT丨Obsidian-Claude-Code-实践手记-04.md]] — tags: [Obsidian, Claude, GitHub, PPT, Skill]
+- [[一句话AI-帮你操作浏览器.md]] — tags: [AI Coding, Agent, GitHub, API, Python, Skill, OpenClaw]
+- [[一款功能强大的可视化打印设计器技术解析.md]] — tags: [Web UI, GitHub, API, OpenClaw]
+- [[一你每天有多少事是机械重复的.md]] — tags: [WorkBuddy]
+- [[一全自动影视梦工厂.md]] — tags: [AI短剧, Agent, GitHub, RAG, Prompt, API, OpenClaw]
+- [[一为什么选择-Obsidian-Claude.md]] — tags: [Obsidian, Claude, GitHub, API]
+- [[一文彻底了解浏览器自动化cdpplaywrightbrowserusermidscenebrowsermcp.md]] — tags: [浏览器自动化, Agent, MCP, API, Skill]
+- [[一文读懂AI硅基生命体的完整操作系统.md]] — tags: [AI技术, Agent, Claude, MCP, 飞书, Prompt, API, Skill]
+- [[一文讲透如何构建Harness——六大组件全解析.md]] — tags: [深度解析, Harness框架]
+- [[一文讲透-OpenClaw-里到底该用-MultiAgent还是主-Agent-SubAgent.md]] — tags: [OpenClaw, Agent, Claude, 飞书, Harness, Prompt, API, Skill]
+- [[一文看懂-Harness-engineering智能体时代的-AI-编程驾驭之道.md]] — tags: [Harness, Agent, Claude, MCP, Prompt, API, Skill]
+- [[一文理清！Hermes-全部高阶工具配置.md]] — tags: [安装部署]
+- [[一我们管理的从来都不是知识.md]] — tags: [Skills]
+- [[一我用的方案OpenClaw-公众号抓取脚本.md]] — tags: [OpenClaw, Obsidian, 飞书, RAG, Python]
+- [[一先搭一个项目数据库.md]] — tags: [OpenClaw, 飞书, API]
+- [[一先搞懂官方版-Hermes-Agent-到底是什么.md]] — tags: [Hermes, Agent, GitHub, API, Skill]
+- [[一引言为什么是-Obsidian-Claude-Code.md]] — tags: [Obsidian, Agent, Claude, 飞书, PPT, Prompt, API, Python]
+- [[一种重新理解-skills-组合方式的新思路：Skill-Graphs-2.0.md]] — tags: ["Prompt Engineering", "Harness Engineering", "Skill编排", "自动化工作流", "知识管理"]
+- [[一种重新理解-skills-组合方式的新思路Skill-Graphs-20.md]] — tags: [Skills, Agent, Claude, Obsidian, Prompt, Skill]
+- [[一ArcReel-制作视频.md]] — tags: [视频制作, Agent, Claude, Prompt, API, OpenAI, Skill, OpenClaw]
+- [[一HCI-到底是什么.md]] — tags: [Hermes, Agent, GitHub, API, Python, Skill]
+- [[“影子-Agent”大爆发如何排查潜伏在企业内网深处的那些只有-IP-没有身份的-OpenClaw-实例.md]] — tags: [OpenClaw, Agent, Claude, RAG, Prompt, API, Python, OpenAI]
+- [[用好-Hermes-的这个技能，让你的-Agent-越用越聪明，Token-成本暴降-90%.md]] — tags: [Skills技能, 模型与成本]
+- [[用好-Hermes-的这个技能让你的-Agent-越用越聪明Token-成本暴降-90.md]] — tags: [Hermes, Agent, GitHub, Obsidian, RAG, API, OpenAI, Skill]
+- [[用了一个月后，我的-Hermes-变呆了.md]] — tags: [Hermes Agent]
+- [[用一只龙虾看懂OpenClaw的工作原理.md]] — tags: [OpenClaw, Agent, Skill]
+- [[用Hermes封装并开源一个重要skill：从飞书文档一键发布到微信公众号.md]] — tags: [平台接入]
+- [[用-Hermes-一句话生成-PPT从飞书踩坑到微信实战我的真实操作记录.md]] — tags: [Hermes, Agent, 飞书, PPT, Skill]
+- [[用-Hermes-直接指挥本地-CodeX-写代码,-Profiles-搭建多Agent实践.md]] — tags: [多Agent协作]
+- [[用Hermes-Agent一句话生成PPT——从“想到”到“做到”的全流程实操.md]] — tags: [平台接入, 实战案例, 多媒体能力]
+- [[用-Hermes-Obsidian-建一个-AI-学习知识库.md]] — tags: [Obsidian, Agent, RAG, OpenAI, Skill]
+- [[用-Hermes-+-wechat-cli-搭建微信群聊情报助手,自动总结100+群聊消息.md]] — tags: [平台接入, 自动化]
+- [[用-Hermes-wechatcli-搭建微信群聊情报助手自动总结100群聊消息.md]] — tags: [Hermes, Agent, 飞书]
+- [[用-OpenClaw-打造微信公众号文章阅读助手一个自动抓取查询推送全流程的Skill.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, Skill]
+- [[用-OpenClaw-构建个人知识库从几百字到-10-万字让-AI-真正懂你.md]] — tags: [OpenClaw, Claude, GitHub, RAG, OpenAI, Skill]
+- [[用-Skills-组织科研智能体147-个-Claude-Scientific-Skills-怎么落地.md]] — tags: [Claude, Agent, MCP, GitHub, Dify, Prompt, Skill]
+- [[有了Hermes-Agent之后可以放心地在飞书生态中进行更多日常工作了via-飞书CLI今天把内容创作也从Obsidian尝试搬到了飞书.md]] — tags: [Hermes, Agent, GitHub, Obsidian, 飞书, API, Python, Skill]
+- [[又一款开源神器Claude-Code-成本降低-90.md]] — tags: [Claude, GitHub]
+- [[原文地址httpslinuxdottopic1782304.md]] — tags: [PPT制作, PPT, Prompt]
+- [[在-VScode-中玩转-Agent-Skills（科研工作者必备skill推荐，一定要收藏）.md]] — tags: ["Prompt Engineering", "Agent开发", "Skill设计模式", "渐进式披露", "GitHub开源项目"]
+- [[在-VS-Code-中玩转-Agent-Skills科研工作者必备skill推荐一定要收藏.md]] — tags: [Skills, Agent, Claude, GitHub, Prompt, API, Python, Skill]
+- [[在WorkBuddy中安装PPT-skill的进化.md]] — tags: [PPT skill, GitHub, PPT, Skill]
+- [[在-workspace-下创建-skills-目录如果不存在mkdir-p-CUsersAdministratoropenclawworkspaceskills.md]] — tags: [OpenClaw, Prompt, API, Python, OpenAI, Skill]
+- [[早鸟笔记觉醒Obsidian-×-AI-知识工作系统.md]] — tags: [Obsidian, Claude, Skill]
+- [[怎么创建一个真正能干活的-Skills？.md]] — tags: ["MCP协议", "Harness Engineering", "Skill设计模式", "渐进式披露", "GitHub开源项目"]
+- [[怎么远程指挥你的龙虾干活.md]] — tags: [OpenClaw, 飞书]
+- [[掌握这些命令是用好Hermes-Agent的关键.md]] — tags: [Hermes, Agent, 飞书, Python, OpenAI, Skill]
+- [[招人去“人才市场”领员工.md]] — tags: [OpenClaw, Agent, Obsidian]
+- [[这9个OpenClaw小龙虾Skills让AI真正帮我干活.md]] — tags: [OpenClaw, GitHub, Prompt, Skill]
+- [[这个开源项目让全家都能用.md]] — tags: [Claude, GitHub, API, OpenAI]
+- [[这个-GitHub-项目太缺德了拿鞭子抽-Claude-Code.md]] — tags: [Claude, GitHub]
+- [[真·并行！Hermes多Agent架构如何让7个AI同时工作.md]] — tags: [多Agent协作, 深度解析]
+- [[真并行Hermes多Agent架构如何让7个AI同时工作.md]] — tags: [Hermes, Agent, API, Python]
+- [[知识管理，真正要管的是人，而不是知识.md]] — tags: ["论文写作", "经验蒸馏", "文件化工作记忆", "知识管理", "上下文管理"]
+- [[直接安装无需预先安装clawhub工具npx-clawhublatestinstall-skillvetter.md]] — tags: [AI入门, Agent, Claude, MCP, GitHub, Prompt, API, Python]
+- [[职场人AI赋能全实操0基础上手用效率撬动晋升.md]] — tags: [AI办公, Skill]
+- [[指定风格notion-极简风.md]] — tags: [GitHub, Claude, PPT, API, Skill]
+- [[智能体开发交管业务生产环境下的Agent技术路径.md]] — tags: [Agent, MCP, GitHub, Dify, API, Skill, OpenClaw]
+- [[重磅推荐！Hermes-Agent可视化项目推荐！.md]] — tags: [实战案例]
+- [[重磅推荐Hermes-Agent可视化项目推荐.md]] — tags: [Hermes, Agent, API, Skill]
+- [[周一早上睁开眼手机上挂着一堆未读消息其中有一半是各种技术群在转-GitHub-链接我喝着咖啡刷了一遍感觉这周开局就没打算让人安静几个项目一起冲榜而且话题还挺分散.md]] — tags: [GitHub, Agent, Claude, RAG, Prompt, API, Skill]
+- [[诸神黄昏还是新王加冕Hermes-Agent-与-OpenClaw-巅峰对决.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, API, Python, Skill]
+- [[注意这里的-p-参数需换成那你自己的-agenthermes-p-ink-configsetdiscordallowedchannels149525561554.md]] — tags: [Hermes, Agent, Obsidian, 飞书, Prompt, API, Skill, OpenClaw]
+- [[转AI-Agent工程师路线图.md]] — tags: [Agent, RAG, Prompt, API, Python]
+- [[装好Hermes只是第一步：四步调教，让AI“越用越聪明”.md]] — tags: [安装部署, 深度解析, 自进化机制]
+- [[装了一个插件后-我的OpenClawClaudeCursor突然变聪明了-10-倍.md]] — tags: [OpenClaw, Claude, Skill]
+- [[装了-Hermes-却只当聊天框用这-15-个功能你大概率没碰过.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, Prompt, API, OpenAI]
+- [[装了-Hermes-却只当聊天框用？这-15-个功能你大概率没碰过.md]] — tags: [Hermes Agent]
+- [[装了-OpenClaw-却不知道装什么-Skill这-8-个让你的办公效率直接翻-10-倍.md]] — tags: [OpenClaw, PPT, Skill]
+- [[装上这个技能让你的OpenClaw和Hermes拥有多模态知识产出工作流.md]] — tags: [OpenClaw, Agent, GitHub, PPT, API, Skill]
+- [[装完-Hermes-一定要配置这五套系统，秒变满配版，能力提升数倍不止.md]] — tags: [安装部署]
+- [[装完-Hermes-一定要配置这五套系统，秒变满配版.md]] — tags: [安装部署]
+- [[装完-Hermes-之后如何提升使用能力.md]] — tags: [Hermes, Agent, GitHub, API, OpenAI, Skill]
+- [[装完-Hermes-之后如何提升使用能力？.md]] — tags: [Hermes Agent]
+- [[最近爆火的Hermes-Agent让众多大佬纷纷弃用OpenClaw难道是最强平替.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, API, Python, OpenAI]
+- [[最值得安装的20个Skills.md]] — tags: ["MCP协议", "Agent开发", "Skill编排", "Skill设计模式", "PPT制作"]
+- [[最值得产品经理装的10个skills.md]] — tags: ["Agent Teams", "Harness Engineering", "知识管理", "GitHub开源项目", "PPT制作"]
+- [[做PPT最痛苦的不是做是从零开始.md]] — tags: [AI工具, PPT, Prompt, OpenAI]
+- [[做PPT-Agent的实践.md]] — tags: [Agent, GitHub, PPT, Prompt, API, Python, OpenAI]
+- [[acquirecodebaseknowledge.md]] — tags: [acquire-codebase-knowledge, GitHub, API, Python, Skill]
+- [[Agency-agents：144个AI员工.md]] — tags: [Agent, 开源项目, Claude-Code, Cursor, OpenClaw, AI员工]
+- [[agencyagentsagencyagentszh你的AI员工快失控了这两个开源项目手把手帮你建一支专家团队链接在末尾.md]] — tags: [Agent, Claude, GitHub, 飞书, Prompt, OpenClaw]
+- [[Agent-的能力从哪来分享一套高频使用的-Skill-工具集合.md]] — tags: [Agent, GitHub, 飞书, API, Python, Skill, OpenClaw]
+- [[Agent驱动的动态智能业务映射与执行系统.md]] — tags: [Agent, API, Skill, OpenClaw]
+- [[Agent-A-发送任务给-Agent-Bsessionssend-sessionKeyagentbsession-目标-Agent-的-session-mes.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, Prompt, API, Python]
+- [[Agent-Model-Harness一文讲透-Harness-的设计与未来.md]] — tags: [Agent, Claude, MCP, Harness, Prompt, API, Skill]
+- [[Agent-Skill保姆级写法.md]] — tags: [Skills, 编程, 最佳实践, 教程]
+- [[Agent-Skills-解剖：五个设计决策拯救被上下文淹没的-AI-Agent.md]] — tags: ["MCP协议", "Agent开发", "Skill设计模式", "渐进式披露", "GitHub开源项目"]
+- [[Agent-Skills-解剖五个设计决策拯救被上下文淹没的-AI-Agent.md]] — tags: [Skills, Agent, Claude, MCP, GitHub, Prompt, API, Python]
+- [[AGENTSmd-Your-WorkspaceThis-folder-is-home-Treat-it-that-way-Every-SessionBefore.md]] — tags: [OpenClaw, Agent, Claude, Prompt, API, OpenAI, Skill]
+- [[AI办公实现人机协同.md]] — tags: [AI办公]
+- [[AI帮你做PPT10分钟搞定汇报.md]] — tags: [AI技术, PPT]
+- [[AI编程王炸组合-OpenSpec-Superpowers-Harness.md]] — tags: [Harness, OpenSpec, Superpowers, AI编程]
+- [[AI不是写完Skill就结束了，真正的活在后面.md]] — tags: ["Prompt Engineering", "AI编程", "Harness Engineering", "Skill编排", "Skill设计模式"]
+- [[AI不是写完Skill就结束了真正的活在后面.md]] — tags: [Skills, Harness, Prompt, API, OpenAI, Skill]
+- [[AI大神开源的宝藏技能合集.md]] — tags: [AI大神, Skill]
+- [[AI行业黑话一览一口气看懂-LLMTokenRAGPromptMCPSkill.md]] — tags: [Prompt, Agent, Claude, MCP, 飞书, RAG, API, OpenAI]
+- [[AI浪潮已至这是一篇让你超过90普通人的AI入门指南.md]] — tags: [AI入门, Agent, Claude, GitHub, 飞书, PPT, Prompt, Python]
+- [[AI时代高效开发的skill技能.md]] — tags: ["TDD", "Agent开发", "Harness Engineering", "Skill设计模式", "GitHub开源项目"]
+- [[AI时代，PPT的未来是HTML，一个神奇的-Skills-推荐.md]] — tags: ["AI办公", "Prompt Engineering", "反模式先行", "GitHub开源项目", "PPT制作"]
+- [[AI时代PPT的未来是HTML一个神奇的-Skills-推荐.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, Prompt, Python, Skill]
+- [[ai-知识库-weknora-openclaw-新版本新方向.md]] — tags: [WeKnora, OpenClaw, 知识库, RAG, Agent, MCP]
+- [[AI智能体Skill与MCP现代AI系统的黄金三角.md]] — tags: [AI技术, Agent, Claude, MCP, GitHub, Prompt, API, OpenAI]
+- [[AI助理免费无限用QwenPaw-OpenCodetokens不要钱.md]] — tags: [QwenPaw, Agent, 飞书, API, Skill, OpenClaw]
+- [[AI-做-PPT别再一次性生成了.md]] — tags: [GPT-5.5, Claude, PPT, Prompt, OpenAI]
+- [[AI做PPT看这一篇就够了这篇长文告诉你如何用AI做PPT.md]] — tags: [PPT制作, Claude, GitHub, PPT, Prompt, Python, OpenAI]
+- [[AIAgent-核心循环-9200行class-AIAgent-def-runconversationself-1-构建系统提示词-systemprompt-p.md]] — tags: [OpenClaw, Agent, Claude, MCP, GitHub, 飞书, Prompt, API]
+- [[AI-Agent-全景课-02为什么-DifyCozen8n-先跑出来探讨可视化工作流编排平台的价值与边界.md]] — tags: [Dify, Agent, Claude, 飞书, RAG, Prompt, API, OpenClaw]
+- [[AI-Agent-终于能“看遍全网”了零成本开源神器-Agent-Reach彻底告别-API-Key付费墙和-403-报错.md]] — tags: [Agent, Claude, GitHub, API, OpenClaw]
+- [[AI-Skill-碎片化的解法来了：一个中央库统一管理-27-个平台.md]] — tags: ["Prompt Engineering", "Agent开发", "自动化工作流", "GitHub开源项目", "Skill管理"]
+- [[AI-Skill-碎片化的解法来了一个中央库统一管理-27-个平台.md]] — tags: [Skills, Agent, Claude, GitHub, Prompt, API, Skill, OpenClaw]
+- [[ai-tool-5min-ppt-word.md]] — title: "5分钟搞定PPT！用AI把Word文档一键转演示"
+- [[assetsimgb85fd022d5b7png.md]] — tags: [OpenClaw, Agent, API, Skill]
+- [[aweskill：让AI-Agents-自己搞定skills-管理.md]] — tags: ["AI编程", "Vibe Coding", "Skill设计模式", "GitHub开源项目", "Skill管理"]
+- [[aweskill让AI-Agents-自己搞定skills-管理.md]] — tags: [Skills, Agent, Claude, GitHub, API, Skill, OpenClaw]
+- [[baoyu-translate分层翻译Skill.md]] — tags: [Skills, 翻译, baoyu-translate, 工具]
+- [[Bash-用户sourcebashrc-Zsh-用户macOS-默认sourcezshrc.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, Prompt, API, Python]
+- [[Bash-用户source-bashrc-Zsh-用户source-zshrc.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, API, Python, OpenAI]
+- [[Browser-Use四行代码AI刷网页.md]] — tags: [浏览器自动化, Browser-Use, AI]
+- [[ChatGPT新手指南从注册到上手只需10分钟.md]] — tags: [ChatGPT, Prompt, OpenAI]
+- [[Check-for-name-collisions-across-all-directories.md]] — tags: [Hermes, Agent, Claude, Prompt, Skill]
+- [[Claude要验证身份了-我看了一遍官方原文说几个我觉得重要的点-首先不是所有人都会触发-是特定功能或场景才会弹出来-但如果触发了要准备-政府颁发的实体证件护照.md]] — tags: [Claude]
+- [[Claude-Code-的-Agent-工程.md]] — tags: [Claude, Agent, Prompt, API, OpenAI]
+- [[Claude-Code推荐.md]] — tags: [Vibe Coding, Agent, Claude, MCP, GitHub, Prompt, API, Skill]
+- [[Claude-Code装上Superpowers这个插件从码农变架构师.md]] — tags: [Claude, Agent, GitHub, Prompt, OpenAI, Skill]
+- [[Claude-Code-最佳实践让它强大-100-倍的正确用法.md]] — tags: [Claude, Agent, MCP, GitHub, PPT, Prompt, Skill]
+- [[Claude-Code-最佳实践要点总结.md]] — tags: [Claude, Agent, Prompt]
+- [[Claude-Code-MiniMax-27-Superpowers我是怎么真正交付一套生产系统的.md]] — tags: [Claude, Agent, MCP, GitHub, Harness, Prompt, API, OpenAI]
+- [[claude-code-skills-推荐让-ai-助手更专业的秘密武器.md]] — tags: [Claude, Skill, 代码质量, TDD, 代码审查]
+- [[Claude-Code-SkillsAI编程助手的新进化.md]] — tags: [Claude, GitHub, API, OpenAI, Skill]
+- [[claude-skill-xiaobai-biquan.md]] — title: "数智赋能丨一文讲清：什么是 Skill？该装哪些 Skill？"
+- [[Claudian-Obsidian-AI知识系统.md]] — title: "别再手动整理笔记了！Claude+Obsidian打造永不遗忘的AI知识系统"
+- [[ClawHub上的Skillnpx-clawhublatest-install-skill名称-GitHub上的Skillnpx-skills-add-skil.md]] — tags: [Skills, Agent, Claude, MCP, GitHub, 飞书, PPT, Prompt]
+- [[clawith-ai-agent-员工管理平台.md]] — title: "Clawith：把 AI Agent 当员工管理的开源平台"
+- [[cli-skill-搭建-ai-浏览器自动化框架.md]] — tags: [浏览器自动化, OpenClaw, Skill, CLI, Playwright]
+- [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！.md]] — tags: ["GitHub开源项目", "Prompt Engineering", "内容创作", "信息图制作"]
+- [[CodeBuddy-Cli-skills-实现小红书信息图系列生成器.md]] — tags: [Skills, Claude, GitHub, Prompt, API, OpenAI, Skill, OpenClaw]
+- [[Cursor-AI-Agent搭建Wiki.md]] — title: "利用AI Agent一句话完成Karpathy的llm-wiki知识库搭建"
+- [[DeepSeek-V4-Flash家用推理现状.md]] — tags: [DeepSeek, 推理, 硬件, RTX5090]
+- [[Drawio-官方接入了Claude-Code画流程图终于不用自己动手了.md]] — tags: [Claude, MCP, GitHub, PPT, API]
+- [[Gamma好用但免费10页而且还有水印-这套-PPT-Skill真正厉害的是把做幻灯片变成系统能力.md]] — tags: [PPT skill, Agent, GitHub, PPT, Skill]
+- [[GitHub-15000-Stars这款-AI-技能集让-Claude-Code-变身内容创作神器.md]] — tags: [Claude, Agent, MCP, GitHub, PPT, API, OpenAI, Skill]
+- [[GitHub爆火基于Gemini的开源PPT生成神器每页都是AI原创设计.md]] — tags: [GitHub, Agent, PPT, Prompt, API, Python]
+- [[github-ai热榜-5月11日-genericagent-omlx.md]] — title: "GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent 自进化 + omlx Mac 本地推理"
+- [[Githubhttpsgithubcomintsigtextinxparseskills-Giteehttpsgiteecomintsigtextinxpars.md]] — tags: [知识库, Agent, Claude, GitHub, PPT, Skill, OpenClaw]
+- [[Graphify-知识图谱工程化.md]] — title: "Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品"
+- [[Harness-到底是什么看看-OpenClawHermesClaude-Code-的演绎吧.md]] — tags: [OpenClaw, Agent, Claude, MCP, RAG, Dify, Harness, Prompt]
+- [[Harness-实践：让-Agent-自动制作知识讲解视频.md]] — tags: ["Prompt Engineering", "AI编程", "Harness Engineering", "Skill编排", "GitHub开源项目"]
+- [[Harness-实践让-Agent-自动制作知识讲解视频.md]] — tags: [Skills, Agent, Claude, GitHub, Harness, Prompt, API, OpenAI]
+- [[Harness-是什么.md]] — tags: [Harness, Agent, Claude, RAG, Prompt, OpenAI, Skill, OpenClaw]
+- [[Hermes(爱马仕)：搭建个人知识管理RAG检索.md]] — tags: [RAG检索]
+- [[Hermes(爱马仕)：如何记得更牢，越用越聪明的方式.md]] — tags: [Hermes Agent]
+- [[Hermes爱马仕如何记得更牢越用越聪明的方式.md]] — tags: [Hermes, Agent, Claude, Obsidian, RAG, Prompt, API, Skill]
+- [[Hermes-保姆级安装教程：快速部署你的第一个自进化-Agent.md]] — tags: [安装部署, 自进化机制]
+- [[Hermes部署飞书-CLI-和机器人指南.md]] — tags: [安装部署, 平台接入]
+- [[Hermes从入门到精通，全面部署和进阶调优指南.md]] — tags: [Hermes Agent]
+- [[hermes-的-118-个-skill-当-agent-的能力变成了一个文本文件.md]] — tags: [Hermes, Skill, Agent能力, 118个Skill]
+- [[Hermes-的-15-个隐藏功能，很多人可能一个都没用过.md]] — tags: [Hermes Agent]
+- [[Hermes-的-15-个隐藏功能很多人可能一个都没用过.md]] — tags: [Hermes, Agent, GitHub, 飞书, Prompt, API, Skill]
+- [[Hermes-的五种多-Agent-协作模式.md]] — tags: [Hermes, Agent, Claude, API, Python, OpenAI, Skill]
+- [[Hermes断网后自动重连成功.md]] — tags: [Hermes, OpenClaw]
+- [[Hermes-多-Agent-团队协作的正确打开方式.md]] — tags: [Hermes, Agent, 飞书, API, Skill, OpenClaw]
+- [[Hermes-多-Agent-协作：让多个-AI-同时为你写代码.md]] — tags: [多Agent协作]
+- [[Hermes-多-Agent-协作让多个-AI-同时为你写代码.md]] — tags: [Hermes, Agent, API]
+- [[Hermes-多-Agent-协作：让一群-AI-去完成一个人的工作.md]] — tags: [多Agent协作]
+- [[Hermes-多-Agent-协作让一群-AI-去完成一个人的工作.md]] — tags: [Hermes, Agent]
+- [[Hermes-多-Bot-方法论：理念比步骤重要.md]] — tags: [Hermes Agent]
+- [[Hermes-分身乏术？学会这招-Hermes-Profile-分身术，一人顶一个团队，效率直接翻倍.md]] — tags: [多Agent协作]
+- [[Hermes还没学明白，Generic-Agent又来了.md]] — tags: [版本更新]
+- [[Hermes-进阶：手把手教你配置飞书多应用，比“小龙虾”更丝滑！.md]] — tags: [安装部署, 平台接入, 深度解析]
+- [[Hermes-进阶手把手教你配置飞书多应用比“小龙虾”更丝滑.md]] — tags: [Hermes, Agent, 飞书, Prompt, API]
+- [[Hermes-开源了-ComfyUI-Skill，以后出图、出视频直接说就行了.md]] — tags: [Skills技能, 多媒体能力, 版本更新, 工具集成]
+- [[Hermes-开源了-ComfyUI-Skill以后出图出视频直接说就行了.md]] — tags: [Hermes, Agent, GitHub, PPT, Prompt, API, Python, Skill]
+- [[Hermes-看我七十二变Profiles-分身术.md]] — tags: [Hermes, Agent, GitHub, 飞书, PPT, Prompt, API, OpenAI]
+- [[Hermes-配置项：一张表让你搞懂每个参数怎么配.md]] — tags: [安装部署]
+- [[Hermes-配置项一张表让你搞懂每个参数怎么配.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, Prompt, API, Python]
+- [[Hermes骑马入门到精通：一行命令部署+四级记忆详解.md]] — tags: [安装部署, 记忆系统, 命令操作]
+- [[Hermes骑马入门到精通一行命令部署四级记忆详解.md]] — tags: [Hermes, Agent, Claude, GitHub, API, Python, OpenAI, Skill]
+- [[Hermes-如何从运行时走向训练闭环.md]] — tags: [Hermes, Agent, RAG, Prompt, API, OpenAI, Skill]
+- [[Hermes如何接入生图新王GPT-Image-2.md]] — tags: [平台接入, 多媒体能力]
+- [[Hermes如何接入生图新王GPTImage2.md]] — tags: [Hermes, Prompt, API, OpenAI, Skill]
+- [[Hermes实测：一次任务，自动沉淀成Skill，太丝滑了！（附完整流程）.md]] — tags: [Skills技能, 自动化]
+- [[Hermes-四角色团队：如何稳定运行到第-30-天.md]] — tags: [多Agent协作]
+- [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台.md]] — tags: [WebUI界面, 企业应用]
+- [[Hermes越用越聪明？这3个神器让你轻松逆袭！.md]] — tags: [Hermes Agent]
+- [[Hermes越用越聪明这3个神器让你轻松逆袭.md]] — tags: [Hermes, Agent, GitHub, Prompt, API]
+- [[Hermes-再添画构架图神技architecture-diagram.md]] — tags: [多媒体能力, 工具集成]
+- [[Hermes-再添画构架图神技architecturediagram.md]] — tags: [Hermes, API, Skill]
+- [[🦄【Hermes智能体-第5课】只用一招：让Hermes学会深度思考.md]] — tags: [深度解析]
+- [[🦄Hermes智能体-第5课只用一招让Hermes学会深度思考.md]] — tags: [Hermes, Agent, Claude, Prompt, Skill]
+- [[Hermes-智能体记忆管理系统：智能上下文处理的核心.md]] — tags: [记忆系统]
+- [[Hermes-智能体记忆管理系统智能上下文处理的核心.md]] — tags: [Hermes, Agent]
+- [[Hermes装完不配置，等于装了个寂寞.md]] — tags: [安装部署]
+- [[Hermes装完不配置等于装了个寂寞.md]] — tags: [Hermes, Agent, API, Skill, OpenClaw]
+- [[Hermes-桌面版-GUI-来了-被命令行劝退的人-可以冲了.md]] — title: "Hermes 桌面版 GUI 来了：被命令行劝退的人，可以冲了"
+- [[Hermes-Agent-5种协作模式详解.md]] — tags: [Hermes, Agent, API, Skill]
+- [[Hermes-Agent-8周10万星：开源AI-Agent正在吃掉一切.md]] — tags: [版本更新]
+- [[Hermes-Agent-8周10万星开源AI-Agent正在吃掉一切.md]] — tags: [Hermes, Agent, GitHub, API, OpenAI, OpenClaw]
+- [[Hermes-Agent-安装部署指南（接入飞书篇）.md]] — tags: [安装部署, 平台接入]
+- [[Hermes-Agent安装教程-_-_AI爱马仕_越用越懂你、永久记忆、微信直连、完全免费_手机也能养“会成长的AI”！基于Termux-Android系统.md]] — tags: [安装部署, 记忆系统, 平台接入, 模型与成本]
+- [[Hermes-Agent-保姆级安装配置指南.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent，不只是-AI-助手.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent不只是-AI-助手.md]] — tags: [Hermes, Agent, MCP, GitHub, Prompt, API, Skill]
+- [[Hermes-Agent-橙皮书.md]] — tags: [Hermes, Agent, Claude, GitHub, Skill, OpenClaw]
+- [[Hermes-Agent-出-Web-UI-了，配置不用碰命令行.md]] — tags: [安装部署, WebUI界面, 命令操作]
+- [[Hermes-Agent-出-Web-UI-了配置不用碰命令行.md]] — tags: [Hermes, Agent, API, Skill]
+- [[Hermes-Agent-从入门到精通：25个致命坑避坑实战指南.md]] — tags: [安装部署, 实战案例]
+- [[Hermes-Agent-从入门到精通25个致命坑避坑实战指南.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, Prompt, API]
+- [[Hermes-Agent-从入门到精通：8个实战技巧让AI真正记住你.md]] — tags: [安装部署, 实战案例]
+- [[Hermes-Agent-从入门到精通8个实战技巧让AI真正记住你.md]] — tags: [Hermes, Agent, MCP, Prompt, API, Python, Skill]
+- [[Hermes-Agent-从入门到精通（下）.md]] — tags: [安装部署]
+- [[Hermes-Agent-从入门到精通下.md]] — tags: [Hermes, Agent, MCP, GitHub, 飞书, Prompt, API, Python]
+- [[Hermes-Agent-从中级到高级进阶指南.md]] — tags: [安装部署, 深度解析]
+- [[Hermes-Agent-的四个Web-UI面板深度横评：哪款才是你的菜？.md]] — tags: [WebUI界面, 深度解析]
+- [[Hermes-Agent-的仪表盘终于有人做出来了.md]] — tags: [Hermes, Agent, GitHub, RAG, Prompt, API, Python, Skill]
+- [[Hermes-Agent-定制开发指南（Overview）.md]] — tags: [安装部署]
+- [[Hermes-Agent-高级玩法：微信扫码即用-+-LLM-Wiki-知识库，打造你的数据飞轮.md]] — tags: [平台接入, 深度解析, RAG检索]
+- [[Hermes-Agent-高级玩法微信扫码即用-LLM-Wiki-知识库打造你的数据飞轮.md]] — tags: [Hermes, Agent, Claude, GitHub, Obsidian, PPT, RAG, API]
+- [[Hermes-Agent-工具与工具集.md]] — tags: [Hermes Agent]
+- [[hermes-agent-官方最佳实践指南-13-个技巧效率翻倍.md]] — tags: [Hermes, 最佳实践, Agent技巧, 效率]
+- [[Hermes-Agent-横纵分析报告.md]] — tags: [Hermes, Agent, Claude, GitHub, OpenAI, Skill, OpenClaw]
+- [[Hermes-Agent火了之后，最值得认识的-5-个项目.md]] — tags: [实战案例]
+- [[Hermes-Agent火了之后最值得认识的-5-个项目.md]] — tags: [Hermes, Agent, GitHub, Prompt, Skill]
+- [[Hermes-Agent-记忆系统中Honcho-用户建模原理深度解析：从“记住事实”到“理解你是谁”的-AI-身份建模引擎.md]] — tags: [记忆系统, 深度解析]
+- [[HermesAgent-记忆系统中Honcho-用户建模原理深度解析从“记住事实”到“理解你是谁”的-AI-身份建模引擎.md]] — tags: [Hermes, Agent, GitHub, RAG, Prompt, API, Skill, OpenClaw]
+- [[Hermes-Agent-架构分析.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent-架构深度拆解：记忆、检索与-Skill-如何构建自进化系统.md]] — tags: [记忆系统, Skills技能, 深度解析, 自进化机制, RAG检索]
+- [[Hermes-Agent-架构深度拆解记忆检索与-Skill-如何构建自进化系统.md]] — tags: [Hermes, Agent, Claude, Obsidian, Prompt, API, OpenAI, Skill]
+- [[Hermes-Agent-教程（7）_为-Hermes-添加一个自定义工具.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent进化了，开源Multica实现多agent协作.md]] — tags: [多Agent协作, 自进化机制, 版本更新]
+- [[Hermes-Agent进阶：8个让你从_聊天_到_全自动干活_的隐藏玩法.md]] — tags: [深度解析, 自动化]
+- [[Hermes-Agent-进阶指南：别再瞎堆功能！6层能力吃透，从“会用”变“好用”.md]] — tags: [安装部署, 深度解析]
+- [[Hermes-Agent-进阶指南别再瞎堆功能6层能力吃透从“会用”变“好用”.md]] — tags: [Hermes, Agent, MCP, API, Python, Skill]
+- [[Hermes-Agent-进阶指南（下）.md]] — tags: [安装部署, 深度解析]
+- [[Hermes-Agent-精装指南：从毛坯房到数字分身.md]] — tags: [安装部署]
+- [[Hermes-Agent-精装指南从毛坯房到数字分身.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, Skill]
+- [[Hermes-Agent-满配指南：从“能跑”到“能长期替你干活”，到底要配哪些东西？.md]] — tags: [安装部署]
+- [[Hermes-Agent-满配指南从“能跑”到“能长期替你干活”到底要配哪些东西.md]] — tags: [Hermes, Agent, MCP, GitHub, Obsidian, 飞书, Prompt, API]
+- [[Hermes-Agent命令大全：常用命令全覆盖，从安装到调优.md]] — tags: [安装部署, 命令操作]
+- [[Hermes-Agent命令大全常用命令全覆盖从安装到调优.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, Prompt, API, OpenAI]
+- [[Hermes-Agent：那个越用越懂你的AI管家，真的来了.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent那个越用越懂你的AI管家真的来了.md]] — tags: [Hermes]
+- [[Hermes-Agent-入门：10-个配置坑一次讲清.md]] — tags: [安装部署]
+- [[Hermes-Agent-入门10-个配置坑一次讲清.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, Python, Skill, OpenClaw]
+- [[Hermes-Agent-入门第三弹：把-AI-带入生活的关键一步，手把手教你打通飞书！.md]] — tags: [安装部署, 平台接入]
+- [[Hermes-Agent-入门第三弹把-AI-带入生活的关键一步手把手教你打通飞书.md]] — tags: [Hermes, Agent, Claude, 飞书, API, OpenAI, Skill, OpenClaw]
+- [[Hermes-Agent-三大进阶玩法：免费模型-+-美化界面-+-省-Token.md]] — tags: [WebUI界面, 深度解析, 模型与成本]
+- [[Hermes-Agent-三大进阶玩法免费模型-美化界面-省-Token.md]] — tags: [Hermes, Agent, MCP, API, OpenAI, Skill]
+- [[Hermes-Agent-深度解析：能自我进化的-AI-代理框架.md]] — tags: [深度解析, 自进化机制]
+- [[Hermes-Agent-深度解析能自我进化的-AI-代理框架.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, Prompt, API]
+- [[Hermes-Agent-深度配置指南从“装好了”到“超好用”四步调教你的自进化-AI.md]] — tags: [Hermes, Agent, MCP, 飞书, Prompt, API, Python, Skill]
+- [[Hermes-Agent深度实战：4个高阶技巧让你的AI真正_聪明_起来.md]] — tags: [深度解析, 实战案例]
+- [[Hermes-Agent深度实战4个高阶技巧让你的AI真正聪明起来.md]] — tags: [Hermes, Agent, MCP, GitHub, 飞书, API, Python, OpenAI]
+- [[Hermes-Agent-实战案例与能力分析：47个工具能做什么.md]] — tags: [实战案例]
+- [[Hermes-Agent-使用技巧与最佳实践：一份写给中文开发者的实战指南.md]] — tags: [安装部署, 实战案例]
+- [[Hermes-Agent：史上最全入门指南（2026年4月版）.md]] — tags: [安装部署]
+- [[Hermes-Agent史上最全入门指南2026年4月版.md]] — tags: [Hermes, Agent, Claude, GitHub, API, Python, OpenAI, Skill]
+- [[Hermes-Agent-是什么.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, Prompt, API, Python]
+- [[Hermes-Agent-是由全球知名开源AI实验室Nous-ResearchHermes大模型系列的开发方于2026年2月推出的自进化开源AI智能体也是目前G.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, 飞书, API, Python]
+- [[Hermes-Agent-提供了大量的斜杠命令和内置的Skill不仅打通了-TelegramDiscord飞书等多个消息平台还在会话管理技能系统和记忆机制上引入.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, Obsidian, 飞书, PPT]
+- [[Hermes-Agent-提示词大全.md]] — tags: [Hermes, Agent, Claude, 飞书, RAG, Dify, Prompt, API]
+- [[Hermes-Agent-完全指南：从入门到实践.md]] — tags: [安装部署]
+- [[Hermes-Agent-完整指南.md]] — tags: [安装部署]
+- [[Hermes-Agent-斜杠命令：我只保留了这-10-个.md]] — tags: [命令操作]
+- [[Hermes-Agent-斜杠命令我只保留了这-10-个.md]] — tags: [Hermes, Agent, Claude, Skill]
+- [[Hermes-Agent-新手10个技巧-让你的-AI-智能体越用越聪明.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent-新手从零到一神级入门指南.md]] — tags: [安装部署]
+- [[Hermes-Agent：一个会'长脑子'的-AI-智能体，一行命令安装.md]] — tags: [安装部署, 命令操作]
+- [[Hermes-Agent-原生支持微信了，扫码直接登录（附详细教程）.md]] — tags: [安装部署, 平台接入]
+- [[Hermes-Agent-原生支持微信了扫码直接登录附详细教程.md]] — tags: [Hermes, Agent, GitHub, API, Python, Skill, OpenClaw]
+- [[Hermes-Agent-真正该先配好的：不是模型，而是长任务安全阀.md]] — tags: [模型与成本]
+- [[Hermes-Agent-真正该先配好的不是模型而是长任务安全阀.md]] — tags: [Hermes, Agent, MCP, 飞书, Prompt, Skill]
+- [[Hermes-Agent-支持个人微信接入，我替你们试了（附完整安装教程）.md]] — tags: [安装部署, 平台接入]
+- [[Hermes-Agent-支持个人微信接入我替你们试了附完整安装教程.md]] — tags: [Hermes, Agent, MCP, GitHub, API, Skill, OpenClaw]
+- [[Hermes-Agent中的无缝跨域连接机制.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, OpenAI, Skill]
+- [[🚀-Hermes-Agent-中文新手指南-AI-编码助手来了.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, Prompt, API, Python]
+- [[Hermes-Agent-中文新手指南-_-AI-编码助手来了！.md]] — tags: [安装部署]
+- [[Hermes-Agent装好后必做的10件事——70个Skills我替你筛完，央企打工人照着做就行.md]] — tags: [Skills技能]
+- [[Hermes-Agent装好后必做的10件事70个Skills我替你筛完央企打工人照着做就行.md]] — tags: [Hermes, Agent, MCP, 飞书, PPT, API, Python, Skill]
+- [[Hermes-Agent-最大的彩蛋，90%-的人不知道这些斜杠命令.md]] — tags: [命令操作]
+- [[Hermes-Agent-最强入门攻略来了：这本“橙皮书”，建议每个-AI-Agent-玩家都收藏.md]] — tags: [Hermes Agent]
+- [[Hermes-Agent-+-playwright-cli：Linux-服务器免费自动签到，零-Token-消耗.md]] — tags: [模型与成本, 自动化, 工具集成]
+- [[Hermes-Agent-Self-Evolution：开启Agent自我进化之路.md]] — tags: [自进化机制]
+- [[Hermes-Agent-SelfEvolution开启Agent自我进化之路.md]] — tags: [Hermes, Agent, Claude, GitHub, Prompt, API, Python, OpenAI]
+- [[Hermes-Agent-v0130更新一台机器三个-AI-团队成员各司其职.md]] — tags: [Hermes, Agent, Claude, API, Skill]
+- [[Hermes-Agent-v0.13.0更新：一台机器，三个-AI-团队成员各司其职.md]] — tags: [多Agent协作, 版本更新]
+- [[Hermes-Agent-v0.5.0-更新日志.md]] — tags: [版本更新]
+- [[Hermes-Agent-v050-更新日志.md]] — tags: [Hermes, Agent, Claude, API, Python, OpenAI, Skill, OpenClaw]
+- [[Hermes-Agent-Windows-安装-+-个人微信接入，保姆级教程.md]] — tags: [安装部署, 平台接入]
+- [[Hermes-AI-助手技能体系面向真实生产环境的配置方案.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, Obsidian, PPT, RAG]
+- [[Hermes-AI-Assistant：安装、配置、工作流与排障指南.md]] — tags: [安装部署]
+- [[Hermes-AI-Assistant安装配置工作流与排障指南.md]] — tags: [Hermes, Agent, GitHub, Prompt, API, Python, OpenAI, Skill]
+- [[HermesAutoCLIObsidian-打造自动入库自动整理自动微信汇报的知识系统.md]] — tags: [Obsidian, Agent, 飞书, API, Skill, OpenClaw]
+- [[Hermes-Curator实战.md]] — tags: [Hermes, Skills, Curator, 管理]
+- [[Hermes-Desktop-—-原生-macOS-上的-Hermes-Agent-桌面伴侣.md]] — tags: [WebUI界面]
+- [[Hermes-Desktop-原生-macOS-上的-Hermes-Agent-桌面伴侣.md]] — tags: [Hermes, Agent, GitHub, API, Skill]
+- [[hermes-hyperframes-全攻略-html-直出视频黑科技.md]] — tags: [Hermes, HyperFrames, HTML视频, GSAP, FFmpeg, HeyGen]
+- [[Hermes-Kanban-保姆级实战教学：从0到1跑通多角色协作写公众号文章全流程.md]] — tags: [安装部署, 多Agent协作, 实战案例]
+- [[Hermes-Kanban-保姆级实战教学从0到1跑通多角色协作写公众号文章全流程.md]] — tags: [Hermes, Agent, API, Skill]
+- [[hermes-kanban-解析与-agent-协作模式对比分析.md]] — tags: [Hermes, Kanban, Agent协作, 多Agent, SQLite]
+- [[Hermes-Kanban-入门手册：多智能体协作的正确姿势.md]] — tags: [安装部署, 多Agent协作]
+- [[Hermes-Kanban-入门手册多智能体协作的正确姿势.md]] — tags: [Hermes, Agent, Prompt, API, Skill]
+- [[hermes-kanban-shizhan.md]] — title: "Hermes Kanban 实战：我是怎样让多个 Agent 真正协作起来的！"
+- [[HermesOpenclaw以及Claude-Code到底是什么-本质区别一句话版本.md]] — tags: [OpenClaw, Agent, Claude]
+- [[Hermes-Profile-系统拆解：同一套代码，怎么跑出真正的多-Agent-协作.md]] — tags: [多Agent协作, 深度解析]
+- [[hermesprofilescoderconfigyaml.md]] — tags: [Agent, Claude, API, OpenAI, Skill]
+- [[Hermes-Skill-Factory：让-Agent-把你的工作流自动沉淀成-Skill.md]] — tags: [Skills技能, 自动化]
+- [[hermesteamagentsmdrosterhermesorchestratorplansroutesapprovessynthesizesalanrese.md]] — tags: [Hermes, Agent, Claude, Harness, Prompt, API, Python, Skill]
+- [[hermestoolsdeeperptoolpy.md]] — tags: [Hermes, Agent, Prompt, API, Python, OpenAI]
+- [[Hermes-v0.12.0-彻底可以离线跑了，把数据安全和免费进行到底.md]] — tags: [模型与成本, 版本更新]
+- [[Hermes-v0120-彻底可以离线跑了把数据安全和免费进行到底.md]] — tags: [Hermes, Claude, API, OpenAI]
+- [[Hermes-v0.12.0-新增看板功能，多Agent协作新方式.md]] — tags: [多Agent协作, 版本更新]
+- [[Hermes-v0120-新增看板功能多Agent协作新方式.md]] — tags: [Hermes, Agent, 飞书, PPT, API, Skill]
+- [[hermes-v0-13-0-kanban-和-goal-说一句话帮你组个小团队.md]] — tags: [Hermes, Kanban, goal, 多Agent, v0.13]
+- [[Hermes-+-Webhook：让工作流真正自动化.md]] — tags: [平台接入, 自动化]
+- [[Hermes-Webhook让工作流真正自动化.md]] — tags: [Hermes, Agent, GitHub, 飞书, Prompt, API, Python, Skill]
+- [[Hermes-WebUI发布：网页端使用Hermes-AI助手.md]] — tags: [WebUI界面]
+- [[Hermes-WebUI发布网页端使用Hermes-AI助手.md]] — tags: [Hermes, Agent, Claude, GitHub, API, Python, OpenAI, Skill]
+- [[Hermes-Web-UI-好工具和用得起来的工具之间，「隔着一个界面」.md]] — tags: [WebUI界面]
+- [[Hermes-Workspace：Agent-终于有了工作区.md]] — tags: [Hermes Agent]
+- [[Hermes-WorkspaceAgent-终于有了工作区.md]] — tags: [Hermes, Agent, Prompt, API, Python, OpenAI, Skill]
+- [[Horizon：AI新闻雷达.md]] — tags: [AI新闻, 信息流, 开源项目, 自动化]
+- [[IDENTITY.md --Who-Am-I?.md]] — type: concept
+- [[IDENTITYmd-Who-Am-I.md]] — tags: [OpenClaw, Agent, RAG, Prompt, API, Python, Skill]
+- [[karpathy-的-llm-wiki-部署好-8-步搞定不花一分钱.md]] — tags: [LLM-Wiki, Karpathy, 部署教程, Cloudflare, Telegram]
+- [[Karpathy的LLM-Wiki-Graphify：企业级RAG缺的真是知识图谱.md]] — tags: [RAG, 知识图谱, LLM-Wiki, Graphify, 企业级, Karpathy]
+- [[karpathy-个人知识库和-openclaw-结合做成了桌面应用.md]] — tags: [OpenClaw, LLM-Wiki, Karpathy, OpAgent, 桌面应用]
+- [[Karpathy-autoresearch：让AI替你做研究.md]] — tags: [AI研究, Karpathy, 开源项目, 自动化实验]
+- [[Karpathy-LLM-Wiki实战指南.md]] — title: "2万字超长实战 Karpathy 的 LLM Wiki"
+- [[Karpathy-LLM-Wiki-Skill开源.md]] — title: "Karpathy LLM-Wiki Skill 已开源公开"
+- [[LangChainHarnessSkillsDifyClaw一文讲清楚它们到底什么关系.md]] — tags: [Harness, Agent, Dify, Prompt, Python, OpenAI, Skill]
+- [[langgraph-openclaw-hermes-三种-agent-路线对比.md]] — tags: [LangGraph, OpenClaw, Hermes, Agent框架, 对比]
+- [[Learning-Loop：Hermes-沉淀行为SKILL的法宝.md]] — tags: [Hermes Agent]
+- [[Learning-LoopHermes-沉淀行为SKILL的法宝.md]] — tags: [Hermes, Agent, Prompt, Skill]
+- [[Linux-macOS-WSL2curl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, API, Python, OpenAI, Skill]
+- [[Linux-macOS-WSL2.md]] — tags: [Hermes, Agent, Claude, GitHub, Prompt, API, Python, OpenAI]
+- [[LLM-Wiki方法论知识库维护.md]] — title: "一种新的 LLM Wiki 方法论：让 AI 帮你建一个能活下去的知识库"
+- [[llm_wiki-桌面应用实现.md]] — title: "Karpathy 的知识库构想被人做成桌面应用了"
+- [[llm-wiki-karpathy-的知识管理理念变成产品了.md]] — tags: [LLM-Wiki, Karpathy, 知识库, RAG, 开源]
+- [[macOS-安装-pyenvbrew-install-pyenv-安装-Python-311pyenv-install-311-设置全局默认版本pyenv-gl.md]] — tags: [Hermes, Agent, GitHub, API, Python]
+- [[macOS-Homebrewbrew-install-hermesagent-或通过-npm-安装npm-install-g-hermesagent-验证安装h.md]] — tags: [Obsidian, Agent, Claude, GitHub, API, Python, Skill]
+- [[macOSLinux-一键安装brew-install-multicaaitapmultica-配置登录认证-启动守护进程multica-setup.md]] — tags: [Hermes, Agent, Claude, GitHub, Prompt, Skill, OpenClaw]
+- [[maigret-3000-website-search.md]] — title: "GitHub 2.4万Star的Maigret：一个用户名搜遍3000+网站"
+- [[Markdown-HTML-AI内容分工.md]] — title: "Markdown 负责记忆，HTML 负责展示：AI 时代的新内容分工"
+- [[Markdown-Viewer-Skill-牛X配图.md]] — title: "牛 X 的Skill"
+- [[MarkItDown-微软万物转Markdown.md]] — tags: [微软, 开源, Markdown, 文档转换]
+- [[MCP-与-Skills：AI-Agent-真正走向生产力系统的两块拼图.md]] — tags: ["MCP协议", "Agent开发", "Harness Engineering", "Skill设计模式", "渐进式披露"]
+- [[MCP-Root-Cause-Service-Builder.md]] — tags: [Skills, Agent, Claude, MCP, GitHub, RAG, Dify, Prompt]
+- [[❝.md]] — tags: [OpenClaw, Agent, Claude, GitHub, Prompt, API, OpenAI, Skill]
+- [[Memory-和-Skills让-Hermes-越用越懂你的长期价值.md]] — tags: [Hermes, Agent, Prompt, Skill]
+- [[Molili-Claw热门skills下载量排名.md]] — tags: []
+- [[MultiAgent-协作手册所有-Agent-共享的任务背景文档由主-Agent-维护其他-Agent-只读引用-项目结构-Agent-矩阵-Agent-Pr.md]] — tags: [Hermes, Agent, 飞书, API, Skill, OpenClaw]
+- [[Multica编码Agent团队管理平台.md]] — title: "Multica：把编码 Agent 当成团队成员管理的开源平台"
+- [[npm-一键安装推荐npm-install-g-hermeswebuihermeswebui-start-打开-httplocalhost8648-一键安装脚本.md]] — tags: [Hermes, Agent, Claude, GitHub, 飞书, RAG, API, Python]
+- [[Obsidian本地知识库文档多而杂难维护不够智能通过AI大神Karpathy这套方法5分钟搭建最懂你的知识库.md]] — tags: [Obsidian, Agent, Claude, GitHub, RAG, Harness, Prompt, OpenClaw]
+- [[Obsidian内容创作系统如何让你的文章没有AI味.md]] — tags: [Obsidian, Skill]
+- [[obsidian使用必备-如何将-pdf-docx-xlsx-文档批量转为-markdown.md]] — tags: [Obsidian, 知识库, PDF, Markdown, 工具推荐]
+- [[Obsidian-Cli-基础使用教程-AI化知识管理全过程.md]] — tags: [Obsidian, Claude, API, Skill]
+- [[obsidian-wiki-jichu-jiaocheng.md]] — title: "从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操"
+- [[oc-16秒上膛互联网再无围墙OpenClaw-Agent-Browser-暴力实测.md]] — tags: [OpenClaw]
+- [[oc-192-个-OpenClaw-Agent-模板免费用复制粘贴就能跑覆盖-24-个职场场景.md]] — tags: [Agent, GitHub, MCP, OpenClaw, SOUL.md, 公众号, 自动化, 视频制作]
+- [[oc-5个Skills让你的Openclaw搜索技能起飞.md]] — tags: [Agent, OpenClaw, Skill, 企业落地, 公众号, 创业, 爬虫]
+- [[oc-把你的工作流封装成一个-Skills交给openclaw.md]] — tags: [OpenClaw, Skill, 企业落地, 创业]
+- [[oc-把喜欢的公众号文章OpenClaw一键变成自己的知识库.md]] — tags: [OpenClaw, 公众号, 浏览器自动化, 知识库, 飞书]
+- [[oc-别再乱比了Hermes-Agent-和-OpenClaw-根本不是一个打法.md]] — tags: [Agent, Hermes Agent, OpenClaw, SOP, Skill, Telegram, 多Agent协作, 浏览器自动化]
+- [[oc-不想带人那就带AI大刘教你用-OpenClaw-攒出第一支-AI-员工团队.md]] — tags: [AI编程, Agent, Agent路由, Cursor, OPC, OpenClaw, SOUL.md, Telegram]
+- [[oc-从单bot到操作系统OpenClaw-5-角色协作架构“玩转”指北.md]] — tags: [AGENTS.md, Agent, Agent路由, Gateway, OpenClaw, SOUL.md, Telegram, Token优化]
+- [[oc-从零构建你的-24-7-AI-助手OpenClaw-四周实战教程.md]] — tags: [Agent, Agent路由, Claude, Cursor, GitHub, OpenClaw, SOUL.md, Telegram]
+- [[oc-从-OpenClaw-到-Hermes如何让多个-AI-助手在-Telegram-群里为你打工.md]] — tags: [AI编程, Agent, Cron定时任务, Gateway, Hermes Agent, OpenClaw, SOUL.md, Skill]
+- [[oc-从OpenClaw到Hermes-Agent一个AI-Agent使用者的进化手记.md]] — tags: [Agent, Claude, Harness, Hermes Agent, OpenClaw, PPT, Skill, Telegram]
+- [[oc-搭建OpenClaw-多-Agent-搞懂角色分工与协作流程.md]] — tags: [AGENTS.md, Agent, Agent路由, Gateway, OpenClaw, SOP, SOUL.md, Skill]
+- [[oc-当OpenClaw遇见Hermes一个关于AI-Agent进化的深度思考.md]] — tags: [Agent, Gateway, Harness, Hermes Agent, OpenClaw, Skill, Token优化, 企业落地]
+- [[oc-高效养虾OpenClaw-操作浏览器.md]] — tags: [Agent, OpenClaw, Skill, Token优化, 浏览器自动化, 自动化, 视频制作]
+- [[oc-告别API-KeyOpenClaw免费搜索方案全攻略.md]] — tags: [Agent, OpenClaw, Skill, 浏览器自动化, 自动化]
+- [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60.md]] — tags: [AGENTS.md, AI编程, Agent, Claude, Cursor, GitHub, Hermes Agent, OpenClaw]
+- [[oc-给小龙虾用的Skill-as-Service.md]] — tags: [Agent, OpenClaw, Skill, 视频制作]
+- [[oc-国产AI工具openclaw选对了让你轻松很多.md]] — tags: [OpenClaw]
+- [[oc-还在折腾原版龙虾中文版早出了3分钟装好御三家模型随便切.md]] — tags: [Agent, OpenClaw, Skill, 微信, 浏览器自动化, 自动化, 部署, 飞书]
+- [[oc-价值百万的Skill在-OpenClaw-中安装横纵分析法.md]] — tags: [Agent, GitHub, OpenClaw, PPT, Skill, 公众号, 微信, 横纵分析法]
+- [[oc-零基础搞定OpenClaw本地部署5个坑4招优化实测7B-14B模型.md]] — tags: [Agent, OpenClaw, Skill, 数据安全, 本地部署, 知识库, 部署]
+- [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果.md]] — tags: [JVS Claw, OpenClaw, PPT]
+- [[oc-🦞龙虾(OpenClaw)-带回来了怎么养装完这-15-个插件龙虾直接变-AI-超人.md]] — tags: [Agent, Claude, GitHub, OpenClaw, PPT, Skill, Token优化, 公众号]
+- [[oc-你的-OpenClaw-为什么这么笨因为你少做了一步.md]] — tags: [Agent, Claude, OpenClaw, SOUL.md, 企业落地, 公众号, 微信, 部署]
+- [[oc-普通人用OpenClaw创业的6个方向.md]] — tags: [Agent, OpenClaw, 企业落地, 公众号, 创业, 多Agent协作, 微信, 知识库]
+- [[oc-全新-OpenClaw-UI-控制台.md]] — tags: [Agent, Cron定时任务, Gateway, OpenClaw, Skill, Token优化, 企业落地, 公众号]
+- [[oc-如何把OpenClaw接入你的业务系统.md]] — tags: [Agent, Gateway, GitHub, OpenClaw, Skill, Telegram, 多Agent协作, 飞书]
+- [[oc-如何用-OpenClaw-搭建一个有记忆会协作的AI-Agent团队.md]] — tags: [AGENTS.md, Agent, Claude, Gateway, OpenClaw, SOUL.md, Skill, 公众号]
+- [[oc-深度解析三大-Agent-上下文工程Claude-CodeOpenClawHermes-的设计哲学.md]] — tags: [AI编程, Agent, Claude, Cursor, Gateway, Harness, Hermes Agent, MCP]
+- [[oc-实测版医学科研人员必备的10个OpenClaw技能.md]] — tags: [Claude, OpenClaw, PPT, Skill, 企业落地, 自动化, 视频制作]
+- [[oc-双AI-Agent协同实战OpenClawHermes同机部署完整指南.md]] — tags: [Agent, Claude, GitHub, Hermes Agent, OpenClaw, PPT, 自动化, 视频制作]
+- [[oc-万万没想到淘宝竟然开放给龙虾了openclaw.md]] — tags: [OpenClaw, 淘宝, 自动化]
+- [[oc-万字长文彻底搞清Hermes-Agent和OpenClaw到底差别在哪里.md]] — tags: [Agent, Hermes Agent]
+- [[oc-网易又一次走在了前面给你的OpenClawHermes-配一个专属工作邮箱.md]] — tags: [Agent, GitHub, Hermes Agent, OpenClaw, Skill, 多Agent协作]
+- [[oc-我的龙虾能抓任何网页了.md]] — tags: [Harness, OpenClaw, 公众号, 小红书, 微信, 浏览器自动化]
+- [[oc-我用飞书-OpenClaw把项目管理流程压到10分钟.md]] — tags: [OpenClaw, 微信, 飞书]
+- [[oc-我用-OpenClaw-5-分钟做了一条视频连剪辑软件都没打开.md]] — tags: [OpenClaw, Skill, 公众号, 浏览器自动化, 视频制作]
+- [[oc-我装了-30-多个-OpenClaw-Skill最后留下这-10-个.md]] — tags: [AI编程, Agent, OpenClaw, Skill, 公众号, 微信, 飞书]
+- [[oc-小红书专用的爬虫技能来啦OpenClaw这个新技能太香了.md]] — tags: [OpenClaw, 小红书, 数据安全, 浏览器自动化, 爬虫, 自动化]
+- [[oc-养虾还是骑马Hermes-vs-OpenClaw实测对比.md]] — tags: [Agent, GitHub, Hermes Agent, OpenClaw, PPT, Skill, 微信, 记忆系统]
+- [[oc-养虾进阶｜我们给-OpenClaw-接上了-OpenSpace但发现了一个根本性问题.md]] — tags: [Agent, Agent路由, Claude, MCP, OpenClaw, Skill, Token优化, 多Agent协作]
+- [[oc-一个人就是一个团队——OpenClaw-多-Agent-协作实战指南.md]] — tags: [Agent, Agent路由, OpenClaw, 多Agent协作, 微信, 自动化, 部署, 飞书]
+- [[oc-一台电脑变两台OpenClaw-安全隔离术.md]] — tags: [OpenClaw, 企业落地, 安全隔离, 自动化, 部署]
+- [[oc-一文讲透-OpenClaw-里到底该用-Multi-Agent还是主-Agent-Sub-Agent.md]] — tags: [AGENTS.md, Agent, Agent路由, Claude, Gateway, OpenClaw, SOUL.md, Skill]
+- [[oc-“影子-Agent”大爆发如何排查潜伏在企业内网深处的那些只有-IP-没有身份的-OpenClaw-实例.md]] — tags: [Agent, OpenClaw, 企业落地, 知识库, 视频制作, 部署]
+- [[oc-用一只龙虾看懂OpenClaw的工作原理.md]] — tags: [OpenClaw, 自动化]
+- [[oc-用-OpenClaw-打造微信公众号文章阅读助手一个自动抓取查询推送全流程的Skill.md]] — tags: [Agent, GitHub, OpenClaw, Skill, 公众号, 微信, 自动化, 部署]
+- [[oc-用-OpenClaw-构建个人知识库从几百字到-10-万字让-AI-真正懂你.md]] — tags: [Claude, Cursor, GitHub, OpenClaw, SOUL.md, Skill, 知识库, 自动化]
+- [[oc-在OpenClaw里装Hermes算不算「既要又要」.md]] — tags: [Agent, Hermes Agent, OpenClaw, Skill, 多Agent协作, 知识库]
+- [[oc-在OpenClaw-Hermes中集成自动化软件工程团队.md]] — tags: [AGENTS.md, AI编程, Agent, Claude, Cursor, GitHub, Hermes Agent, OpenClaw]
+- [[oc-掌握这些命令是用好OpenClaw的关键.md]] — tags: [Agent, Agent路由, Claude, Hermes Agent, MCP, OpenClaw, Skill, Telegram]
+- [[oc-这9个OpenClaw小龙虾Skills让AI真正帮我干活.md]] — tags: [GitHub, OpenClaw, Skill, 微信, 知识库, 自动化]
+- [[oc-这可能是全网最好用的HTML-PPT-Skill开源免费支持-Claude-Code-Codex-Cursor-OpenClaw等.md]] — tags: [Agent, Claude, Cursor, Hermes Agent, OpenClaw, PPT, Skill, Token优化]
+- [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板.md]] — tags: [AGENTS.md, Agent, Agent路由, Harness, OPC, OpenClaw, SOUL.md, Skill]
+- [[oc-诸神黄昏还是新王加冕Hermes-Agent-与-OpenClaw-巅峰对决.md]] — tags: [AI编程, Agent, Agent路由, Claude, Gateway, GitHub, Hermes Agent, OpenClaw]
+- [[oc-装了一个插件后-我的OpenClawClaudeCursor突然变聪明了-10-倍.md]] — tags: [AI编程, Claude, Cursor, OpenClaw, Skill]
+- [[oc-装了-OpenClaw-却不知道装什么-Skill这-8-个让你的办公效率直接翻-10-倍.md]] — tags: [OpenClaw, PPT, Skill, 公众号, 浏览器自动化, 知识库, 自动化]
+- [[oc-装上这个技能让你的OpenClaw和Hermes拥有多模态知识产出工作流.md]] — tags: [AI编程, Agent, Hermes Agent, OpenClaw, PPT, Skill, 公众号, 微信]
+- [[oc-最近爆火的Hermes-Agent让众多大佬纷纷弃用OpenClaw难道是最强平替.md]] — tags: [Agent, Claude, Cron定时任务, GitHub, Hermes Agent, OpenClaw, Skill, Telegram]
+- [[oc-AI-教程-OpenClaw-必备-Skill飞书-CLI-保姆级安装教程.md]] — tags: [Agent, Claude, Cursor, OpenClaw, PPT, Skill, 企业落地, 公众号]
+- [[oc-Harness-到底是什么看看-OpenClawHermesClaude-Code-的演绎吧.md]] — tags: [Agent, Claude, Gateway, Harness, Hermes Agent, MCP, OpenClaw, SOP]
+- [[oc-Hermes-Agent-vs-OpenClaw有了爱马仕小龙虾都不香了.md]] — tags: [Agent, GitHub, Hermes Agent, MCP, OpenClaw, SOP, SOUL.md, Skill]
+- [[oc-HermesOpenclaw以及Claude-Code到底是什么-本质区别一句话版本.md]] — tags: [AI编程, Agent, Claude, Hermes Agent, OpenClaw, 企业落地]
+- [[oc-OPC一人公司商业闭环一个OpenClaw龙虾Skills集的完整拆解.md]] — tags: [Claude, GitHub, SOP, Skill, 企业落地, 创业]
+- [[oc-Openclaw案例03一个人两周搭了8人AI团队全文件驱动零数据库.md]] — tags: [Agent, OpenClaw, 部署]
+- [[oc-OpenClaw本地知识库搭建让AI读你的文件高效办公必备.md]] — tags: [OpenClaw, SOP, 企业落地, 浏览器自动化, 知识库]
+- [[oc-OpenClaw从安装到精通④让你的小龙虾变聪明的必装Skills合集.md]] — tags: [Agent, GitHub, OpenClaw, PPT, Skill, 微信, 浏览器自动化, 自动化]
+- [[oc-OpenClaw-搭建多智能体团队我的实战手记.md]] — tags: [AGENTS.md, Agent, Gateway, OpenClaw, SOUL.md, Skill, 公众号, 多Agent协作]
+- [[oc-OpenClaw对手来了Hermes-Agent狂飙902k-Star附保姆级教程.md]] — tags: [Agent, Claude, Gateway, Hermes Agent, OpenClaw, Skill, Token优化, 企业落地]
+- [[oc-OpenClaw多Agent飞书机器人路由配置实战.md]] — tags: [AI编程, Agent, Agent路由, Gateway, OpenClaw, 多Agent协作, 部署, 飞书]
+- [[oc-OpenClaw-多-Agent-路由一个-Gateway-如何托管多套工作人格.md]] — tags: [AGENTS.md, Agent, Agent路由, Gateway, OpenClaw, SOUL.md, Skill, Telegram]
+- [[oc-OpenClaw-多-Agent-配置实战实现飞书多机器人协同工作.md]] — tags: [Agent, Claude, Gateway, GitHub, OpenClaw, Skill, Token优化, 企业落地]
+- [[oc-OpenClaw-多-Agent-配置完全指南.md]] — tags: [AGENTS.md, AI编程, Agent, Agent路由, Claude, Gateway, GitHub, OpenClaw]
+- [[oc-OpenClaw-多-Agent-团队协同案例分享.md]] — tags: [AI编程, Agent, Agent路由, Gateway, GitHub, OpenClaw, Telegram, 多Agent协作]
+- [[oc-OpenClaw多Agent系统搭建教程.md]] — tags: [AGENTS.md, Agent, Agent路由, Gateway, OpenClaw, SOUL.md, Skill, 多Agent协作]
+- [[oc-OpenClaw-多Agent协作一句话召唤AI团队效率直接拉满.md]] — tags: [Agent, OpenClaw, SOUL.md, 企业落地, 多Agent协作, 微信, 知识库, 自动化]
+- [[oc-OpenClaw-多-Agent-怎么配置按我这套实际结构一步一步来.md]] — tags: [AGENTS.md, Agent, Agent路由, OpenClaw, SOUL.md, Telegram, Token优化, 公众号]
+- [[oc-OpenClaw飞书.md]] — tags: [OpenClaw, Token优化, 部署, 飞书]
+- [[oc-OpenClaw-技能平台避坑这些坑千万别踩.md]] — tags: [Claude, OpenClaw]
+- [[oc-OpenClaw教程06-怎么远程指挥你的龙虾干活.md]] — tags: [OpenClaw, Telegram, 微信, 飞书]
+- [[oc-OpenClaw进阶多Agent路由协作权限全在这里了.md]] — tags: [AGENTS.md, AI编程, Agent, Agent路由, OpenClaw, Telegram, Token优化, 公众号]
+- [[oc-OpenClaw-进阶给-OpenClaw-配上语音识别能力.md]] — tags: [OpenClaw, 本地部署, 语音识别, 部署]
+- [[oc-OpenClaw-进阶配置完全教程2026AGENTSmd记忆系统子AgentCron定时任务Skill开发多渠道接入.md]] — tags: [AGENTS.md, AI编程, Agent, Agent路由, Claude, Cron定时任务, Gateway, OpenClaw]
+- [[oc-OpenClaw-进阶配置指南用提示词Skill-和-MCP-打造真正懂你的-AI-助手.md]] — tags: [AGENTS.md, AI编程, Agent, Claude, Gateway, GitHub, MCP, OpenClaw]
+- [[oc-OpenClaw-进阶玩法——-用-Skill-让-AI-更聪明.md]] — tags: [Agent, GitHub, OpenClaw, Skill, 公众号, 小红书, 自动化]
+- [[oc-Openclaw-龙虾-记忆系统技能测评20款方案.md]] — tags: [OpenClaw, 记忆系统]
+- [[oc-OpenClaw(龙虾)-进阶AI-Agent团队协同的原理与使用.md]] — tags: [AGENTS.md, Agent, Agent路由, Gateway, OpenClaw, SOUL.md, 多Agent协作, 安全隔离]
+- [[oc-OpenClaw-企业落地场景梳理系列①零售行业第一个被-OpenClaw-接管的不是销售是什么.md]] — tags: [OpenClaw]
+- [[oc-openclaw深度实践四种场景企业提效参考.md]] — tags: [OpenClaw, 企业落地, 小红书, 数据安全, 本地部署, 浏览器自动化, 自动化, 视频制作]
+- [[oc-OpenClaw实操指南19｜SOULmd-AGENTSmd实战给AI注入性格边界和判断力.md]] — tags: [AGENTS.md, Claude, OpenClaw, SOUL.md, 一人公司, 公众号, 创业, 记忆系统]
+- [[oc-OpenClaw-实战搭建一人公司-AI-开发团队打通需求-设计-开发-测试闭环.md]] — tags: [Agent, Gateway, GitHub, OPC, OpenClaw, SOUL.md, 一人公司, 爬虫]
+- [[oc-OpenClaw-实战四记忆系统与多-Agent-编排.md]] — tags: [AI编程, Agent, Agent路由, Claude, Gateway, OpenClaw, SOUL.md, Telegram]
+- [[oc-OpenClaw实战应用全景30落地案例深度解析.md]] — tags: [AI编程, Agent, GitHub, OpenClaw, Skill, Telegram, 企业落地, 创业]
+- [[oc-OpenClaw太乱我部署了这个3D可视化指挥中心效率飙升300.md]] — tags: [Agent, Cron定时任务, Gateway, GitHub, OpenClaw, Skill, Token优化, 企业落地]
+- [[oc-OpenClaw-现在能直接操作你的浏览器了配置只要两分钟.md]] — tags: [MCP, OpenClaw, 浏览器自动化, 爬虫, 自动化]
+- [[oc-OpenClaw-用了半年我还是换了-Hermes-Agent——10-个-Skills-我替你测完央企打工人看这篇就够.md]] — tags: [Agent, GitHub, Hermes Agent, MCP, OpenClaw, Skill, 企业落地, 微信]
+- [[oc-OpenClaw-与-Hermes-全面对比.md]] — tags: [Agent, Agent路由, Gateway, Hermes Agent, OpenClaw, Skill]
+- [[oc-OpenClaw-与-Hermes-Agent2026-开源-AI-智能体双雄争霸与创作者效率革命.md]] — tags: [Agent, GitHub, Hermes Agent, MCP, OpenClaw, Skill, Telegram, 企业落地]
+- [[oc-OpenClaw这次更新后终于重回轻盈.md]] — tags: [Agent, Agent路由, Claude, Cron定时任务, Gateway, MCP, OpenClaw, Telegram]
+- [[oc-OpenClaw-真正的门槛在“工程化”从能力清单到安全落地.md]] — tags: [Agent, OpenClaw, 企业落地, 多Agent协作, 浏览器自动化, 部署]
+- [[oc-OpenClaw-知识库加载攻略如何为你的“AI-龙虾”装上最强本地大脑.md]] — tags: [OpenClaw, Token优化, 企业落地, 知识库]
+- [[oc-OpenClaw装了却不知道怎么找热点这个开源工具天天把选题推到我面前结合OpenClaw解决了我的大问题.md]] — tags: [AI编程, Agent, Claude, GitHub, OPC, OpenClaw, Telegram, Token优化]
+- [[oc-OpenClaw装上这3个Skill剪视频张嘴就来.md]] — tags: [Agent, GitHub, OpenClaw, Skill, 公众号, 微信, 视频制作]
+- [[oc-OpenClaw总失控你缺的不是Skill是一份AGENTSmd配置SOP.md]] — tags: [AGENTS.md, Agent, OpenClaw, SOP, SOUL.md, Skill, Token优化, 公众号]
+- [[oc-OpenClaw做PPT总翻车装上这个Skill输出质量直追麦肯锡顾问.md]] — tags: [Agent, Claude, OpenClaw, PPT, Skill, 多Agent协作, 自动化]
+- [[oc-OpenClaw-DAY3--进阶--多-Agent-协作完全指南打造你的-AI-特工队.md]] — tags: [AGENTS.md, Agent, Agent路由, Gateway, OpenClaw, SOUL.md, Telegram, 多Agent协作]
+- [[oc-OpenClaw-Hermes-深度使用一——-部署-Hermes.md]] — tags: [Agent, Agent路由, Claude, Gateway, Hermes Agent, MCP, OpenClaw, Skill]
+- [[oc-OpenClaw-Hermes-双线作战AI-运维助手集群实战部署指南.md]] — tags: [Agent, Gateway, GitHub, Hermes Agent, OpenClaw, SOP, Skill, Token优化]
+- [[oc-OpenClaw-Sub-agent-实战让-OpenClaw-自己调度-OpenClaw.md]] — tags: [AI编程, Agent, Claude, Gateway, OpenClaw, Sub-Agent, 多Agent协作]
+- [[oc-OpenClaw-vs-Hermes-Agent深度对比决策树.md]] — tags: [AI编程, Agent, Agent路由, Cron定时任务, Gateway, Hermes Agent, OpenClaw, Skill]
+- [[oc-OpenClaw-×-web-access我让-AI-自己打开浏览器帮我刷了10个平台.md]] — tags: [Agent, Claude, Cursor, Gateway, GitHub, MCP, OpenClaw, Skill]
+- [[oc-Token消耗仅为1-20Hermes-Agent与OpenClaw深度对决谁才是你的终极AI助手.md]] — tags: [Agent, Agent路由, Claude, Gateway, GitHub, Hermes Agent, MCP, OpenClaw]
+- [[Ollama-启动时加上这个参数ollama-serve-ctxsize-65536.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, API, Python, OpenAI]
+- [[OPC一人公司商业闭环一个OpenClaw龙虾Skills集的完整拆解.md]] — tags: [OpenClaw, Claude, GitHub, Prompt, API, Skill]
+- [[OpenAlex.md]] — tags: [Skills, Claude, API, Python, Skill, OpenClaw]
+- [[Openclaw案例03一个人两周搭了8人AI团队全文件驱动零数据库.md]] — tags: [OpenClaw, Agent, API]
+- [[OpenClaw爆火60天我们终于可以在微信里“养虾”了深度解析.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, API, OpenAI, Skill]
+- [[OpenClaw本地知识库搭建让AI读你的文件高效办公必备.md]] — tags: [OpenClaw, RAG, Prompt, API, Python]
+- [[OpenClaw-必备-Skill飞书-CLI-保姆级安装教程.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, PPT, Skill]
+- [[OpenClaw等.md]] — tags: [OpenClaw, Agent, Claude, GitHub, Obsidian, PPT, Skill]
+- [[OpenClaw对手来了Hermes-Agent狂飙902k-Star附保姆级教程.md]] — tags: [OpenClaw, Agent, Claude, GitHub, 飞书, RAG, Prompt, API]
+- [[OpenClaw多Agent飞书机器人路由配置实战.md]] — tags: [OpenClaw, Agent, 飞书, Skill]
+- [[OpenClaw-多-Agent-路由一个-Gateway-如何托管多套工作人格.md]] — tags: [OpenClaw, Agent, Prompt, Skill]
+- [[🎓-OpenClaw-多-Agent-团队协同案例分享.md]] — tags: [OpenClaw, Agent, GitHub, 飞书, Prompt]
+- [[OpenClaw多Agent系统搭建教程.md]] — tags: [OpenClaw, Agent, 飞书, API, Skill]
+- [[OpenClaw-多Agent协作一句话召唤AI团队效率直接拉满.md]] — tags: [OpenClaw, Agent, 飞书, Prompt]
+- [[OpenClaw-多-Agent-怎么配置按我这套实际结构一步一步来.md]] — tags: [OpenClaw, Agent]
+- [[OpenClaw飞书.md]] — tags: [OpenClaw, 飞书]
+- [[OpenClaw-技能平台避坑这些坑千万别踩.md]] — tags: [OpenClaw, Claude, Skill]
+- [[OpenClaw进阶多Agent路由协作权限全在这里了.md]] — tags: [OpenClaw, Agent, 飞书, Vibe Coding]
+- [[OpenClaw-进阶给-OpenClaw-配上语音识别能力.md]] — tags: [OpenClaw, Python, OpenAI]
+- [[OpenClaw-进阶玩法-用-Skill-让-AI-更聪明.md]] — tags: [OpenClaw, Agent, GitHub, RAG, API, Skill]
+- [[Openclaw-龙虾-记忆系统技能测评20款方案.md]] — tags: [OpenClaw, Skill]
+- [[OpenClaw配置迁移.md]] — tags: [OpenClaw, Agent, 飞书, API, Skill]
+- [[OpenClaw-企业落地场景梳理系列①零售行业第一个被-OpenClaw-接管的不是销售是什么.md]] — tags: [OpenClaw]
+- [[openclaw深度实践四种场景企业提效参考.md]] — tags: [OpenClaw]
+- [[OpenClaw太乱我部署了这个3D可视化指挥中心效率飙升300.md]] — tags: [OpenClaw, Agent, GitHub, Skill]
+- [[OpenClaw-用了半年我还是换了-Hermes-Agent10-个-Skills-我替你测完央企打工人看这篇就够.md]] — tags: [OpenClaw, Agent, MCP, GitHub, Obsidian, API, Python, Skill]
+- [[OpenClaw-与-Hermes-全面对比.md]] — tags: [OpenClaw, Agent, Skill]
+- [[OpenClaw-与-Hermes-Agent2026-开源-AI-智能体双雄争霸与创作者效率革命.md]] — tags: [OpenClaw, Agent, MCP, GitHub, 飞书, Skill]
+- [[OpenClaw这次更新后终于重回轻盈.md]] — tags: [OpenClaw, Agent, Claude, MCP, Prompt, API, OpenAI]
+- [[OpenClaw-真正的门槛在“工程化”从能力清单到安全落地.md]] — tags: [OpenClaw, Agent, API, Skill]
+- [[OpenClaw装上这3个Skill剪视频张嘴就来.md]] — tags: [OpenClaw, Agent, GitHub, Prompt, OpenAI, Skill]
+- [[OpenClaw总失控你缺的不是Skill是一份AGENTS配置SOP.md]] — tags: [OpenClaw, Agent, 飞书, Skill]
+- [[OpenClaw总失控你缺的不是Skill是一份AGENTS.md配置SOP.md]] — tags: [OpenClaw, Agent, 飞书, Skill]
+- [[OpenClaw总失控你缺的不是Skill是一份AGENTSmd配置SOP.md]] — tags: [OpenClaw, Agent, 飞书, Skill]
+- [[OpenClaw做PPT总翻车装上这个Skill输出质量直追麦肯锡顾问.md]] — tags: [OpenClaw, Agent, Claude, PPT, Prompt, API, OpenAI, Skill]
+- [[OpenClaw-vs-Hermes-Agent深度对比决策树.md]] — tags: [OpenClaw, Agent, 飞书, API, Python, Skill]
+- [[Part-14-Hermes-Agent的外部记忆（Memory-Providers-）.md]] — tags: [记忆系统]
+- [[Part-14-Hermes-Agent的外部记忆Memory-Providers.md]] — tags: [Hermes, Agent, Prompt, API, OpenAI]
+- [[Part2需求开发OpenSpec实践SDD范式编程Git-Hooks配置precommitcommitmsg-hooks安全审查.md]] — tags: [Claude, MCP, Skill]
+- [[Paseo一个界面统一管理-Claude-CodeCodex-和-OpenCode支持移动端随时随地写代码开源.md]] — tags: [Claude, Agent, MCP, GitHub, OpenAI, Skill]
+- [[Playwright拉爆了-请给你的Agent安装上真正的浏览器访问能力-CDP-Bridge-MCP.md]] — tags: [Agent, MCP, 浏览器自动化, CDP]
+- [[Playwright-三Agent全自动写测试.md]] — title: "Playwright 又出新东西了：三个 Agent 帮你全自动写测试"
+- [[PPT-Master-操作手册.md]] — tags: [PPT Master, Agent, Claude, PPT, Prompt, API, Python, OpenAI]
+- [[PPT-Master终于有人把-AI-PPT-做成了真-PPT.md]] — tags: [PPT Master, Agent, Claude, GitHub, PPT, OpenAI]
+- [[PPT-Master-AI能将任何文档都转成本地可编辑的PPT.md]] — tags: [PPT Master, GitHub, PPT, Python]
+- [[Project-Markdown-Checklist-Chrome-Extension-What-this-isChrome-extension-that-co.md]] — tags: [Claude, Agent, MCP, API, OpenAI, Skill]
+- [[prompt-和-skill-区别.md]] — title: "一文讲清：Prompt 和 Skill 的区别是什么？"
+- [[PUAClaw用学术风格包装的-AI-PUA-指南.md]] — tags: [PUAClaw, Claude, GitHub, Prompt]
+- [[Python环境.md]] — tags: [OpenClaw, Agent, Claude, GitHub, PPT, Prompt, API, Python]
+- [[RAG-怎么验收AI产品经理先盯三层再抓五个判断点.md]] — tags: [RAG, Prompt]
+- [[ReActPlanMultiAgent全都支持并行了Agent执行效率直接拉满.md]] — tags: [Agent, RAG, Prompt, API]
+- [[Role.md]] — tags: [PPT Master, PPT, Prompt]
+- [[seedance2-ai-video-ad.md]] — title: "Seedance2.0保姆级教程：AI广告视频玩法全覆盖"
+- [[Skill-的机会不在单点，在编排：一种你可能还没想过的架构能力.md]] — tags: ["Skill资产化", "AI办公", "Prompt Engineering", "Harness Engineering", "Skill编排"]
+- [[Skill-的机会不在单点在编排一种你可能还没想过的架构能力.md]] — tags: [Skills, Agent, Dify, Prompt, API, Skill]
+- [[skill功能.md]] — tags: [PPT制作, Claude, GitHub, PPT, Skill]
+- [[Skill配方｜我终于找到了好用的PPT工具，把已有方案内容自动生成专业可编辑PPTX.md]] — tags: ["AI办公", "Agent Teams", "内容创作", "GitHub开源项目", "PPT制作"]
+- [[Skill配方｜我终于找到了好用的PPT工具把已有方案内容自动生成专业可编辑PPTX.md]] — tags: [Skills, Agent, GitHub, PPT, API, Skill]
+- [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图.md]] — tags: ["SVG绘图", "经验蒸馏", "自动化工作流", "信息图制作"]
+- [[Skill配方｜做方案再也不用磕配图了我靠两条skill搞定所有配图.md]] — tags: [Skills, Skill]
+- [[Skill写得好好的，换模型就翻车？缺的不是能力是Harness.md]] — tags: ["Prompt Engineering", "AI编程", "Harness Engineering", "Skill设计模式", "渐进式披露"]
+- [[Skill写得好好的换模型就翻车缺的不是能力是Harness.md]] — tags: [Skills, Agent, Harness, Prompt, OpenAI, Skill]
+- [[SkillManager一站式Skill管理.md]] — tags: [Skills, 管理, SkillManager, 工具]
+- [[Skills商店来了：5w+人在用的热门Skills，我试了一遍.md]] — tags: ["Prompt Engineering", "AI编程", "Skill设计模式", "GitHub开源项目", "PPT制作"]
+- [[Skills-推荐-·-特别篇｜PPT-Master：让AI组队帮你生成真正可编辑的PPT.md]] — tags: ["AI办公", "Prompt Engineering", "Agent Teams", "GitHub开源项目", "PPT制作"]
+- [[Skills-推荐-特别篇｜PPTMaster让AI组队帮你生成真正可编辑的PPT.md]] — tags: [Skills, Agent, Claude, GitHub, PPT, Prompt, Python, OpenAI]
+- [[skillsapiexpertSKILLmdnameapiexpertdescriptionFastAPIdevelopmentbestpracticesand.md]] — tags: [Skills, Agent, Claude, GitHub, Prompt, API, Python, Skill]
+- [[Skills-Marketplace管理工具.md]] — tags: [Skills, Marketplace, 管理, 工具]
+- [[Soul-配置-说话方式结论先行先给答案再解释原因段落短每段不超过3句话用你不用您不用感叹号不用非常极其不用好的当然没问题开场遇到不确定的事直接说我不确定建议你.md]] — tags: [OpenClaw, Agent, Claude, 飞书, Skill]
+- [[SOULmd-main我是小飞本负责协调团队任务分发我的性格高效冷静你是老板负责团队协调任务调度和进度追踪遇到需要具体执行的任务请毫不犹豫地分配给对应的专业-A.md]] — tags: [OpenClaw, Agent, 飞书, Prompt, API]
+- [[SuperAgent-架构爆发57K-Stars-背后的-AI-员工操作系统真相.md]] — tags: [Agent, Claude, GitHub, 飞书, RAG, API, OpenAI, Skill]
+- [[Superpowers：把软件工程最佳实践封装成AI可执行的技能.md]] — tags: ["Agent开发", "Harness Engineering", "Skill编排", "Skill设计模式", "GitHub开源项目"]
+- [[Superpowers-完整工作流-工具变搭档.md]] — title: "装了Superpowers还是不会用？这套完整工作流，让你的AI从工具变成搭档"
+- [[taste-skill-gaoduan-qianduan.md]] — title: "Taste Skill：教AI写出高端前端，告别廉价感"
+- [[Tell-your-OpenClaw.md]] — tags: [OpenClaw, Agent, Skill]
+- [[TestDriven-Development铁律没有失败的测试就不能写产品代码-流程-RED-阶段写一个失败的测试验证测试失败原因正确测试的是正确的行为-GRE.md]] — tags: [Skills, Agent, GitHub, Prompt, API, Skill]
+- [[toolsmytoolpy.md]] — tags: [Hermes, Agent, Claude, MCP, Prompt, API, Python, OpenAI]
+- [[Vibe-Coding-如何重塑产品设计和工程研发协同.md]] — tags: [Vibe Coding, Agent, Claude, 飞书, API, OpenAI, Skill]
+- [[waimao-xiaolong-bashichu-system.md]] — title: "跟龙虾鏖战一个月，我打通了这套「外贸出海情报系统」"
+- [[wordollama-2-agent能力更新.md]] — title: "WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力"
+- [[yao-open-prompts-116.md]] — title: "姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending"
+
+## Unindexed Entities
+
+- [[钉钉.md]] — type: entity
+- [[抖音.md]] — type: entity
+- [[飞书CLI.md]] — tags: [entity, product]
+- [[飞书.md]] — type: entity
+- [[核烁工具.md]] — type: concept
+- [[剪映.md]] — type: entity
+- [[简道云.md]] — type: platform
+- [[清华大学.md]] — type: entity
+- [[淘宝.md]] — type: entity
+- [[网易.md]] — tags: [entity, organization]
+- [[微信.md]] — type: entity
+- [[小红书.md]] — type: entity
+- [[Agency-agents.md]] — tags: [entity, 开源项目, Agent, GitHub]
+- [[Agent-Browser.md]] — tags: [entity, product]
+- [[Ant Design-CLI.md]] — type: concept
+- [[Anthropic.md]] — type: org
+- [[arch-diagrammer.md]] — type: project
+- [[autoresearch.md]] — tags: [entity, 开源项目, AI研究, Karpathy]
+- [[aweskill.md]] — type: project
+- [[B站.md]] — type: entity
+- [[baoyu-skills.md]] — type: project
+- [[baoyu-translate.md]] — tags: [entity, 开源项目, Skills, 翻译]
+- [[Beautiful.ai.md]] — type: concept
+- [[Bolt.md]] — type: entity
+- [[Bolt.new.md]] — type: concept
+- [[Browser-Use.md]] — tags: [entity, 开源项目, 浏览器自动化]
+- [[CC-Switch.md]] — type: tool
+- [[CDP-Bridge-MCP.md]] — tags: [MCP, 浏览器工作流自动化, 开源项目]
+- [[ChatGPT.md]] — type: entity
+- [[Claude-Code.md]] — type: tool
+- [[Claude-Desktop.md]] — type: tool
+- [[Claude.md]] — type: entity
+- [[Claudian.md]] — type: entity
+- [[Clawith.md]] — type: entity
+- [[Cline.md]] — type: tool
+- [[Cloudflare.md]] — type: entity
+- [[CodeBuddy.md]] — type: tool
+- [[Codex.md]] — type: tool
+- [[ComfyUI.md]] — type: entity
+- [[Copilot.md]] — type: tool
+- [[Cursor.md]] — type: tool
+- [[DeepSeek.md]] — type: entity
+- [[Dify.md]] — type: entity
+- [[Docker.md]] — type: entity
+- [[Excel.md]] — type: entity
+- [[FFmpeg.md]] — type: entity
+- [[Figma.md]] — type: entity
+- [[Gamma.md]] — type: concept
+- [[garden-skills.md]] — type: project
+- [[Gemini-CLI.md]] — type: tool
+- [[Gemini.md]] — type: entity
+- [[GenericAgent.md]] — type: entity
+- [[GitHub-Copilot.md]] — type: entity
+- [[GitHub.md]] — type: platform
+- [[GitNexus.md]] — type: entity
+- [[GLM.md]] — type: entity
+- [[GPT-4.md]] — type: entity
+- [[GPT4.md]] — type: entity
+- [[GPT-5.md]] — type: entity
+- [[GPT-Image.md]] — type: entity
+- [[Graphify.md]] — type: entity
+- [[Harness.md]] — type: entity
+- [[Hermes-Agent生态.md]] — tags: [entity]
+- [[Hermes-Agent.md]] — type: entity
+- [[Hermes-Curator.md]] — tags: [entity, 开源项目, Skills, Curator]
+- [[Hermes-Desktop.md]] — type: entity
+- [[Hermes.md]] — type: entity
+- [[Honcho.md]] — type: entity
+- [[Horizon.md]] — tags: [entity, 开源项目, AI新闻, 信息流]
+- [[html-ppt-skill.md]] — type: project
+- [[JVS-Claw.md]] — tags: [entity, product]
+- [[Karpathy.md]] — tags: [entity, person, AI大神]
+- [[LangChain.md]] — type: entity
+- [[lenny-skills.md]] — tags: [entity, 开源项目, 产品管理, Skills]
+- [[Llama.md]] — type: entity
+- [[llm_wiki-桌面应用.md]] — type: entity
+- [[LLM-Wiki.md]] — type: entity
+- [[LoRA.md]] — type: entity
+- [[Lovable.md]] — type: entity
+- [[macOS.md]] — type: entity
+- [[Markdown.md]] — type: format
+- [[Marker.md]] — type: concept
+- [[MarkItDown.md]] — tags: [entity, 开源项目, 微软, 文档转换]
+- [[Matt-Pocock.md]] — type: person
+- [[MCP.md]] — type: protocol
+- [[Mermaid.md]] — type: entity
+- [[Midjourney.md]] — type: entity
+- [[MiniMax.md]] — type: org
+- [[Molili-Claw.md]] — type: platform
+- [[Multica.md]] — type: entity
+- [[Next.js.md]] — type: entity
+- [[Node.js.md]] — type: entity
+- [[Notion.md]] — type: entity
+- [[Nous-Research.md]] — tags: [entity, 公司, Nous-Research]
+- [[Obsidian.md]] — type: tool
+- [[omlx.md]] — type: entity
+- [[One-API.md]] — type: entity
+- [[OpenAI.md]] — type: org
+- [[OpenClaw对手.md]] — tags: [entity]
+- [[OpenClaw文章索引.md]] — tags: [entity]
+- [[OpenClaw.md]] — type: tool
+- [[OpenRouter.md]] — type: entity
+- [[OpenSpace.md]] — tags: [entity, product]
+- [[OpenSpec.md]] — tags: [entity, 开源项目, Skills, 规范]
+- [[OpenViking.md]] — type: entity
+- [[Open-WebUI.md]] — type: entity
+- [[Playwright.md]] — type: entity
+- [[Playwright-Test-Agents.md]] — type: entity
+- [[ppt-master.md]] — type: project
+- [[product-manager-skills.md]] — type: project
+- [[PUAClaw.md]] — type: entity
+- [[Python.md]] — type: entity
+- [[python-pptx.md]] — type: library
+- [[Qwen.md]] — type: entity
+- [[QwenPaw.md]] — type: entity
+- [[RapidOCR.md]] — type: concept
+- [[ReAct.md]] — type: entity
+- [[Remotion.md]] — type: tool
+- [[Replit.md]] — type: platform
+- [[sciskill.md]] — type: project
+- [[SenseNova-Skills.md]] — tags: [entity, 公司, 商汤]
+- [[Simonlin.md]] — type: entity
+- [[skill-authoring-workflow.md]] — type: project
+- [[Skill-Graphs.md]] — type: project
+- [[SkillManager.md]] — tags: [entity, 开源项目, AI编程, Skill管理]
+- [[skills-manage.md]] — type: project
+- [[skills-sh.md]] — type: platform
+- [[Sora.md]] — type: entity
+- [[SQLite.md]] — type: entity
+- [[Stable-Diffusion.md]] — type: entity
+- [[Supabase.md]] — type: entity
+- [[Superpowers.md]] — tags: [entity, 开源项目, Skills, 纪律]
+- [[Tabbit.md]] — type: entity
+- [[Tailwind.md]] — type: entity
+- [[Tauri.md]] — type: framework
+- [[Telegram.md]] — type: entity
+- [[Termux.md]] — type: entity
+- [[Trae.md]] — type: tool
+- [[TrendRadar.md]] — type: entity
+- [[V0.md]] — type: entity
+- [[Vercel.md]] — type: entity
+- [[VS-Code.md]] — type: entity
+- [[Warp-oz-skills.md]] — tags: [entity, 开源项目, DevOps, Warp]
+- [[web-access.md]] — tags: [entity, product]
+- [[web-video-presentation.md]] — type: project
+- [[wechat-cli.md]] — type: entity
+- [[WeKnora.md]] — type: concept
+- [[Windsurf.md]] — type: tool
+- [[WordOllama.md]] — type: entity
+- [[WorkBuddy.md]] — type: entity
+- [[YouTube.md]] — tags: [entity, platform]
+
+## Unindexed Concepts
+
+- [[本地部署.md]] — tags: [concept, 部署运维]
+- [[成本控制.md]] — type: concept
+- [[垂直切片.md]] — type: concept
+- [[代码审查.md]] — type: concept
+- [[代码生成.md]] — type: concept
+- [[低代码.md]] — type: concept
+- [[定时任务.md]] — type: concept
+- [[豆包.md]] — type: concept
+- [[多模态.md]] — type: concept
+- [[多Agent协作.md]] — tags: [concept, 架构模式]
+- [[多Agent.md]] — type: concept
+- [[反模式先行.md]] — type: concept
+- [[泛化Agent.md]] — type: concept
+- [[飞书集成.md]] — type: concept
+- [[分阶段流程.md]] — type: concept
+- [[工作流自动化.md]] — type: concept
+- [[好的记忆条目（信息密度高）.md]] — tags: [concept]
+- [[横纵分析法.md]] — tags: [concept, 分析方法]
+- [[记忆系统.md]] — tags: [concept, 核心功能]
+- [[渐进式披露.md]] — type: concept
+- [[经验蒸馏.md]] — type: concept
+- [[嵌入向量.md]] — type: concept
+- [[科研工具.md]] — type: concept
+- [[客户跟进系统.md]] — type: concept
+- [[领域驱动设计.md]] — type: concept
+- [[浏览器自动化.md]] — type: concept
+- [[论文写作.md]] — type: concept
+- [[门禁机制.md]] — type: concept
+- [[内容创作.md]] — type: concept
+- [[爬虫.md]] — tags: [concept, 爬虫自动化]
+- [[企业落地.md]] — tags: [concept, 应用场景]
+- [[企业AI落地.md]] — type: concept
+- [[前端框架.md]] — type: concept
+- [[商业模式.md]] — type: concept
+- [[上下文工程.md]] — tags: [concept, 技术理论]
+- [[上下文管理.md]] — type: concept
+- [[设计模式.md]] — type: concept
+- [[事件驱动.md]] — type: concept
+- [[视频生成.md]] — type: concept
+- [[视频制作.md]] — tags: [concept, 办公效率]
+- [[数据安全.md]] — tags: [concept, 安全]
+- [[数据可视化.md]] — type: concept
+- [[数字员工操作系统.md]] — type: concept
+- [[双向链接.md]] — type: concept
+- [[思维链.md]] — type: concept
+- [[通义千问.md]] — type: concept
+- [[网络排障.md]] — type: concept
+- [[微调.md]] — type: concept
+- [[微服务.md]] — type: concept
+- [[文件化工作记忆.md]] — type: concept
+- [[文心一言.md]] — type: concept
+- [[信息流自动化.md]] — tags: [concept, 自动化, 信息流]
+- [[信息图制作.md]] — type: concept
+- [[业务映射.md]] — type: concept
+- [[页面名.md]] — type: concept
+- [[一人公司.md]] — tags: [concept, 应用场景]
+- [[语音识别.md]] — tags: [concept, 核心功能]
+- [[知识管理.md]] — type: concept
+- [[知识库构建.md]] — tags: [concept, 核心功能]
+- [[知识图谱构建.md]] — type: concept
+- [[知识图谱.md]] — type: concept
+- [[自动化测试.md]] — type: concept
+- [[自动化工作流.md]] — type: concept
+- [[自进化系统.md]] — type: concept
+- [[自评失真.md]] — type: concept
+- [[Agent工程化.md]] — tags: [concept, 工程实践]
+- [[Agent架构.md]] — type: concept
+- [[Agent开发.md]] — type: concept
+- [[Agent框架.md]] — type: concept
+- [[Agent路由.md]] — tags: [concept, 架构模式]
+- [[Agent落地.md]] — type: concept
+- [[Agent目标.md]] — type: concept
+- [[Agent能力.md]] — type: concept
+- [[Agent配置.md]] — type: concept
+- [[Agent协作.md]] — type: concept
+- [[Agent.md]] — type: concept
+- [[AGENTS配置.md]] — tags: [concept, 配置管理]
+- [[AGENTS.md]] — type: concept
+- [[Agent-Teams.md]] — type: concept
+- [[AI办公.md]] — type: concept
+- [[AI编程.md]] — type: concept
+- [[AI数字员工.md]] — type: concept
+- [[AI执行模式.md]] — type: concept
+- [[AI-Agent.md]] — type: concept
+- [[AI.md]] — type: concept
+- [[AISkill碎片化.md]] — tags: [concept]
+- [[API中转.md]] — type: concept
+- [[aweskill.md]] — tags: [concept]
+- [[CICD.md]] — type: concept
+- [[Claude.md]] — type: concept
+- [[CLAUDEmd配置.md]] — type: concept
+- [[Context上下文.md]] — type: concept
+- [[CrewAI.md]] — type: concept
+- [[Cron定时任务.md]] — tags: [concept, 核心功能]
+- [[DevOps.md]] — type: concept
+- [[Discord.md]] — type: concept
+- [[Fallback模型.md]] — type: concept
+- [[Function-Calling.md]] — type: concept
+- [[GitHub开源项目.md]] — type: concept
+- [[goal.md]] — type: concept
+- [[GUI桌面应用.md]] — type: concept
+- [[Harness框架.md]] — tags: [concept, 技术理论]
+- [[Harness实践.md]] — tags: [concept]
+- [[Harness-Engineering.md]] — type: concept
+- [[HeyGen.md]] — type: concept
+- [[HyperFrames.md]] — type: concept
+- [[identity-who-am-i.md]] — type: concept
+- [[IDENTITY --Who-Am-I.md]] — type: concept
+- [[ISP.md]] — type: concept
+- [[JavaScript.md]] — type: concept
+- [[Kanban看板.md]] — type: concept
+- [[Kimi.md]] — type: concept
+- [[LangGraph.md]] — type: concept
+- [[Learning-Loop.md]] — type: concept
+- [[LLM-Wiki方法论.md]] — type: concept
+- [[Mac本地推理.md]] — type: concept
+- [[Managed-Agents.md]] — type: concept
+- [[MCP协议.md]] — type: concept
+- [[Multi-Agent.md]] — type: concept
+- [[Obsidian插件.md]] — type: concept
+- [[Obsidian技巧.md]] — type: concept
+- [[Obsidian知识库.md]] — type: concept
+- [[OCR.md]] — type: concept
+- [[OpAgent.md]] — type: concept
+- [[PPT设计.md]] — type: concept
+- [[PPT未来是HTML.md]] — tags: [concept]
+- [[PPT制作.md]] — type: concept
+- [[Profile系统.md]] — type: concept
+- [[Profile.md]] — type: concept
+- [[Prompt工程.md]] — type: concept
+- [[Prompt-Engineering.md]] — type: concept
+- [[RAG检索增强.md]] — type: concept
+- [[RAG.md]] — type: concept
+- [[React.md]] — type: concept
+- [[Self-Refinement.md]] — type: concept
+- [[Skill编排.md]] — type: concept
+- [[Skill管理.md]] — type: concept
+- [[Skill开发.md]] — tags: [concept, 工程实践]
+- [[Skill设计模式.md]] — type: concept
+- [[Skill设计.md]] — type: concept
+- [[Skill资产化.md]] — type: concept
+- [[Skill-Architect.md]] — type: concept
+- [[Skill.md]] — type: concept
+- [[Skills技能系统.md]] — type: concept
+- [[Skills.md]] — type: concept
+- [[SOP.md]] — type: concept
+- [[SOUL配置.md]] — tags: [concept, 配置管理]
+- [[Sub-Agent.md]] — tags: [concept, 架构模式]
+- [[SubAgent.md]] — type: concept
+- [[SVG绘图.md]] — type: concept
+- [[TDD.md]] — type: concept
+- [[Token优化.md]] — tags: [concept, 优化策略]
+- [[Vibe-Coding.md]] — type: concept
+- [[VPN.md]] — type: concept
+- [[Vue.md]] — type: concept
+- [[Webhook自动化.md]] — type: concept
+- [[wikilinks.md]] — type: concept
+- [[Workspace工作区.md]] — type: concept
+- [[Zettelkasten.md]] — type: concept
+
+## Unindexed Synthesis
+
+- [[企业AI-Agent落地指南.md]] — tags: [synthesis, 企业, agent, 落地, 安全, 合规, 多agent]
+- [[知识库搭建.md]] — type: concept
+- [[Agent架构实践.md]] — tags: [synthesis, agent, multi-agent, 架构, 协作模式, harness]
+- [[Claude-Code深度指南.md]] — tags: [synthesis, claude-code, agent, skills, mcp, 最佳实践]
+- [[hermes-agent-知识全景.md]] — type: synthesis
+- [[knowledge-base-building.md]] — type: concept
+- [[Obsidian-AI工作流.md]] — tags: [synthesis, obsidian, 知识管理, ai, claudian, llm-wiki]
+- [[OpenClaw多Agent协作指南.md]] — tags: [多Agent协作, OpenClaw, 架构指南]
+- [[OpenClaw文章索引.md]] — tags: [索引, OpenClaw]
+- [[OpenClaw-Skill生态指南.md]] — tags: [Skill, OpenClaw, 工具指南]
+- [[OpenClaw-vs-Hermes对比分析.md]] — tags: [对比分析, OpenClaw, Hermes Agent]
+- [[PPT-制作全流程.md]] — type: concept
+- [[PPT制作全流程.md]] — tags: [synthesis, ppt, ai工具, skills, 设计]
+- [[Skills精选.md]] — tags: [synthesis, Skills, 精选推荐]
+- [[Skills生态全景.md]] — tags: [synthesis, skills, agent, 生态, 设计模式]

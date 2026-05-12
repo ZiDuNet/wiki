@@ -41,4 +41,4 @@ tags: [LLM Wiki, Karpathy, 知识库实战, Claude Code, Obsidian, Ingest, Compi
 
 ## 原始资料链接
 
-[[2万字超长实战 Karpathy 的 LLM Wiki ！别再把 AI 当聊天工具了，这套 LLM 知识库，才是真正复利的第二大脑.md]]
+[[Karpathy-LLM-Wiki实战指南.md]]
