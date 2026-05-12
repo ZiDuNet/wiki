@@ -1,6 +1,6 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
+Master catalog of all wiki pages. Updated on 2026-05-12.
 
 ## Statistics
 
@@ -126,10 +126,11 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[oc-诸神黄昏还是新王加冕Hermes-Agent-与-OpenClaw-巅峰对决]] — 诸神黄昏还是新王加冕？Hermes Agent 与 OpenClaw 巅峰对决
 - [[当-ai-遇到私有组件-cli-才是-ai-coding-的起点]] — 当 AI 遇到私有组件，Cli 才是 AI Coding 的起点
 
-### API中转 (2篇)
+### API中转 (3篇)
 
 - [[2026年暴利风口曝光API中转站Token进口背后隐藏的惊人真相]] — 2026年暴利风口曝光！API中转站（Token进口）背后隐藏的惊人真相
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
+- [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
 ### Agent (89篇)
 
@@ -339,7 +340,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 
 - [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工]] — 我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工
 
-### Hermes (189篇)
+### Hermes (190篇)
 
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
@@ -592,7 +593,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[我给龙虾装上好用的PPT-Skill]] — 我给龙虾装上好用的PPT Skill
 - [[最值得安装的20个Skills]] — ClawHub上的Skillnpx clawhub@latest install skill名称# GitHub上的Skillnpx skills add skill地址
 
-### Obsidian (23篇)
+### Obsidian (24篇)
 
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
 - [[Claudian-Obsidian-AI知识系统]] — 别再手动整理笔记了！Claude+Obsidian打造永不遗忘的AI知识系统
@@ -617,6 +618,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[早鸟笔记觉醒Obsidian-×-AI-知识工作系统]] — 【早鸟】笔记觉醒：Obsidian × AI 知识工作系统
 - [[用-Hermes-Obsidian-建一个-AI-学习知识库]] — 用 Hermes + Obsidian 建一个 AI 学习知识库
 - [[obsidian-wiki-jichu-jiaocheng]] — 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操（保姆级教程）
+- [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 
 ### OpenClaw (133篇)
 
@@ -1085,6 +1087,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[用Hermes-Agent一句话生成PPT——从“想到”到“做到”的全流程实操]] — 用 Hermes 一句话生成 PPT：从飞书踩坑到微信实战，我的真实操作记录
 - [[用Hermes封装并开源一个重要skill：从飞书文档一键发布到微信公众号]] — 有了Hermes Agent之后，可以放心地在飞书生态中进行更多日常工作了（via 飞书CLI）！今天把内容创作也从Obsidian尝试搬到了飞书。
 - [[给Hermes接入生图新王Image2，太强了！]] — 给Hermes接入生图新王Image2，太强了！
+- [[Hermes-桌面版-GUI-来了-被命令行劝退的人-可以冲了]] — Hermes 桌面版 GUI 来了：被命令行劝退的人，可以冲了
 
 ### 未分类 (2篇)
 

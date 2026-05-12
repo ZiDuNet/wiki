@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 
 ## Statistics
 
-- Sources: 916
-- Entities: 137
-- Concepts: 101
+- Sources: 921
+- Entities: 141
+- Concepts: 104
 - Synthesis: 12
 
 ## Sources
@@ -287,9 +287,14 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 
 ### GPT‑5.5 (1篇)
 
-- [[大模型不卷聊天了GPT‑55Deepseek-V4MiMo-V25-Pro-正在卷“干活能力”]] — 大模型不卷聊天了：GPT‑5.5、Deepseek V4、MiMo V2.5 Pro 正在卷“干活能力”
+- [[大模型不卷聊天了GPT‑55Deepseek-V4MiMo-V25-Pro-正在卷"干活能力"]] — 大模型不卷聊天了：GPT‑5.5、Deepseek V4、MiMo V2.5 Pro 正在卷"干活能力"
 
-### GitHub (20篇)
+### Agent (91篇)
+
+- [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
+- [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
+
+### GitHub (21篇)
 
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
@@ -311,6 +316,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[🌟-20260504-GitHub-Python-热点项目精选17个]] — 🌟 2026-05-04 GitHub Python 热点项目精选(17个)
 - [[maigret-3000-website-search]] — GitHub 2.4万Star的Maigret：一个用户名搜遍3000+网站
 - [[yao-open-prompts-116]] — 姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending
+- [[github-ai热榜-5月11日-genericagent-omlx]] — GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent 自进化 + omlx Mac 本地推理
 
 ### GitHub开源项目 (1篇)
 
@@ -765,7 +771,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[“我就想用这个PPT模版你的AI能搞定吗”]] — “我就想用这个PPT模版，你的AI能搞定吗？”
 - [[克隆仓库gitclonehttpsgithubcomhugohe3pptmastergitcdpptmaster-安装依赖pip-install-r-requi]] — 克隆仓库git clone https://github.com/hugohe3/ppt-master.gitcd ppt-master# 安装依赖pip install -r requirements.txt
 
-### PPT skill (8篇)
+### PPT skill (9篇)
 
 - [[10-篇论文拆解-Skill-自进化的技术路线]] — 10 篇论文拆解 Skill + 自进化的技术路线
 - [[Gamma好用但免费10页而且还有水印-这套-PPT-Skill真正厉害的是把做幻灯片变成系统能力]] — Gamma好用，但免费10页而且还有水印 ：这套 PPT Skill，真正厉害的是把做幻灯片变成系统能力
@@ -775,6 +781,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[我手搓了个PPT生成skill决策路由器然后发现了一件好笑的事]] — 我手搓了个PPT生成skill决策路由器，然后发现了一件好笑的事
 - [[我用AI做了个杂志风PPT发到群里没人信是HTML写的]] — 我用AI做了个杂志风PPT,发到群里没人信是HTML写的
 - [[我试了几乎所有能生成-PPT-的-AI-技能最后只留了-4-个特别是最后一个]] — 我试了几乎所有能生成 PPT 的 AI 技能，最后只留了 4 个，特别是最后一个
+- [[24个开源-ai-ppt-skill-推荐收藏]] — 再盘 | 24 个开源的 AI PPT Skill，推荐收藏
 
 ### PPT制作 (6篇)
 
@@ -789,10 +796,11 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 
 - [[PUAClaw用学术风格包装的-AI-PUA-指南]] — PUAClaw：用学术风格包装的 AI PUA 指南
 
-### Prompt (2篇)
+### Prompt (3篇)
 
 - [[AI行业黑话一览一口气看懂-LLMTokenRAGPromptMCPSkill]] — AI行业黑话一览：一口气看懂 LLM、Token、RAG、Prompt、MCP、Skill……
 - [[大模型提示词工程Prompt]] — 大模型提示词工程Prompt
+- [[prompt-和-skill-区别]] — 一文讲清：Prompt 和 Skill 的区别是什么？
 
 ### Prompt Engineering (11篇)
 
@@ -1190,7 +1198,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[飞书CLI开源了我花了一小时测完3个案例直呼太香]] — 飞书CLI开源了，我花了一小时测完3个案例，直呼太香
 - [[飞书多维表格实战]] — 飞书多维表格实战
 
-## Entities (137个)
+## Entities (141个)
 
 - [[Agency-agents]]
 - [[Agent-Browser]]
@@ -1206,6 +1214,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[Claude-Code]]
 - [[Claude-Desktop]]
 - [[Claude]] (228篇)
+- [[Clawith]]
 - [[Cline]]
 - [[Cloudflare]] (4篇)
 - [[CodeBuddy]]
@@ -1226,6 +1235,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[GPT-5]] (21篇)
 - [[Gemini-CLI]]
 - [[Gemini]] (61篇)
+- [[GenericAgent]]
 - [[GitHub-Copilot]] (13篇)
 - [[GitHub]]
 - [[GitNexus]]
@@ -1262,6 +1272,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[OpenRouter]] (32篇)
 - [[OpenSpace]]
 - [[OpenViking]]
+- [[omlx]]
 - [[PUAClaw]] (1篇)
 - [[MarkItDown]] — 微软万物转 Markdown
 - [[Nous-Research]] — Hermes Agent 开发团队
@@ -1293,6 +1304,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[Windsurf]]
 - [[Warp-oz-skills]] — Warp 官方 15+ 生产级 DevOps Skills
 - [[WorkBuddy]] (10篇)
+- [[WordOllama]]
 - [[YouTube]]
 - [[arch-diagrammer]]
 - [[aweskill]]
@@ -1322,11 +1334,12 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[飞书]] (148篇)
 - [[飞书CLI]]
 
-## Concepts (97个)
+## Concepts (104个)
 
 - [[AGENTS配置]]
 - [[AI-Agent]] (167篇)
 - [[AI办公]]
+- [[AI数字员工]]
 - [[AI编程]]
 - [[Agent-Teams]]
 - [[Agent工程化]]
@@ -1345,6 +1358,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[Kanban看板]]
 - [[Learning-Loop]]
 - [[MCP协议]]
+- [[Mac本地推理]]
 - [[Multi-Agent]] (129篇)
 - [[PPT制作]]
 - [[PPT设计]] (3篇)
@@ -1377,6 +1391,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[上下文管理]]
 - [[业务映射]] (1篇)
 - [[事件驱动]] (7篇)
+- [[数字员工操作系统]]
 - [[代码审查]] (62篇)
 - [[代码生成]] (39篇)
 - [[企业落地]]

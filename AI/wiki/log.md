@@ -476,3 +476,52 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - [620] 【Agent - Memory】Hermes-Agent 的 Memory 设计拆解 — 正文抓取失败
 
 **Index 一致性:** 已更新（Obsidian 24篇, Hermes 190篇, API中转 3篇）
+
+## 2026-05-12 — 微信公众号文章增量摄入
+
+**Operator:** Automated ingestion (定时任务)
+**Source:** 微信公众号/ (5 篇新增)
+**Time:** 2026-05-12
+
+### 新增 Sources
+
+1. **Clawith：把 AI Agent 当员工管理的开源平台** → [[clawith-ai-agent-员工管理平台]]
+   - 分类：Agent
+   - 关键实体：Clawith, Trigger Daemon, Focus Items, Autonomy Policy
+   - 关键概念：AI数字员工, 数字员工操作系统
+
+2. **WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力** → [[wordollama-2-agent能力更新]]
+   - 分类：Agent
+   - 关键实体：WordOllama, 李伯阳
+   - 关键概念：AI-Agent, Skill开发
+
+3. **再盘 | 24 个开源的 AI PPT Skill，推荐收藏** → [[24个开源-ai-ppt-skill-推荐收藏]]
+   - 分类：PPT skill
+   - 关键实体：frontend-slides, guizang-ppt-skill, open-design, PPTAgent
+   - 关键概念：PPT制作, Skill开发, MCP协议
+
+4. **GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent + omlx** → [[github-ai热榜-5月11日-genericagent-omlx]]
+   - 分类：GitHub
+   - 关键实体：GenericAgent, omlx
+   - 关键概念：自进化系统, 本地部署
+
+5. **一文讲清：Prompt 和 Skill 的区别是什么？** → [[prompt-和-skill-区别]]
+   - 分类：Prompt
+   - 关键概念：Prompt-Engineering, Skills技能系统
+
+### 新增 Entities
+
+- [[Clawith]] — AI 数字员工操作系统
+- [[WordOllama]] — Word/WPS AI 插件
+- [[GenericAgent]] — 自进化 Agent
+- [[omlx]] — Mac 本地推理优化
+
+### 新增 Concepts
+
+- [[AI数字员工]] — Agent 持续在线、主动工作的理念
+- [[数字员工操作系统]] — Clawith 的核心定位
+- [[Mac本地推理]] — Mac 本地运行 LLM 推理的技术
+
+### Index 一致性
+
+已更新（Sources: 916→921, Entities: 137→141, Concepts: 101→104）

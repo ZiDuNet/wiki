@@ -439,3 +439,40 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - Maigret — OSINT 开源工具
 
 **Index 一致性:** 已更新统计数字（Sources 897, Entities 128, Concepts 101）
+
+## 2026-05-12 — 微信文章同步摄入
+
+**Operator:** Automated cron (wxrobot_sync_v3.py + wiki ingest)
+**Source:** 微信公众号/ (4 articles processed, 3 successful, 1 failed)
+
+### Results
+
+- **Sources processed:** 3 (成功)
+  - Obsidian/如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
+  - Hermes/Hermes 桌面版 GUI 来了：被命令行劝退的人，可以冲了
+  - API中转/他搭了个API中转站，月入过万
+- **Source summaries created:** 3
+- **Entity pages created:** 3 (Simonlin, Hermes Desktop, One-API)
+- **Concept pages created:** 5 (Obsidian知识库, AI执行模式, API中转, 商业模式, GUI桌面应用)
+- **Index updated:** +3 source entries (Obsidian 23→24, Hermes 189→190, API中转 2→3)
+- **Log appended:** 本条目
+
+### New Entities
+
+1. Simonlin — 公众号作者（Simonlin的精神世界）
+2. Hermes Desktop — fathah开发的Hermes桌面GUI（MIT协议）
+3. One-API — GitHub 20K+ Star的API中转开源项目
+
+### New Concepts
+
+1. Obsidian知识库 — 基于Karpathy三层架构的知识库方法论
+2. AI执行模式 — AI从知识库获取规则并按规则执行，而非仅回答问题
+3. API中转 — AI时代的水电工，帮用户绕过注册/支付障碍
+4. 商业模式 — API中转站的定价策略与收益模型
+5. GUI桌面应用 — 命令行工具图形化降低门槛
+
+### Failed (待补)
+
+- [620] 【Agent - Memory】Hermes-Agent 的 Memory 设计拆解 — 正文抓取失败
+
+**Index 一致性:** 已更新（Obsidian 24篇, Hermes 190篇, API中转 3篇）
