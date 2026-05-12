@@ -1,11 +1,11 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
+Master catalog of all wiki pages. Updated on 2026-05-12.
 
 ## Statistics
 
-- Sources: 897
-- Entities: 128
+- Sources: 916
+- Entities: 137
 - Concepts: 101
 - Synthesis: 12
 
@@ -33,13 +33,14 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板]] — 智能体搭建 如何用OpenClaw搭建你的“一人公司”（附完整配置模板）
 - [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]] — 给你的 Hermes & OpenClaw 安装这个工具，能让 Token 消耗立省60%
 
-### AI Coding (5篇)
+### AI Coding (6篇)
 
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
 - [[扔掉PPT用这44个HTML动画模板让AI帮你做科普视频]] — 扔掉PPT，用这44个HTML动画模板，让AI帮你做科普视频
 - [[来了叫MCP]] — 来了，叫MCP
 - [[私有组件为什么会把很多-AI-Coding-方案打回原形]] — 私有组件，为什么会把很多 AI Coding 方案打回原形
+- [[taste-skill-gaoduan-qianduan]] — Taste Skill：教AI写出高端前端，告别廉价感
 
 ### AI入门 (2篇)
 
@@ -65,6 +66,9 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[我高频在用的-24-个-Skills，按-7-条工作流一次讲清楚]] — 我高频在用的 24 个 Skills，按 7 条工作流一次讲清楚
 - [[分享3个新发现的Skills]] — SenseNova-Skills / Warp oz-skills / lenny-skills
 - [[Skills-Marketplace管理工具]] — Skills 数量增长后的统一管理方案
+- [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
+- [[baoyu-translate分层翻译Skill]] — quick/normal/refined 三层翻译
+- [[SkillManager一站式Skill管理]] — 15+ 款 AI 编程工具 Skill 管理
 - [[职场人AI赋能全实操0基础上手用效率撬动晋升]] — 职场人AI赋能全实操：0基础上手，用效率撬动晋升
 - [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/ .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
 
@@ -72,11 +76,18 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 
 - [[AI大神开源的宝藏技能合集]] — AI大神开源的宝藏技能合集
 
-### AI工具 (3篇)
+### 外贸出海情报系统 (1篇)
+
+- [[waimao-xiaolong-bashichu-system]] — 跟龙虾鏖战一个月，我打通了这套「外贸出海情报系统」
+
+### AI工具 (6篇)
 
 - [[做PPT最痛苦的不是做是从零开始]] — 做PPT最痛苦的不是做，是"从零开始"。
 - [[别死磕一个-ai-4-个工具一键搞定工作汇报-ppt]] — 别死磕一个 AI！4 个工具，一键搞定全套工作汇报 PPT
 - [[标题别再手动做PPTAI-10分钟出20页精品]] — 标题：别再手动做PPT！AI 10分钟出20页精品
+- [[MarkItDown-微软万物转Markdown]] — 107K Star 微软万物转 Markdown 工具
+- [[千问PPT-Agent实测]] — 千问 PPT Agent 实测：3 分钟出 PPT
+- [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 
 ### AI技术 (10篇)
 
@@ -115,14 +126,19 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[oc-诸神黄昏还是新王加冕Hermes-Agent-与-OpenClaw-巅峰对决]] — 诸神黄昏还是新王加冕？Hermes Agent 与 OpenClaw 巅峰对决
 - [[当-ai-遇到私有组件-cli-才是-ai-coding-的起点]] — 当 AI 遇到私有组件，Cli 才是 AI Coding 的起点
 
-### API中转 (2篇)
+### API中转 (3篇)
 
 - [[2026年暴利风口曝光API中转站Token进口背后隐藏的惊人真相]] — 2026年暴利风口曝光！API中转站（Token进口）背后隐藏的惊人真相
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
+- [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (87篇)
+### Agent (89篇)
 
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
+- [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
+- [[千问PPT-Agent实测]] — 千问 PPT Agent 实测
+- [[Browser-Use四行代码AI刷网页]] — Browser Use：四行代码让 AI 替你刷网页
+- [[DeepSeek-V4-Flash家用推理现状]] — DeepSeek V4 Flash 在 RTX 5090/DGX Spark 上的推理现状
 - [[Playwright-三Agent全自动写测试]] — Playwright 又出新东西了：三个 Agent 帮你全自动写测试
 - [[Multica编码Agent团队管理平台]] — Multica：把编码 Agent 当成团队成员管理的开源平台
 - [[Cursor-AI-Agent搭建Wiki]] — 利用AI Agent一句话完成Karpathy的llm-wiki知识库搭建
@@ -225,7 +241,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 
 - [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT新手指南：从注册到上手只需10分钟
 
-### Claude (32篇)
+### Claude (33篇)
 
 - [[01AI生成PPT“血与泪”的故事]] — # 01.AI生成PPT“血与泪”的故事
 - [[1-克隆并链接到Claude-Code的技能目录git-clone-httpsgithubcombrowserusevideousecd-videouseln-]] — 1. 克隆并链接到Claude Code的技能目录git clone https://github.com/browser-use/video-usecd video-useln -s "$(pwd)" ~/.claude/skills/video-use# 2. 安装依赖pip install -e .brew install ffmpeg # 必需brew install yt-dlp # 可选，用于下载在线资源# 3. 添加你的ElevenLabs API密钥cp .env.example .env$EDITOR .env # ELEVENLABSAPIKEY=...
@@ -259,6 +275,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[第一步装-clawhub-CLInpm-i-g-clawhub-第二步装需要的-Skillclawhub-install-skill名字]] — 第一步：装 clawhub CLInpm i -g clawhub# 第二步：装需要的 Skillclawhub install skill名字
 - [[这个-GitHub-项目太缺德了拿鞭子抽-Claude-Code]] — 这个 GitHub 项目太缺德了，拿鞭子抽 Claude Code。
 - [[这个开源项目让全家都能用]] — ,这个开源项目让全家都能用
+- [[claude-skill-xiaobai-biquan]] — 数智赋能：一文讲清什么是 Skill？该装哪些 Skill？
 
 ### Dify (1篇)
 
@@ -272,7 +289,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 
 - [[大模型不卷聊天了GPT‑55Deepseek-V4MiMo-V25-Pro-正在卷“干活能力”]] — 大模型不卷聊天了：GPT‑5.5、Deepseek V4、MiMo V2.5 Pro 正在卷“干活能力”
 
-### GitHub (18篇)
+### GitHub (20篇)
 
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
@@ -292,6 +309,8 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[🌟-20260421-GitHub-Python-热点项目精选11个]] — 🌟 2026-04-21 GitHub Python 热点项目精选(11个)
 - [[🌟-20260426-GitHub-Python-热点项目精选20个]] — 🌟 2026-04-26 GitHub Python 热点项目精选(20个)
 - [[🌟-20260504-GitHub-Python-热点项目精选17个]] — 🌟 2026-05-04 GitHub Python 热点项目精选(17个)
+- [[maigret-3000-website-search]] — GitHub 2.4万Star的Maigret：一个用户名搜遍3000+网站
+- [[yao-open-prompts-116]] — 姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending
 
 ### GitHub开源项目 (1篇)
 
@@ -301,8 +320,9 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 
 - [[Horizon：AI新闻雷达]] — AI 驱动的个人新闻雷达，多源聚合+智能筛选
 
-### Harness (8篇)
+### Harness (9篇)
 
+- [[AI编程王炸组合-OpenSpec-Superpowers-Harness]] — 三剑客：OpenSpec 定方向，Superpowers 定纪律，Harness 定协同
 - [[20260420今日Skill分享]] — 【2026-04-20】今日Skill分享
 - [[Harness-是什么]] — Harness 是什么？
 - [[LangChainHarnessSkillsDifyClaw一文讲清楚它们到底什么关系]] — LangChain、Harness、Skills、Dify、Claw：一文讲清楚它们到底什么关系
@@ -320,8 +340,10 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 
 - [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工]] — 我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工
 
-### Hermes (187篇)
+### Hermes (190篇)
 
+- [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
+- [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
 - [[01-2]] — 01
 - [[01]] — 01
 - [[0基础AI应用入门-HERMES篇第四弹-HERMES-接入飞书与飞书-CLI]] — 「0基础AI应用入门 - HERMES篇」第四弹 - HERMES 接入飞书与飞书 CLI
@@ -509,6 +531,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[📚-目录]] — 📚 目录
 - [[🚀-Hermes-Agent-中文新手指南-AI-编码助手来了]] — 🚀 Hermes Agent 中文新手指南 | AI 编码助手来了！
 - [[🦄Hermes智能体-第5课只用一招让Hermes学会深度思考]] — 🦄【Hermes智能体 第5课】只用一招：让Hermes学会深度思考
+- [[hermes-kanban-shizhan]] — Hermes Kanban 实战：我是怎样让多个 Agent 真正协作起来的！
 
 ### Hermes Agent (27篇)
 
@@ -570,7 +593,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[我给龙虾装上好用的PPT-Skill]] — 我给龙虾装上好用的PPT Skill
 - [[最值得安装的20个Skills]] — ClawHub上的Skillnpx clawhub@latest install skill名称# GitHub上的Skillnpx skills add skill地址
 
-### Obsidian (22篇)
+### Obsidian (24篇)
 
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
 - [[Claudian-Obsidian-AI知识系统]] — 别再手动整理笔记了！Claude+Obsidian打造永不遗忘的AI知识系统
@@ -594,6 +617,8 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[日记-30我用-Obsidian-Hermes把流水账变成洞察与成长的飞轮周洞察版]] — 日记 3.0：我用 Obsidian + Hermes，把流水账变成洞察与成长的飞轮（周洞察版）
 - [[早鸟笔记觉醒Obsidian-×-AI-知识工作系统]] — 【早鸟】笔记觉醒：Obsidian × AI 知识工作系统
 - [[用-Hermes-Obsidian-建一个-AI-学习知识库]] — 用 Hermes + Obsidian 建一个 AI 学习知识库
+- [[obsidian-wiki-jichu-jiaocheng]] — 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操（保姆级教程）
+- [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 
 ### OpenClaw (133篇)
 
@@ -1062,6 +1087,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[用Hermes-Agent一句话生成PPT——从“想到”到“做到”的全流程实操]] — 用 Hermes 一句话生成 PPT：从飞书踩坑到微信实战，我的真实操作记录
 - [[用Hermes封装并开源一个重要skill：从飞书文档一键发布到微信公众号]] — 有了Hermes Agent之后，可以放心地在飞书生态中进行更多日常工作了（via 飞书CLI）！今天把内容创作也从Obsidian尝试搬到了飞书。
 - [[给Hermes接入生图新王Image2，太强了！]] — 给Hermes接入生图新王Image2，太强了！
+- [[Hermes-桌面版-GUI-来了-被命令行劝退的人-可以冲了]] — Hermes 桌面版 GUI 来了：被命令行劝退的人，可以冲了
 
 ### 未分类 (2篇)
 
@@ -1130,10 +1156,11 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[我玩了2天「自进化」龙虾，然后它开始自己调教自己了。真的回不去了！]] — 我玩了2天「自进化」龙虾，然后它开始自己调教自己了。真的回不去了！
 - [[研究了3天Hermes，我偷走了它的_进化能力_，并迁移到了我的龙虾上]] — 研究了3天Hermes，我偷走了它的进化能力，并迁移到了我的龙虾上
 
-### 视频制作 (2篇)
+### 视频制作 (3篇)
 
 - [[一ArcReel-制作视频]] — 一、ArcReel 制作视频
 - [[扔掉-ppt-用这44个-html-动画模板让-ai-帮你做科普视频]] — 扔掉PPT，用这44个HTML动画模板，让AI帮你做科普视频
+- [[seedance2-ai-video-ad]] — Seedance2.0保姆级教程：AI广告视频玩法全覆盖
 
 ### 记忆系统 (8篇)
 
@@ -1163,12 +1190,14 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[飞书CLI开源了我花了一小时测完3个案例直呼太香]] — 飞书CLI开源了，我花了一小时测完3个案例，直呼太香
 - [[飞书多维表格实战]] — 飞书多维表格实战
 
-## Entities (128个)
+## Entities (137个)
 
 - [[Agency-agents]]
 - [[Agent-Browser]]
 - [[Anthropic]]
 - [[autoresearch]] — Karpathy AI 自主研究项目
+- [[baoyu-translate]] — 分层翻译 Skill
+- [[Browser-Use]] — AI 浏览器自动化
 - [[Bolt]] (2篇)
 - [[B站]] (11篇)
 - [[CC-Switch]]
@@ -1203,6 +1232,7 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[Graphify]]
 - [[Harness]] (23篇)
 - [[Hermes-Agent]]
+- [[Hermes-Curator]] — Hermes Skills 整理工具
 - [[Hermes]] (213篇)
 - [[Honcho]]
 - [[Horizon]] — AI 驱动的个人新闻雷达
@@ -1233,6 +1263,9 @@ Master catalog of all wiki pages. Updated on 2026-05-11 01:30.
 - [[OpenSpace]]
 - [[OpenViking]]
 - [[PUAClaw]] (1篇)
+- [[MarkItDown]] — 微软万物转 Markdown
+- [[Nous-Research]] — Hermes Agent 开发团队
+- [[OpenSpec]] — AI 编程规范定义 Skill
 - [[Playwright]]
 - [[Python]] (140篇)
 - [[Qwen]] (29篇)

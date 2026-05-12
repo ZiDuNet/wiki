@@ -1,0 +1,267 @@
+> 📎 来源: [靳岩岩](https://mp.weixin.qq.com/s?__biz=MzYzMzMwNzk0NA==&mid=2247485101&idx=1&sn=72428db94d5e25f001431dbfe3b2c5bd&chksm=f1782cae40b658b9627790cab1041c86593bc8589436a679c53f63d6f0e7f7e3839381415878&mpshare=1&scene=1&srcid=0511GM62VQ9Zhz7mhcngLXXV&sharer_shareinfo=b164422d2e6af308d8116e20c9187c37&sharer_shareinfo_first=b164422d2e6af308d8116e20c9187c37) | 时间: 2026-05-11 03:22
+
+---
+
+![](assets/img_b33a4947addc.png)
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 先说现状：家用硬件跑 DeepSeek V4 Flash，现在什么水平？
+
+━━━━━━━━━━━━━━━━━━━━
+
+截至 2026 年 5 月，DeepSeek V4 Flash（280B MoE，2026-04-24 发布）在消费级 Blackwell 硬件（RTX 5090 / DGX Spark，sm\_120/sm\_121）上的推理支持现状：
+
+**框架本身支持 V4 Flash，但 sm\_120/121 上跑不了的**
+
+- **vLLM**
+
+  — V4 Flash 发布当天就支持了（Day-0），但 sm\_120 上的 NVFP4 kernel 后端选择有 bug（sm\_120 被误判，fallback 回 Marlin）。社区 fork（jasl）提供了 sm\_121 兼容，我们一直在用。
+- **SGLang**
+
+  — 同样 Day-0 支持 V4 Flash，但 sm\_120 支持严重不足——attention backend、FP8 kernel、FlashAttention 全不认 sm\_12x。
+- **KTransformers**
+
+  — 清华团队做的 CPU/GPU 混合方案，5 月刚加了 V4 Flash 支持。shared expert 放 GPU、routed expert offload 到 CPU。但它的 AMX 加速是 x86 专属，ARM 架构的 DGX Spark 上效果待验证。
+
+**V4 Flash 本身还没支持的**
+
+- **llama.cpp**
+
+  — 主线尚未合并 V4 Flash 支持，只有社区 fork 和 WIP PR。
+- **TensorRT-LLM**
+
+  — 没有找到 V4 Flash 的明确支持证据。
+
+**根本原因**
+
+- **DeepGEMM（官方）**
+
+  — dispatch 硬编码只认 sm\_90（Hopper）和 sm\_100（数据中心 Blackwell），拒绝 sm\_120/121。这是上层框架在 sm\_120 上跑不动 V4 的根源之一。
+
+一句话总结：**框架层面 V4 Flash 已经有人接了，但底层 kernel 库还在用"sm\_100 才有 FP4"的旧假设写代码，sm\_120/121 被挡在门外。** 硬件能力到了（182 期已证明 sm\_121 的 FP4/FP8 tensor core 指令全部完整），卡的是软件。
+
+所以我们这个系列不是在"优化推理速度"——**是在学习 GPU 底层到底怎么工作的。** 从一开始的"FP4 硬件不存在"到上一期查文档发现"全都在"，每一次翻车和修正本身就是最好的教材。今天这一期也是一样：发现硬件指令都在了，第一反应——试试。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 前情回顾
+
+━━━━━━━━━━━━━━━━━━━━
+
+DGX Spark（sm\_121）上跑 DeepSeek V4 Flash 280B，vLLM 的 Marlin FP4 MoE kernel 会**静默算错**——中文输出正常，英文输出开头是乱码（模型有时能自救，有时全崩）。不是偶发 bug，是 Marlin 的 FP4 数据布局在 sm\_120 系列上和旧架构（sm\_80/sm\_90）行为不一致，导致部分 MoE 专家的矩阵乘法结果是垃圾。中文能用只是因为中文 prompt 激活的那组专家恰好没踩到数据布局错误——运气好，不是能力强。
+
+179 期（ [【DeepSeek V4】Triton FP4 优化实战：近距离感受老黄的刀法](https://mp.weixin.qq.com/s?__biz=MzYzMzMwNzk0NA==&mid=2247485001&idx=1&sn=7775294f64c9044fd426c94883c22da0&scene=21#wechat_redirect) ）我们用 Consumer-DeepGEMM（以下简称 CDG）替换了 Marlin 的计算路径，输出终于中英文全对了。但速度只有 0.79 tok/s。经过 Triton FP4 dequant kernel + fused matmul 优化，提到 1.87 tok/s。全程的思路是"sm\_121 没有 FP4 硬件指令，只能软件反量化到 BF16 再做矩阵乘法"。
+
+182 期（ [【DGX Spark/5090】重新理解 SM120+ 的硬件支持状况——我们之前搞错了](https://mp.weixin.qq.com/s?__biz=MzYzMzMwNzk0NA==&mid=2247485086&idx=1&sn=0e08563efc9cbfce78899f9a30069a2e&scene=21#wechat_redirect) ）自我打脸——查了 PTX ISA 9.2 官方文档后发现，**sm\_121 的 INT8/FP8/FP4 tensor core mma 指令全部完整存在**。之前三期文章说的"FP4 硬件不存在""FP8 残废""只有 BF16 能用"全错了。错的不是硬件，是软件栈没适配好，而我们把软件的问题归咎于硬件。
+
+182 期结尾列了三个"接下来可以做"的方向。今天这一期讲的是：**发现硬件指令都在之后的第一反应——试试。**
+
+结果：4.1 tok/s，相对首版 5.2 倍提速。还没追上 jasl fork（社区开发者针对 DGX Spark 适配的 vLLM 分支）的 14 tok/s，但中英文输出全部正确——jasl 的英文还是有乱码的。过程中每一步发现都有意思。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 第一步：逐个验证 tensor core 指令
+
+━━━━━━━━━━━━━━━━━━━━
+
+182 期查文档确认了指令存在，但"文档说有"和"实际能跑"之间隔着一个编译器。我们用 Triton 逐个验证。
+
+**INT8**：`tl.dot(int8, int8)` max\_diff=0.0。NLA 项目里已经验证过，这次不再赘述。
+
+**FP8**：`tl.dot(float8e4nv, float8e4nv)` max\_diff=0.0。和 PyTorch float 参考结果逐元素完全一致。sm\_121 上 FP8 tensor core matmul 完美运行——从 sm\_89（RTX 4090 那代）就支持的指令，DGX Spark 当然能跑。
+
+两个零误差，信心够了。下一步：用 FP8 tensor core 加速 FP4 MoE GEMM。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 第二步：tl.dot\_scaled——Triton 的原生 MXFP4 支持
+
+━━━━━━━━━━━━━━━━━━━━
+
+179 期我们手写了一个 fused kernel——手动拆包 FP4 E2M1、查表、乘 E8M0 scale、反量化到 float32、再做 `tl.dot(f32, f32)`。一百多行代码实现"一个 Triton 标准 API 就能做的事"。
+
+Triton 3.6 有一个 `tl.dot_scaled` API（`tl` = `triton.language`，Triton GPU 编程语言的标准库；`dot_scaled` = 带缩放因子的矩阵点乘，专门为 MX 微缩放格式设计），原生支持 MXFP4 格式：
+
+```
+acc += tl.dot_scaled(
+```
+
+不需要手动 dequant、不需要拆 even/odd、不需要拼 FP8。**Triton 内部一步到位：FP4 解包 + scale 应用 + matmul。**
+
+在 sm\_121 上，`tl.dot_scaled` 的 FP4 路径 fallback 到 bf16 emulation（Triton issue #7550 追踪中），不是 native FP4 MMA——但结果完全正确：
+
+```
+dot_scaled e2m1×e2m1: max_diff=0.0000 ✅（零误差）
+```
+
+速度呢？FC1 和 FC2 是 MoE 每个专家内部的两个全连接层（FC = Fully Connected，就是"输入向量 × 权重矩阵 = 输出向量"），方括号里的三个数字是矩阵乘法的维度 [M×K×N]（M = token 数 × 激活专家数，K = 输入维度，N = 输出维度）：
+
+```
+FC1 [384×7168×4096]: float32 fused = 5.16ms → dot_scaled = 0.69ms (7.5x)
+```
+
+**kernel 快了 7.5 倍，零误差。**
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 一个有趣的发现：E8M0 scale 的真实分布
+
+━━━━━━━━━━━━━━━━━━━━
+
+排查 Marlin bug 的过程中，我们 dump 了 DeepSeek V4 Flash 真实权重的 E8M0 scale 值。这里解释一下命名：浮点数由指数（Exponent）和尾数（Mantissa）组成，E8M0 = 8 位指数 + 0 位尾数——纯指数格式，没有小数部分，值只能是 2 的整数次幂：2^(e-127)。同理 FP4 的 E2M1 = 2 位指数 + 1 位尾数，FP8 的 E4M3 = 4 位指数 + 3 位尾数。E8M0 作为 scale factor（缩放因子），理论范围 0-255（对应 2^(-127) 到 2^(128)）。
+
+**实测：所有 scale 值都落在 119-122 之间。**
+
+相邻 scale block 之间的差值不超过 2。整个 280B 模型的 FP4 scale 分布极其集中——256 个可能的 E8M0 值只用了 4 个。这意味着 DeepSeek V4 的 FP4 权重在量化训练（QAT）时，各 block 的数值范围被训练到了非常均匀的状态。scale 不是用来"拉伸极端值"的，而是在一个窄范围内做微调。
+
+这个发现对 Marlin bug 排查有帮助——排除了 E8M0 dequant 溢出的可能性（119-122 对应 2^(-8) 到 2^(-5)，完全正常）。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ kernel 快了 7.5x，端到端只快了 17%
+
+━━━━━━━━━━━━━━━━━━━━
+
+接入 vLLM 端到端实测：
+
+```
+英文 "What is quicksort? Explain with code."
+```
+
+从 1.87 到 2.2 tok/s——kernel 快了 7.5 倍，端到端只快了 17%？
+
+这说明**瓶颈已完全转移到 Python 调度开销**。kernel 时间只占端到端的约 4%，剩余 96% 是 Python 循环 + GPU-CPU sync + 小 tensor 分配。
+
+每次 `m_grouped_fp8_fp4_gemm_nt_contiguous` 调用（每 token 120 次）：原来要做 `unique()` + 6 次 `nonzero()` = 7 次 GPU→CPU 同步。我们用 `argsort` + `diff` 替代，把同步次数从约 1560 次/token 降到约 240 次/token。有帮助，但瓶颈仍在 Python 层。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 关键突破：去掉 BF16→FP8→BF16 的无用功
+
+━━━━━━━━━━━━━━━━━━━━
+
+盯着 profiling 数据看的时候，发现了一个荒谬的事情。
+
+vLLM 里每种 MoE 计算方式封装成一个"Experts"类——Marlin 对应 `MarlinExperts`，DeepGEMM 对应 `DeepGemmFP4Experts`。后者是 vLLM 为数据中心卡（sm\_100）设计的，底层调用 DeepGEMM 的 FP8×FP4 GEMM。我们做的事情是：强制 vLLM 在 sm\_121 上选 `DeepGemmFP4Experts` 而不是 `MarlinExperts`，底层 GEMM 换成 CDG 的 `dot_scaled` 实现。vLLM 框架调用这个类的 `apply()` 方法完成一次 MoE 前馈计算——permute（按专家分组重排 token 行，让同一个专家处理的 token 排在一起方便批量计算）→ FC1 → 激活函数 → FC2 → unpermute（按原顺序排回去）。
+
+追踪 `DeepGemmFP4Experts.apply()` 的完整数据流，发现 activation（输入数据）经历了这样的旅程：
+
+```
+1. prepare 阶段：BF16 activation → FP8 量化（per_token_group_quant_fp8）
+```
+
+**BF16→FP8→BF16→FP8。** 三次数据类型转换，净效果为零——activation 从 BF16 出发，绕了一圈，最终 `dot_scaled` 需要的还是 FP8，中间做了一次完全多余的 round-trip。
+
+为什么会这样？因为 DeepGEMM 的 API 设计假设 activation 是 FP8 输入——`fp8_fp4_gemm` 函数签名就是这么定义的。vLLM 的 `prepare` 阶段忠实地把 BF16 activation 量化成 FP8 交给 DeepGEMM。但 CDG 内部走的是 Triton `dot_scaled` 路径，`dot_scaled` 自己内部会做 FP8 cast——所以 prepare 阶段的 FP8 量化是纯浪费。
+
+**修复方法**：
+
+```
+# DeepGemmFP4Experts 类加一个标志
+```
+
+同时 SwiGLU（FC1 和 FC2 之间的激活函数，一种带门控机制的非线性变换）之后也不再做 FP8 requant，保持 BF16 直传下一步。
+
+结果：
+
+```
+英文 "What is quicksort?": 500 tokens / 121s = 4.1 tok/s ✅ 零垃圾
+```
+
+**从 2.1 直接翻倍到 4.1 tok/s。** 一行 `expects_unquantized_inputs = True` 的效果超过了之前几百行 Triton kernel 优化的总和。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ Profiling：82% 时间在 6 次 kernel launch
+
+━━━━━━━━━━━━━━━━━━━━
+
+去掉 FP8 无用功后的 profiling：
+
+```
+BF16 input path (no FP8 round-trip):
+```
+
+每个 token 的 MoE GEMM 理论上限 5.82 tok/s，实测 4.1 tok/s——差距在 GEMM 之外的开销：token 重排（permute/unpermute）、激活函数、Python 框架调度。如果能把 6 次 kernel launch 合成 1 次，理论可达 20.4 tok/s——但我们试了把 6 个 expert 的计算合并到一次 GPU kernel 里同时处理，实测反而更慢（3.6 tok/s）。原因：6 个 expert 分到的 token 数不均匀，GPU 按最多的那个 expert 分配线程块，token 少的 expert 大量线程块启动后立刻空跑退出——浪费比节省的 launch 开销还大。回退。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 截止目前的速度演进总表
+
+━━━━━━━━━━━━━━━━━━━━
+
+| 版本 | tok/s | 备注 |
+| --- | --- | --- |
+| jasl Marlin | 14 | 英文有乱码 |
+| Python fallback + CUTLASS（179期起点） | 0.79 | 中英文正确，但速度慢，以下皆然 |
+| Triton dequant + cuBLAS mm（179期） | 1.67 |  |
+| Fused dequant+matmul float32（179期终点） | 1.87 |  |
+| dot\_scaled kernel + 调度优化（本期） | 2.2 |  |
+| 去掉 FP8 无用功（本期） | 4.1 |  |
+
+5 个版本，同一个函数，同一台电脑。 从 0.79 到 4.1，每一步的提速来源都不同：第一步消灭临时 tensor（带宽），第二步融合 kernel（带宽），第三步用 `dot_scaled` 替代手写 dequant（指令效率），第四步去掉无用的数据类型转换（纯浪费）。
+
+jasl 为什么快 3.4 倍？架构差异：**Marlin 把 permute + 6 个 expert GEMM + activation + unpermute 融合成一个 CUDA kernel，一次 launch 全做完；我们的 CDG 是 Python 循环 6 次 Triton kernel launch，每次都有调度开销。** 这不是 kernel 本身的差距——前面 profiling 已经证明 kernel 只占 82%，Python 调度几乎为零——而是整个 MoE 计算的**编排方式**不同。Marlin 一把梭，CDG 分六刀。代价是 Marlin 的 fused kernel 里 `ldmatrix` 数据布局在 sm\_121 上错了，英文算出来是垃圾。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 副产品：Marlin 的 ldmatrix bug
+
+━━━━━━━━━━━━━━━━━━━━
+
+优化之余也在追 Marlin 在 sm\_121 上算错的根因。逐层排除（FP4 反量化数学 ✅、E8M0 scale 转换 ✅、矩阵乘法指令本身 ✅）后，定位到一条叫 `ldmatrix` 的 GPU 指令——它负责把数据从共享内存（GPU 内部的高速缓存）搬到计算单元的寄存器里。
+
+关键发现：**同一条 `ldmatrix` 指令，在旧架构（sm\_80/90）和新架构（sm\_121）上的行为不同。**
+
+打个比方：32 个工人要从仓库（共享内存）搬 64 件零件到工位（寄存器）。旧架构的规矩是"1 号工人拿第 1、9 号零件，2 号拿第 2、10 号"——交叉取件，让每个工人手上的零件刚好组成后续加工需要的一组。新架构（sm\_121）的规矩变了——"1 号拿第 1、2 号，2 号拿第 3、4 号"——按顺序取，不交叉。
+
+Marlin 的代码假设工人按旧规矩取件，提前把零件按旧规矩排好了。sm\_121 上工人按新规矩取——拿到的零件顺序全错了。**不是零件有问题，是取件顺序变了。**
+
+我们试了一种修法：让工人取完后互相交换零件（GPU 线程间数据交换指令），把顺序换回旧的样子。但 Marlin 仓库里的零件排列不是简单的顺序——为了防止工人同时抢同一个货架（GPU bank conflict，共享内存并发访问冲突），零件位置做了一种叫"swizzle"的打乱处理。在这种打乱后的排列上做交换，反而把原本"碰巧部分正确"的结果搞得全崩了。
+
+**这个 bug 还没修好。** 正确的修复需要完全理解 Marlin 的零件打乱规则，然后在打乱后的布局上做精确的逆变换——工作量不小，留给后续。
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 复现方法
+
+━━━━━━━━━━━━━━━━━━━━
+
+需要一台 DGX Spark（sm\_121）+ 一个含 CUDA 13.0+ 和 Triton 3.6 的 Docker 容器（我们用的是 eugr 的 `vllm-node-sm120` 镜像）。
+
+```
+# 1. 克隆仓库（含子模块 Consumer-DeepGEMM）
+```
+
+脚本会依次验证 INT8/FP8 tensor core → `tl.dot_scaled` 正确性 → kernel 速度对比 → dispatch profiling。全程约 2 分钟，不需要模型权重。
+
+核心文件：
+
+- `Consumer-DeepGEMM/consumer_deep_gemm/triton_moe.py`
+
+  — `_dot_scaled_matmul_kernel` + 调度优化
+- `Consumer-DeepGEMM/tests/test_dot_scaled_fused.py`
+
+  — 正确性 + 速度验证
+- `test_fp8_dot.py`
+
+  — FP8 tensor core 最小验证
+- `test_dot_scaled.py`
+
+  — `tl.dot_scaled` e2m1 最小验证
+
+━━━━━━━━━━━━━━━━━━━━
+
+◆ 一句话总结
+
+━━━━━━━━━━━━━━━━━━━━
+
+**182 期发现 sm\_121 的 FP8/FP4 指令都在，183 期就用 `tl.dot_scaled` 直接上手——kernel 快了 7.5 倍，去掉 FP8 无用功后端到端 4.1 tok/s。依然比 jasl 慢 3.4 倍，但学到的每一步都是实在的。**
+
+开头说了，家用 Blackwell 跑 DeepSeek 大模型，整个软件栈都还没准备好。我们不是在做推理框架——**是在拿这个场景当教材，学 GPU 底层怎么工作。** 从"FP4 硬件不存在"到"查文档发现全都在"到"上手试了"，每一步的翻车和修正本身就是收获。查文档是第一步，上手试是第二步。
+
+━━━━━━━━━━━━━━━━━━━━
+
+// 靳岩岩的 AI 学习笔记 × Claude 的严谨 × Gemini 的浪漫
+// 2026-05-11

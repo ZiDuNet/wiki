@@ -400,4 +400,79 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 **Scope:** 本次新增/更新的所有页面
 **Wikilinks 检查:** 62 links → 全部通过 ✅（修复了 3 个断链）
 **Orphan 检查:** 无孤立页面 ✅
+
+---
+
+## [2026-05-11] Ingest | 微信公众号同步摄入（9篇新增）
+
+**Operator:** Automated cron job
+**Source:** ../微信公众号/（9 new articles from wxrobot_sync_v3）
+**Time:** 2026-05-11 18:00
+
+### New Articles Ingested
+
+| Category | Title | Source File |
+|---|---|---|
+| 外贸出海情报系统 | 跟龙虾鏖战一个月，我打通了这套「外贸出海情报系统」 | 跟龙虾🦞鏖战一个月... |
+| AI工具 | 5分钟搞定PPT！用AI把Word文档一键转演示 | 5分钟搞定PPT！用AI把Word文档一键转演示.md |
+| Claude | 数智赋能：一文讲清什么是 Skill？ | 数智赋能丨一文讲清...避坑指南.md |
+| AI Coding | Taste Skill：教AI写出高端前端，告别廉价感 | Taste Skill：教AI写出高端前端... |
+| Obsidian | 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操 | 从 0 到 1 搭建 AI 知识库... |
+| Hermes | Hermes Kanban 实战：我是怎样让多个 Agent 真正协作起来的！ | Hermes Kanban 实战... |
+| GitHub | GitHub 2.4万Star的Maigret：一个用户名搜遍3000+网站 | GitHub 上狂揽 2.4 万 Star... |
+| GitHub | 姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending | 116个中文提示词，2天冲上GitHub热门... |
+| 待补文章 | Seedance2.0保姆级教程：AI广告视频玩法全覆盖 | [605] Seedance2.0保姆级教程... |
+
+### Results
+
+- **Sources processed:** 9
+- **Source summary pages created:** 9 (wiki/sources/)
+- **Categories added:** 1 new (外贸出海情报系统)
+- **Index updated:** Sources 907→916, +9 new entries
+- **Log appended:** 本条目
+
+### New Concepts Identified
+
+- GEO（Generative Engine Optimization）— 来自 yao-open-prompts 文章
+- 外贸出海情报系统 — 新领域概念
+- obsidian-wiki — 知识库工具
+- Maigret — OSINT 开源工具
+
 **Index 一致性:** 已更新统计数字（Sources 897, Entities 128, Concepts 101）
+
+## 2026-05-12 — 微信文章同步摄入
+
+**Operator:** Automated cron (wxrobot_sync_v3.py + wiki ingest)
+**Source:** 微信公众号/ (4 articles processed, 3 successful, 1 failed)
+
+### Results
+
+- **Sources processed:** 3 (成功)
+  - Obsidian/如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
+  - Hermes/Hermes 桌面版 GUI 来了：被命令行劝退的人，可以冲了
+  - API中转/他搭了个API中转站，月入过万
+- **Source summaries created:** 3
+- **Entity pages created:** 3 (Simonlin, Hermes Desktop, One-API)
+- **Concept pages created:** 5 (Obsidian知识库, AI执行模式, API中转, 商业模式, GUI桌面应用)
+- **Index updated:** +3 source entries (Obsidian 23→24, Hermes 189→190, API中转 2→3)
+- **Log appended:** 本条目
+
+### New Entities
+
+1. Simonlin — 公众号作者（Simonlin的精神世界）
+2. Hermes Desktop — fathah开发的Hermes桌面GUI（MIT协议）
+3. One-API — GitHub 20K+ Star的API中转开源项目
+
+### New Concepts
+
+1. Obsidian知识库 — 基于Karpathy三层架构的知识库方法论
+2. AI执行模式 — AI从知识库获取规则并按规则执行，而非仅回答问题
+3. API中转 — AI时代的水电工，帮用户绕过注册/支付障碍
+4. 商业模式 — API中转站的定价策略与收益模型
+5. GUI桌面应用 — 命令行工具图形化降低门槛
+
+### Failed (待补)
+
+- [620] 【Agent - Memory】Hermes-Agent 的 Memory 设计拆解 — 正文抓取失败
+
+**Index 一致性:** 已更新（Obsidian 24篇, Hermes 190篇, API中转 3篇）

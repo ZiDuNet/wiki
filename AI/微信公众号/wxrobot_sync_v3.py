@@ -120,6 +120,13 @@ def init_db():
             skipped INTEGER DEFAULT 0
         )
     """)
+    # 兼容旧表结构：run_log 可能缺少 finished_at/total/success/failed/skipped 列
+    for col in ["finished_at TEXT", "total INTEGER DEFAULT 0", "success INTEGER DEFAULT 0", "failed INTEGER DEFAULT 0", "skipped INTEGER DEFAULT 0"]:
+        col_name = col.split()[0]
+        try:
+            c.execute(f"ALTER TABLE run_log ADD COLUMN {col}")
+        except sqlite3.OperationalError:
+            pass  # 列已存在，跳过
     conn.commit()
     return conn
 
@@ -336,6 +343,41 @@ def write_doc(folder: Path, title: str, content: str) -> Path:
         f.write(content)
 
     return file_path
+
+
+def write_pending_stub(conn, task_id, title, url, description, author, msg_time) -> bool:
+    """正文抓取失败时，降级写入待补文章（标题+简介+链接）"""
+    folder = OBSIDIAN_VAULT / "待补文章"
+    folder.mkdir(parents=True, exist_ok=True)
+
+    safe_title = safe_filename(title)
+    if safe_title.startswith("#"):
+        safe_title = safe_title[1:].strip()
+    file_path = folder / f"[{task_id}] {safe_title}.md"
+
+    try:
+        ts = float(msg_time) if msg_time else None
+        from_time = datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M') if ts else "未知时间"
+    except (TypeError, ValueError, OSError):
+        from_time = str(msg_time) if msg_time else "未知时间"
+
+    stub = f"""# {title}
+
+> **状态**: 待补全文（原文链接无法抓取正文）
+> **来源**: {author or '微信公众号'} | 时间: {from_time}
+
+## 简介
+
+{description or '无简介'}
+
+## 原文链接
+
+[{title}]({url})
+"""
+    file_path.write_text(stub, encoding="utf-8")
+    mark_success(conn, task_id, str(file_path), "待补文章", title, author)
+    log(f"  📝 [待补文章] {title[:50]}")
+    return True
 
 
 def save_asset(url: str, filename: str) -> Path:
@@ -570,20 +612,16 @@ def process_one_task(conn, task_id, url, msg_data_str, msg_time) -> bool:
     if not author:
         author = msg_data.get("author_name", "")
 
-    if not content_html:
-        if description and len(description) > 30:
-            log(f"  网页正文为空，使用 description 兜底 ({len(description)} chars)")
-            content_html = f"<p>{description}</p>"
-            img_urls = []
-        else:
-            mark_failed_retry(conn, task_id, f"正文抓取为空 (title={title[:50]})")
-            return False
-
     # 2. 转 Markdown
-    md_content = html_to_markdown(content_html)
-    if len(md_content) < 20:
-        mark_failed_retry(conn, task_id, f"正文太短 ({len(md_content)}字符)")
-        return False
+    if content_html:
+        md_content = html_to_markdown(content_html)
+    else:
+        md_content = ""
+
+    # 正文为空或太短 → 降级写入待补文章
+    if not md_content or len(md_content) < 20:
+        log(f"  ⚠️ 正文抓取失败，降级写入待补文章")
+        return write_pending_stub(conn, task_id, title, url, description, author, msg_time)
 
     # 3. 分类
     notebook_name = classify_article(title, description)
@@ -591,7 +629,11 @@ def process_one_task(conn, task_id, url, msg_data_str, msg_time) -> bool:
     log(f"  📁 分类: {notebook_name}")
 
     safe_title = safe_filename(title)
-    from_time = datetime.fromtimestamp(msg_time).strftime('%Y-%m-%d %H:%M') if msg_time else "未知时间"
+    try:
+        ts = float(msg_time) if msg_time else None
+        from_time = datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M') if ts else "未知时间"
+    except (TypeError, ValueError, OSError):
+        from_time = str(msg_time) if msg_time else "未知时间"
 
     # 4. 处理图片 — 直接下载到分类目录的 assets/ 下
     notebook_assets_dir = folder / "assets"
@@ -692,9 +734,19 @@ def process():
         except Exception as e:
             error_msg = f"{type(e).__name__}: {str(e)[:200]}"
             log(f"  ❌ 异常: {error_msg}", "ERROR")
-            traceback.print_exc()
-            mark_failed_retry(conn, task_id, error_msg)
-            failed += 1
+            # 尝试降级写入待补文章
+            try:
+                msg_data_obj = json.loads(msg_data) if msg_data else {}
+                fallback_title = msg_data_obj.get("title", title or f"文章_{task_id}")
+                fallback_desc = msg_data_obj.get("description", "")
+                fallback_author = msg_data_obj.get("author_name", "")
+                if write_pending_stub(conn, task_id, fallback_title, url, fallback_desc, fallback_author, msg_time):
+                    success += 1
+                else:
+                    failed += 1
+            except:
+                mark_failed_retry(conn, task_id, error_msg)
+                failed += 1
 
     conn.execute("""
         UPDATE run_log SET finished_at=?, total=?, success=?, failed=? WHERE id=?
