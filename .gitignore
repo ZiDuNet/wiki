@@ -22,3 +22,6 @@ desktop.ini
 # Python 缓存
 __pycache__/
 *.pyc
+
+# Syncthing 历史版本（不追踪）
+.stversions/
