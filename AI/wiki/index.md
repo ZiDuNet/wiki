@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 ## Statistics
 
-- Sources: 928
+- Sources: 940
 - Entities: 143
 - Concepts: 104
 - Synthesis: 12
@@ -227,6 +227,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[给-AI-Agent-装上一双会看网页的眼睛Dokobot-Skill-体验]] — 给 AI Agent 装上一双会看网页的眼睛：Dokobot Skill 体验
 - [[转AI-Agent工程师路线图]] — 转AI Agent工程师路线图
 - [[龙虾🦞命令行太痛苦来试试Moxt多Agents协作平台]] — 龙虾🦞命令行太痛苦？来试试Moxt多Agents协作平台
+- [[9router-万能ai模型路由]] — 打通所有Agent和所有大模型，这个万能路由了解下？
 
 ### Agent Teams (2篇)
 
@@ -278,6 +279,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[这个-GitHub-项目太缺德了拿鞭子抽-Claude-Code]] — 这个 GitHub 项目太缺德了，拿鞭子抽 Claude Code。
 - [[这个开源项目让全家都能用]] — ,这个开源项目让全家都能用
 - [[claude-skill-xiaobai-biquan]] — 数智赋能：一文讲清什么是 Skill？该装哪些 Skill？
+- [[sub2api-api网关平台]] — 自己动手搭API中转站之Sub2API：一个网关统管 OpenAI / Claude / Gemini，限流计费全搞定
 
 ### Dify (1篇)
 
@@ -320,6 +322,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[yao-open-prompts-116]] — 姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending
 - [[github-ai热榜-5月11日-genericagent-omlx]] — GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent 自进化 + omlx Mac 本地推理
 - [[盘点-10-个GitHub新开源项目-Star快速攀升]] — 盘点 10 个 GitHub 新开源项目：Star 快速攀升
+- [[cyber-skills-github整理]] — 我把常用的Skills和Prompt，全整理到GitHub了
 
 ### GitHub开源项目 (1篇)
 
@@ -542,6 +545,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[🚀-Hermes-Agent-中文新手指南-AI-编码助手来了]] — 🚀 Hermes Agent 中文新手指南 | AI 编码助手来了！
 - [[🦄Hermes智能体-第5课只用一招让Hermes学会深度思考]] — 🦄【Hermes智能体 第5课】只用一招：让Hermes学会深度思考
 - [[hermes-kanban-shizhan]] — Hermes Kanban 实战：我是怎样让多个 Agent 真正协作起来的！
+- [[hermes-agent记忆插件选型指南]] — Hermes Agent记忆插件选型指南：8大智能体记忆方案深度对比
 
 ### Hermes Agent (27篇)
 
@@ -765,6 +769,8 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[高效养虾OpenClaw-操作浏览器]] — 高效养虾：OpenClaw 操作浏览器
 - [[🎓-OpenClaw-多-Agent-团队协同案例分享]] — 🎓 OpenClaw 多 Agent 团队协同案例分享
 - [[🦞龙虾OpenClaw-带回来了怎么养装完这-15-个插件龙虾直接变-AI-超人]] — 🦞龙虾(OpenClaw) 带回来了怎么养？装完这 15 个插件，龙虾直接变 AI 超人！
+- [[rtk-token成本降低92-percent]] — 有点厉害！这个工具能让Claude Code、Codex、OpenClaw使用Token成本降低92%
+- [[openclaw数字孪生-记忆系统]] — 我用 OpenClaw 做了一个数字孪生，才发现数据库 AI Agent 真正缺的不是知识
 
 ### PPT Master (6篇)
 
@@ -774,6 +780,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[Role]] — Role
 - [[“我就想用这个PPT模版你的AI能搞定吗”]] — “我就想用这个PPT模版，你的AI能搞定吗？”
 - [[克隆仓库gitclonehttpsgithubcomhugohe3pptmastergitcdpptmaster-安装依赖pip-install-r-requi]] — 克隆仓库git clone https://github.com/hugohe3/ppt-master.gitcd ppt-master# 安装依赖pip install -r requirements.txt
+- [[ppt-master-skill可编辑-ppt]] — PPT Master Skill：一个真正可编辑的 AI PPT 生成Skill
 
 ### PPT skill (9篇)
 
@@ -893,6 +900,8 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[精选-10-个开发者常用的-AI-智能体技能Agent-Skills]] — 精选 10 个开发者常用的 AI 智能体技能（Agent Skills）
 - [[过去一年很多人谈-AI-Agent谈到最后都会落到一个问题上]] — 过去一年，很多人谈 AI Agent，谈到最后都会落到一个问题上：
 - [[牛-X的Skill]] — 牛 X 的Skill
+- [[html-ppt-skill-html代替ppt]] — ppt的未来是html！每个人都应该试试这个skills！高效！精准！
+- [[skill-creator完整开发流水线]] — skill-creator 升级，一套完整的技能开发流水线
 
 ### Skills技能 (8篇)
 
@@ -925,6 +934,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[Vibe-Coding-如何重塑产品设计和工程研发协同]] — Vibe Coding 如何重塑产品、设计和工程研发协同
 - [[从-Vibe-Coding-到-Harness-Engineering注意力时代的软件工程]] — 从 Vibe Coding 到 Harness Engineering：注意力时代的软件工程
 - [[给-VibeCoding-开发者的扫码登录神器一个-SKILL-搞定一切]] — 给 VibeCoding 开发者的扫码登录神器：一个 SKILL 搞定一切
+- [[vibe-coding会议助手实战]] — Vibe Coding 实战，我用半天时间做了个会议助手
 
 ### WeKnora (1篇)
 
@@ -992,6 +1002,10 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 ### 垂直切片 (1篇)
 
 - [[每日skill系列之项目经理工作流]] — 每日skill系列之项目经理工作流
+
+### Pixelle-Video (1篇)
+
+- [[pixelle-video-14万star开源项目]] — 一句话，出一条完整短视频，这个14万star的开源项目【Pixelle-Video】你值得关注
 
 ### 多Agent协作 (14篇)
 
@@ -1451,6 +1465,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 ### Superpowers (1篇)
 
 - [[Superpowers-完整工作流-工具变搭档]] — 装了Superpowers还是不会用？这套完整工作流，让你的AI从工具变成搭档
+- [[skill自由-三步链路流水线]] — Skill配方｜我用三个skill 实现了skill 自由
 
 ## Synthesis (12个)
 

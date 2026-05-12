@@ -110,3 +110,16 @@
 | [[GEO]] | # GEO（Generative Engine Optimization）| 1 |
 | [[外贸出海情报系统]] | # 外贸出海情报系统 | 1 |
 | [[开源情报(OSINT)]] | # 开源情报 | 1 |
+| [[Pixelle-Video]] | 基于ComfyUI架构的AI短视频生成开源项目，已获14k+ Star，模块化设计支持多种LLM和图像服务 | 1 |
+| [[Vibe Coding]] | 零代码/AI辅助开发模式，用自然语言描述需求，AI自动生成代码和配置 | 1 |
+| [[Sub2API]] | 开源AI API网关平台，统一管理多平台订阅账号，支持OAuth/Token刷新/限流/计费 | 1 |
+| [[html-ppt-skill]] | 用HTML替代PPT的AI演示文稿Skill，具有AI原生/可编程/可部署/可扩展优势 | 1 |
+| [[skill-creator]] | Anthropic官方Skill开发工具，升级为包含测试/量化评估/可视化的完整流水线 | 1 |
+| [[RTK]] | Token压缩过滤CLI代理工具，架在AI对话和Coding Agent之间，减少60-92%的Token消耗 | 1 |
+| [[数字孪生(Agent)]] | AI Agent通过分层记忆系统构建个人数字孪生，包括身份/偏好/上下文/知识层 | 1 |
+| [[记忆系统选型]] | 对比8大智能体记忆方案(Honcho/Mem0/Hindsight/Holographic等)的特点与适用场景 | 1 |
+| [[PPT Master Skill]] | 真正可编辑的AI PPT生成Skill，生成PPTX而非HTML幻灯片 | 1 |
+| [[Skill三步链路]] | workflow-analyzer + l4-skill-forge + superpowers的Skill开发三步流水线 | 1 |
+| [[9Router]] | OpenRouter本地版AI模型路由网关，支持Combo fallback和多Agent统一配置 | 1 |
+| [[Token压缩]] | 通过CLI代理在AI上下文输入前过滤压缩内容以降低Token成本的技术 | 1 |
+| [[API网关]] | 统一管理多个AI平台API账号，提供标准化接口、限流和计费的中间层服务 | 1 |

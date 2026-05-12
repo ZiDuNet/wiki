@@ -613,3 +613,29 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 
 - [[多Agent协作]] — 5 Agent（雷达/建筑师/写手/审计员/修订者）流水线
 - [[工作流自动化]] — InkOS 小说生成完整工作流
+
+## 2026-05-13 — 微信公众号同步摄入（12篇）
+
+**Operator:** Automated cron job
+**Source:** 微信公众号/ (12 new articles processed)
+**Time:** 2026-05-13
+
+### Results
+
+- **Sources created:** 12
+- **Categories covered:** Pixelle-Video, GitHub, Vibe Coding, Claude, Skills, OpenClaw, Hermes, PPT Master, Superpowers, Agent
+
+### Source Pages Created
+
+1. `sources/pixelle-video-14万star开源项目.md` — Pixelle-Video 开源项目介绍
+2. `sources/cyber-skills-github整理.md` — Cyber Skills GitHub仓库整理
+3. `sources/vibe-coding会议助手实战.md` — Vibe Coding实战案例
+4. `sources/sub2api-api网关平台.md` — Sub2API API网关平台
+5. `sources/html-ppt-skill-html代替ppt.md` — HTML-PPT Skill
+6. `sources/skill-creator完整开发流水线.md` — Anthropic skill-creator升级
+7. `sources/rtk-token成本降低92-percent.md` — RTK Token压缩工具
+8. `sources/openclaw数字孪生-记忆系统.md` — OpenClaw数字孪生与记忆系统
+9. `sources/hermes-agent记忆插件选型指南.md` — Hermes Agent 8大记忆方案对比
+10. `sources/ppt-master-skill可编辑-ppt.md` — PPT Master Skill
+11. `sources/skill自由-三步链路流水线.md` — Superpowers三步链路Skill开发
+12. `sources/9router-万能ai模型路由.md` — 9Router万能AI路由
