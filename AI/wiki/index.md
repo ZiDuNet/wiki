@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 
 ## Statistics
 
-- Sources: 921
+- Sources: 925
 - Entities: 141
 - Concepts: 104
 - Synthesis: 12
@@ -41,6 +41,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[来了叫MCP]] — 来了，叫MCP
 - [[私有组件为什么会把很多-AI-Coding-方案打回原形]] — 私有组件，为什么会把很多 AI Coding 方案打回原形
 - [[taste-skill-gaoduan-qianduan]] — Taste Skill：教AI写出高端前端，告别廉价感
+- [[37.9k-Star-agent-skills-AI-Agent-工程纪律]] — 37.9k Star 的 agent-skills：AI Agent 也该有工程纪律
 
 ### AI入门 (2篇)
 
@@ -888,6 +889,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[每日一-Skills-推荐｜baoyuskills13000-Star-的内容创作全家桶从选题到发一条龙]] — 每日一 Skills 推荐｜baoyu-skills：13000 Star 的内容创作全家桶，从选题到发一条龙
 - [[精选-10-个开发者常用的-AI-智能体技能Agent-Skills]] — 精选 10 个开发者常用的 AI 智能体技能（Agent Skills）
 - [[过去一年很多人谈-AI-Agent谈到最后都会落到一个问题上]] — 过去一年，很多人谈 AI Agent，谈到最后都会落到一个问题上：
+- [[牛-X的Skill]] — 牛 X 的Skill
 
 ### Skills技能 (8篇)
 
@@ -1436,6 +1438,14 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[语音识别]]
 - [[门禁机制]]
 - [[领域驱动设计]] (1篇)
+
+### MarkItDown (1篇)
+
+- [[Markdown-HTML-AI内容分工]] — Markdown 负责记忆，HTML 负责展示：AI 时代的新内容分工
+
+### Superpowers (1篇)
+
+- [[Superpowers-完整工作流-工具变搭档]] — 装了Superpowers还是不会用？这套完整工作流，让你的AI从工具变成搭档
 
 ## Synthesis (12个)
 

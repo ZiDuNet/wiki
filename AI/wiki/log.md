@@ -525,3 +525,42 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 ### Index 一致性
 
 已更新（Sources: 916→921, Entities: 137→141, Concepts: 101→104）
+
+## 2026-05-12 — 微信公众号同步新增4篇（第四轮）
+
+**Operator:** Automated cron (wxrobot_sync_v3.py + wiki ingest)
+**Source:** 微信公众号/ (4 articles processed)
+**Time:** 2026-05-12 12:00
+
+### 处理文章
+
+1. **37.9k Star 的 agent-skills：AI Agent 也该有工程纪律** (Skills) — Addy Osmani 开源的生产级工程技能包，37.9k Stars，TDD反借口表是核心
+2. **装了Superpowers还是不会用？这套完整工作流，让你的AI从"工具"变成"搭档"** (Superpowers) — 14个Skill流水线完整指南
+3. **牛 X 的Skill** (Skills) — Markdown Viewer Skill，100+图例+6000+矢量图标
+4. **Markdown 负责记忆，HTML 负责展示：AI 时代的新内容分工** (MarkItDown) — Thariq观点：Markdown做仓库，HTML做展厅
+
+### 创建页面
+
+- Source 摘要页: 4 (wiki/sources/)
+  - `37.9k-Star-agent-skills-AI-Agent-工程纪律.md`
+  - `Superpowers-完整工作流-工具变搭档.md`
+  - `Markdown-Viewer-Skill-牛X配图.md`
+  - `Markdown-HTML-AI内容分工.md`
+
+### 更新页面
+
+- [[Superpowers]] — 新增14个Skill流水线表格
+- [[index]] — 新增 MarkItDown、Superpowers 分类，Sources 921→925
+
+### 新增分类
+
+- MarkItDown (1篇)
+- Superpowers (1篇)
+
+### 涉及实体
+
+[[Superpowers]], [[agent-skills]], [[Addy-Osmani]], [[Claude-Code]], [[Markdown-Viewer-Skill]], [[Thariq-Shihipar]], [[Anthropic]]
+
+### 涉及概念
+
+[[TDD]], [[test-driven-development]], [[spec-driven-development]], [[code-review]], [[AI-Agent工程化]], [[AI开发流水线]], [[14个Skill串联]], [[Sub-Agent]], [[Git-Worktree]], [[verification]], [[Markdown记忆格式]], [[HTML展示层]], [[AI工作流]], [[内容分工]], [[AI配图]]
