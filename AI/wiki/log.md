@@ -564,3 +564,30 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 ### 涉及概念
 
 [[TDD]], [[test-driven-development]], [[spec-driven-development]], [[code-review]], [[AI-Agent工程化]], [[AI开发流水线]], [[14个Skill串联]], [[Sub-Agent]], [[Git-Worktree]], [[verification]], [[Markdown记忆格式]], [[HTML展示层]], [[AI工作流]], [[内容分工]], [[AI配图]]
+
+## 2026-05-12 — 微信同步新增摄入
+
+**Operator:** Automated cron sync
+**Source:** 微信公众号/GitHub/ + 微信公众号/Hermes/
+**Time:** 2026-05-12 18:00
+
+### Results
+
+- **Sources processed:** 2
+- **Source pages created:** 2
+  - [[盘点-10-个GitHub新开源项目-Star快速攀升]]
+  - [[Hermes-Computer-Use-MCP协议控制电脑]]
+
+### New Entities Identified
+
+- [[antirez]] — Redis 作者，ds4 项目
+- [[Mirage]] — 统一虚拟文件系统
+- [[TokenSpeed]] — Agent 推理引擎
+- [[ds4]] — Mac 本地 DeepSeek V4 推理引擎
+
+### Key Concepts Covered
+
+- [[本地部署]] — Mac 本地运行大模型（ds4）
+- [[浏览器自动化]] — Computer Use 本质是桌面自动化
+- [[MCP协议]] — Computer Use 底层驱动协议
+- [[Token优化]] — 四层截图压缩节省上下文

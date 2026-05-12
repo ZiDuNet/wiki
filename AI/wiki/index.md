@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 
 ## Statistics
 
-- Sources: 925
+- Sources: 927
 - Entities: 141
 - Concepts: 104
 - Synthesis: 12
@@ -318,6 +318,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[maigret-3000-website-search]] — GitHub 2.4万Star的Maigret：一个用户名搜遍3000+网站
 - [[yao-open-prompts-116]] — 姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending
 - [[github-ai热榜-5月11日-genericagent-omlx]] — GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent 自进化 + omlx Mac 本地推理
+- [[盘点-10-个GitHub新开源项目-Star快速攀升]] — 盘点 10 个 GitHub 新开源项目：Star 快速攀升
 
 ### GitHub开源项目 (1篇)
 
@@ -407,6 +408,7 @@ Master catalog of all wiki pages. Updated on 2026-05-12.
 - [[Hermes-Agent装好后必做的10件事70个Skills我替你筛完央企打工人照着做就行]] — Hermes Agent装好后必做的10件事——70个Skills我替你筛完，央企打工人照着做就行
 - [[Hermes-Agent那个越用越懂你的AI管家真的来了]] — Hermes Agent：那个越用越懂你的AI管家，真的来了
 - [[Hermes-Desktop-原生-macOS-上的-Hermes-Agent-桌面伴侣]] — Hermes Desktop — 原生 macOS 上的 Hermes Agent 桌面伴侣
+- [[Hermes-Computer-Use-MCP协议控制电脑]] — Hermes Computer Use：MCP 协议驱动 macOS 桌面控制
 - [[Hermes-Kanban-保姆级实战教学从0到1跑通多角色协作写公众号文章全流程]] — Hermes Kanban 保姆级实战教学：从0到1跑通多角色协作写公众号文章全流程
 - [[Hermes-Kanban-入门手册多智能体协作的正确姿势]] — Hermes Kanban 入门手册：多智能体协作的正确姿势
 - [[Hermes-WebUI发布网页端使用Hermes-AI助手]] — Hermes WebUI发布：网页端使用Hermes AI助手
