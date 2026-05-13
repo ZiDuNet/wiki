@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 ## Statistics
 
-- Sources: 963
+- Sources: 969
 - Entities: 143
 - Concepts: 104
 - Synthesis: 12
@@ -133,9 +133,10 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (91篇)
+### Agent (92篇)
 
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
+- [[AI编程工程化Subagent给你的AI员工打造协作助手]] — AI 编程工程化：Subagent——给你的 AI 员工打造协作助手
 - [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
 - [[千问PPT-Agent实测]] — 千问 PPT Agent 实测
 - [[NAS-赚外快啦！5个-Agent-自动生成「百万小说」，极空间部署-InkOS]] — NAS 赚外快啦！5个 Agent 自动生成「百万小说」，极空间部署 InkOS
@@ -295,12 +296,12 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[大模型不卷聊天了GPT‑55Deepseek-V4MiMo-V25-Pro-正在卷"干活能力"]] — 大模型不卷聊天了：GPT‑5.5、Deepseek V4、MiMo V2.5 Pro 正在卷"干活能力"
 
-### Agent (91篇)
+### Agent (92篇)
 
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (21篇)
+### GitHub (22篇)
 
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
@@ -325,6 +326,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[github-ai热榜-5月11日-genericagent-omlx]] — GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent 自进化 + omlx Mac 本地推理
 - [[盘点-10-个GitHub新开源项目-Star快速攀升]] — 盘点 10 个 GitHub 新开源项目：Star 快速攀升
 - [[cyber-skills-github整理]] — 我把常用的Skills和Prompt，全整理到GitHub了
+- [[扒了1周GitHub我挖出了顶级博主不肯说的20个Sikll超详细介绍及安装教程]] — 扒了1周GitHub，我挖出了顶级博主不肯说的20个Sikll，超详细介绍及安装教程
 
 ### GitHub开源项目 (1篇)
 
@@ -334,7 +336,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[Horizon：AI新闻雷达]] — AI 驱动的个人新闻雷达，多源聚合+智能筛选
 
-### Harness (9篇)
+### Harness (10篇)
 
 - [[AI编程王炸组合-OpenSpec-Superpowers-Harness]] — 三剑客：OpenSpec 定方向，Superpowers 定纪律，Harness 定协同
 - [[20260420今日Skill分享]] — 【2026-04-20】今日Skill分享
@@ -345,6 +347,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[三层工程]] — 三层工程
 - [[克隆项目gitclone项目地址cdagentharness-一键启动startsh]] — 克隆项目git clone <项目地址>cd agent-harness # 一键启动./start.sh
 - [[厌烦了理论给你Harness真正的工程实践]] — 厌烦了理论，给你Harness真正的工程实践
+- [[从零设计生产级MultiAgentHarness架构评估记忆成本与MCP工具接入全拆解]] — 从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解
 
 ### Harness Engineering (1篇)
 
@@ -354,7 +357,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工]] — 我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工
 
-### Hermes (190篇)
+### Hermes (192篇)
 
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
@@ -548,6 +551,8 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[🦄Hermes智能体-第5课只用一招让Hermes学会深度思考]] — 🦄【Hermes智能体 第5课】只用一招：让Hermes学会深度思考
 - [[hermes-kanban-shizhan]] — Hermes Kanban 实战：我是怎样让多个 Agent 真正协作起来的！
 - [[hermes-agent记忆插件选型指南]] — Hermes Agent记忆插件选型指南：8大智能体记忆方案深度对比
+- [[搞完HermesKanban我才发现多Agent协作根本不是在演戏]] — 搞完 Hermes Kanban 我才发现，多 Agent 协作根本不是在演戏
+- [[一键给HermesAgent装上操作系统打造的开箱即用技能层]] — 一键给 Hermes Agent 装上"操作系统"，打造的开箱即用技能层
 
 ### Hermes Agent (27篇)
 
@@ -854,7 +859,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
 
-### Skills (49篇)
+### Skills (50篇)
 
 - [[01｜事情的起因]] — 01｜事情的起因
 - [[1-AwesomeClaudeSkills]] — 1. Awesome-Claude-Skills
@@ -908,6 +913,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[skill-creator完整开发流水线]] — skill-creator 升级，一套完整的技能开发流水线
 - [[别再把-Skill-当插件用了，这-18-个最值得装的-Skills-我帮你筛完了]] — 别再把 Skill 当插件用了，这 18 个最值得装的 Skills 我帮你筛完了
 - [[分享15个自用的Skills]] — 分享15个自用的Skills
+- [[装了这个AI热点Skill之后你再也不需要自己去刷AI新闻了]] — 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。
 
 ### Skills技能 (8篇)
 

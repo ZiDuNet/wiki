@@ -686,5 +686,49 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 8. `sources/openclaw数字孪生-记忆系统.md` — OpenClaw数字孪生与记忆系统
 9. `sources/hermes-agent记忆插件选型指南.md` — Hermes Agent 8大记忆方案对比
 10. `sources/ppt-master-skill可编辑-ppt.md` — PPT Master Skill
-11. `sources/skill自由-三步链路流水线.md` — Superpowers三步链路Skill开发
+10. `sources/skill自由-三步链路流水线.md` — Superpowers三步链路Skill开发
+
+## 2026-05-14 — 微信公众号同步摄入（6篇）
+
+**Operator:** Automated cron job (wxrobot_sync_v3.py + wiki ingest)
+**Source:** 微信公众号/ (6 new articles processed, all successful)
+**Time:** 2026-05-14
+
+### Results
+
+- **Sources created:** 6
+- **Categories covered:** GitHub, Skills, Agent, Harness, Hermes
+- **New entries:**
+  1. GitHub: 扒了1周GitHub，我挖出了顶级博主不肯说的20个Sikll
+  2. Skills: 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了
+  3. Agent: AI 编程工程化：Subagent——给你的 AI 员工打造协作助手
+  4. Harness: 从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解
+  5. Hermes: 搞完 Hermes Kanban 我才发现，多 Agent 协作根本不是在演戏
+  6. Hermes: 一键给 Hermes Agent 装上"操作系统"，打造的开箱即用技能层
+
+### Source Pages Created
+
+1. `sources/扒了1周GitHub我挖出了顶级博主不肯说的20个Sikll超详细介绍及安装教程.md`
+2. `sources/装了这个AI热点Skill之后你再也不需要自己去刷AI新闻了.md`
+3. `sources/AI编程工程化Subagent给你的AI员工打造协作助手.md`
+4. `sources/从零设计生产级MultiAgentHarness架构评估记忆成本与MCP工具接入全拆解.md`
+5. `sources/搞完HermesKanban我才发现多Agent协作根本不是在演戏.md`
+6. `sources/一键给HermesAgent装上操作系统打造的开箱即用技能层.md`
+
+### Key Concepts Covered
+
+- [[Sub-Agent]] — AI 编程工程化，任务分解与上下文隔离
+- [[Multi-Agent]] — Multi-Agent Harness 架构设计
+- [[Harness-Engineering]] — 生产级 Harness 评估与记忆管理
+- [[Kanban看板]] — Hermes Kanban 多 Agent 协作模式
+- [[Skills技能系统]] — 开箱即用技能层搭建
+
+### Index Updates
+
+- Sources: 963 → 969 (+6)
+- GitHub: 21 → 22 (+1)
+- Skills: 49 → 50 (+1)
+- Agent: 91 → 92 (+1)
+- Harness: 9 → 10 (+1)
+- Hermes: 190 → 192 (+2)
 12. `sources/9router-万能ai模型路由.md` — 9Router万能AI路由
