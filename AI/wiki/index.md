@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 ## Statistics
 
-- Sources: 940
+- Sources: 963
 - Entities: 143
 - Concepts: 104
 - Synthesis: 12
@@ -133,7 +133,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (89篇)
+### Agent (91篇)
 
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
 - [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
@@ -228,6 +228,8 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[转AI-Agent工程师路线图]] — 转AI Agent工程师路线图
 - [[龙虾🦞命令行太痛苦来试试Moxt多Agents协作平台]] — 龙虾🦞命令行太痛苦？来试试Moxt多Agents协作平台
 - [[9router-万能ai模型路由]] — 打通所有Agent和所有大模型，这个万能路由了解下？
+- [[力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了]] — 力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了
+- [[Agent-技能夜间自进化——阿里开源-SkillClaw，最高提升-88%]] — Agent 技能夜间自进化——阿里开源 SkillClaw，最高提升 88%
 
 ### Agent Teams (2篇)
 
@@ -581,7 +583,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果]] — “龙虾”下乡记：JVS Claw在甘肃礼县“种”起了苹果
 
-### LLM-Wiki (7篇)
+### LLM-Wiki (8篇)
 
 - [[karpathy-的-llm-wiki-部署好-8-步搞定不花一分钱]] — Karpathy 的 LLM Wiki 我帮你部署好了：8 步搞定，不花一分钱
 - [[llm-wiki-karpathy-的知识管理理念变成产品了]] — LLM Wiki：Karpathy的知识管理理念变成产品了，文档扔进去自动长出Wiki
@@ -589,6 +591,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[Karpathy-LLM-Wiki实战指南]] — 2万字超长实战 Karpathy 的 LLM Wiki ！别再把 AI 当聊天工具了
 - [[Karpathy-LLM-Wiki-Skill开源]] — Karpathy LLM-Wiki Skill 已开源公开
 - [[Graphify-知识图谱工程化]] — Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品
+- [[Karpathy-的-LLM-Wiki-模式：让-AI-替你维护知识库]] — Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库
 
 ### LangGraph (1篇)
 
@@ -634,7 +637,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[obsidian-wiki-jichu-jiaocheng]] — 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操（保姆级教程）
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 
-### OpenClaw (133篇)
+### OpenClaw (134篇)
 
 - [[1-Python-310]] — 1. Python 3.10+
 - [[1-停掉-browse-后台进程]] — 1. 停掉 browse 后台进程
@@ -771,6 +774,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[🦞龙虾OpenClaw-带回来了怎么养装完这-15-个插件龙虾直接变-AI-超人]] — 🦞龙虾(OpenClaw) 带回来了怎么养？装完这 15 个插件，龙虾直接变 AI 超人！
 - [[rtk-token成本降低92-percent]] — 有点厉害！这个工具能让Claude Code、Codex、OpenClaw使用Token成本降低92%
 - [[openclaw数字孪生-记忆系统]] — 我用 OpenClaw 做了一个数字孪生，才发现数据库 AI Agent 真正缺的不是知识
+- [[别乱装！OpenClaw-53个官方技能安全清单]] — 别乱装！OpenClaw 53个官方技能安全清单
 
 ### PPT Master (6篇)
 
@@ -850,7 +854,7 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
 
-### Skills (47篇)
+### Skills (49篇)
 
 - [[01｜事情的起因]] — 01｜事情的起因
 - [[1-AwesomeClaudeSkills]] — 1. Awesome-Claude-Skills
@@ -902,6 +906,8 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[牛-X的Skill]] — 牛 X 的Skill
 - [[html-ppt-skill-html代替ppt]] — ppt的未来是html！每个人都应该试试这个skills！高效！精准！
 - [[skill-creator完整开发流水线]] — skill-creator 升级，一套完整的技能开发流水线
+- [[别再把-Skill-当插件用了，这-18-个最值得装的-Skills-我帮你筛完了]] — 别再把 Skill 当插件用了，这 18 个最值得装的 Skills 我帮你筛完了
+- [[分享15个自用的Skills]] — 分享15个自用的Skills
 
 ### Skills技能 (8篇)
 
@@ -954,11 +960,27 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (3篇)
+### WorkBuddy (19篇)
 
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[一你每天有多少事是机械重复的]] — 一、你每天有多少事是"机械重复"的？
 - [[把截图丢给AI5倍提升不止]] — 把截图丢给AI，5倍提升不止
+- [[报表分析也能生产线化：WorkBuddy-打造自动化财报分析-Skill]] — 报表分析也能"生产线化"：WorkBuddy 打造自动化财报分析 Skill
+- [[方法01｜用WorkBuddy-1分钟生成周报：我从周五焦虑到周五解放的全过程]] — 方法01｜用WorkBuddy 1分钟生成周报：我从"周五焦虑"到"周五解放"的全过程
+- [[用WorkBuddy实现内容和知识获取，再交由IMA知识库实现播客生成]] — 用WorkBuddy实现内容和知识获取，再交由IMA知识库实现播客生成。
+- [[WorkBuddy-标书-Skill-招标文件智能解析]] — WorkBuddy 标书 Skill -招标文件智能解析
+- [[WorkBuddy从入门到精通：9个使用技巧让你的AI真正帮你干活]] — WorkBuddy从入门到精通：9个使用技巧让你的AI真正帮你干活
+- [[WorkBuddy方法02-会议纪要智能整理：1小时录音5分钟出纪要]] — WorkBuddy方法02-会议纪要智能整理：1小时录音5分钟出纪要
+- [[WorkBuddy方法03-文档批量格式转换：一句话搞定100个文件]] — WorkBuddy方法03-文档批量格式转换：一句话搞定100个文件
+- [[WorkBuddy方法04-智能合同生成：非法律专业也能起草合规合同]] — WorkBuddy方法04-智能合同生成：非法律专业也能起草合规合同
+- [[WorkBuddy方法05-多文档合并与目录生成：项目报告一键汇总]] — WorkBuddy方法05-多文档合并与目录生成：项目报告一键汇总
+- [[WorkBuddy方法06-扫描件PDF文字提取：OCR精准识别，告别手动录入]] — WorkBuddy方法06-扫描件PDF文字提取：OCR精准识别，告别手动录入
+- [[WorkBuddy方法08-邮件模板批量生成：HR、销售、行政的救星]] — WorkBuddy方法08-邮件模板批量生成：HR、销售、行政的救星
+- [[WorkBuddy方法09-制式文档自动生成：模板教一遍，AI帮你写百遍]] — WorkBuddy方法09-制式文档自动生成：模板教一遍，AI帮你写百遍
+- [[WorkBuddy方法10-多语言文档翻译：外文文档业务不再愁]] — WorkBuddy方法10-多语言文档翻译：外文文档/业务不再愁
+- [[WorkBuddy探索：新功能深度解读]] — WorkBuddy「探索」：新功能深度解读
+- [[workbuddy真的行！生产力skills推荐]] — workbuddy真的行！生产力skills推荐！
+- [[WorkBuddy智能操控实战：发票软件状态监控+Excel账龄分析+邮件自动通知+飞书协作]] — WorkBuddy 智能操控实战：发票软件状态监控 + Excel账龄分析 + 邮件自动通知+飞书协作
 
 ### acquire-codebase-knowledge (1篇)
 
@@ -1458,9 +1480,10 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[门禁机制]]
 - [[领域驱动设计]] (1篇)
 
-### MarkItDown (1篇)
+### MarkItDown (2篇)
 
 - [[Markdown-HTML-AI内容分工]] — Markdown 负责记忆，HTML 负责展示：AI 时代的新内容分工
+- [[PDF、Word、Excel、PPT等-全扔进一个命令：markitdown-让我重新相信文档预处理]] — PDF、Word、Excel、PPT等 全扔进一个命令：markitdown 让我重新相信文档预处理
 
 ### Superpowers (1篇)
 

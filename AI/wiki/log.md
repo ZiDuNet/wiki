@@ -2,6 +2,55 @@
 
 Chronological record of all operations.
 
+## 2026-05-13 — 微信公众号文章批量摄入
+
+**Operator:** Automated ingestion (微信同步)
+**Source:** 微信公众号/ (23 files)
+**Time:** 2026-05-13
+
+### Results
+
+- **Sources processed:** 23
+- **Categories:** Agent (2), LLM Wiki (1), MarkItDown (1), OpenClaw (1), Skills (2), WorkBuddy (16)
+- **Source pages created:** 23
+
+### Articles Added
+
+**Agent (2):**
+- 力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了
+- Agent 技能夜间自进化——阿里开源 SkillClaw，最高提升 88%
+
+**LLM Wiki (1):**
+- Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库
+
+**MarkItDown (1):**
+- PDF、Word、Excel、PPT等 全扔进一个命令：markitdown 让我重新相信文档预处理
+
+**OpenClaw (1):**
+- 别乱装！OpenClaw 53个官方技能安全清单
+
+**Skills (2):**
+- 别再把 Skill 当插件用了，这 18 个最值得装的 Skills 我帮你筛完了
+- 分享15个自用的Skills
+
+**WorkBuddy (16):**
+- 报表分析也能"生产线化"：WorkBuddy 打造自动化财报分析 Skill
+- 方法01｜用WorkBuddy 1分钟生成周报
+- 用WorkBuddy实现内容和知识获取，再交由IMA知识库实现播客生成
+- WorkBuddy 标书 Skill -招标文件智能解析
+- WorkBuddy从入门到精通：9个使用技巧
+- WorkBuddy方法02-会议纪要智能整理
+- WorkBuddy方法03-文档批量格式转换
+- WorkBuddy方法04-智能合同生成
+- WorkBuddy方法05-多文档合并与目录生成
+- WorkBuddy方法06-扫描件PDF文字提取
+- WorkBuddy方法08-邮件模板批量生成
+- WorkBuddy方法09-制式文档自动生成
+- WorkBuddy方法10-多语言文档翻译
+- WorkBuddy「探索」：新功能深度解读
+- workbuddy真的行！生产力skills推荐
+- WorkBuddy 智能操控实战
+
 ## 2026-05-10 — Hermes Agent 文章批量摄入
 
 **Operator:** Automated ingestion (Hermes专项)
