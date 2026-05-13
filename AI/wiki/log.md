@@ -2,6 +2,32 @@
 
 Chronological record of all operations.
 
+## 2026-05-14 — 微信公众号文章批量摄入
+
+**Operator:** Automated ingestion (微信同步)
+**Source:** 微信公众号/ (3 files)
+**Time:** 2026-05-14
+
+### Results
+
+- **Sources processed:** 3
+- **Categories:** Agent (1), skill-CLI-Anything (1), Obsidian (1)
+- **Source pages created:** 3
+- **Entity pages created:** 4 (LibTV, ai-gameplay-pack-skill, Tasks插件, Day-Planner插件)
+
+### Articles Added
+
+**Agent (1):**
+- 企业落地 AI Agent，第一批最容易跑通的 10 个低风险场景
+
+**skill-CLI-Anything (1):**
+- Skill结合哩布哩布LibTV，轻松做出AI实机视频！
+
+**Obsidian (1):**
+- Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
+
+---
+
 ## 2026-05-13 — 微信公众号文章批量摄入
 
 **Operator:** Automated ingestion (微信同步)

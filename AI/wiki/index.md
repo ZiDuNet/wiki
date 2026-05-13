@@ -1,11 +1,11 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-13.
+Master catalog of all wiki pages. Updated on 2026-05-14.
 
 ## Statistics
 
-- Sources: 969
-- Entities: 143
+- Sources: 972
+- Entities: 147
 - Concepts: 104
 - Synthesis: 12
 
@@ -133,8 +133,9 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (92篇)
+### Agent (93篇)
 
+- [[企业落地-AI-Agent-第一批最容易跑通的10个低风险场景]] — 企业落地 AI Agent，第一批最容易跑通的 10 个低风险场景
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
 - [[AI编程工程化Subagent给你的AI员工打造协作助手]] — AI 编程工程化：Subagent——给你的 AI 员工打造协作助手
 - [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
@@ -615,8 +616,9 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 - [[我给龙虾装上好用的PPT-Skill]] — 我给龙虾装上好用的PPT Skill
 - [[最值得安装的20个Skills]] — ClawHub上的Skillnpx clawhub@latest install skill名称# GitHub上的Skillnpx skills add skill地址
 
-### Obsidian (24篇)
+### Obsidian (25篇)
 
+- [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
 - [[Claudian-Obsidian-AI知识系统]] — 别再手动整理笔记了！Claude+Obsidian打造永不遗忘的AI知识系统
 - [[HermesAutoCLIObsidian-打造自动入库自动整理自动微信汇报的知识系统]] — Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统
@@ -992,9 +994,10 @@ Master catalog of all wiki pages. Updated on 2026-05-13.
 
 - [[acquirecodebaseknowledge]] — acquire-codebase-knowledge
 
-### skill-CLI-Anything (1篇)
+### skill-CLI-Anything (2篇)
 
-- [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-]] — 📦 安装到全局pip install -e ./gimp/agent-harness# 🌍 随处可用cli-anything-gimp --helpcli-anything-gimp project new --width 1920 --height 1080 -o poster.jsoncli-anything-gimp --json layer add -n "Background" --type solid --color "#1a1a2e"# 💻 进入交互式 REPLcli-anything-gimp
+- [[Skill结合LibTV-轻松做出AI实机视频]] — Skill结合哩布哩布LibTV，轻松做出AI实机视频！
+- [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-]] — 📦 安装到全局pip install -e ./gimp/agent-harness# 🌍 随处可用cli-anything-gimp --helpcli-anything-gimp project new --width 1920 --height 1080 -o poster.jsoncli-anything-gimp --json layer add -n "Background" --type solid --color "#1a1a2e"# 💻 进入交互式 REPLcli-anything-gimp
 
 ### 上下文管理 (1篇)
 
