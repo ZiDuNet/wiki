@@ -5,6 +5,36 @@ Chronological record of all operations.
 
 ---
 
+## 2026-05-15 — 微信公众号文章同步摄入
+
+**Operator:** Automated ingestion (微信同步)
+**Source:** 微信公众号/ (3 new articles processed)
+**Time:** 2026-05-15 06:00
+
+### Results
+
+- **Sources processed:** 3
+- **Categories:** WorkBuddy (1), Superpowers (1), Obsidian (1)
+- **Source pages created:** 3
+
+### Articles Added
+
+**WorkBuddy (1):**
+- [[WorkBuddy实战案例-我把3份Excel扔给WorkBuddy-20分钟找到了我一周都没发现的问题]] — WorkBuddy实战案例：我把3份Excel扔给WorkBuddy，20分钟找到了我一周都没发现的问题
+
+**Superpowers (1):**
+- [[SuperPowers-规范化开发最佳实践]] — SuperPowers：规范化开发最佳实践
+
+**Obsidian (1):**
+- [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
+
+### Notes
+
+- 5 additional articles (IDs 670, 688-692) remain in processing queue due to API auth errors
+- Run timed out at 300s; manual retry needed
+
+---
+
 ## 2026-05-14 — 微信公众号文章批量摄入（第二次）
 
 **Operator:** Automated ingestion (微信同步)

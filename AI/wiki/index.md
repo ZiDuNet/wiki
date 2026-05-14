@@ -1,10 +1,10 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-14.
+Master catalog of all wiki pages. Updated on 2026-05-15.
 
 ## Statistics
 
-- Sources: 976
+- Sources: 979
 - Entities: 147
 - Concepts: 104
 - Synthesis: 12
@@ -626,7 +626,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (25篇)
+### Obsidian (26篇)
 
 - [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
@@ -653,6 +653,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[用-Hermes-Obsidian-建一个-AI-学习知识库]] — 用 Hermes + Obsidian 建一个 AI 学习知识库
 - [[obsidian-wiki-jichu-jiaocheng]] — 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操（保姆级教程）
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
+- [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
 
 ### OpenClaw (134篇)
 
@@ -978,7 +979,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (19篇)
+### WorkBuddy (20篇)
 
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[一你每天有多少事是机械重复的]] — 一、你每天有多少事是"机械重复"的？
@@ -999,6 +1000,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[WorkBuddy探索：新功能深度解读]] — WorkBuddy「探索」：新功能深度解读
 - [[workbuddy真的行！生产力skills推荐]] — workbuddy真的行！生产力skills推荐！
 - [[WorkBuddy智能操控实战：发票软件状态监控+Excel账龄分析+邮件自动通知+飞书协作]] — WorkBuddy 智能操控实战：发票软件状态监控 + Excel账龄分析 + 邮件自动通知+飞书协作
+- [[WorkBuddy实战案例-我把3份Excel扔给WorkBuddy-20分钟找到了我一周都没发现的问题]] — WorkBuddy实战案例：我把3份Excel扔给WorkBuddy，20分钟找到了我一周都没发现的问题
 
 ### acquire-codebase-knowledge (1篇)
 
@@ -1504,10 +1506,11 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[Markdown-HTML-AI内容分工]] — Markdown 负责记忆，HTML 负责展示：AI 时代的新内容分工
 - [[PDF、Word、Excel、PPT等-全扔进一个命令：markitdown-让我重新相信文档预处理]] — PDF、Word、Excel、PPT等 全扔进一个命令：markitdown 让我重新相信文档预处理
 
-### Superpowers (1篇)
+### Superpowers (2篇)
 
 - [[Superpowers-完整工作流-工具变搭档]] — 装了Superpowers还是不会用？这套完整工作流，让你的AI从工具变成搭档
 - [[skill自由-三步链路流水线]] — Skill配方｜我用三个skill 实现了skill 自由
+- [[SuperPowers-规范化开发最佳实践]] — SuperPowers：规范化开发最佳实践
 
 ## Synthesis (12个)
 
