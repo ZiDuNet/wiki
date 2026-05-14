@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 
 ## Statistics
 
-- Sources: 972
+- Sources: 976
 - Entities: 147
 - Concepts: 104
 - Synthesis: 12
@@ -33,7 +33,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板]] — 智能体搭建 如何用OpenClaw搭建你的“一人公司”（附完整配置模板）
 - [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]] — 给你的 Hermes & OpenClaw 安装这个工具，能让 Token 消耗立省60%
 
-### AI Coding (6篇)
+### AI Coding (7篇)
 
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
@@ -43,6 +43,11 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[taste-skill-gaoduan-qianduan]] — Taste Skill：教AI写出高端前端，告别廉价感
 - [[37.9k-Star-agent-skills-AI-Agent-工程纪律]] — 37.9k Star 的 agent-skills：AI Agent 也该有工程纪律
 
+### ComfyUI (1篇)
+
+- [[用自然语言生成ComfyUI工作流-彻底告别手动连线]] — 用自然语言生成 ComfyUI 工作流：我写了一个 AI Skill，彻底告别手动连线
+
+- [[AI-CS智能客服系统-开源私有化部署]] — [开源]一个现代化的智能客服系统，AI + 人工一体、可私有化部署
 ### AI入门 (2篇)
 
 - [[AI浪潮已至这是一篇让你超过90普通人的AI入门指南]] — AI浪潮已至：这是一篇让你超过90%普通人的AI入门指南
@@ -90,7 +95,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[千问PPT-Agent实测]] — 千问 PPT Agent 实测：3 分钟出 PPT
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 
-### AI技术 (10篇)
+### AI技术 (11篇)
 
 - [[AI帮你做PPT10分钟搞定汇报]] — AI帮你做PPT，10分钟搞定汇报
 - [[AI智能体Skill与MCP现代AI系统的黄金三角]] — AI智能体、Skill与MCP：现代AI系统的黄金三角
@@ -100,6 +105,7 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[如何用-AI-生成“麦肯锡级”的解决方案PPT我写了这套工具]] — 如何用 AI 生成“麦肯锡级”的解决方案PPT？我写了这套工具
 - [[导读]] — 导读
 - [[差距从来不在于你有没有AI而在于你有没有用AI彻底重构你的业务底座]] — 差距从来不在于你有没有AI，而在于你有没有用AI彻底重构你的业务底座。
+- [[AI时代团队需要更多团长-组团制组织模式]] — AI时代的团队，需要更多的"团长"
 - [[干货｜PromptSkillProjectMCP一套完整的-AI-工作流]] — 干货｜Prompt、Skill、Project、MCP，一套完整的 AI 工作流！
 - [[方法论的诞生]] — 方法论的诞生
 
@@ -615,6 +621,10 @@ Master catalog of all wiki pages. Updated on 2026-05-14.
 - [[怎么创建一个真正能干活的-Skills？]] — MCP Root Cause Service Builder
 - [[我给龙虾装上好用的PPT-Skill]] — 我给龙虾装上好用的PPT Skill
 - [[最值得安装的20个Skills]] — ClawHub上的Skillnpx clawhub@latest install skill名称# GitHub上的Skillnpx skills add skill地址
+
+### OpenCode + Draw.io MCP (1篇)
+
+- [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
 ### Obsidian (25篇)
 

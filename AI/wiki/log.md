@@ -2,6 +2,39 @@
 
 Chronological record of all operations.
 
+
+---
+
+## 2026-05-14 — 微信公众号文章批量摄入（第二次）
+
+**Operator:** Automated ingestion (微信同步)
+**Source:** 微信公众号/ (5 files processed, 1 failed/stub)
+**Time:** 2026-05-14 12:00
+
+### Results
+
+- **Sources processed:** 4 (1 stub/failed: GitHub建模革命)
+- **Categories:** ComfyUI (1), AI Coding (1), OpenCode+Docs MCP (1), AI技术 (1)
+- **Source pages created:** 4
+- **Failed/Skipped:** 1 (GitHub建模革命 — 内容抓取失败，仅有来源行)
+
+### Articles Added
+
+**ComfyUI (1):**
+- 用自然语言生成 ComfyUI 工作流：我写了一个 AI Skill，彻底告别手动连线
+
+**AI Coding (1):**
+- [开源]一个现代化的智能客服系统，AI + 人工一体、可私有化部署
+
+**OpenCode + Draw.io MCP (1):**
+- OpenCode + Draw.io MCP 让 AI 替你搞定架构图
+
+**AI技术 (1):**
+- AI时代的团队，需要更多的"团长"
+
+**Skipped (1):**
+- GitHub开源"建模革命"：这个不到200MB的工具，靠一张照片几秒生成3D资产（内容为空/抓取失败）
+
 ## 2026-05-14 — 微信公众号文章批量摄入
 
 **Operator:** Automated ingestion (微信同步)

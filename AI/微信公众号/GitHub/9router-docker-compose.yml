@@ -1,0 +1,48 @@
+version: "3.8"
+
+services:
+  9router:
+    image: decolua/9router:latest
+    container_name: 9router
+    restart: unless-stopped
+    ports:
+      - "20128:20128"          # Web 仪表板端口
+
+    volumes:
+      - ./data:/app/data       # 数据持久化（SQLite数据库、证书、日志）
+
+    environment:
+      # ===== 必填 =====
+      - DATA_DIR=/app/data                              # 数据目录，必须与挂载路径一致
+      - JWT_SECRET=your_random_secret_change_me         # JWT 签名密钥，改成随机字符串
+      - INITIAL_PASSWORD=your_password_here             # 初始登录密码
+
+      # ===== 网络 =====
+      - PORT=20128                                      # 监听端口
+      - HOSTNAME=0.0.0.0                                # 监听地址，0.0.0.0 允许外部访问
+
+      # ===== 运行模式 =====
+      - NODE_ENV=production                             # 生产环境
+
+      # ===== 安全 =====
+      - API_KEY_SECRET=your_api_key_secret              # API Key 签名密钥
+      - MACHINE_ID_SALT=your_machine_salt               # 机器ID盐值
+      - AUTH_COOKIE_SECURE=false                        # HTTPS环境设true，本地用false
+      - REQUIRE_API_KEY=false                           # 是否强制要求API Key认证
+
+      # ===== 日志与监控 =====
+      - ENABLE_REQUEST_LOGS=false                       # 开启请求日志（调试用）
+      - OBSERVABILITY_ENABLED=true                      # 可观测性开关
+      - DEBUG=false                                     # 调试模式
+
+      # ===== 云同步（可选） =====
+      - BASE_URL=http://localhost:20128                 # 本实例地址，内部同步用
+      - CLOUD_URL=https://9router.com                   # 官方云同步地址
+      - NEXT_PUBLIC_BASE_URL=http://localhost:20128     # 前端公共地址
+      - NEXT_PUBLIC_CLOUD_URL=https://9router.com       # 前端云同步地址
+
+      # ===== 代理（可选，国内可能需要） =====
+      # - HTTP_PROXY=http://127.0.0.1:7890
+      # - HTTPS_PROXY=http://127.0.0.1:7890
+      # - ALL_PROXY=socks5://127.0.0.1:7890
+      # - NO_PROXY=localhost,127.0.0.1
