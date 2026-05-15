@@ -1,11 +1,11 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-15.
+Master catalog of all wiki pages. Updated on 2026-05-16.
 
 ## Statistics
 
-- Sources: 983
-- Entities: 147
+- Sources: 992 (+9)
+- Entities: 149 (+2)
 - Concepts: 104
 - Synthesis: 12
 
@@ -86,7 +86,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 
 - [[waimao-xiaolong-bashichu-system]] — 跟龙虾鏖战一个月，我打通了这套「外贸出海情报系统」
 
-### AI工具 (6篇)
+### AI工具 (7篇)
 
 - [[做PPT最痛苦的不是做是从零开始]] — 做PPT最痛苦的不是做，是"从零开始"。
 - [[别死磕一个-ai-4-个工具一键搞定工作汇报-ppt]] — 别死磕一个 AI！4 个工具，一键搞定全套工作汇报 PPT
@@ -94,8 +94,9 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[MarkItDown-微软万物转Markdown]] — 107K Star 微软万物转 Markdown 工具
 - [[千问PPT-Agent实测]] — 千问 PPT Agent 实测：3 分钟出 PPT
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
+- [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
 
-### AI技术 (11篇)
+### AI技术 (12篇)
 
 - [[AI帮你做PPT10分钟搞定汇报]] — AI帮你做PPT，10分钟搞定汇报
 - [[AI智能体Skill与MCP现代AI系统的黄金三角]] — AI智能体、Skill与MCP：现代AI系统的黄金三角
@@ -108,6 +109,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[AI时代团队需要更多团长-组团制组织模式]] — AI时代的团队，需要更多的"团长"
 - [[干货｜PromptSkillProjectMCP一套完整的-AI-工作流]] — 干货｜Prompt、Skill、Project、MCP，一套完整的 AI 工作流！
 - [[方法论的诞生]] — 方法论的诞生
+- [[AI数据分析Excel从此只用来看结果]] — 手把手教你用AI做数据分析，Excel从此只用来看结果
 
 ### AI短剧 (1篇)
 
@@ -139,7 +141,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (93篇)
+### Agent (94篇)
 
 - [[企业落地-AI-Agent-第一批最容易跑通的10个低风险场景]] — 企业落地 AI Agent，第一批最容易跑通的 10 个低风险场景
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
@@ -238,6 +240,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[9router-万能ai模型路由]] — 打通所有Agent和所有大模型，这个万能路由了解下？
 - [[力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了]] — 力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了
 - [[Agent-技能夜间自进化——阿里开源-SkillClaw，最高提升-88%]] — Agent 技能夜间自进化——阿里开源 SkillClaw，最高提升 88%
+- [[Agent替你干活的真相比你想象的简单十倍]] — Agent 替你干活的真相，比你想象的简单十倍
 
 ### Agent Teams (2篇)
 
@@ -254,7 +257,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 
 - [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT新手指南：从注册到上手只需10分钟
 
-### Claude (33篇)
+### Claude (34篇)
 
 - [[01AI生成PPT“血与泪”的故事]] — # 01.AI生成PPT“血与泪”的故事
 - [[1-克隆并链接到Claude-Code的技能目录git-clone-httpsgithubcombrowserusevideousecd-videouseln-]] — 1. 克隆并链接到Claude Code的技能目录git clone https://github.com/browser-use/video-usecd video-useln -s "$(pwd)" ~/.claude/skills/video-use# 2. 安装依赖pip install -e .brew install ffmpeg # 必需brew install yt-dlp # 可选，用于下载在线资源# 3. 添加你的ElevenLabs API密钥cp .env.example .env$EDITOR .env # ELEVENLABSAPIKEY=...
@@ -290,6 +293,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[这个开源项目让全家都能用]] — ,这个开源项目让全家都能用
 - [[claude-skill-xiaobai-biquan]] — 数智赋能：一文讲清什么是 Skill？该装哪些 Skill？
 - [[sub2api-api网关平台]] — 自己动手搭API中转站之Sub2API：一个网关统管 OpenAI / Claude / Gemini，限流计费全搞定
+- [[web-access-skillAI联网能力升级]] — 这个Skill解决了什么问题
 
 ### Dify (1篇)
 
@@ -561,7 +565,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[搞完HermesKanban我才发现多Agent协作根本不是在演戏]] — 搞完 Hermes Kanban 我才发现，多 Agent 协作根本不是在演戏
 - [[一键给HermesAgent装上操作系统打造的开箱即用技能层]] — 一键给 Hermes Agent 装上"操作系统"，打造的开箱即用技能层
 
-### Hermes Agent (27篇)
+### Hermes Agent (28篇)
 
 - [[Hermes(爱马仕)：如何记得更牢，越用越聪明的方式]] — Hermes(爱马仕)：如何记得更牢，越用越聪明的方式
 - [[Hermes-Agent-保姆级安装配置指南]] — Hermes Agent 是什么？
@@ -590,6 +594,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[给-Hermes-装上_第二颗大脑_：当-OpenViking-遇上-GitNexus]] — 给 Hermes 装上第二颗大脑：当 OpenViking 遇上 GitNexus
 - [[装了-Hermes-却只当聊天框用？这-15-个功能你大概率没碰过]] — 装了 Hermes 却只当聊天框用？这 15 个功能你大概率没碰过
 - [[装完-Hermes-之后如何提升使用能力？]] — 装完 Hermes 之后如何提升使用能力？
+- [[Hermes-Agent-2026-年-5-月必装的-10-大神级插件分享]] — 2026 年 5 月必装的 10 大神级插件分享
 
 ### JVS Claw (1篇)
 
@@ -805,7 +810,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[克隆仓库gitclonehttpsgithubcomhugohe3pptmastergitcdpptmaster-安装依赖pip-install-r-requi]] — 克隆仓库git clone https://github.com/hugohe3/ppt-master.gitcd ppt-master# 安装依赖pip install -r requirements.txt
 - [[ppt-master-skill可编辑-ppt]] — PPT Master Skill：一个真正可编辑的 AI PPT 生成Skill
 
-### PPT skill (9篇)
+### PPT skill (10篇)
 
 - [[10-篇论文拆解-Skill-自进化的技术路线]] — 10 篇论文拆解 Skill + 自进化的技术路线
 - [[Gamma好用但免费10页而且还有水印-这套-PPT-Skill真正厉害的是把做幻灯片变成系统能力]] — Gamma好用，但免费10页而且还有水印 ：这套 PPT Skill，真正厉害的是把做幻灯片变成系统能力
@@ -816,8 +821,9 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[我用AI做了个杂志风PPT发到群里没人信是HTML写的]] — 我用AI做了个杂志风PPT,发到群里没人信是HTML写的
 - [[我试了几乎所有能生成-PPT-的-AI-技能最后只留了-4-个特别是最后一个]] — 我试了几乎所有能生成 PPT 的 AI 技能，最后只留了 4 个，特别是最后一个
 - [[24个开源-ai-ppt-skill-推荐收藏]] — 再盘 | 24 个开源的 AI PPT Skill，推荐收藏
+- [[26个PPT生成Skill我做了一次系统梳理]] — 26个PPT生成Skill，我做了一次系统梳理
 
-### PPT制作 (6篇)
+### PPT制作 (7篇)
 
 - [[AI做PPT看这一篇就够了这篇长文告诉你如何用AI做PPT]] — AI做PPT，看这一篇就够了，这篇长文告诉你如何用AI做PPT
 - [[skill功能]] — skill功能
@@ -825,6 +831,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[我发现了一种高效制作PPT的新思路]] — 我发现了一种高效制作PPT的新思路
 - [[我花3个月做了一个AI做PPT的工具每个字都能改数据不出本地]] — 我花3个月做了一个AI做PPT的工具，每个字都能改，数据不出本地
 - [[起因现-AI-PPT-方案都难受]] — 起因：现 AI PPT 方案都难受
+- [[我试了几乎所有最火的-AI-生成-PPT-方案]] — 我试了几乎所有最火的 AI 生成 PPT 方案
 
 ### PUAClaw (1篇)
 
@@ -931,7 +938,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[分享4个新发现的宝藏Skills]] — 分享4个新发现的宝藏Skills
 - [[78K-Star的AI编程Skills-grill-me-需求访谈Skill]] — 78K Star的AI编程Skills：在开发前，先让grill-me对你做一个"需求访谈"
 
-### Skills技能 (8篇)
+### Skills技能 (9篇)
 
 - [[5个让Hermes-AI脱胎换骨的skills，用过就回不去了]] — 5个让Hermes AI脱胎换骨的skills，用过就回不去了
 - [[Hermes-Agent装好后必做的10件事——70个Skills我替你筛完，央企打工人照着做就行]] — Hermes Agent装好后必做的10件事——70个Skills我替你筛完，央企打工人照着做就行
@@ -941,6 +948,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[我让-Hermes-Agent-自己写了一个数据质量-Skill，结果它真的开始自我修正了]] — 我让 Hermes Agent 自己写了一个数据质量 Skill，结果它真的开始自我修正了
 - [[用好-Hermes-的这个技能，让你的-Agent-越用越聪明，Token-成本暴降-90%]] — 用好 Hermes 的这个技能，让你的 Agent 越用越聪明，Token 成本暴降 90%
 - [[第-009-篇｜个人副业真正跑起来把-Hermes-Top-30-skills-串成系统。（主业也可以用）]] — 第 009 篇｜个人副业真正跑起来把 Hermes Top 30 skills 串成系统。（主业也可以用）
+- [[CNKI-Skills-Claude-Code查知网文献检索筛选下载整理一条龙]] — 这个skills查知网，检索、筛选、下载、整理文献一条龙
 
 ### Skill资产化 (3篇)
 
@@ -956,13 +964,14 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 
 - [[我在-Tabbit-浏览器里做了一个调研神器从此写文章快了一倍]] — 我在 Tabbit 浏览器里做了一个调研神器，从此写文章快了一倍
 
-### Vibe Coding (4篇)
+### Vibe Coding (5篇)
 
 - [[Claude-Code推荐]] — Claude Code（推荐）
 - [[Vibe-Coding-如何重塑产品设计和工程研发协同]] — Vibe Coding 如何重塑产品、设计和工程研发协同
 - [[从-Vibe-Coding-到-Harness-Engineering注意力时代的软件工程]] — 从 Vibe Coding 到 Harness Engineering：注意力时代的软件工程
 - [[给-VibeCoding-开发者的扫码登录神器一个-SKILL-搞定一切]] — 给 VibeCoding 开发者的扫码登录神器：一个 SKILL 搞定一切
 - [[vibe-coding会议助手实战]] — Vibe Coding 实战，我用半天时间做了个会议助手
+- [[一人公司AI工具全家桶2-7k-Star]] — 2.7k Star！一人公司 AI 工具全家桶
 
 ### WeKnora (1篇)
 

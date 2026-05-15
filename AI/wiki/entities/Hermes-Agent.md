@@ -2,7 +2,7 @@
 type: entity
 name: Hermes Agent
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 
 # Hermes Agent

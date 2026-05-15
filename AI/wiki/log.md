@@ -822,3 +822,60 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - Harness: 9 → 10 (+1)
 - Hermes: 190 → 192 (+2)
 12. `sources/9router-万能ai模型路由.md` — 9Router万能AI路由
+
+---
+
+## 2026-05-16 — 微信公众号文章同步摄入
+
+**Operator:** Automated ingestion (微信同步 + cron)
+**Source:** 微信公众号/ (9 new articles processed)
+**Time:** 2026-05-16 06:00
+
+### Results
+
+- **Sources processed:** 9
+- **Categories:** Claude (1), PPT skill (1), Vibe Coding (1), Agent (1), Hermes (1), AI技术 (1), AI生成PPT方案 (1), Skills (1), 字节UI-TARS Desktop (1)
+- **Source pages created:** 9
+- **Entity pages created/updated:** 2 new (UI-TARS Desktop, CNKI Skills), 3 updated (web-access, Hermes-Agent)
+- **Failed/Skipped:** 0
+
+### Articles Added
+
+**Claude (1):**
+- [[web-access-skill-ai联网能力升级]] — AI联网能力升级：web-access Skill解决了什么问题
+
+**PPT skill (1):**
+- [[26个PPT生成Skill系统梳理]] — 26个PPT生成Skill，我做了一次系统梳理
+
+**Vibe Coding (1):**
+- [[一人公司AI工具全家桶-2.7k-star]] — 一人公司 AI 工具全家桶：2.7k Star 的 one-person-company
+
+**Agent (1):**
+- [[Agent替你干活的真相]] — Agent 替你干活的真相，比你想象的简单十倍
+
+**Hermes (1):**
+- [[Hermes-Agent-10大神级插件分享]] — Hermes Agent 2026年5月必装的10大神级插件
+
+**AI技术 (1):**
+- [[AI数据分析Excel从此只用来看结果]] — 手把手教你用AI做数据分析，Excel从此只用来看结果
+
+**AI生成PPT方案 (1):**
+- [[AI生成PPT方案完整经验总结]] — 7款AI生成PPT方案完整经验总结
+
+**Skills (1):**
+- [[CNKI-Skills-Claude-Code查知网]] — CNKI Skills：查知网检索筛选下载整理文献一条龙
+
+**字节UI-TARS Desktop (1):**
+- [[UI-TARS-Desktop字节开源33.7k-star]] — 字节开源33.7k：UI-TARS Desktop AI操作电脑
+
+### Entities Created/Updated
+
+- **Created:** [[UI-TARS-Desktop]] (字节UI-TARS Desktop), [[CNKI-Skills]] (CNKI Skills for Claude Code)
+- **Updated:** [[web-access]], [[Hermes-Agent]]
+
+### Notes
+
+- All 9 queued articles successfully processed and ingested
+- 2 new categories auto-created by wxrobot: AI生成PPT方案, 字节UI-TARS Desktop
+- Sources count: 983 → 992 (+9)
+- Entities count: 147 → 149 (+2)

@@ -1,7 +1,7 @@
 ---
 tags: [entity, product]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 
 # web-access
@@ -42,4 +42,5 @@ product
 
 - [[oc-OpenClaw-×-web-access我让-AI-自己打开浏览器帮我刷了10个平台]]
 - [[oc-OpenClaw对手来了Hermes-Agent狂飙902k-Star附保姆级教程]]
+- [[web-access-skill-ai联网能力升级]] — 2026-05-16 新摄入
 
