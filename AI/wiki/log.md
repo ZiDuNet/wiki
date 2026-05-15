@@ -8,25 +8,26 @@ Chronological record of all operations.
 ## 2026-05-15 — 微信公众号文章同步摄入
 
 **Operator:** Automated ingestion (微信同步)
-**Source:** 微信公众号/ (3 new articles processed)
-**Time:** 2026-05-15 06:00
+**Source:** 微信公众号/ (4 new articles processed)
+**Time:** 2026-05-15 12:00
 
 ### Results
 
-- **Sources processed:** 3
-- **Categories:** WorkBuddy (1), Superpowers (1), Obsidian (1)
-- **Source pages created:** 3
+- **Sources processed:** 4
+- **Categories:** 知识库 (1), Skills (2), Obsidian (1)
+- **Source pages created:** 4
 
 ### Articles Added
 
-**WorkBuddy (1):**
-- [[WorkBuddy实战案例-我把3份Excel扔给WorkBuddy-20分钟找到了我一周都没发现的问题]] — WorkBuddy实战案例：我把3份Excel扔给WorkBuddy，20分钟找到了我一周都没发现的问题
+**知识库 (1):**
+- [[别再手动整理文章了-用-AIWiki-把链接变成可复用知识库]] — 别再手动整理文章了！用 AIWiki 把链接变成可复用知识库
 
-**Superpowers (1):**
-- [[SuperPowers-规范化开发最佳实践]] — SuperPowers：规范化开发最佳实践
+**Skills (2):**
+- [[分享4个新发现的宝藏Skills]] — 分享4个新发现的宝藏Skills
+- [[78K-Star的AI编程Skills-grill-me-需求访谈Skill]] — 78K Star的AI编程Skills：在开发前，先让grill-me对你做一个"需求访谈"
 
 **Obsidian (1):**
-- [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
+- [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
 
 ### Notes
 

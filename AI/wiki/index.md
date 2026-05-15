@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 
 ## Statistics
 
-- Sources: 979
+- Sources: 983
 - Entities: 147
 - Concepts: 104
 - Synthesis: 12
@@ -626,7 +626,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (26篇)
+### Obsidian (27篇)
 
 - [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
@@ -654,6 +654,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[obsidian-wiki-jichu-jiaocheng]] — 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操（保姆级教程）
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 - [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
+- [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
 
 ### OpenClaw (134篇)
 
@@ -872,7 +873,7 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
 
-### Skills (50篇)
+### Skills (52篇)
 
 - [[01｜事情的起因]] — 01｜事情的起因
 - [[1-AwesomeClaudeSkills]] — 1. Awesome-Claude-Skills
@@ -927,6 +928,8 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[别再把-Skill-当插件用了，这-18-个最值得装的-Skills-我帮你筛完了]] — 别再把 Skill 当插件用了，这 18 个最值得装的 Skills 我帮你筛完了
 - [[分享15个自用的Skills]] — 分享15个自用的Skills
 - [[装了这个AI热点Skill之后你再也不需要自己去刷AI新闻了]] — 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。
+- [[分享4个新发现的宝藏Skills]] — 分享4个新发现的宝藏Skills
+- [[78K-Star的AI编程Skills-grill-me-需求访谈Skill]] — 78K Star的AI编程Skills：在开发前，先让grill-me对你做一个"需求访谈"
 
 ### Skills技能 (8篇)
 
@@ -1200,12 +1203,13 @@ Master catalog of all wiki pages. Updated on 2026-05-15.
 - [[Hermes-Agent-v0.5.0-更新日志]] — Hermes Agent v0.5.0 更新日志
 - [[Hermes还没学明白，Generic-Agent又来了]] — Hermes还没学明白，Generic Agent又来了
 
-### 知识库 (4篇)
+### 知识库 (5篇)
 
 - [[Githubhttpsgithubcomintsigtextinxparseskills-Giteehttpsgiteecomintsigtextinxpars]] — Githubhttps://github.com/intsig-textin/xparse-skills# Giteehttps://gitee.com/intsig-textin/xparse-skills# ClawHubhttps://clawhub.ai/intsig-textin/xparse-parser
 - [[去年开始我就在给几家知名上市公司做AI项目其中客户需求量最大要求最高的当属企业知识库项目]] — 去年开始，我就在给几家知名上市公司做AI项目，其中客户需求量最大、要求最高的，当属企业知识库项目。
 - [[给知识库装上水管：信息自动流进来]] — 给知识库装上水管：信息自动流进来
 - [[项目体验]] — 项目体验
+- [[别再手动整理文章了-用-AIWiki-把链接变成可复用知识库]] — 别再手动整理文章了！用 AIWiki 把链接变成可复用知识库
 
 ### 研究报告 (1篇)
 
