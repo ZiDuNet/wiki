@@ -5,6 +5,49 @@ Chronological record of all operations.
 
 ---
 
+## 2026-05-16 — 微信公众号文章同步摄入
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (7 new articles processed)
+**Time:** 2026-05-16 18:00
+
+### Results
+
+- **Sources processed:** 7
+- **Categories:** AI生成PPT方案 (1), WorkBuddy (3), Hermes (1), mmx-cli (1), AI短剧 (1)
+- **Source pages created:** 7
+- **New sections added:** AI生成PPT方案, mmx-cli
+
+### Articles Added
+
+**AI生成PPT方案 (1):**
+- [[702-Oh-My-PPT-开源免费纯本地AI幻灯片神器-一句话生成可拖拽编辑HTML-PPT-30-风格-动画-公式-历史回退-创业路演-教学汇报零云依赖]] — Oh My PPT：开源免费纯本地AI幻灯片神器
+
+**WorkBuddy (3):**
+- [[703-腾讯ima实操手册四-给ima配个数字员工-WorkBuddy基础玩法-不用写一行代码]] — 腾讯ima实操手册（四）
+- [[706-WorkBuddy操作指南-这15条命令让你每天省出2小时-从聊天到替你干活]] — WorkBuddy操作指南
+- [[708-WorkBuddy核心玩法拆解-3种模式-Skills-MCP-效率直接拉满]] — WorkBuddy核心玩法拆解
+
+**mmx-cli (1):**
+- [[704-mmx-cli-一句话让AI助手拥有全模态能力]] — mmx-cli: 一句话让AI助手拥有全模态能力
+
+**Hermes (1):**
+- [[707-把-Hermes-Agent-装进一个真正能每天用的桌面工作台-Hermes-Slate-Desk-V2-0]] — Hermes Slate Desk V2.0
+
+**AI短剧 (1):**
+- [[705-57k-Star-4个免费开源工具-帮你全自动搞定短视频创作全流程]] — 57k+ Star！4个免费开源工具
+
+### Entities Mentioned
+
+Oh-My-PPT, Electron, Anime.js, KaTeX, WorkBuddy, 腾讯ima, IMA知识库, mmx-cli, MiniMax, Hailuo, MoneyPrinterTurbo, Hermes-Slate-Desk, MCP
+
+### Concepts Covered
+
+PPT制作, 本地优先, AI驱动, HTML演示, AI数字员工, AI办公, 工作流自动化, 多模态, CLI工具, AI助手集成, 视频制作, 内容创作, AI自动化, Skill编排, Workspace工作区
+
+---
+
+
 ## 2026-05-15 — 微信公众号文章同步摄入
 
 **Operator:** Automated ingestion (微信同步)

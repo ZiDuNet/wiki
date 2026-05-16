@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-16.
 
 ## Statistics
 
-- Sources: 992 (+9)
+- Sources: 999 (+7)
 - Entities: 149 (+2)
 - Concepts: 104
 - Synthesis: 12
@@ -111,9 +111,10 @@ Master catalog of all wiki pages. Updated on 2026-05-16.
 - [[方法论的诞生]] — 方法论的诞生
 - [[AI数据分析Excel从此只用来看结果]] — 手把手教你用AI做数据分析，Excel从此只用来看结果
 
-### AI短剧 (1篇)
+### AI短剧 (2篇)
 
 - [[一全自动影视梦工厂]] — 一、全自动影视梦工厂
+- [[705-57k-Star-4个免费开源工具-帮你全自动搞定短视频创作全流程]] — 57k+ Star！4个免费开源工具，帮你全自动搞定短视频创作全流程
 
 ### AI编程 (17篇)
 
@@ -368,7 +369,15 @@ Master catalog of all wiki pages. Updated on 2026-05-16.
 
 - [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工]] — 我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工
 
-### Hermes (192篇)
+### AI生成PPT方案 (1篇)
+
+- [[702-Oh-My-PPT-开源免费纯本地AI幻灯片神器-一句话生成可拖拽编辑HTML-PPT-30-风格-动画-公式-历史回退-创业路演-教学汇报零云依赖]] — Oh My PPT：开源免费纯本地AI幻灯片神器，一句话生成可拖拽编辑HTML PPT，30+风格+动画+公式+历史回退，创业路演 教学汇报零云依赖！
+
+### mmx-cli (1篇)
+
+- [[704-mmx-cli-一句话让AI助手拥有全模态能力]] — mmx-cli: 一句话让AI助手拥有全模态能力
+
+### Hermes (193篇)
 
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
@@ -564,6 +573,7 @@ Master catalog of all wiki pages. Updated on 2026-05-16.
 - [[hermes-agent记忆插件选型指南]] — Hermes Agent记忆插件选型指南：8大智能体记忆方案深度对比
 - [[搞完HermesKanban我才发现多Agent协作根本不是在演戏]] — 搞完 Hermes Kanban 我才发现，多 Agent 协作根本不是在演戏
 - [[一键给HermesAgent装上操作系统打造的开箱即用技能层]] — 一键给 Hermes Agent 装上"操作系统"，打造的开箱即用技能层
+- [[707-把-Hermes-Agent-装进一个真正能每天用的桌面工作台-Hermes-Slate-Desk-V2-0]] — 把 Hermes Agent 装进一个真正能每天用的桌面工作台-Hermes Slate Desk V2.0
 
 ### Hermes Agent (28篇)
 
@@ -991,7 +1001,7 @@ Master catalog of all wiki pages. Updated on 2026-05-16.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (20篇)
+### WorkBuddy (22篇)
 
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[一你每天有多少事是机械重复的]] — 一、你每天有多少事是"机械重复"的？
@@ -1013,6 +1023,10 @@ Master catalog of all wiki pages. Updated on 2026-05-16.
 - [[workbuddy真的行！生产力skills推荐]] — workbuddy真的行！生产力skills推荐！
 - [[WorkBuddy智能操控实战：发票软件状态监控+Excel账龄分析+邮件自动通知+飞书协作]] — WorkBuddy 智能操控实战：发票软件状态监控 + Excel账龄分析 + 邮件自动通知+飞书协作
 - [[WorkBuddy实战案例-我把3份Excel扔给WorkBuddy-20分钟找到了我一周都没发现的问题]] — WorkBuddy实战案例：我把3份Excel扔给WorkBuddy，20分钟找到了我一周都没发现的问题
+- [[703-腾讯ima实操手册四-给ima配个数字员工-WorkBuddy基础玩法-不用写一行代码]] — 腾讯ima实操手册（四）：给ima配个"数字员工"——WorkBuddy基础玩法，不用写一行代码
+- [[706-WorkBuddy操作指南-这15条命令让你每天省出2小时-从聊天到替你干活]] — WorkBuddy操作指南：这15条命令让你每天省出2小时，从"聊天"到"替你干活"。
+- [[708-WorkBuddy核心玩法拆解-3种模式-Skills-MCP-效率直接拉满]] — WorkBuddy核心玩法拆解：3种模式+Skills+MCP，效率直接拉满
+
 
 ### acquire-codebase-knowledge (1篇)
 
