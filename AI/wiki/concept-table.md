@@ -24,9 +24,11 @@
 | [[Harness-Engineering]] | # Harness Engineering | 24 |
 | [[Harness框架]] | # Harness框架 | 44 |
 | [[Kanban看板]] | # Kanban看板 | 10 |
+| [[本地深度研究]] | 本地运行的AI深度研究工具，支持Qwen3.6-27B，隐私敏感替代方案 | 1 |
 | [[Learning-Loop]] | # Learning Loop | 13 |
 | [[Mac本地推理]] | Mac 本地运行大语言模型推理的技术，通过内存+SSD 两级 KV 缓存解决"90 秒延迟"问题 | 1 |
 | [[MCP协议]] | # MCP协议 | 20 |
+| [[参数化设计]] | 通过变量和公式定义几何关系，修改参数即可自动更新模型 | 2 |
 | [[Multi-Agent]] | # Multi-Agent | 129 |
 | [[PPT制作]] | # PPT制作 | 37 |
 | [[PPT设计]] | # PPT设计 | 3 |
@@ -38,6 +40,7 @@
 | [[SOP]] | # SOP | 28 |
 | [[SOUL配置]] | # SOUL.md配置 | 19 |
 | [[SVG绘图]] | # SVG绘图 | 23 |
+| [[text-to-cad]] | Text-to-CAD：AI生成CAD模型框架，自然语言→OpenSCAD代码，支持参数化 | 2 |
 | [[Self-Refinement]] | # Self-Refinement | 20 |
 | [[Skill-Architect]] | # Skill Architect | 7 |
 | [[Skills技能系统]] | # Skills技能系统 | 13 |

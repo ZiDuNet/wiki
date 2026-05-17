@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 
 ## Statistics
 
-- Sources: 1006 (+7)
+- Sources: 1016 (+10)
 - Entities: 156 (+7)
 - Concepts: 111 (+7)
 - Synthesis: 12
@@ -96,7 +96,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
 
-### AI技术 (12篇)
+### AI技术 (13篇)
 
 - [[AI帮你做PPT10分钟搞定汇报]] — AI帮你做PPT，10分钟搞定汇报
 - [[AI智能体Skill与MCP现代AI系统的黄金三角]] — AI智能体、Skill与MCP：现代AI系统的黄金三角
@@ -111,6 +111,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[方法论的诞生]] — 方法论的诞生
 - [[AI数据分析Excel从此只用来看结果]] — 手把手教你用AI做数据分析，Excel从此只用来看结果
 
+- [[709-用自然语言生成可编辑参数化3DCAD模型]] — 用自然语言生成可编辑参数化3D CAD模型
 ### AI短剧 (2篇)
 
 - [[一全自动影视梦工厂]] — 一、全自动影视梦工厂
@@ -313,7 +314,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (22篇)
+### GitHub (24篇)
 
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
@@ -340,6 +341,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[cyber-skills-github整理]] — 我把常用的Skills和Prompt，全整理到GitHub了
 - [[扒了1周GitHub我挖出了顶级博主不肯说的20个Sikll超详细介绍及安装教程]] — 扒了1周GitHub，我挖出了顶级博主不肯说的20个Sikll，超详细介绍及安装教程
 
+- [[710-推荐8个本周YYDS的GitHub开源项目]] — 推荐 8 个本周 YYDS 的 GitHub 开源项目
+- [[713-GitHub2万星爆款让AI接管你的浏览器这个开源项目太强了]] — GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了
 ### GitHub开源项目 (1篇)
 
 - [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！]] — CodeBuddy Cli + skills 实现小红书信息图系列生成器！
@@ -377,7 +380,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 
 - [[704-mmx-cli-一句话让AI助手拥有全模态能力]] — mmx-cli: 一句话让AI助手拥有全模态能力
 
-### Hermes (193篇)
+### Hermes (196篇)
 
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
@@ -575,6 +578,9 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[一键给HermesAgent装上操作系统打造的开箱即用技能层]] — 一键给 Hermes Agent 装上"操作系统"，打造的开箱即用技能层
 - [[707-把-Hermes-Agent-装进一个真正能每天用的桌面工作台-Hermes-Slate-Desk-V2-0]] — 把 Hermes Agent 装进一个真正能每天用的桌面工作台-Hermes Slate Desk V2.0
 
+- [[711-Hermes出桌面版了AIAgent终于不用只活在命令行里]] — Hermes 出桌面版了：AI Agent 终于不用只活在命令行里
+- [[716-HermesAgent自动化进阶用Cron解锁24_7无人值守工作流]] — Hermes Agent 自动化进阶：用 Cron 解锁 24/7 无人值守工作流
+- [[718-配够了HermesAgent的Profile和Skill试试OpenHuman零配置连上就懂你]] — 配够了 Hermes Agent 的 Profile 和 Skill？试试 OpenHuman：零配置，连上就懂你
 ### Hermes Agent (28篇)
 
 - [[Hermes(爱马仕)：如何记得更牢，越用越聪明的方式]] — Hermes(爱马仕)：如何记得更牢，越用越聪明的方式
@@ -670,8 +676,13 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 - [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
 - [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
+### Zero-to-CAD (2篇)
 
-### OpenClaw (134篇)
+- [[712-Zero-to-CADAI三维CAD设计的新分水岭]] — Zero-to-CAD：AI 三维CAD设计的新分水岭
+- [[714-说话就能建模AI直接生成可导出的CAD模型]] — 说话就能建模，AI 直接生成可导出的 CAD 模型
+
+
+### OpenClaw (135篇)
 
 - [[1-Python-310]] — 1. Python 3.10+
 - [[1-停掉-browse-后台进程]] — 1. 停掉 browse 后台进程
@@ -810,6 +821,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[openclaw数字孪生-记忆系统]] — 我用 OpenClaw 做了一个数字孪生，才发现数据库 AI Agent 真正缺的不是知识
 - [[别乱装！OpenClaw-53个官方技能安全清单]] — 别乱装！OpenClaw 53个官方技能安全清单
 
+- [[715-OpenClaw和Hermes直接画CAD一天25kStartext-to-cad开源了]] — OpenClaw 和 Hermes直接画CAD，一天2.5k Star — text-to-cad开源了
 ### PPT Master (6篇)
 
 - [[PPT-Master-AI能将任何文档都转成本地可编辑的PPT]] — PPT Master — AI能将任何文档都转成本地可编辑的PPT
@@ -1201,7 +1213,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 
 - [[一个测试人必备的Hermes-Agent-全流程UI测试方案，简直太牛了（附详细实操）]] — 一个测试人必备的Hermes Agent 全流程UI测试方案，简直太牛了（附详细实操）
 
-### 浏览器自动化 (5篇)
+### 浏览器自动化 (6篇)
 
 - [[cli-skill-搭建-ai-浏览器自动化框架]] — CLI+Skill 搭建 AI 浏览器自动化框架：告别重复任务，0 Token 也能跑
 - [[一文彻底了解浏览器自动化cdpplaywrightbrowserusermidscenebrowsermcp]] — 一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp
@@ -1209,6 +1221,7 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[加了几个-Skill，小龙虾变身高阶分析师]] — 加了几个 Skill，小龙虾变身高阶分析师
 - [[每日一-Skills-推荐｜baoyu-skills：13000-Star-的内容创作全家桶，从选题到发一条龙]] — 每日一 Skills 推荐｜baoyu-skills：13000 Star 的内容创作全家桶，从选题到发一条龙
 
+- [[717-浏览器自动化神器agent-browser使用教程]] — 浏览器自动化神器 agent-browser 使用教程
 ### 深度解析 (8篇)
 
 - [[Hermes-Agent-深度解析：能自我进化的-AI-代理框架]] — Hermes Agent 深度解析：能自我进化的 AI 代理框架

@@ -5,6 +5,38 @@ Chronological record of all operations.
 
 ---
 
+## 2026-05-17 — 微信公众号文章同步摄入（第二批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (10 new articles processed)
+**Time:** 2026-05-17 18:00
+
+### Results
+
+- **Sources processed:** 10
+- **Categories:** Hermes (3), GitHub (2), Zero-to-CAD (2), OpenClaw (1), AI技术 (1), 浏览器自动化 (1)
+- **New section created:** Zero-to-CAD (2篇)
+- **Index stats updated:** Sources 1006→1016
+- **Source pages created:** 10 (wiki/sources/)
+- **Categories updated:** AI技术 12→13, GitHub 22→24, Hermes 193→196, OpenClaw 134→135, 浏览器自动化 5→6
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 709 | AI技术 | 用自然语言生成可编辑参数化3D CAD模型 |
+| 710 | GitHub | 推荐 8 个本周 YYDS 的 GitHub 开源项目 |
+| 711 | Hermes | Hermes 出桌面版了：AI Agent 终于不用只活在命令行里 |
+| 712 | Zero-to-CAD | Zero-to-CAD：AI 三维CAD设计的新分水岭 |
+| 713 | GitHub | GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了 |
+| 714 | Zero-to-CAD | 说话就能建模，AI 直接生成可导出的 CAD 模型 |
+| 715 | OpenClaw | OpenClaw 和 Hermes直接画CAD，一天2.5k Star — text-to-cad开源了 |
+| 716 | Hermes | Hermes Agent 自动化进阶：用 Cron 解锁 24/7 无人值守工作流 |
+| 717 | 浏览器自动化 | 浏览器自动化神器 agent-browser 使用教程 |
+| 718 | Hermes | 配够了 Hermes Agent 的 Profile 和 Skill？试试 OpenHuman：零配置，连上就懂你 |
+
+---
+
 ## 2026-05-17 — 微信公众号文章同步摄入
 
 **Operator:** Automated ingestion (微信同步 cron)
