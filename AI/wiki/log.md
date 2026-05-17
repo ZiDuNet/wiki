@@ -5,6 +5,22 @@ Chronological record of all operations.
 
 ---
 
+## 2026-05-17 — 微信公众号文章同步摄入
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (7 new articles processed)
+**Time:** 2026-05-17 12:00
+
+### Results
+
+- **Sources processed:** 7
+- **Categories:** AI生成PPT方案 (1), WorkBuddy (3), Hermes (1), mmx-cli (1), AI短剧 (1)
+- **Entity pages created:** 7 (Oh-My-PPT, Hermes-Slate-Desk, MoneyPrinterTurbo, AutoClip, Hailuo, Image-01, Speech)
+- **Concept pages created:** 7 (本地优先, HTML演示, CLI工具, AI助手集成, AI自动化, AI笔记, 多模态交互)
+- **Index stats updated:** Sources 999→1006, Entities 149→156, Concepts 104→111
+
+---
+
 ## 2026-05-16 — 微信公众号文章同步摄入
 
 **Operator:** Automated ingestion (微信同步 cron)
