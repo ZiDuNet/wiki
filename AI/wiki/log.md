@@ -3,6 +3,35 @@
 Chronological record of all operations.
 
 
+## 2026-05-18 — 微信公众号文章同步摄入
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (7 new articles processed)
+**Time:** 2026-05-18 00:07
+
+### Results
+
+- **Sources processed:** 7
+- **Categories:** LLM-Wiki (1), Skills (1), 企业应用 (1), OpenHuman (1), wx-cli (1), AI数据分析 (1), CAD (1)
+- **Index stats updated:** Sources 1016→1023, Entities 156→163, Concepts 111→118
+- **Source pages created:** 7 (wiki/sources/)
+- **Sections updated:** LLM-Wiki 8→9, Skills 52→53, 企业应用 2→3
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 732 | OpenHuman | 开源的个人AI超级智能：让你的AI真正认识你 |
+| 733 | Skills | 别再把AgentSkills塞进代码仓库了，我做了个一键部署的团队版Skills分发平台 |
+| 734 | wx-cli | 一行命令搞定公众号文章：wx-cli让我重新理解了什么叫信息获取 |
+| 735 | AI数据分析 | 进阶AI数据分析：AI+Python搭建全能数据分析智能体 |
+| 736 | CAD | text-to-cad：和它对话就能做建筑设计方案 |
+| 737 | 企业应用 | 我来预测下一代企业数字化架构：系统CLI化、流程Skill化、员工Agent化 |
+| 738 | LLM-Wiki | Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库 |
+
+---
+
+
 ---
 
 ## 2026-05-17 — 微信公众号文章同步摄入（第二批次）

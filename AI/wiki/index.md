@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-17.
+Master catalog of all wiki pages. Updated on 2026-05-18.
 
 ## Statistics
 
-- Sources: 1016 (+10)
-- Entities: 156 (+7)
-- Concepts: 111 (+7)
+- Sources: 1023 (+7)
+- Entities: 163 (+7)
+- Concepts: 118 (+7)
 - Synthesis: 12
 
 ## Sources
@@ -86,7 +86,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 
 - [[waimao-xiaolong-bashichu-system]] — 跟龙虾鏖战一个月，我打通了这套「外贸出海情报系统」
 
-### AI工具 (7篇)
+### AI工具 (8篇)
+- [[732-开源的个人AI超级智能让你的AI真正认识你]] — 开源的个人AI超级智能：让你的AI真正认识你
 
 - [[做PPT最痛苦的不是做是从零开始]] — 做PPT最痛苦的不是做，是"从零开始"。
 - [[别死磕一个-ai-4-个工具一键搞定工作汇报-ppt]] — 别死磕一个 AI！4 个工具，一键搞定全套工作汇报 PPT
@@ -96,7 +97,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
 
-### AI技术 (13篇)
+### AI技术 (14篇)
+- [[735-进阶AI数据分析AI+Python搭建全能数据分析智能体]] — 进阶AI数据分析：AI+Python搭建全能数据分析智能体
 
 - [[AI帮你做PPT10分钟搞定汇报]] — AI帮你做PPT，10分钟搞定汇报
 - [[AI智能体Skill与MCP现代AI系统的黄金三角]] — AI智能体、Skill与MCP：现代AI系统的黄金三角
@@ -615,8 +617,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 ### JVS Claw (1篇)
 
 - [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果]] — “龙虾”下乡记：JVS Claw在甘肃礼县“种”起了苹果
-
-### LLM-Wiki (8篇)
+### LLM-Wiki (9篇)
+- [[738-Hermes-Obsidian-LLM-Wiki搭建一个会自己长大的本地知识库]] — Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库
 
 - [[karpathy-的-llm-wiki-部署好-8-步搞定不花一分钱]] — Karpathy 的 LLM Wiki 我帮你部署好了：8 步搞定，不花一分钱
 - [[llm-wiki-karpathy-的知识管理理念变成产品了]] — LLM Wiki：Karpathy的知识管理理念变成产品了，文档扔进去自动长出Wiki
@@ -676,7 +678,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 - [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
 - [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
-### Zero-to-CAD (2篇)
+### Zero-to-CAD (3篇)
+- [[736-text-to-cad和它对话就能做建筑设计方案]] — text-to-cad：和它对话就能做建筑设计方案
 
 - [[712-Zero-to-CADAI三维CAD设计的新分水岭]] — Zero-to-CAD：AI 三维CAD设计的新分水岭
 - [[714-说话就能建模AI直接生成可导出的CAD模型]] — 说话就能建模，AI 直接生成可导出的 CAD 模型
@@ -901,8 +904,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 ### SVG绘图 (1篇)
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
-
-### Skills (52篇)
+### Skills (53篇)
+- [[733-别再把AgentSkills塞进代码仓库了我做了个一键部署的团队版Skills分发平台]] — 别再把AgentSkills塞进代码仓库了，我做了个一键部署的团队版Skills分发平台
 
 - [[01｜事情的起因]] — 01｜事情的起因
 - [[1-AwesomeClaudeSkills]] — 1. Awesome-Claude-Skills
@@ -1044,6 +1047,11 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 
 - [[acquirecodebaseknowledge]] — acquire-codebase-knowledge
 
+
+### wx-cli (1篇)
+
+- [[734-一行命令搞定公众号文章wx-cli让我重新理解了什么叫信息获取]] — 一行命令搞定公众号文章：wx-cli让我重新理解了什么叫信息获取
+
 ### skill-CLI-Anything (2篇)
 
 - [[Skill结合LibTV-轻松做出AI实机视频]] — Skill结合哩布哩布LibTV，轻松做出AI实机视频！
@@ -1052,8 +1060,8 @@ Master catalog of all wiki pages. Updated on 2026-05-17.
 ### 上下文管理 (1篇)
 
 - [[你的-AI-skills-有多少在摸鱼？]] — 01｜事情的起因
-
-### 企业应用 (2篇)
+### 企业应用 (3篇)
+- [[737-我来预测下一代企业数字化架构系统CLI化流程Skill化员工Agent化]] — 我来预测下一代企业数字化架构：系统CLI化、流程Skill化、员工Agent化
 
 - [[2026年AIOps革命：如何用Hermes-Agent打造私有化智能运维平台？]] — 2026年AIOps革命：如何用Hermes Agent打造私有化智能运维平台？
 - [[拆开Hermes-Agent：企业怎么自建一套会“越用越强”的AI-Agent系统]] — 拆开Hermes Agent：企业怎么自建一套会“越用越强”的AI Agent系统
