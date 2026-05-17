@@ -3,6 +3,29 @@
 Chronological record of all operations.
 
 
+## 2026-05-18 — 微信公众号文章同步摄入（第三批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (2 new articles processed)
+**Time:** 2026-05-18 06:00
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** LLM-Wiki (1), Skills (1)
+- **Index stats updated:** Sources 1023→1024
+- **Source pages created:** 1 (wiki/sources/739-...)
+- **Sections updated:** Skills 53→54
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 738 | LLM-Wiki | Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库 |
+| 739 | Skills | 2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍 |
+
+---
+
 ## 2026-05-18 — 微信公众号文章同步摄入
 
 **Operator:** Automated ingestion (微信同步 cron)

@@ -904,7 +904,8 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 ### SVG绘图 (1篇)
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
-### Skills (53篇)
+### Skills (54篇)
+- [[739-2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍]] — 2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍
 - [[733-别再把AgentSkills塞进代码仓库了我做了个一键部署的团队版Skills分发平台]] — 别再把AgentSkills塞进代码仓库了，我做了个一键部署的团队版Skills分发平台
 
 - [[01｜事情的起因]] — 01｜事情的起因
