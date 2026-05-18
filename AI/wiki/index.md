@@ -1,10 +1,10 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-18.
+Master catalog of all wiki pages. Updated on 2026-05-19.
 
 ## Statistics
 
-- Sources: 1025 (+1)
+- Sources: 1028 (+3)
 - Entities: 164
 - Concepts: 119
 - Synthesis: 12
@@ -145,7 +145,7 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (94篇)
+### Agent (96篇)
 
 - [[企业落地-AI-Agent-第一批最容易跑通的10个低风险场景]] — 企业落地 AI Agent，第一批最容易跑通的 10 个低风险场景
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
@@ -245,11 +245,13 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 - [[力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了]] — 力荐！这个Skill，让你的Agent有了一双真正的眼睛，抓取网页再也不是难事了
 - [[Agent-技能夜间自进化——阿里开源-SkillClaw，最高提升-88%]] — Agent 技能夜间自进化——阿里开源 SkillClaw，最高提升 88%
 - [[Agent替你干活的真相比你想象的简单十倍]] — Agent 替你干活的真相，比你想象的简单十倍
+- [[大明PPT-Agent-Team]] — 朕不想做PPT，于是创造了大明PPT Agent Team
 
-### Agent Teams (2篇)
+### Agent Teams (3篇)
 
 - [[太强了！一个Skills同时检索六大文献数据库：百度学术_Semantic-Scholar_arxiv_Pubmed_Crossref_OpenAlex]] — 太强了！一个Skills同时检索六大文献数据库：百度学术Semantic ScholararxivPubmedCrossrefOpenAlex
 - [[最值得产品经理装的10个skills]] — 最值得产品经理装的10个skills
+- [[SpectrAI-多AI协同工作站]] — SpectrAI：面向开发者与团队的多AI协同工作站
 
 ### Agent开发 (3篇)
 
@@ -890,9 +892,10 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 
 - [[6款桌面AI助手横评]] — 6款桌面AI助手我试了两个月，便宜的太不稳定，能力强的太烧钱
 
-### QwenPaw (1篇)
+### QwenPaw (2篇)
 
 - [[AI助理免费无限用QwenPaw-OpenCodetokens不要钱]] — AI助理免费无限用？QwenPaw + OpenCode，tokens不要钱！
+- [[养虾免费Token-OpenRouter]] — 终于找到养虾的免费Token，一直有，直接用！
 
 ### RAG (3篇)
 
