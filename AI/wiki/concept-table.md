@@ -127,3 +127,4 @@
 | [[9Router]] | OpenRouter本地版AI模型路由网关，支持Combo fallback和多Agent统一配置 | 1 |
 | [[Token压缩]] | 通过CLI代理在AI上下文输入前过滤压缩内容以降低Token成本的技术 | 1 |
 | [[API网关]] | 统一管理多个AI平台API账号，提供标准化接口、限流和计费的中间层服务 | 1 |
+| [[CNKI Research Toolkit]] | AI驱动的中国知网科研工作流工具，支持自然语言检索知网、结果解析、PDF/CAJ下载、Zotero导入 | 1 |

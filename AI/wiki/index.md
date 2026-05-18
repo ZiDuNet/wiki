@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 ## Statistics
 
-- Sources: 1028 (+3)
+- Sources: 1029 (+1)
 - Entities: 164
 - Concepts: 119
 - Synthesis: 12
@@ -911,7 +911,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 ### SVG绘图 (1篇)
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
-### Skills (54篇)
+### Skills (55篇)
 - [[739-2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍]] — 2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍
 - [[733-别再把AgentSkills塞进代码仓库了我做了个一键部署的团队版Skills分发平台]] — 别再把AgentSkills塞进代码仓库了，我做了个一键部署的团队版Skills分发平台
 
@@ -970,6 +970,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[装了这个AI热点Skill之后你再也不需要自己去刷AI新闻了]] — 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。
 - [[分享4个新发现的宝藏Skills]] — 分享4个新发现的宝藏Skills
 - [[78K-Star的AI编程Skills-grill-me-需求访谈Skill]] — 78K Star的AI编程Skills：在开发前，先让grill-me对你做一个"需求访谈"
+- [[cnki-research-toolkit]] — CNKI Research Toolkit：AI驱动的中国知网科研工作流
 
 ### Skills技能 (9篇)
 

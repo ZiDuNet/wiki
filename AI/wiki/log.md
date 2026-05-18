@@ -2,6 +2,29 @@
 
 Chronological record of all operations.
 
+## 2026-05-19 — 微信公众号文章同步摄入（第七批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (1 new article processed)
+**Time:** 2026-05-19 06:00
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** Skills (1)
+- **Source pages created:** 1 (cnki-research-toolkit.md)
+- **Entity pages created/updated:** none
+- **Concept pages created:** none
+- **concept-table.md updated:** 0
+
+### New Articles
+
+|| ID | 分类 | 标题 |
+||---|---|---|
+|| 745 | Skills | 这个skills可以帮你查知网，导入 Zotero！ |
+
+---
+
 ## 2026-05-19 — 微信公众号文章同步摄入（第六批次）
 
 **Operator:** Automated ingestion (微信同步 cron)
