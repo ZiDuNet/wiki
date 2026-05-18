@@ -1,15 +1,16 @@
 # Concept Table
 
-知识库所有概念的快速索引。Updated: 2026-05-13
+知识库所有概念的快速索引。Updated: 2026-05-18
 
 | Concept | 定义/简介 | 相关文章数 |
 | --- | --- | ---: |
 | [[AGENTS配置]] | # AGENTS.md配置 | 20 |
 | [[AI-Agent]] | # AI Agent | 167 |
 | [[AI办公]] | # AI办公 | 24 |
-| [[AI编程]] | # AI编程 | 24 |
-| [[AI数字员工]] | 让 AI Agent 像真实员工一样持续在线、主动工作的理念 | 1 |
-| [[Agent-Teams]] | # Agent Teams | 24 |
+|| [[AI编程]] | # AI编程 | 24 |
+|| [[桌面AI助手]] | 桌面端运行的AI智能助手，直接操作本地文件，整合办公生态 | 1 |
+|| [[AI数字员工]] | 让 AI Agent 像真实员工一样持续在线、主动工作的理念 | 1 |
+|| [[Agent-Teams]] | # Agent Teams | 24 |
 | [[Agent工程化]] | # Agent工程化 | 23 |
 | [[Agent开发]] | # Agent开发 | 24 |
 | [[Agent架构]] | # Agent架构 | 6 |

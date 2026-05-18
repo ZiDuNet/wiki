@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 
 ## Statistics
 
-- Sources: 1023 (+7)
-- Entities: 163 (+7)
-- Concepts: 118 (+7)
+- Sources: 1024 (+1)
+- Entities: 164 (+1)
+- Concepts: 119 (+1)
 - Synthesis: 12
 
 ## Sources
@@ -884,7 +884,11 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 
 ### QoderWake (1篇)
 
-- [[阿里QoderWake上岗有身份有记忆有红线先给它一版“职业行为指南“]] — 阿里QoderWake上岗：有身份、有记忆、有红线，先给它一版“职业行为指南“
+- [[阿里QoderWake上岗有身份有记忆有红线先给它一版"职业行为指南"]] — 阿里QoderWake上岗：有身份、有记忆、有红线，先给它一版"职业行为指南"
+
+### QoderWork (1篇)
+
+- [[6款桌面AI助手横评]] — 6款桌面AI助手我试了两个月，便宜的太不稳定，能力强的太烧钱
 
 ### QwenPaw (1篇)
 
