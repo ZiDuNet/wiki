@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 
 ## Statistics
 
-- Sources: 1024 (+1)
-- Entities: 164 (+1)
-- Concepts: 119 (+1)
+- Sources: 1025 (+1)
+- Entities: 164
+- Concepts: 119
 - Synthesis: 12
 
 ## Sources
@@ -1021,7 +1021,7 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (22篇)
+### WorkBuddy (23篇)
 
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[一你每天有多少事是机械重复的]] — 一、你每天有多少事是"机械重复"的？
@@ -1046,6 +1046,7 @@ Master catalog of all wiki pages. Updated on 2026-05-18.
 - [[703-腾讯ima实操手册四-给ima配个数字员工-WorkBuddy基础玩法-不用写一行代码]] — 腾讯ima实操手册（四）：给ima配个"数字员工"——WorkBuddy基础玩法，不用写一行代码
 - [[706-WorkBuddy操作指南-这15条命令让你每天省出2小时-从聊天到替你干活]] — WorkBuddy操作指南：这15条命令让你每天省出2小时，从"聊天"到"替你干活"。
 - [[708-WorkBuddy核心玩法拆解-3种模式-Skills-MCP-效率直接拉满]] — WorkBuddy核心玩法拆解：3种模式+Skills+MCP，效率直接拉满
+- [[WorkBuddy-从入门到精通-全套20篇目录]] — WorkBuddy 从入门到精通｜全套 20 篇目录
 
 
 ### acquire-codebase-knowledge (1篇)

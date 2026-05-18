@@ -3,6 +3,29 @@
 Chronological record of all operations.
 
 
+## 2026-05-18 — 微信公众号文章同步摄入（第五批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (1 new article processed)
+**Time:** 2026-05-18 18:00
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** WorkBuddy (1)
+- **Source pages created:** 1 (wiki/sources/WorkBuddy-从入门到精通-全套20篇目录.md)
+- **Entity pages created/updated:** none (WorkBuddy entity already existed)
+- **Concept pages created:** none
+- **concept-table.md updated:** 0
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 741 | WorkBuddy | WorkBuddy 从入门到精通｜全套 20 篇目录 |
+
+---
+
 ## 2026-05-18 — 微信公众号文章同步摄入（第四批次）
 
 **Operator:** Automated ingestion (微信同步 cron)
