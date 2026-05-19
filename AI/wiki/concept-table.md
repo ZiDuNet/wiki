@@ -9,8 +9,9 @@
 | [[AI办公]] | # AI办公 | 24 |
 || [[AI编程]] | # AI编程 | 24 |
 || [[桌面AI助手]] | 桌面端运行的AI智能助手，直接操作本地文件，整合办公生态 | 1 |
-|| [[AI数字员工]] | 让 AI Agent 像真实员工一样持续在线、主动工作的理念 | 1 |
-|| [[Agent-Teams]] | # Agent Teams | 24 |
+| [[AI数字员工]] | 让 AI Agent 像真实员工一样持续在线、主动工作的理念 | 1 |
+| [[AI搜索]] | AI平台直接生成回答的搜索方式，关注品牌在AI回答中的可见度 | 1 |
+| [[Agent-Teams]] | # Agent Teams | 24 |
 | [[Agent工程化]] | # Agent工程化 | 23 |
 | [[Agent开发]] | # Agent开发 | 24 |
 | [[Agent架构]] | # Agent架构 | 6 |
@@ -111,7 +112,7 @@
 | [[语音识别]] | # 语音识别 | 20 |
 | [[门禁机制]] | # 门禁机制 | 21 |
 | [[领域驱动设计]] | # 领域驱动设计 | 1 |
-| [[GEO]] | # GEO（Generative Engine Optimization）| 1 |
+| [[GEO]] | # GEO（Generative Engine Optimization）| 2 |
 | [[外贸出海情报系统]] | # 外贸出海情报系统 | 1 |
 | [[开源情报(OSINT)]] | # 开源情报 | 1 |
 | [[Pixelle-Video]] | 基于ComfyUI架构的AI短视频生成开源项目，已获14k+ Star，模块化设计支持多种LLM和图像服务 | 1 |
@@ -128,3 +129,5 @@
 | [[Token压缩]] | 通过CLI代理在AI上下文输入前过滤压缩内容以降低Token成本的技术 | 1 |
 | [[API网关]] | 统一管理多个AI平台API账号，提供标准化接口、限流和计费的中间层服务 | 1 |
 | [[CNKI Research Toolkit]] | AI驱动的中国知网科研工作流工具，支持自然语言检索知网、结果解析、PDF/CAJ下载、Zotero导入 | 1 |
+| [[ai-geo-monitoring]] | 面向GEO场景的生成式搜索监测系统，追踪品牌在AI平台回答中的可见度 | 1 |
+| [[html-anything]] | nexu-io团队发布的开源HTML编辑器，为Agent时代打造，15000行代码，支持75套Skill模板 | 1 |

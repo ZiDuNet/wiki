@@ -1115,3 +1115,44 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - 2 new categories auto-created by wxrobot: AI生成PPT方案, 字节UI-TARS Desktop
 - Sources count: 983 → 992 (+9)
 - Entities count: 147 → 149 (+2)
+
+## 2026-05-19 — 微信公众号文章同步摄入（第八批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (2 new articles processed)
+**Time:** 2026-05-19 12:00
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** AI技术 (GEO生成式搜索监测系统), Claude (html-anything)
+- **Source pages created:** 2
+  - `wiki/sources/一个开源的-GEO-生成式搜索监测系统-关注品牌在-AI-回答中的可见度.md`
+  - `wiki/sources/html-anything-开源-让你感受-Claude-Code-作者提到的-HTML-效果.md`
+- **Entity pages created:** 2
+  - `wiki/entities/ai-geo-monitoring.md`
+  - `wiki/entities/html-anything.md`
+- **Concept pages created:** 1
+  - `wiki/concepts/AI搜索.md`
+- **concept-table.md updated:** GEO (count 1→2), +AI搜索, +ai-geo-monitoring, +html-anything
+
+### New Articles
+
+**AI技术 (1):**
+- [[一个开源的-GEO-生成式搜索监测系统-关注品牌在-AI-回答中的可见度]] — 一个开源的 GEO 生成式搜索监测系统：关注品牌在 AI 回答中的可见度
+
+**Claude (1):**
+- [[html-anything-开源-让你感受-Claude-Code-作者提到的-HTML-效果]] — html-anything 开源！让你感受 Claude Code 作者提到的 HTML 效果！
+
+### Entities Created/Updated
+
+- **Created:** [[ai-geo-monitoring]] (ai-geo-monitoring), [[html-anything]] (html-anything)
+- **Updated:** [[GEO]] (article count 1→2)
+
+### Notes
+
+- 2 new articles collected and processed successfully
+- Sources count: 1029 → 1031 (+2)
+- Entities count: 168 → 170 (+2)
+- Concepts count: 119 → 121 (+2)
+- All wxrobot queue: pending=0, success=737

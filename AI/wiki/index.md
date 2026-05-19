@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 ## Statistics
 
-- Sources: 1029 (+1)
-- Entities: 164
-- Concepts: 119
+- Sources: 1031 (+2)
+- Entities: 170 (+2)
+- Concepts: 121 (+2)
 - Synthesis: 12
 
 ## Sources
@@ -97,7 +97,8 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
 
-### AI技术 (14篇)
+### AI技术 (15篇)
+
 - [[735-进阶AI数据分析AI+Python搭建全能数据分析智能体]] — 进阶AI数据分析：AI+Python搭建全能数据分析智能体
 
 - [[AI帮你做PPT10分钟搞定汇报]] — AI帮你做PPT，10分钟搞定汇报
@@ -105,13 +106,14 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[一文读懂AI硅基生命体的完整操作系统]] — 一文读懂AI硅基生命体的完整操作系统
 - [[三个效果爆炸的原型-skill彻底告别手动绘制]] — 三个效果爆炸的原型 skill，彻底告别手动绘制
 - [[不会这6点就别说你会养龙虾]] — 不会这6点，就别说你会养龙虾
-- [[如何用-AI-生成“麦肯锡级”的解决方案PPT我写了这套工具]] — 如何用 AI 生成“麦肯锡级”的解决方案PPT？我写了这套工具
+- [[如何用-AI-生成"麦肯锡级"的解决方案PPT我写了这套工具]] — 如何用 AI 生成"麦肯锡级"的解决方案PPT？我写了这套工具
 - [[导读]] — 导读
 - [[差距从来不在于你有没有AI而在于你有没有用AI彻底重构你的业务底座]] — 差距从来不在于你有没有AI，而在于你有没有用AI彻底重构你的业务底座。
 - [[AI时代团队需要更多团长-组团制组织模式]] — AI时代的团队，需要更多的"团长"
 - [[干货｜PromptSkillProjectMCP一套完整的-AI-工作流]] — 干货｜Prompt、Skill、Project、MCP，一套完整的 AI 工作流！
 - [[方法论的诞生]] — 方法论的诞生
 - [[AI数据分析Excel从此只用来看结果]] — 手把手教你用AI做数据分析，Excel从此只用来看结果
+- [[一个开源的-GEO-生成式搜索监测系统-关注品牌在-AI-回答中的可见度]] — 一个开源的 GEO 生成式搜索监测系统：关注品牌在 AI 回答中的可见度
 
 - [[709-用自然语言生成可编辑参数化3DCAD模型]] — 用自然语言生成可编辑参数化3D CAD模型
 ### AI短剧 (2篇)
@@ -263,7 +265,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 - [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT新手指南：从注册到上手只需10分钟
 
-### Claude (34篇)
+### Claude (35篇)
 
 - [[01AI生成PPT“血与泪”的故事]] — # 01.AI生成PPT“血与泪”的故事
 - [[1-克隆并链接到Claude-Code的技能目录git-clone-httpsgithubcombrowserusevideousecd-videouseln-]] — 1. 克隆并链接到Claude Code的技能目录git clone https://github.com/browser-use/video-usecd video-useln -s "$(pwd)" ~/.claude/skills/video-use# 2. 安装依赖pip install -e .brew install ffmpeg # 必需brew install yt-dlp # 可选，用于下载在线资源# 3. 添加你的ElevenLabs API密钥cp .env.example .env$EDITOR .env # ELEVENLABSAPIKEY=...
@@ -300,6 +302,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[claude-skill-xiaobai-biquan]] — 数智赋能：一文讲清什么是 Skill？该装哪些 Skill？
 - [[sub2api-api网关平台]] — 自己动手搭API中转站之Sub2API：一个网关统管 OpenAI / Claude / Gemini，限流计费全搞定
 - [[web-access-skillAI联网能力升级]] — 这个Skill解决了什么问题
+- [[html-anything-开源-让你感受-Claude-Code-作者提到的-HTML-效果]] — html-anything 开源！让你感受 Claude Code 作者提到的 HTML 效果！
 
 ### Dify (1篇)
 
