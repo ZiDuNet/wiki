@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 ## Statistics
 
-- Sources: 1031 (+2)
-- Entities: 170 (+2)
-- Concepts: 121 (+2)
+- Sources: 1032 (+1)
+- Entities: 170 (+0)
+- Concepts: 122 (+1)
 - Synthesis: 12
 
 ## Sources
@@ -910,6 +910,10 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 ### RAG检索 (1篇)
 
 - [[Hermes(爱马仕)：搭建个人知识管理RAG检索]] — Hermes(爱马仕)：搭建个人知识管理RAG检索
+
+### RPA (1篇)
+
+- [[RPA-数据可视化-全链路自动化]] — RPA+数据可视化：打通数据采集到智能决策的全链路自动化
 
 ### SVG绘图 (1篇)
 

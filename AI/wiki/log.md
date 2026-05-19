@@ -2,6 +2,29 @@
 
 Chronological record of all operations.
 
+## 2026-05-20 — 微信公众号文章同步摄入（第八批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (1 new article processed)
+**Time:** 2026-05-20 00:00
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** RPA (1)
+- **Source pages created:** 1 (RPA-数据可视化-全链路自动化.md)
+- **Entity pages created/updated:** none
+- **Concept pages created:** 1 (RPA.md)
+- **concept-table.md updated:** 1
+
+### New Articles
+
+||| ID | 分类 | 标题 |
+|---|---|---|---|
+||| 748 | RPA | RPA+数据可视化：打通数据采集到智能决策的全链路自动化 |
+
+---
+
 ## 2026-05-19 — 微信公众号文章同步摄入（第七批次）
 
 **Operator:** Automated ingestion (微信同步 cron)
