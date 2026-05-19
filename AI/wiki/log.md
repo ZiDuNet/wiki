@@ -2,6 +2,37 @@
 
 Chronological record of all operations.
 
+## 2026-05-20 — 微信公众号文章同步摄入（第九批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (2 new articles processed)
+**Time:** 2026-05-20 06:00
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Skills (1), HeyGen (1)
+- **Source pages created:** 2 (分享3个宝藏Skills.md, HeyGen-HyperFrames-15K-Star.md)
+- **Entity pages created:** 3 (HeyGen.md, HyperFrames.md, GSAP.md)
+- **Concept pages created:** none
+- **concept-table.md updated:** 0
+- **index.md updated:** Statistics, Sources, Entities sections
+
+### New Articles
+
+|| ID | 分类 | 标题 |
+|---|---|---|
+|| 749 | Skills | 分享3个宝藏Skills |
+|| 750 | HeyGen | 15K Star 一夜刷屏！HeyGen 开源 HyperFrames，让 AI 用 HTML 生成 |
+
+### Entities Added
+
+- HeyGen — AI视频生成公司
+- HyperFrames — HTML到视频渲染框架
+- GSAP — GreenSock动画库
+
+---
+
 ## 2026-05-20 — 微信公众号文章同步摄入（第八批次）
 
 **Operator:** Automated ingestion (微信同步 cron)

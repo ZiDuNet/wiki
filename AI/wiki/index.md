@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 ## Statistics
 
-- Sources: 1032 (+1)
-- Entities: 170 (+0)
-- Concepts: 122 (+1)
+- Sources: 1034 (+2)
+- Entities: 173 (+3)
+- Concepts: 122 (+0)
 - Synthesis: 12
 
 ## Sources
@@ -76,7 +76,8 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[baoyu-translate分层翻译Skill]] — quick/normal/refined 三层翻译
 - [[SkillManager一站式Skill管理]] — 15+ 款 AI 编程工具 Skill 管理
 - [[职场人AI赋能全实操0基础上手用效率撬动晋升]] — 职场人AI赋能全实操：0基础上手，用效率撬动晋升
-- [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/ .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
+- [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/ .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
+- [[分享3个宝藏Skills]] — AutoClip / Learning Opportunities Skill / AI Research SKILLs
 
 ### AI大神 (1篇)
 
@@ -482,6 +483,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[Part-14-Hermes-Agent的外部记忆Memory-Providers]] — Part 14 Hermes Agent的外部记忆（Memory Providers ）
 - [[hermes-agent-官方最佳实践指南-13-个技巧效率翻倍]] — Hermes Agent 官方最佳实践指南：13个技巧效率翻倍
 - [[hermes-hyperframes-全攻略-html-直出视频黑科技]] — Hermes HyperFrames 全攻略：HTML 直出视频黑科技
+- [[HeyGen-HyperFrames-15K-Star]] — HeyGen 开源 HyperFrames：让AI用HTML生成视频
 - [[hermes-kanban-解析与-agent-协作模式对比分析]] — Hermes Kanban 解析：与「Agent 协作模式全景解析」的对比分析
 - [[hermes-v0-13-0-kanban-和-goal-说一句话帮你组个小团队]] — Hermes v0.13.0：Kanban 和 /goal，说一句话帮你组个小团队
 - [[hermes-的-118-个-skill-当-agent-的能力变成了一个文本文件]] — Hermes 的 118 个 Skill：当 Agent 的能力变成了一个文本文件
@@ -1325,7 +1327,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[飞书CLI开源了我花了一小时测完3个案例直呼太香]] — 飞书CLI开源了，我花了一小时测完3个案例，直呼太香
 - [[飞书多维表格实战]] — 飞书多维表格实战
 
-## Entities (141个)
+## Entities (144个)
 
 - [[Agency-agents]]
 - [[Agent-Browser]]
@@ -1367,12 +1369,15 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[GitHub]]
 - [[GitNexus]]
 - [[Graphify]]
+- [[GSAP]] — GreenSock动画库，HyperFrames时间线动画引擎
 - [[Harness]] (23篇)
 - [[Hermes-Agent]]
 - [[Hermes-Curator]] — Hermes Skills 整理工具
 - [[Hermes]] (213篇)
 - [[Honcho]]
 - [[Horizon]] — AI 驱动的个人新闻雷达
+- [[HeyGen]] — AI视频生成公司，开源HyperFrames框架
+- [[HyperFrames]] — HeyGen开源的HTML到视频渲染框架
 - [[InkOS]] — 多 Agent AI 小说生成流水线
 - [[JVS-Claw]]
 - [[Karpathy]]
