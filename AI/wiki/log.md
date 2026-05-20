@@ -2,6 +2,37 @@
 
 Chronological record of all operations.
 
+## 2026-05-20 — 微信公众号文章同步摄入（第十批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (1 new article processed)
+**Time:** 2026-05-20 12:00
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** Vibe Coding (1)
+- **Source pages created:** 1 (发明Vibe-Coding的人说它过时了-我想了很久为什么.md)
+- **Entity pages created:** none
+- **Concept pages created:** 1 (Agentic-Engineering.md)
+- **concept-table.md updated:** Vibe-Coding (21→22), Agentic-Engineering added
+- **index.md updated:** Vibe Coding (5→6), new section Agentic Engineering (1)
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 751 | Vibe Coding | 发明Vibe Coding的人说它过时了，我想了很久为什么 |
+
+### Concepts Added
+
+- Agentic Engineering — Vibe Coding 的接替范式，由 Karpathy 2026 年提出
+
+### Notes
+
+- Vibe Coding category header corrected: removed misfiled "一人公司AI工具全家桶2-7k-Star"
+- All wxrobot queue: pending=1, success=741
+
 ## 2026-05-20 — 微信公众号文章同步摄入（第九批次）
 
 **Operator:** Automated ingestion (微信同步 cron)

@@ -12,6 +12,7 @@
 | [[AI数字员工]] | 让 AI Agent 像真实员工一样持续在线、主动工作的理念 | 1 |
 | [[AI搜索]] | AI平台直接生成回答的搜索方式，关注品牌在AI回答中的可见度 | 1 |
 | [[Agent-Teams]] | # Agent Teams | 24 |
+| [[Agentic-Engineering]] | # Agentic Engineering | 1 |
 | [[Agent工程化]] | # Agent工程化 | 23 |
 | [[Agent开发]] | # Agent开发 | 24 |
 | [[Agent架构]] | # Agent架构 | 6 |
@@ -57,7 +58,7 @@
 | [[SubAgent]] | # SubAgent | 16 |
 | [[TDD]] | # TDD | 14 |
 | [[Token优化]] | # Token优化 | 60 |
-| [[Vibe-Coding]] | # Vibe Coding | 21 |
+| [[Vibe-Coding]] | # Vibe Coding | 22 |
 | [[Webhook自动化]] | # Webhook自动化 | 13 |
 | [[Workspace工作区]] | # Workspace工作区 | 13 |
 | [[一人公司]] | # 一人公司 | 41 |

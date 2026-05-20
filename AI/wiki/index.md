@@ -250,6 +250,10 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[Agent替你干活的真相比你想象的简单十倍]] — Agent 替你干活的真相，比你想象的简单十倍
 - [[大明PPT-Agent-Team]] — 朕不想做PPT，于是创造了大明PPT Agent Team
 
+### Agentic Engineering (1篇)
+
+- [[发明Vibe-Coding的人说它过时了-我想了很久为什么]] — 发明Vibe Coding的人说它过时了，我想了很久为什么
+
 ### Agent Teams (3篇)
 
 - [[太强了！一个Skills同时检索六大文献数据库：百度学术_Semantic-Scholar_arxiv_Pubmed_Crossref_OpenAlex]] — 太强了！一个Skills同时检索六大文献数据库：百度学术Semantic ScholararxivPubmedCrossrefOpenAlex
@@ -1007,14 +1011,14 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 - [[我在-Tabbit-浏览器里做了一个调研神器从此写文章快了一倍]] — 我在 Tabbit 浏览器里做了一个调研神器，从此写文章快了一倍
 
-### Vibe Coding (5篇)
+### Vibe Coding (6篇)
 
 - [[Claude-Code推荐]] — Claude Code（推荐）
 - [[Vibe-Coding-如何重塑产品设计和工程研发协同]] — Vibe Coding 如何重塑产品、设计和工程研发协同
 - [[从-Vibe-Coding-到-Harness-Engineering注意力时代的软件工程]] — 从 Vibe Coding 到 Harness Engineering：注意力时代的软件工程
+- [[发明Vibe-Coding的人说它过时了-我想了很久为什么]] — 发明Vibe Coding的人说它过时了，我想了很久为什么
 - [[给-VibeCoding-开发者的扫码登录神器一个-SKILL-搞定一切]] — 给 VibeCoding 开发者的扫码登录神器：一个 SKILL 搞定一切
 - [[vibe-coding会议助手实战]] — Vibe Coding 实战，我用半天时间做了个会议助手
-- [[一人公司AI工具全家桶2-7k-Star]] — 2.7k Star！一人公司 AI 工具全家桶
 
 ### WeKnora (1篇)
 
