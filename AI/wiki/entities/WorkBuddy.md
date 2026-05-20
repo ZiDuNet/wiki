@@ -2,8 +2,8 @@
 type: entity
 name: WorkBuddy
 created: 2026-05-10
-updated: 2026-05-18
-mentions: 11
+updated: 2026-05-20
+mentions: 12
 ---
 
 # WorkBuddy

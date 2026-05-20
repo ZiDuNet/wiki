@@ -2,6 +2,38 @@
 
 Chronological record of all operations.
 
+## 2026-05-20 — 微信公众号文章同步摄入（第十一批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (2 new articles processed)
+**Time:** 2026-05-20 18:00
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Vibe Coding (1 reprocessed), WorkBuddy (1 new)
+- **Source pages created:** 1 (WorkBuddy方法15-竞品数据抓取与对比分析.md)
+- **Entity pages updated:** WorkBuddy.md (mentions 11→12)
+- **Concept pages created:** none
+- **concept-table.md updated:** added 竞品监控 (1)
+- **index.md updated:** WorkBuddy section (added method 15 entry)
+
+### New Articles
+
+|| ID | 分类 | 标题 ||
+|---|---|---||
+|| 751 | Vibe Coding | 发明Vibe Coding的人说它过时了，我想了很久为什么 (duplicate reprocessed, source page already existed) ||
+|| 752 | WorkBuddy | WorkBuddy方法15 | 竞品数据抓取与对比分析：知己知彼 ||
+
+### Concepts Added
+
+- 竞品监控 — 利用AI自动抓取竞品信息并生成对比分析表的工作流
+
+### Notes
+
+- Vibe Coding article was already ingested in batch 10 (12:00); _1 suffix file is duplicate
+- All wxrobot queue: pending=0, success=742
+
 ## 2026-05-20 — 微信公众号文章同步摄入（第十批次）
 
 **Operator:** Automated ingestion (微信同步 cron)

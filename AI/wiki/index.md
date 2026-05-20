@@ -1064,6 +1064,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[706-WorkBuddy操作指南-这15条命令让你每天省出2小时-从聊天到替你干活]] — WorkBuddy操作指南：这15条命令让你每天省出2小时，从"聊天"到"替你干活"。
 - [[708-WorkBuddy核心玩法拆解-3种模式-Skills-MCP-效率直接拉满]] — WorkBuddy核心玩法拆解：3种模式+Skills+MCP，效率直接拉满
 - [[WorkBuddy-从入门到精通-全套20篇目录]] — WorkBuddy 从入门到精通｜全套 20 篇目录
+- [[WorkBuddy方法15-竞品数据抓取与对比分析]] — WorkBuddy方法15 | 竞品数据抓取与对比分析：知己知彼
 
 
 ### acquire-codebase-knowledge (1篇)
