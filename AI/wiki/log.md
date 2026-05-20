@@ -2,6 +2,35 @@
 
 Chronological record of all operations.
 
+## 2026-05-21 — 微信公众号文章同步摄入（第十二批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (2 new articles processed)
+**Time:** 2026-05-21 00:01
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Skill-SD (1 new), Skills (1)
+- **Source pages created:** 2 (Skill-SD-技能引导老师而非学生.md, Agent-Skills-会不会淘汰-Coze-Dify-N8N-等低代码平台.md)
+- **Entity pages updated:** none
+- **Concept pages created:** none
+- **concept-table.md updated:** 0
+- **index.md updated:** Statistics (Sources 1034→1036), new Skill-SD section (1篇), Skills section (55→57篇)
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 753 | Skill-SD | Skill-SD：技能引导老师而非学生 |
+| 754 | Skills | Agent Skills 会不会淘汰 Coze、Dify、N8N 等低代码平台？ |
+
+### Notes
+
+- All wxrobot queue: pending=0, success=744
+- Skill-SD is a new category (from arXiv:2604.10674 research paper)
+- Skills article discusses Coze/Dify/N8N vs Agent Skills comparison and business KnowHow
+
 ## 2026-05-20 — 微信公众号文章同步摄入（第十一批次）
 
 **Operator:** Automated ingestion (微信同步 cron)

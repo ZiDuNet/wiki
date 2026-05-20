@@ -4,8 +4,8 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 
 ## Statistics
 
-- Sources: 1034 (+2)
-- Entities: 173 (+3)
+- Sources: 1036 (+2)
+- Entities: 173 (+0)
 - Concepts: 122 (+0)
 - Synthesis: 12
 
@@ -924,7 +924,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 ### SVG绘图 (1篇)
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
-### Skills (55篇)
+### Skills (57篇)
 - [[739-2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍]] — 2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍
 - [[733-别再把AgentSkills塞进代码仓库了我做了个一键部署的团队版Skills分发平台]] — 别再把AgentSkills塞进代码仓库了，我做了个一键部署的团队版Skills分发平台
 
@@ -984,6 +984,7 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[分享4个新发现的宝藏Skills]] — 分享4个新发现的宝藏Skills
 - [[78K-Star的AI编程Skills-grill-me-需求访谈Skill]] — 78K Star的AI编程Skills：在开发前，先让grill-me对你做一个"需求访谈"
 - [[cnki-research-toolkit]] — CNKI Research Toolkit：AI驱动的中国知网科研工作流
+- [[754-Agent-Skills-会不会淘汰-Coze-Dify-N8N-等低代码平台]] — Agent Skills 会不会淘汰 Coze、Dify、N8N 等低代码平台？
 
 ### Skills技能 (9篇)
 
@@ -1002,6 +1003,10 @@ Master catalog of all wiki pages. Updated on 2026-05-19.
 - [[47个产品经理的skills，这1个要单独评测，否则再好的skill也会退化]] — 47个产品经理的skills，这1个要单独评测，否则再好的skill也会退化
 - [[Skill-的机会不在单点，在编排：一种你可能还没想过的架构能力]] — Skill 的机会不在单点，在编排：一种你可能还没想过的架构能力
 - [[我开源了一个不直接生成-PPT-的PPT-Skill]] — 我开源了一个不直接生成 PPT 的PPT Skill
+
+### Skill-SD (1篇)
+
+- [[753-Skill-SD-技能引导老师而非学生]] — Skill-SD：技能引导老师而非学生
 
 ### TDD (1篇)
 
