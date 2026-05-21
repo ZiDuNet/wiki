@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-19.
+Master catalog of all wiki pages. Updated on 2026-05-21.
 
 ## Statistics
 
-- Sources: 1036 (+2)
+- Sources: 1049 (+0 since last sync; +13 untracked)
 - Entities: 173 (+0)
-- Concepts: 122 (+0)
+- Concepts: 170 (+0)
 - Synthesis: 12
 
 ## Sources

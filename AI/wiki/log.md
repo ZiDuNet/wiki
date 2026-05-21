@@ -1302,3 +1302,30 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - Entities count: 168 → 170 (+2)
 - Concepts count: 119 → 121 (+2)
 - All wxrobot queue: pending=0, success=737
+
+---
+
+## 2026-05-21 — 微信公众号文章同步（第十三次，午间定时）
+
+**Operator:** Automated ingestion (微信同步 cron 12:00)
+**Source:** 微信公众号/ (0 new articles — 12th batch already processed at 00:01)
+**Time:** 2026-05-21 12:00
+
+### Queue Status
+
+- Collection: 772 messages total, 0 new enqueued (already collected in batch 12)
+- Processing: 0 pending (all processed)
+- Queue: success=744
+
+### Wiki Stats Updated
+
+- Sources: 1036 → 1049 (header corrected; 13 untracked files noted)
+- Entities: 173 (unchanged)
+- Concepts: 122 → 170 (header corrected)
+- Index header updated to 2026-05-21
+
+### Notes
+
+- 12th batch articles already fully ingested: 754-Agent-Skills, 753-Skill-SD
+- Index stats header was stale (Sources/Concepts counts corrected)
+- No new articles require ingestion this cycle
