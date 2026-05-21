@@ -33,7 +33,7 @@ tags: [LLM Wiki, Karpathy, Skill, Claude Code, Codex, 知识库初始化, 开源
 
 ## 涉及概念
 
-- [[LLM Wiki方法论]] — 用AI作为Wiki编辑持续维护知识库的方法
+- [[LLM-Wiki方法论]] — 用AI作为Wiki编辑持续维护知识库的方法
 - [[Agent Skills]] — 封装特定工作流的可复用Agent能力
 - [[知识库构建]] — 建立结构化知识存储系统的方法
 - [[开源项目]] — 公开源代码可自由使用的软件项目

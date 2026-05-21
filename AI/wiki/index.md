@@ -4,10 +4,10 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 ## Statistics
 
-- Sources: 1068 (+1 since last sync)
-- Entities: 174 (+1)
-- Concepts: 173 (+3)
-- Synthesis: 12
+- Sources: 1072
+- Entities: 174
+- Concepts: 170
+- Synthesis: 15
 
 ## Sources
 
@@ -87,7 +87,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 - [[waimao-xiaolong-bashichu-system]] — 跟龙虾鏖战一个月，我打通了这套「外贸出海情报系统」
 
-### AI工具 (8篇)
+### AI工具 (9篇)
 - [[732-开源的个人AI超级智能让你的AI真正认识你]] — 开源的个人AI超级智能：让你的AI真正认识你
 
 - [[做PPT最痛苦的不是做是从零开始]] — 做PPT最痛苦的不是做，是"从零开始"。
@@ -97,6 +97,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[千问PPT-Agent实测]] — 千问 PPT Agent 实测：3 分钟出 PPT
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
+- [[drawio-skill-ai-diagrams]] — drawio skill：让AI帮你画流程图、架构图，AI画完还能接着改
 
 ### AI技术 (15篇)
 
@@ -148,8 +149,9 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (96篇)
+### Agent (97篇)
 
+- [[cli-anything-universal-remote-for-ai-agent]] — CLI-Anything：AI Agent 的万能遥控器，一行命令把任意软件变成 Agent 可操作 CLI
 - [[企业落地-AI-Agent-第一批最容易跑通的10个低风险场景]] — 企业落地 AI Agent，第一批最容易跑通的 10 个低风险场景
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
 - [[AI编程工程化Subagent给你的AI员工打造协作助手]] — AI 编程工程化：Subagent——给你的 AI 员工打造协作助手
@@ -377,26 +379,29 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[厌烦了理论给你Harness真正的工程实践]] — 厌烦了理论，给你Harness真正的工程实践
 - [[从零设计生产级MultiAgentHarness架构评估记忆成本与MCP工具接入全拆解]] — 从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解
 
-### Harness Engineering (1篇)
+### Harness Engineering (2篇)
 
+- [[fireworks-tech-graph-skill]] — fireworks-tech-graph Skill：一句话画架构图，吊打mermaid和draw.io
 - [[一句话生成架构图！这个开源-Skill-让你告别熬夜画图]] — 安装 Skill（推荐）npx skills add yizhiyanhua-ai/fireworks-tech-graph# macOS 需额外安装 rsvg-convert（用于 SVG 转 PNG）brew install librsvg# Ubuntu/Debiansudo apt install librsvg2-bin# 验证rsvg-convert --version
 
 ### Harness框架 (1篇)
 
 - [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工]] — 我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工
 
-### AI生成PPT方案 (1篇)
+### AI生成PPT方案 (2篇)
 
 - [[702-Oh-My-PPT-开源免费纯本地AI幻灯片神器-一句话生成可拖拽编辑HTML-PPT-30-风格-动画-公式-历史回退-创业路演-教学汇报零云依赖]] — Oh My PPT：开源免费纯本地AI幻灯片神器，一句话生成可拖拽编辑HTML PPT，30+风格+动画+公式+历史回退，创业路演 教学汇报零云依赖！
+- [[ai-ppt-template-library]] — AI生成精美PPT模板库：beautiful-html-templates 32个模板让Agent生成高质量PPT
 
 ### mmx-cli (1篇)
 
 - [[704-mmx-cli-一句话让AI助手拥有全模态能力]] — mmx-cli: 一句话让AI助手拥有全模态能力
 
-### Hermes (196篇)
+### Hermes (197篇)
 
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
+- [[hermes-obsidian-auto-knowledge-base]] — Hermes+Obsidian自动化知识库：Web Clipper + BrowserOS 定时入库全流程
 - [[01-2]] — 01
 - [[01]] — 01
 - [[0基础AI应用入门-HERMES篇第四弹-HERMES-接入飞书与飞书-CLI]] — 「0基础AI应用入门 - HERMES篇」第四弹 - HERMES 接入飞书与飞书 CLI
@@ -629,8 +634,11 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 ### JVS Claw (1篇)
 
 - [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果]] — “龙虾”下乡记：JVS Claw在甘肃礼县“种”起了苹果
-### LLM-Wiki (9篇)
+### LLM-Wiki (10篇)
+
+- [[ai-knowledge-base-evolution-rag-notebooklm-llmwiki]] — AI 知识库技术演进拆解：从 RAG 到 NotebookLM，再到 LLM Wiki（七层架构深度分析）
 - [[738-Hermes-Obsidian-LLM-Wiki搭建一个会自己长大的本地知识库]] — Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库
+- [[obsidian-追问自己的知识库]] — Obsidian追问自己的知识库：别再收藏吃灰，搭一个能追问自己的知识库
 
 - [[karpathy-的-llm-wiki-部署好-8-步搞定不花一分钱]] — Karpathy 的 LLM Wiki 我帮你部署好了：8 步搞定，不花一分钱
 - [[llm-wiki-karpathy-的知识管理理念变成产品了]] — LLM Wiki：Karpathy的知识管理理念变成产品了，文档扔进去自动长出Wiki
@@ -661,9 +669,10 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (30篇)
+### Obsidian (31篇)
 
 - [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
+- [[hermes-obsidian-knowledge-base-200-articles]] — 收藏200篇文章后：Hermes+Obsidian自动化知识库，Web Clipper+BrowserOS定时入库
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
 - [[Claudian-Obsidian-AI知识系统]] — 别再手动整理笔记了！Claude+Obsidian打造永不遗忘的AI知识系统
 - [[HermesAutoCLIObsidian-打造自动入库自动整理自动微信汇报的知识系统]] — Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统
@@ -693,6 +702,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[kai-yuan-xiang-mu-84k-stars-llm-wiki-zi-wo-gou-jian-de-ai-ge-ren-zhi-shi-ku]] — LLM Wiki：8.4K Stars！一个能自我构建的AI个人知识库，超越Obsidian
 - [[Obsidian-guan-fang-tong-bu-gui-zai-NAS-shang-zi-jian-fu-wu-qi-duo-duan-bi-ji-wan-mei-tong-bu]] — Obsidian官方同步贵？在NAS上自建服务器，实现多端笔记完美同步
 - [[Hermes-Obsidian-LLM-Wiki-da-jian-ben-di-zhi-shi-ku]] — Hermes+Obsidian+LLM Wiki搭建本地知识库
+- [[obsidian-追问自己的知识库]] — Obsidian追问自己的知识库：别再收藏吃灰
 ### Zero-to-CAD (4篇)
 - [[736-text-to-cad和它对话就能做建筑设计方案]] — text-to-cad：和它对话就能做建筑设计方案
 
@@ -1053,9 +1063,11 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (32篇)
+### WorkBuddy (34篇)
 
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
+- [[workbuddy-4-core-techniques]] — WorkBuddy 4个核心技巧：腾讯官方亲授，效率直接拉满
+- [[workbuddy-ima-getting-started-guide]] — ima知识库+WorkBuddy入门指南：30分钟跑通AI工作流
 - [[一你每天有多少事是机械重复的]] — 一、你每天有多少事是"机械重复"的？
 - [[把截图丢给AI5倍提升不止]] — 把截图丢给AI，5倍提升不止
 - [[报表分析也能生产线化：WorkBuddy-打造自动化财报分析-Skill]] — 报表分析也能"生产线化"：WorkBuddy 打造自动化财报分析 Skill
@@ -1101,9 +1113,10 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 - [[734-一行命令搞定公众号文章wx-cli让我重新理解了什么叫信息获取]] — 一行命令搞定公众号文章：wx-cli让我重新理解了什么叫信息获取
 
-### skill-CLI-Anything (2篇)
+### skill-CLI-Anything (3篇)
 
 - [[Skill结合LibTV-轻松做出AI实机视频]] — Skill结合哩布哩布LibTV，轻松做出AI实机视频！
+- [[skill-becoming-sop]] — Skill 是怎么悄悄变成 SOP 的：守住目标和边界，路径选择权是核心
 - [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-]] — 📦 安装到全局pip install -e ./gimp/agent-harness# 🌍 随处可用cli-anything-gimp --helpcli-anything-gimp project new --width 1920 --height 1080 -o poster.jsoncli-anything-gimp --json layer add -n "Background" --type solid --color "#1a1a2e"# 💻 进入交互式 REPLcli-anything-gimp
 
 ### 上下文管理 (1篇)
@@ -1362,7 +1375,9 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[飞书CLI开源了我花了一小时测完3个案例直呼太香]] — 飞书CLI开源了，我花了一小时测完3个案例，直呼太香
 - [[飞书多维表格实战]] — 飞书多维表格实战
 
-## Entities (144个)
+- [[我的知识库-主题[这里写你的主题，比如"AI应用开发"]-目录说明raw文件夹：原始素材，AI只读不改wiki文件夹：整理后的内容，AI全权维护outputs文]]
+
+## Entities (174个)
 
 - [[Agency-agents]]
 - [[Agent-Browser]]
@@ -1503,7 +1518,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[飞书]] (148篇)
 - [[飞书CLI]]
 
-## Concepts (104个)
+## Concepts (170个)
 
 - [[AGENTS配置]]
 - [[AI-Agent]] (167篇)
@@ -1606,10 +1621,12 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[门禁机制]]
 - [[领域驱动设计]] (1篇)
 
-### MarkItDown (2篇)
+### MarkItDown (4篇)
 
+- [[markdown-browser-extension-1000-lines]] — 不到 1000 行代码：Markdown 浏览器渲染插件，三档主题+Wiki-link支持
 - [[Markdown-HTML-AI内容分工]] — Markdown 负责记忆，HTML 负责展示：AI 时代的新内容分工
 - [[PDF、Word、Excel、PPT等-全扔进一个命令：markitdown-让我重新相信文档预处理]] — PDF、Word、Excel、PPT等 全扔进一个命令：markitdown 让我重新相信文档预处理
+- [[markitdown-document-converter]] — MarkItDown文档转换神器：近10万Star一行命令全格式转Markdown
 
 ### Superpowers (2篇)
 
@@ -1631,6 +1648,49 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[Skills精选]] — Skills 精选
 - [[hermes-agent-知识全景]] — Hermes Agent 知识全景
 - [[企业AI-Agent落地指南]] — 企业 AI Agent 落地指南
+
+<!-- LINT-FIX: 36 missing sources entries added 2026-05-22 -->
+- [[26个PPT生成Skill系统梳理]]
+- [[732-OpenHuman开源的个人AI超级智能让你的AI真正认识你]]
+- [[739-2026年5月最火-AI-Agent-Skills-完整盘点]]
+- [[78K-Star的AI编程Skills：在开发前，先让grill-me-对你做一个“需求访谈”]]
+- [[AI生成PPT方案完整经验总结]]
+- [[Agent 技能夜间自进化——阿里开源 SkillClaw，最高提升 88%]]
+- [[Agent-Skills-会不会淘汰-Coze-Dify-N8N-等低代码平台]]
+- [[Agent-替你干活的真相，比你想象的简单十倍]]
+- [[Agent替你干活的真相]]
+- [[CNKI-Skills-Claude-Code查知网]]
+- [[Claude Code +Obsidian：个人知识库从工具到思维的完整指南]]
+- [[Hermes-Agent-10大神级插件分享]]
+- [[Infinite-Canvas-无限画布AI工作台]]
+- [[Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库]]
+- [[Obsidian-×-Claudian-×-飞书CLI-知识管理王炸组合，我的第二大脑升级之路]]
+- [[Obsidian任务管理三件套-Tasks-Kanban-Day-Planner完整指南]]
+- [[PDF、Word、Excel、PPT等 全扔进一个命令：markitdown 让我重新相信文档预处理]]
+- [[PVE黑苹果食用指南]]
+- [[Skill-SD-技能引导老师而非学生]]
+- [[UI-TARS-Desktop字节开源33.7k-star]]
+- [[WorkBuddy 标书 Skill -招标文件智能解析]]
+- [[WorkBuddy实战案例-我把3份Excel扔给WorkBuddy，20分钟找到了我一周都没发现的问题]]
+- [[awesome-rss-feeds]]
+- [[awesome-tech-rss]]
+- [[web-access-skill-ai联网能力升级]]
+- [[workbuddy真的行！生产力skills推荐！]]
+- [[一人公司AI工具全家桶-2.7k-star]]
+- [[企业落地AI-Agent-第一批最容易跑通的10个低风险场景]]
+- [[别乱装！OpenClaw 53个官方技能安全清单]]
+- [[别再手动整理文章了！用-AIWiki-把链接变成可复用知识库]]
+- [[别再把 Skill 当插件用了，这 18 个最值得装的 Skills 我帮你筛完了]]
+- [[我的知识库-主题[这里写你的主题，比如“AI应用开发”]-目录说明raw文件夹：原始素材，AI只读不改wiki文件夹：整理后的内容，AI全权维护outputs文]]
+- [[报表分析也能生产线化：WorkBuddy 打造自动化财报分析 Skill]]
+- [[方法01｜用WorkBuddy 1分钟生成周报：我从周五焦虑到周五解放的全过程]]
+- [[用WorkBuddy实现内容和知识获取，再交由IMA知识库实现播客生成。]]
+- [[🔥-Hermes-Agent-封神之路：2026-年-5-月必装的-10-个神级插件，让你的-AI-助手直接进化成超级员工！]]
+
+<!-- LINT-FIX: 3 missing synthesis entries added 2026-05-22 -->
+- [[PPT-制作全流程]]
+- [[knowledge-base-building]]
+- [[知识库搭建]]
 ## Unindexed Sources
 
 - [[01-2.md]] — tags: [Hermes, Agent, Claude, MCP, GitHub, RAG, Harness, Prompt]
@@ -2565,6 +2625,26 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[wordollama-2-agent能力更新.md]] — title: "WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力"
 - [[yao-open-prompts-116.md]] — title: "姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending"
 
+
+<!-- LINT-FIX: 18 missing entities entries added 2026-05-22 -->
+- [[9router]]
+- [[AutoClip]]
+- [[CNKI-Skills]]
+- [[Day-Planner插件]]
+- [[Hailuo]]
+- [[Hermes-Slate-Desk]]
+- [[Image-01]]
+- [[LibTV]]
+- [[MoneyPrinterTurbo]]
+- [[Oh-My-PPT]]
+- [[QoderWork]]
+- [[Scrapling]]
+- [[Speech]]
+- [[Tasks插件]]
+- [[UI-TARS-Desktop]]
+- [[ai-gameplay-pack-skill]]
+- [[ai-geo-monitoring]]
+- [[html-anything]]
 ## Unindexed Entities
 
 - [[钉钉.md]] — type: entity
@@ -2719,6 +2799,19 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[WorkBuddy.md]] — type: entity
 - [[YouTube.md]] — tags: [entity, platform]
 
+
+<!-- LINT-FIX: 11 missing concepts entries added 2026-05-22 -->
+- [[AI助手集成]]
+- [[AI搜索]]
+- [[AI笔记]]
+- [[AI自动化]]
+- [[Agentic-Engineering]]
+- [[CLI工具]]
+- [[HTML演示]]
+- [[RPA]]
+- [[多模态交互]]
+- [[本地优先]]
+- [[桌面AI助手]]
 ## Unindexed Concepts
 
 - [[本地部署.md]] — tags: [concept, 部署运维]
@@ -2880,21 +2973,3 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[wikilinks.md]] — type: concept
 - [[Workspace工作区.md]] — type: concept
 - [[Zettelkasten.md]] — type: concept
-
-## Unindexed Synthesis
-
-- [[企业AI-Agent落地指南.md]] — tags: [synthesis, 企业, agent, 落地, 安全, 合规, 多agent]
-- [[知识库搭建.md]] — type: concept
-- [[Agent架构实践.md]] — tags: [synthesis, agent, multi-agent, 架构, 协作模式, harness]
-- [[Claude-Code深度指南.md]] — tags: [synthesis, claude-code, agent, skills, mcp, 最佳实践]
-- [[hermes-agent-知识全景.md]] — type: synthesis
-- [[knowledge-base-building.md]] — type: concept
-- [[Obsidian-AI工作流.md]] — tags: [synthesis, obsidian, 知识管理, ai, claudian, llm-wiki]
-- [[OpenClaw多Agent协作指南.md]] — tags: [多Agent协作, OpenClaw, 架构指南]
-- [[OpenClaw文章索引.md]] — tags: [索引, OpenClaw]
-- [[OpenClaw-Skill生态指南.md]] — tags: [Skill, OpenClaw, 工具指南]
-- [[OpenClaw-vs-Hermes对比分析.md]] — tags: [对比分析, OpenClaw, Hermes Agent]
-- [[PPT-制作全流程.md]] — type: concept
-- [[PPT制作全流程.md]] — tags: [synthesis, ppt, ai工具, skills, 设计]
-- [[Skills精选.md]] — tags: [synthesis, Skills, 精选推荐]
-- [[Skills生态全景.md]] — tags: [synthesis, skills, agent, 生态, 设计模式]

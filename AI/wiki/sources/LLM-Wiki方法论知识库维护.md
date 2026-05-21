@@ -33,7 +33,7 @@ tags: [LLM Wiki, 知识管理, Obsidian, RAG替代, Dataview, Graph View, 知识
 
 ## 涉及概念
 
-- [[LLM Wiki方法论]] — 用AI作为Wiki编辑持续维护知识库的方法
+- [[LLM-Wiki方法论]] — 用AI作为Wiki编辑持续维护知识库的方法
 - [[RAG]] — 检索增强生成，无状态的查询模式
 - [[知识管理]] — 系统化地组织、存储和利用知识
 - [[知识库构建]] — 建立结构化知识存储系统的方法

@@ -87,7 +87,7 @@ SpectrAI（光谱AI）是一款开源多会话AI编程桌面客户端，支持Cl
 ## 关键实体
 
 - [[SpectrAI]] — 开源多AI协同工作站
-- [[Claude Code]] — Anthropic AI编程工具
+- [[Claude-Code]] — Anthropic AI编程工具
 - [[Codex]] — OpenAI AI编程工具
 - [[Gemini]] — Google AI编程工具
 - [[MCP协议]] — Model Context Protocol

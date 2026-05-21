@@ -96,7 +96,7 @@ hermes -t computer_use chat
 
 ## 关键实体
 
-- [[Hermes Agent]] — Computer Use 功能的提供方
+- [[Hermes-Agent]] — Computer Use 功能的提供方
 - [[MCP协议]] — Computer Use 的底层驱动协议
 - [[Claude]] / [[GPT-4]] / [[Gemini]] — 可用于驱动的 vision 模型
 - [[macOS]] — 唯一支持的操作系统平台

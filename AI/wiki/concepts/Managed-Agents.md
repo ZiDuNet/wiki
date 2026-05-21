@@ -52,7 +52,7 @@ Managed Agents是将AI Agent作为团队成员管理的理念和实践。Agent�
 ## 相关实体
 
 - [[Multica]] — Managed Agents平台
-- [[Claude Code]] — AI编程助手
+- [[Claude-Code]] — AI编程助手
 - [[Hermes]] — 开源AI智能体框架
 
 ## 相关概念

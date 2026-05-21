@@ -49,3 +49,8 @@ mentions: 28
 - [[突然间又多了一个Hermes智能体]]
 - [[让-Hermes-越用越顺的-3-个核心方法]]
 - [[过去一年很多人谈-AI-Agent谈到最后都会落到一个问题上]]
+
+
+## Related
+
+- [[ReAct]] — related entitie

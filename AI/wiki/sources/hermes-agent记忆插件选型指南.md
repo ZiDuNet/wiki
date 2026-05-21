@@ -22,7 +22,7 @@ concepts: [智能体记忆系统, 语义搜索, 知识图谱, HRR全息降维, �
 
 ## 关键实体
 
-[[Hermes Agent]], [[Honcho]], [[OpenViking]], [[Mem0]], [[Hindsight]], [[Holographic]], [[RetainDB]], [[ByteRover]], [[Supermemory]], [[PostgreSQL]], [[Qdrant]]
+[[Hermes-Agent]], [[Honcho]], [[OpenViking]], [[Mem0]], [[Hindsight]], [[Holographic]], [[RetainDB]], [[ByteRover]], [[Supermemory]], [[PostgreSQL]], [[Qdrant]]
 
 ## 关键概念
 

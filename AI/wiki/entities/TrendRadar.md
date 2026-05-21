@@ -21,3 +21,8 @@ TrendRadar 是与 [[Hermes-Agent]] 生态相关的实体。
 ## Related Concepts
 
 - [[Hermes-Agent生态]]
+
+
+## Related
+
+- [[Horizon]] — related entitie

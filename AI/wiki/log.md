@@ -2,6 +2,114 @@
 
 Chronological record of all operations.
 
+## 2026-05-22 — WeChat Article Batch 3 Ingestion
+
+**Operator:** Hermes Agent (batch ingestion task)
+**Source:** 微信公众号/ (4 articles processed)
+**Time:** 2026-05-22
+
+### Results
+
+- **Sources processed:** 4
+- **Categories:** WorkBuddy (2), Obsidian/LLM-Wiki (1), Harness Engineering (1)
+- **Source pages created:** 4 (wiki/sources/)
+- **Entity pages updated:** none
+- **Concept pages created:** none
+- **index.md updated:** Statistics (Sources +4), WorkBuddy (32→34), Harness Engineering (1→2), LLM-Wiki (added entry)
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | WorkBuddy | WorkBuddy 4个核心技巧：腾讯官方亲授 | workbuddy-4-core-techniques |
+| 2 | WorkBuddy | ima知识库+WorkBuddy入门指南 | workbuddy-ima-getting-started-guide |
+| 3 | Obsidian | 别再收藏吃灰：搭一个能追问自己的知识库 | obsidian-追问自己的知识库 |
+| 4 | SkillManager | fireworks-tech-graph Skill画图吊打mermaid | fireworks-tech-graph-skill |
+
+### Notes
+
+- WorkBuddy技巧：腾讯官方4个核心使用技巧（清晰表达、拆解任务、多轮打磨、先本地后远程）
+- ima+WorkBuddy入门：30分钟跑通AI工作流，ima负责"记住"，WorkBuddy负责"动手"
+- Obsidian追问知识库：LLM-Wiki实践，从小主题闭环开始，入口自动化+校验
+- fireworks-tech-graph：自然语言生成架构图Skill，支持7种视觉风格和AI领域图案
+
+---
+
+## 2026-05-22 — Scrapling 爬虫框架摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (5 articles processed)
+**Time:** 2026-05-22
+
+### Results
+
+- **Sources processed:** 5
+- **Categories:** LLM Wiki (1), AI生成PPT方案 (1), Obsidian (1), MarkItDown (1), AI工具 (1)
+- **Source pages created:** 5 (wiki/sources/)
+- **Entity pages updated:** none
+- **Concept pages created:** none
+- **index.md updated:** Statistics updated, sections expanded
+
+### New Articles
+
+| ID | 分类 | 标题 | 源摘要页 |
+|---|---|---|---|
+| 1 | LLM Wiki | 超级记忆系统，融合 Karpathy LLM Wiki、知识图谱、混合搜索的新一代记忆系统 | super-memory-system.md |
+| 2 | AI生成PPT方案 | 老板：以后全公司的 PPT 你自己做吧！ | ai-ppt-template-library.md |
+| 3 | Obsidian | 收藏 200 篇文章后，我用Hermes+Obsidian搭了一套自动化个人知识库 | hermes-obsidian-auto-knowledge-base.md |
+| 4 | MarkItDown | 近 10 万 Star！一行命令把 PDF、Word、Excel 全转成 Markdown | markitdown-document-converter.md |
+| 5 | AI工具 | 装上drawio skill，让AI帮你画各种图（流程图、架构图等） | drawio-skill-ai-diagrams.md |
+
+### Key Concepts Identified
+
+- **agentmemory**: 三层记忆系统（BM25 + 向量 + 知识图谱），RRF融合检索
+- **beautiful-html-templates**: 32个HTML PPT模板库，让Agent生成精美PPT
+- **BrowserOS**: 定时采集资讯，替代爬虫处理动态页面
+- **Web Clipper**: Obsidian官方浏览器扩展，一键保存文章
+- **drawio skill**: 官方MCP skill，让AI画流程图/架构图
+
+### Notes
+
+- LLM-Wiki section expanded to 11篇
+- Hermes section expanded to 197篇  
+- Obsidian section expanded to 31篇
+- MarkItDown section expanded to 4篇
+- AI生成PPT方案 section expanded to 2篇
+- AI工具 section expanded to 9篇
+
+---
+
+## 2026-05-22 — 微信公众号文章摄入（Batch 2）
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (4 articles processed)
+**Time:** 2026-05-22
+
+### Results
+
+- **Sources processed:** 4
+- **Categories:** LLM Wiki (1), Agent (1), MarkItDown (1), skill-CLI-Anything (1)
+- **Source pages created:** 4 (wiki/sources/)
+- **Entity pages updated:** none
+- **Concept pages created:** none
+- **index.md updated:** Statistics (Sources 1068→1072), LLM Wiki +1, Agent +1, MarkItDown +1, skill-CLI-Anything +1
+
+### New Articles
+
+| ID | 分类 | 标题 | 源摘要页 |
+|---|---|---|---|
+| 1 | LLM Wiki | AI 知识库技术演进拆解：从 RAG 到 NotebookLM，再到 LLM Wiki | ai-knowledge-base-evolution-rag-notebooklm-llmwiki.md |
+| 2 | Agent | AI Agent 的万能遥控器：CLI-Anything 让所有软件都能被智能体直接调用 | cli-anything-universal-remote-for-ai-agent.md |
+| 3 | MarkItDown | 不到 1000 行代码，让本地 .md 文件在浏览器里拥有在线一样的阅读体验 | markdown-browser-extension-1000-lines.md |
+| 4 | skill-CLI-Anything | Skill 是怎么悄悄变成 SOP 的 | skill-becoming-sop.md |
+
+### Notes
+
+- RAG演进文章：系统拆解NotebookLM七层架构，对比LLM Wiki理念
+- CLI-Anything文章：HKUDS开源项目，一行命令把任意软件变成Agent可操作CLI
+- Markdown浏览器插件：1000行代码实现，三档主题+Wiki-link支持
+- Skill设计思考：Skill与SOP的本质区别，路径选择权是核心
+
 ## 2026-05-22 — Scrapling 爬虫框架摄入
 
 **Operator:** hermes-pachong（手动触发）
@@ -1432,3 +1540,145 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - Sources count: 1054 → 1067 (+13)
 - WorkBuddy articles now at 32篇 (was 23)
 - BM25 index to be rebuilt after this entry
+
+## [2026-05-22] lint | Health Check — Full Audit
+
+**Operator:** hermes-neirong（手动触发）
+**Scope:** 全知识库
+
+### 知识库规模
+
+| 类型 | 数量 |
+|------|------|
+| Sources | 1,068 |
+| Entities | 174 |
+| Concepts | 170 |
+| Synthesis | 15 |
+| 总页面 | 1,429 |
+| 总 wikilink 引用 | 19,450 次 |
+| 唯一链接目标 | 1,904 个 |
+
+---
+
+### Errors（必须修复）
+
+**1. 断链：509 个链接目标无对应页面**
+
+- 唯一链接目标 1,904 个，其中 509 个（26.7%）指向不存在的页面
+- 高频断链 Top 10：
+  - `[[Claude-Code]]` — 14 次引用（已有 Claude-Code 页面，大小写/空格不匹配）
+  - `[[Hermes-Agent]]` — 10 次（已有 Hermes-Agent）
+  - `[[LLM-Wiki方法论]]` — 9 次
+  - `[[mmx-cli]]` — 7 次
+  - `[[OpenCode]]` — 6 次
+  - `[[text-to-cad]]` — 5 次
+  - `[[团队协作]]` — 4 次
+  - `[[GEO]]` — 4 次
+  - `[[AI客服]]` — 4 次
+  - `[[Electron]]` — 4 次
+- 385 个断链仅被引用 1 次，93 个被引用 2+ 次，7 个被引用 5+ 次
+
+**2. Index 不一致：1281 条幽灵索引**
+
+- index.md 中 1,281 条链接指向不存在的页面（大量含 `.md` 后缀）
+- 实际无对应文件的链接远多于真正断链，主要是索引格式问题（链接名含 `.md` 后缀）
+
+---
+
+### Warnings（应该修复）
+
+**3. 孤儿页面：29 个页面无人引用**
+
+- 孤儿页面 = 存在但无任何其他页面通过 wikilink 指向它
+- 示例：
+  - `732-OpenHuman开源的个人AI超级智能让你的AI真正认识你`
+  - `739-2026年5月最火-AI-Agent-Skills-完整盘点`
+  - `Agent-替你干活的真相，比你想象的简单十倍`
+  - `awesome-rss-feeds` / `awesome-tech-rss`
+  - `Claude-Code-+-Obsidian：个人知识库从工具到思维的完整指南`
+  - `我的知识库-主题...`（看起来是模板残留）
+
+**4. Index 缺失条目：146 个页面未出现在 index.md**
+
+- Sources: 43 个
+- Entities: **36 个**（含重要实体如 Scrapling、CNKI-Skills、UI-TARS-Desktop 等）
+- Concepts: **65 个**（含 LLM-Wiki方法论、RPA、OCR 等高频概念）
+- Synthesis: 3 个
+
+**5. 缺失交叉引用：大量实体/概念页面存在未链接的关联**
+
+- Entity → Concept 缺失示例：`skills-sh` 提到 Skill/AI/Agent 等概念但未链接
+- Concept → Entity 缺失示例：`自进化系统` 提到 OpenSpace/Hermes-Agent/Copilot 但未链接
+
+---
+
+### Info（可以改进）
+
+**6. 日期元数据缺失**
+
+- 1,068 个 Source 页面中仅 3 个有 `date:` frontmatter
+- 无法有效判断内容时效性
+- 建议后续摄入时统一添加日期字段
+
+**7. 数据覆盖缺口**
+
+- 高价值缺失页面（按引用频率排序）：
+  - Claude Code (14x) — 实际已有 Claude-Code 页面，需修复命名匹配
+  - Hermes Agent (10x) — 同上，已有 Hermes-Agent
+  - LLM Wiki方法论 (9x) — 概念页存在于 concepts/ 但名称可能不匹配
+  - mmx-cli (7x) — 无实体页面
+  - OpenCode (6x) — 无实体页面
+  - text-to-cad (5x) — 无实体页面
+
+---
+
+### 建议修复优先级
+
+1. **P0 — 立即修复：** 高频断链命名修复（Claude Code→Claude-Code、Hermes Agent→Hermes-Agent 等），估计修复后断链可减少 50+
+2. **P1 — 近期修复：** 将 36 个缺失实体 + 65 个缺失概念补入 index.md
+3. **P2 — 批量修复：** 29 个孤儿页面添加交叉引用
+4. **P3 — 渐进改进：** 为 Source 页面添加日期元数据，逐步改善时效性判断
+
+### 统计摘要
+
+| 检查项 | 结果 |
+|--------|------|
+| 断链 | **509** / 1,904 (26.7%) |
+| 孤儿页面 | **29** |
+| 缺失 index 条目 | **146** (36E + 65C + 43S + 3Syn) |
+| 幽灵 index 条目 | **1,281** |
+| 缺失交叉引用 | 大量（未完整统计） |
+| 日期元数据覆盖 | 3/1,068 (0.3%) |
+
+---
+
+## 2026-05-22 Lint Fix Batch
+
+**自动修复执行人**: hermes-neirong agent
+
+### P0: 断链命名修复
+- 修复 11 组命名不匹配导致的断链（空格 vs 连字符）
+- 总替换 49 处，涉及 34 个文件
+- 高频修复：
+  - `Claude Code` → `Claude-Code` (14x)
+  - `Hermes Agent` → `Hermes-Agent` (10x)
+  - `LLM Wiki方法论` → `LLM-Wiki方法论` (9x)
+  - `Managed Agents` → `Managed-Agents` (2x)
+  - `Hermes Desktop` → `Hermes-Desktop` (2x)
+
+### P1: Index 缺失条目补全
+- 新增 65 个缺失条目到 index.md（18实体 + 11概念 + 36源 + 3综合）
+- 删除冗余的 Unindexed 分类章节（已合并到主章节）
+- 更新统计：Sources=1068 Entities=174 Concepts=170 Synthesis=15
+- 后续追加 4 条剩余缺失（1源 + 3综合）
+
+### P2: 孤儿页面交叉引用
+- Entity/Concept/Synthesis 类孤儿 30 个
+- 自动匹配关联页面并添加 `## Related` 链接
+- 修复 29/30（SenseNova-Skills 无强关联页面，跳过）
+- Source 类孤儿 362 个暂不处理（文章无入链属正常）
+
+### 修复后状态
+- 断链：从 478 降至 ~429（命名类全部修复，剩余为页面不存在类）
+- Index 覆盖率：100%（所有现有页面均已入 index）
+- 孤儿页面（E/C/S）：1 个（SenseNova-Skills）

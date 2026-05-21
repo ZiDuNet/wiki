@@ -21,3 +21,8 @@ updated: 2026-05-10
 
 - [[Harness-实践：让-Agent-自动制作知识讲解视频]] — Harness 实践：让 Agent 自动制作知识讲解视频
 - [[aweskill：让AI-Agents-自己搞定skills-管理]] — aweskill：让AI Agents 自己搞定skills 管理
+
+
+## Related
+
+- [[Claude-Code深度指南]] — related synthesi

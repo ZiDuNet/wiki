@@ -22,7 +22,7 @@ RTK（rtk-ai/rtk）是一款高性能CLI代理工具，架在AI对话和Coding A
 
 ## 关键实体
 
-[[RTK]], [[Claude Code]], [[Codex]], [[OpenCode]], [[OpenClaw]], [[Gemini CLI]]
+[[RTK]], [[Claude-Code]], [[Codex]], [[OpenCode]], [[OpenClaw]], [[Gemini-CLI]]
 
 ## 关键概念
 

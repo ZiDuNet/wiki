@@ -25,3 +25,8 @@ updated: 2026-05-10
 - [[太强了！一个Skills同时检索六大文献数据库：百度学术_Semantic-Scholar_arxiv_Pubmed_Crossref_OpenAlex]] — 太强了！一个Skills同时检索六大文献数据库：百度学术_Semantic Scholar_arxiv_Pubmed_Crossref_OpenAlex
 - [[如何把经验装到Skills？]] — 为什么我会开始折腾这个问题
 - [[最值得安装的20个Skills]] — ClawHub上的Skillnpx clawhub@latest install skill名称# GitHub上的Skillnpx skills add skill地址
+
+
+## Related
+
+- [[CNKI-Skills]] — related entitie

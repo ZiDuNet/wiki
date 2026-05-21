@@ -23,10 +23,10 @@ Hermes Desktop是由fathah开发的社区项目，为Hermes Agent提供图形界
 
 ## Entities Mentioned
 
-- [[Hermes Desktop]]（fathah开发，GitHub桌面应用）
-- [[Hermes Agent]]（Nous Research开源AI助手，底座）
+- [[Hermes-Desktop]]（fathah开发，GitHub桌面应用）
+- [[Hermes-Agent]]（Nous Research开源AI助手，底座）
 - [[fathah]]（开发者）
-- [[Nous Research]]（Hermes模型系列开发方）
+- [[Nous-Research]]（Hermes模型系列开发方）
 
 ## Concepts
 

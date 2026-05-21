@@ -20,3 +20,16 @@ updated: 2026-05-10
 ## Mentioned In
 
 - [[AI-Skill-碎片化的解法来了一个中央库统一管理-27-个平台]] — AI Skill 碎片化的解法来了：一个中央库统一管理 27 个平台
+
+
+## Related
+
+- [[AISkill碎片化]] — related concept
+
+## Related
+
+- [[Hermes-Curator]] — related entitie
+
+## Related
+
+- [[SkillManager]] — related entitie

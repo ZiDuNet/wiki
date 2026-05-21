@@ -54,7 +54,7 @@ multica setup
 
 ## 相关概念
 
-- [[Managed Agents]], [[Agent架构]], [[Skills技能系统]], [[团队协作]]
+- [[Managed-Agents]], [[Agent架构]], [[Skills技能系统]], [[团队协作]]
 
 ## 相关文章
 

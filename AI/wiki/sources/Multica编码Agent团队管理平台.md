@@ -34,7 +34,7 @@ Multica是Managed Agents平台，用看板和Issue系统管理Claude Code等编�
 
 ## 涉及概念
 
-- [[Managed Agents]] — 将Agent作为团队成员管理的理念和实践
+- [[Managed-Agents]] — 将Agent作为团队成员管理的理念和实践
 - [[Agent架构]] — AI Agent的系统设计和组织方式
 - [[Skills技能系统]] — 封装特定工作流的可复用脚本系统
 - [[团队协作]] — 多人/多Agent协同工作模式

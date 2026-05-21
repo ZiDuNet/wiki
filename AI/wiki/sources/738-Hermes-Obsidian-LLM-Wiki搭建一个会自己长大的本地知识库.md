@@ -24,7 +24,7 @@ Hermes Agent 内置 llm-wiki skill，可自动执行：提取实体和概念→�
 
 ## Entities Mentioned
 
-- [[LLM Wiki]] — Karpathy 提出的 LLM Wiki 方法论（持久复利知识库）
+- [[LLM-Wiki]] — Karpathy 提出的 LLM Wiki 方法论（持久复利知识库）
 - [[Karpathy]] — LLM Wiki 方法论的提出者
 - [[Hermes]] — llm-wiki skill 的执行引擎，支持自动化知识库维护
 - [[Obsidian]] — 本地双向链接笔记工具，知识网络展示层

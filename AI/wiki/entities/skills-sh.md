@@ -27,3 +27,12 @@ updated: 2026-05-10
 - [[最值得产品经理装的10个skills]] — 最值得产品经理装的10个skills
 - [[最值得安装的20个Skills]] — ClawHub上的Skillnpx clawhub@latest install skill名称# GitHub上的Skillnpx skills add skill地址
 - [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/* .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
+
+
+## Related
+
+- [[Warp-oz-skills]] — related entitie
+
+## Related
+
+- [[lenny-skills]] — related entitie

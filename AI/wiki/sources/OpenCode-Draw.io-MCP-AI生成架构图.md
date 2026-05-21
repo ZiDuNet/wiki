@@ -24,7 +24,7 @@ updated: 2026-05-14
 ## 核心要点
 
 ### 实体
-[[OpenCode]] / [[Draw.io]] / [[drawio-mcp]] / [[MCP]] / [[Graphviz]] / [[Mermaid]] / [[Claude Code]]
+[[OpenCode]] / [[Draw.io]] / [[drawio-mcp]] / [[MCP]] / [[Graphviz]] / [[Mermaid]] / [[Claude-Code]]
 
 ### 概念
 [[架构图生成]] / [[MCP]] / [[Draw.io]] / [[自然语言到图表]] / [[AI 编程助手]]

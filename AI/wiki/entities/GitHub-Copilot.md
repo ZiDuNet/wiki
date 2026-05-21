@@ -34,3 +34,8 @@ GitHub Copilot是一个在多篇文章中被提及的实体。
 - [[新用户一行装好curl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmainscriptsi]]
 - [[给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]]
 - [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-]]
+
+
+## Related
+
+- [[Harness实践]] — related concept

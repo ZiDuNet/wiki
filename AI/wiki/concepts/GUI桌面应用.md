@@ -33,7 +33,7 @@ Hermes Desktop将命令行工具图形化，核心价值：降低门槛、提高
 
 ## 相关实体
 
-[[Hermes Desktop]], [[Hermes Agent]]
+[[Hermes-Desktop]], [[Hermes-Agent]]
 
 ## 相关概念
 

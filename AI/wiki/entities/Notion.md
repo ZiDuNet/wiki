@@ -50,3 +50,12 @@ Notion是一个在多篇文章中被提及的实体。
 - [[oc-这9个OpenClaw小龙虾Skills让AI真正帮我干活]]
 - [[阿里QoderWake上岗有身份有记忆有红线先给它一版“职业行为指南“]]
 - [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-]]
+
+
+## Related
+
+- [[Obsidian-AI工作流]] — related synthesi
+
+## Related
+
+- [[hermes-agent-知识全景]] — related synthesi

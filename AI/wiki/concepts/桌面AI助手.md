@@ -20,11 +20,11 @@ mentions: 1
 | 工具 | 厂商 | 定价 | 稳定性 | 特点 |
 |------|------|------|--------|------|
 | [[WorkBuddy]] | 腾讯 | 58元/月 | 一般 | 国内办公首选，微信生态整合 |
-| [[Claude Code]] | Anthropic | API费用 | 高 | 顶尖模型，CLI原生 |
+| [[Claude-Code]] | Anthropic | API费用 | 高 | 顶尖模型，CLI原生 |
 | [[Codex]] | OpenAI | ~40元/千积分 | 高 | GPT生态最强 |
 | [[TRAE]] | 字节跳动 | 免费额度 | 高 | 中文友好，免费策略 |
 | [[QoderWork]] | 阿里 | 20美元/月 | 极高 | 企业可靠但贵 |
-| [[Hermes Agent]] | 开源 | 免费 | 极高 | 私有化部署 |
+| [[Hermes-Agent]] | 开源 | 免费 | 极高 | 私有化部署 |
 
 ## 选型维度
 
@@ -35,7 +35,7 @@ mentions: 1
 
 ## 相关实体
 
-[[WorkBuddy]], [[Claude Code]], [[Codex]], [[TRAE]], [[QoderWork]], [[Hermes Agent]]
+[[WorkBuddy]], [[Claude-Code]], [[Codex]], [[TRAE]], [[QoderWork]], [[Hermes-Agent]]
 
 ## 相关文章
 

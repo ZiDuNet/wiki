@@ -34,3 +34,8 @@ mentions: 1
 ## 相关概念
 
 [[本地优先]], [[AI驱动]], [[HTML演示]]
+
+
+## Related
+
+- [[PPT制作全流程]] — related synthesi

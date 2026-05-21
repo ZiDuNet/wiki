@@ -22,7 +22,7 @@ Anthropic官方skill-creator工具升级为完整技能开发流水线，包含�
 
 ## 关键实体
 
-[[skill-creator]], [[Anthropic]], [[Claude Code]], [[ClawHub]]
+[[skill-creator]], [[Anthropic]], [[Claude-Code]], [[ClawHub]]
 
 ## 关键概念
 

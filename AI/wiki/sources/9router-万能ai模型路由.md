@@ -22,7 +22,7 @@ concepts: [AI模型路由网关, 免费Token, 多Agent配置, Combo fallback, MI
 
 ## 关键实体
 
-[[9Router]], [[OpenRouter]], [[OpenCode Free]], [[Hermes Agent]], [[OpenClaw]], [[KIMI]], [[DeepSeek]], [[Claude]], [[Gemini]]
+[[9Router]], [[OpenRouter]], [[OpenCode Free]], [[Hermes-Agent]], [[OpenClaw]], [[KIMI]], [[DeepSeek]], [[Claude]], [[Gemini]]
 
 ## 关键概念
 

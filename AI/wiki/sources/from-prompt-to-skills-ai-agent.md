@@ -25,7 +25,7 @@ tags: [Skill, Prompt, AI Agent, 工程化, 知识沉淀]
 
 - [[Anthropic]]
 - [[MiniMax]]
-- [[Claude Code]]
+- [[Claude-Code]]
 - [[Vercel Labs]]
 
 ## Concepts

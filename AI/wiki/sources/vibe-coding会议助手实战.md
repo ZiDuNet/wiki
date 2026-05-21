@@ -22,11 +22,11 @@ concepts: [Vibe Coding, ASR语音识别, 会议AI分析, 本地AI应用, 零代�
 
 ## 关键实体
 
-[[Claude Code]], [[Step Plan]], [[阶跃星辰]], [[Next.js]], [[SQLite]]
+[[Claude-Code]], [[Step Plan]], [[阶跃星辰]], [[Next.js]], [[SQLite]]
 
 ## 关键概念
 
-[[Vibe Coding]], [[ASR语音识别]], [[会议AI分析]], [[本地AI应用]], [[零代码开发]]
+[[Vibe-Coding]], [[ASR语音识别]], [[会议AI分析]], [[本地AI应用]], [[零代码开发]]
 
 ## 原始文件
 

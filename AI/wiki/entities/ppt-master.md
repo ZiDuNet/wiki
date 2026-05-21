@@ -22,3 +22,8 @@ updated: 2026-05-10
 - [[Skills-推荐-·-特别篇｜PPT-Master：让AI组队帮你生成真正可编辑的PPT]] — Skills 推荐 · 特别篇｜PPT-Master：让AI组队帮你生成真正可编辑的PPT
 - [[Skill配方｜我终于找到了好用的PPT工具，把已有方案内容自动生成专业可编辑PPTX]] — Skill配方｜我终于找到了好用的PPT工具，把已有方案内容自动生成专业可编辑PPTX
 - [[假期结束，打工人上线：5-个做-PPT-的-AI-工具skill，按场景选就够了]] — 假期结束，打工人上线：5 个做 PPT 的 AI 工具skill，按场景选就够了
+
+
+## Related
+
+- [[PPT未来是HTML]] — related concept

@@ -24,7 +24,7 @@ updated: 2026-05-14
 ## 核心要点
 
 ### 实体
-[[ComfyUI]] / [[FLUX]] / [[Wan2.2]] / [[Claude Code]] / [[Cursor]] / [[Codex]] / [[comfyui-workflow-skill]]
+[[ComfyUI]] / [[FLUX]] / [[Wan2.2]] / [[Claude-Code]] / [[Cursor]] / [[Codex]] / [[comfyui-workflow-skill]]
 
 ### 概念
 [[ComfyUI Workflow]] / [[AI Skill]] / [[文生图]] / [[图生视频]] / [[动作迁移]] / [[LoRA]]

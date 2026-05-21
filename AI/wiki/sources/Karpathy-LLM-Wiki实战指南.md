@@ -34,7 +34,7 @@ tags: [LLM Wiki, Karpathy, 知识库实战, Claude Code, Obsidian, Ingest, Compi
 
 ## 涉及概念
 
-- [[LLM Wiki方法论]] — 用AI作为Wiki编辑持续维护知识库的方法
+- [[LLM-Wiki方法论]] — 用AI作为Wiki编辑持续维护知识库的方法
 - [[知识库构建]] — 建立结构化知识存储系统的方法
 - [[Agent Skills]] — 封装特定工作流的可复用Agent能力
 - [[自动化工作流]] — 自动化执行的任务流程

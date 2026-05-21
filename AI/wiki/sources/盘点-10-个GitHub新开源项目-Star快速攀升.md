@@ -87,7 +87,7 @@ tags: [GitHub, AI开源项目, 本地推理, Agent工具, 幻灯片模板, 学�
 - [[antirez]] — Redis 作者，ds4 项目发起人
 - [[Mirage]] — 统一虚拟文件系统
 - [[TokenSpeed]] — Agent 推理引擎
-- [[Claude Code]] — 可直接对接 ds4 等工具
+- [[Claude-Code]] — 可直接对接 ds4 等工具
 - [[Mac本地推理]] — ds4/omlx 等项目所在领域
 
 ## 关键概念

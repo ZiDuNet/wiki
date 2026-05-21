@@ -27,7 +27,7 @@ Hermes Desktop是由fathah开发的社区桌面项目，为Hermes Agent提供图
 
 ## 相关实体
 
-[[Hermes Agent]], [[Nous Research]], [[fathah]]
+[[Hermes-Agent]], [[Nous-Research]], [[fathah]]
 
 ## 相关概念
 

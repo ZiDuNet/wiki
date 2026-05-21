@@ -230,3 +230,8 @@ npx claude-code-skills install <skill名称>
 - [[Superpowers]] — 最受欢迎的 Skill 合集
 - [[baoyu-skills]] — 内容创作全家桶
 - [[PPT制作]] — PPT 相关 Skill 对比
+
+
+## Related
+
+- [[baoyu-translate]] — related entitie

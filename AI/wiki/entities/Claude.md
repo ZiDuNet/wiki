@@ -249,3 +249,8 @@ mentions: 228
 - [[📦-安装到全局pip-install-e-gimpagentharness-🌍-随处可用clianythinggimp-helpclianythinggimp-]]
 - [[🚀 Hermes-Agent-中文新手指南-|-AI-编码助手来了！]]
 - [[🦄Hermes智能体-第5课只用一招让Hermes学会深度思考]]
+
+
+## Related
+
+- [[企业AI-Agent落地指南]] — related synthesi
