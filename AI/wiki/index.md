@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 ## Statistics
 
-- Sources: 1054 (+5 since last sync)
+- Sources: 1067 (+13 since last sync)
 - Entities: 173 (+0)
-- Concepts: 170 (+0)
+- Concepts: 173 (+3)
 - Synthesis: 12
 
 ## Sources
@@ -877,11 +877,12 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 - [[PUAClaw用学术风格包装的-AI-PUA-指南]] — PUAClaw：用学术风格包装的 AI PUA 指南
 
-### Prompt (3篇)
+### Prompt (4篇)
 
 - [[AI行业黑话一览一口气看懂-LLMTokenRAGPromptMCPSkill]] — AI行业黑话一览：一口气看懂 LLM、Token、RAG、Prompt、MCP、Skill……
 - [[大模型提示词工程Prompt]] — 大模型提示词工程Prompt
 - [[prompt-和-skill-区别]] — 一文讲清：Prompt 和 Skill 的区别是什么？
+- [[from-prompt-to-skills-ai-agent]] — 从手写 Prompt 到可复用 Skills：AI Agent 的"技能包"
 
 ### Prompt Engineering (11篇)
 
@@ -924,6 +925,10 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 ### RPA (1篇)
 
 - [[RPA-数据可视化-全链路自动化]] — RPA+数据可视化：打通数据采集到智能决策的全链路自动化
+
+### RSSHub (1篇)
+
+- [[nas-rsshub-deployment]] — NAS部署RSSHub，全网平台信息一把抓！
 
 ### SVG绘图 (1篇)
 
@@ -1047,7 +1052,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (23篇)
+### WorkBuddy (32篇)
 
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[一你每天有多少事是机械重复的]] — 一、你每天有多少事是"机械重复"的？
@@ -1074,6 +1079,16 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[708-WorkBuddy核心玩法拆解-3种模式-Skills-MCP-效率直接拉满]] — WorkBuddy核心玩法拆解：3种模式+Skills+MCP，效率直接拉满
 - [[WorkBuddy-从入门到精通-全套20篇目录]] — WorkBuddy 从入门到精通｜全套 20 篇目录
 - [[WorkBuddy方法15-竞品数据抓取与对比分析]] — WorkBuddy方法15 | 竞品数据抓取与对比分析：知己知彼
+- [[workbuddy-self-evolution]] — WorkBuddy高阶玩法：让AI自我进化，你只需要说一句话
+- [[workbuddy-customer-segmentation]] — WorkBuddy方法16 | 客户数据分群与画像分析：找到你的金矿客户
+- [[workbuddy-workflow-setup]] — WorkBuddy从入门到精通（13）工作流搭建：从需求到自动化全流程
+- [[workbuddy-3d-dashboard]] — WorkBuddy 100种用法 #37 | 探索新功能，一键制作 3D 可视化数字大屏
+- [[workbuddy-10-things]] — 用WorkBuddy能做哪10件事？
+- [[workbuddy-5-dirty-tasks]] — 打工人反内耗指南：我用WorkBuddy把这5类脏活全干了
+- [[workbuddy-ima-knowledge-base]] — 用WorkBuddy+ima做知识库终极版：文档联动+定期整理，把知识变资产
+- [[workbuddy-skills-installation]] — WorkBuddy 赋能精准办公：Skills 安装提示词（含必备版+进阶版 TOP5）
+- [[workbuddy-complete-guide]] — WorkBuddy 完整使用指南：让AI真正成为你的工作搭档
+- [[workbuddy-excel-processing]] — WorkBuddy Excel处理：数据清洗和合并，一条指令搞定
 
 
 ### acquire-codebase-knowledge (1篇)
@@ -1093,6 +1108,11 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 ### 上下文管理 (1篇)
 
 - [[你的-AI-skills-有多少在摸鱼？]] — 01｜事情的起因
+
+### 微信全流程 Skill (1篇)
+
+- [[wechat-full-skill-workflow]] — 微信全流程 Skill：选题、写作、配图、排版、发布到草稿箱
+
 ### 企业应用 (3篇)
 - [[737-我来预测下一代企业数字化架构系统CLI化流程Skill化员工Agent化]] — 我来预测下一代企业数字化架构：系统CLI化、流程Skill化、员工Agent化
 

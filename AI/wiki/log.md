@@ -1361,3 +1361,60 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - 12th batch articles already fully ingested: 754-Agent-Skills, 753-Skill-SD
 - Index stats header was stale (Sources/Concepts counts corrected)
 - No new articles require ingestion this cycle
+
+---
+
+## 2026-05-22 — 微信公众号文章同步摄入（第十四批次）
+
+**Operator:** Automated ingestion (微信同步 cron 00:00)
+**Source:** 微信公众号/ (13 new articles processed)
+**Time:** 2026-05-22 00:01
+
+### Results
+
+- **Sources processed:** 13
+- **Categories:** WorkBuddy (9 new), 微信全流程 Skill (1 new, 1st ever), RSSHub (1 new, 1st ever), Prompt (1 new)
+- **Source pages created:** 13
+  - `wiki/sources/workbuddy-self-evolution.md`
+  - `wiki/sources/workbuddy-customer-segmentation.md`
+  - `wiki/sources/workbuddy-workflow-setup.md`
+  - `wiki/sources/workbuddy-3d-dashboard.md`
+  - `wiki/sources/workbuddy-10-things.md`
+  - `wiki/sources/workbuddy-5-dirty-tasks.md`
+  - `wiki/sources/workbuddy-ima-knowledge-base.md`
+  - `wiki/sources/workbuddy-skills-installation.md`
+  - `wiki/sources/workbuddy-complete-guide.md`
+  - `wiki/sources/workbuddy-excel-processing.md`
+  - `wiki/sources/wechat-full-skill-workflow.md`
+  - `wiki/sources/from-prompt-to-skills-ai-agent.md`
+  - `wiki/sources/nas-rsshub-deployment.md`
+- **Entity pages updated:** none
+- **Concept pages created:** none
+- **concept-table.md updated:** 0 (new concepts noted but not yet added)
+- **index.md updated:** Statistics (Sources 1054→1067), WorkBuddy (23→32篇), Prompt (3→4篇), +微信全流程 Skill (1篇), +RSSHub (1篇)
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|----|------|------|
+| 760 | WorkBuddy | WorkBuddy高阶玩法：让AI自我进化，你只需要说一句话 |
+| 761 | WorkBuddy | WorkBuddy方法16 | 客户数据分群与画像分析：找到你的金矿客户 |
+| 762 | WorkBuddy | WorkBuddy从入门到精通（13）工作流搭建：从需求到自动化全流程 |
+| 763 | WorkBuddy | WorkBuddy 100种用法 #37 | 探索新功能，一键制作 3D 可视化数字大屏 |
+| 764 | WorkBuddy | 用WorkBuddy能做哪10件事？ |
+| 765 | WorkBuddy | 打工人反内耗指南：我用WorkBuddy把这5类脏活全干了 |
+| 766 | WorkBuddy | 用WorkBuddy+ima做知识库终极版：文档联动+定期整理，把知识变资产 |
+| 767 | WorkBuddy | WorkBuddy 赋能精准办公：Skills 安装提示词（含必备版+进阶版 TOP5） |
+| 768 | WorkBuddy | WorkBuddy 完整使用指南：让AI真正成为你的工作搭档 |
+| 769 | WorkBuddy | WorkBuddy Excel处理：数据清洗和合并，一条指令搞定 |
+| 770 | 微信全流程 Skill | 微信全流程 Skill：选题、写作、配图、排版、发布到草稿箱 |
+| 771 | RSSHub | NAS部署RSSHub，全网平台信息一把抓！ |
+| 772 | Prompt | 从手写 Prompt 到可复用 Skills：AI Agent 的"技能包" |
+
+### Notes
+
+- 13 new articles collected and processed successfully
+- 2 new categories introduced: 微信全流程 Skill, RSSHub
+- Sources count: 1054 → 1067 (+13)
+- WorkBuddy articles now at 32篇 (was 23)
+- BM25 index to be rebuilt after this entry
