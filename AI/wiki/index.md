@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 ## Statistics
 
-- Sources: 1049 (+0 since last sync; +13 untracked)
+- Sources: 1054 (+5 since last sync)
 - Entities: 173 (+0)
 - Concepts: 170 (+0)
 - Synthesis: 12
@@ -326,14 +326,14 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (24篇)
+### GitHub (25篇)
 
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
 - [[GitHub爆火基于Gemini的开源PPT生成神器每页都是AI原创设计]] — GitHub爆火！基于Gemini的开源PPT生成神器，每页都是AI原创设计
 - [[oc-这9个OpenClaw小龙虾Skills让AI真正帮我干活]] — 这9个OpenClaw小龙虾Skills，让AI真正帮我干活
 - [[今日-GitHub-爆款-Top-5-20260428]] — 今日 GitHub 爆款 Top 5 | 2026-04-28
-- [[例如-Gemini-CLI-for-plugin-in-pm-do-cp-r-$pluginskills-geminiskills-2devnull-done]] — 例如 Gemini CLI for plugin in pm-/; do   cp -r "$plugin/skills/" ~/.gemini/skills/ 2>/dev/null done
+- [[例如-Gemini-CLI-for-plugin-in-pm-do-cp-r-$pluginskills-geminiskills-2devnull-done]] — 例如 Gemini CLI for plugin in pm-/; do   cp -r "$plugin/skills/" ~/.gemini/skills/ 2>/dev/null done
 - [[周一早上睁开眼手机上挂着一堆未读消息其中有一半是各种技术群在转-GitHub-链接我喝着咖啡刷了一遍感觉这周开局就没打算让人安静几个项目一起冲榜而且话题还挺分散]] — 周一早上睁开眼，手机上挂着一堆未读消息，其中有一半是各种技术群在转 GitHub 链接。我喝着咖啡刷了一遍，感觉这周开局就没打算让人安静——几个项目一起冲榜，而且话题还挺分散，从 Agent 技能到 TypeScript 换底层，全都在同一天挤进了视野。
 - [[安装Hermes-Agent完全指南-github-66kstar-实战安装]] — 安装Hermes Agent完全指南 github 66kstar 实战安装
 - [[安装skill]] — 安装skill
@@ -342,7 +342,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[推荐-3-个-GitHub-画图-Skill一句话生成流程图架构图]] — 推荐 3 个 GitHub 画图 Skill，一句话生成流程图、架构图。
 - [[操作微信发消息]] — 操作微信发消息
 - [[每周更新帮你快速了解全球最热门的技术项目]] — 每周更新，帮你快速了解全球最热门的技术项目。
-- [[获取最新文章ID列表url'httpshackernewsfirebaseiocomv0topstoriesjson'rrequestsgeturlstoryi]] — 获取最新文章 ID 列表url = 'https://hacker-news.firebaseio.com/v0/topstories.json'r = requests.get(url)storyids = r.json()    # 返回 [35580378, 35579582, ...]# 按 ID 逐条获取详情storyurl = f'https://hacker-news.firebaseio.com/v0/item/{storyids[0]}.json'r = requests.get(storyurl)story = r.json()print(story['title'])print(story.get('url', 'No URL'))
+- [[获取最新文章ID列表url'httpshackernewsfirebaseiocomv0topstoriesjson'rrequestsgeturlstoryi]] — 获取最新文章 ID 列表url = 'https://hacker-news.firebaseio.com/v0/topstories.json'r = requests.get(url)storyids = r.json()    # 返回 [35580378, 35579582, ...]# 按 ID 逐条获取详情storyurl = f'https://hacker-news.firebaseio.com/v0/item/{storyids[0]}.json'r = requests.get(storyurl)story = r.json()print(story['title'])print(story.get('url', 'No URL'))
 - [[🌟-20260421-GitHub-Python-热点项目精选11个]] — 🌟 2026-04-21 GitHub Python 热点项目精选(11个)
 - [[🌟-20260426-GitHub-Python-热点项目精选20个]] — 🌟 2026-04-26 GitHub Python 热点项目精选(20个)
 - [[🌟-20260504-GitHub-Python-热点项目精选17个]] — 🌟 2026-05-04 GitHub Python 热点项目精选(17个)
@@ -352,7 +352,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[盘点-10-个GitHub新开源项目-Star快速攀升]] — 盘点 10 个 GitHub 新开源项目：Star 快速攀升
 - [[cyber-skills-github整理]] — 我把常用的Skills和Prompt，全整理到GitHub了
 - [[扒了1周GitHub我挖出了顶级博主不肯说的20个Sikll超详细介绍及安装教程]] — 扒了1周GitHub，我挖出了顶级博主不肯说的20个Sikll，超详细介绍及安装教程
-
+- [[zhe-ge-GitHub-shen-ji-Skill-yi-ju-hua-ba-ni-kai-fa-de-wang-zhan-fa-bu-dao-xian-shang]] — 这个 GitHub 神级 Skill：一句话把你开发的网站发布到线上（PinMe）
 - [[710-推荐8个本周YYDS的GitHub开源项目]] — 推荐 8 个本周 YYDS 的 GitHub 开源项目
 - [[713-GitHub2万星爆款让AI接管你的浏览器这个开源项目太强了]] — GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了
 ### GitHub开源项目 (1篇)
@@ -660,7 +660,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (27篇)
+### Obsidian (30篇)
 
 - [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
@@ -689,11 +689,15 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 - [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
 - [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
-### Zero-to-CAD (3篇)
+- [[kai-yuan-xiang-mu-84k-stars-llm-wiki-zi-wo-gou-jian-de-ai-ge-ren-zhi-shi-ku]] — LLM Wiki：8.4K Stars！一个能自我构建的AI个人知识库，超越Obsidian
+- [[Obsidian-guan-fang-tong-bu-gui-zai-NAS-shang-zi-jian-fu-wu-qi-duo-duan-bi-ji-wan-mei-tong-bu]] — Obsidian官方同步贵？在NAS上自建服务器，实现多端笔记完美同步
+- [[Hermes-Obsidian-LLM-Wiki-da-jian-ben-di-zhi-shi-ku]] — Hermes+Obsidian+LLM Wiki搭建本地知识库
+### Zero-to-CAD (4篇)
 - [[736-text-to-cad和它对话就能做建筑设计方案]] — text-to-cad：和它对话就能做建筑设计方案
 
 - [[712-Zero-to-CADAI三维CAD设计的新分水岭]] — Zero-to-CAD：AI 三维CAD设计的新分水岭
 - [[714-说话就能建模AI直接生成可导出的CAD模型]] — 说话就能建模，AI 直接生成可导出的 CAD 模型
+- [[Zero-to-CAD-cong-ling-dao-CAD-sheng-cheng-wan-ke-bian-ji-cheng-xu]] — Zero-to-CAD：从零到CAD生成百万可编辑程序
 
 
 ### OpenClaw (135篇)

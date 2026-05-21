@@ -2,6 +2,38 @@
 
 Chronological record of all operations.
 
+## 2026-05-21 — 微信公众号文章同步摄入（第十三批次）
+
+**Operator:** Automated ingestion (微信同步 cron)
+**Source:** 微信公众号/ (5 new articles processed)
+**Time:** 2026-05-21 18:00
+
+### Results
+
+- **Sources processed:** 5
+- **Categories:** Obsidian (3 new), GitHub (1 new), Zero-to-CAD (1 new)
+- **Source pages created:** 5 (wiki/sources/)
+- **Entity pages updated:** none
+- **Concept pages created:** none
+- **concept-table.md updated:** 0
+- **index.md updated:** Statistics (Sources 1049→1054), Obsidian (27→30篇), GitHub (24→25篇), Zero-to-CAD (3→4篇)
+
+### New Articles
+
+| ID | 分类 | 标题 |
+|---|---|---|
+| 755 | Obsidian | LLM Wiki：8.4K Stars！一个能自我构建的AI个人知识库，超越Obsidian |
+| 756 | Obsidian | Obsidian官方同步贵？在NAS上自建服务器，实现多端笔记完美同步 |
+| 757 | Zero-to-CAD | Zero-to-CAD：从零到CAD生成百万可编辑程序 |
+| 758 | Obsidian | Hermes+Obsidian+LLM Wiki搭建本地知识库 |
+| 759 | GitHub | 这个 GitHub 神级 Skill：一句话把你开发的网站发布到线上（PinMe） |
+
+### Notes
+
+- All wxrobot queue: pending=5, success=749
+- Fast Note Sync (ID 756) - NAS上的Obsidian同步解决方案，替代官方同步
+- LLM Wiki articles (ID 755, 758) - 两次不同角度介绍 Hermes+Obsidian+LLM Wiki 组合
+
 ## 2026-05-21 — 微信公众号文章同步摄入（第十二批次）
 
 **Operator:** Automated ingestion (微信同步 cron)
