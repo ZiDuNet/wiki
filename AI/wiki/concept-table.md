@@ -17,6 +17,8 @@
 | [[Agent开发]] | # Agent开发 | 24 |
 | [[Agent架构]] | # Agent架构 | 6 |
 | [[Agent路由]] | # Agent路由 | 59 |
+| [[Agent-Native]] | 软件架构设计原则：系统原生支持 AI Agent 调用，API 优先于 UI，原子化可组合操作 | 1 |
+| [[API-First]] | # API-First | 1 |
 | [[CICD]] | # CI/CD | 17 |
 | [[Context上下文]] | # Context上下文 | 13 |
 | [[Cron定时任务]] | # Cron定时任务 | 58 |

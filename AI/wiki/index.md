@@ -1,11 +1,11 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-21.
+Master catalog of all wiki pages. Updated on 2026-05-22.
 
 ## Statistics
 
-- Sources: 1072
-- Entities: 174
+- Sources: 1074
+- Entities: 175
 - Concepts: 170
 - Synthesis: 15
 
@@ -251,6 +251,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[Agent-技能夜间自进化——阿里开源-SkillClaw，最高提升-88%]] — Agent 技能夜间自进化——阿里开源 SkillClaw，最高提升 88%
 - [[Agent替你干活的真相比你想象的简单十倍]] — Agent 替你干活的真相，比你想象的简单十倍
 - [[大明PPT-Agent-Team]] — 朕不想做PPT，于是创造了大明PPT Agent Team
+- [[35-6K-Stars-CLI-Anything-Agent-Native]] — 35.6K Stars 的 CLI-Anything 揭示了什么？Agent-Native 时代来了
 
 ### Agentic Engineering (1篇)
 
@@ -634,7 +635,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 ### JVS Claw (1篇)
 
 - [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果]] — “龙虾”下乡记：JVS Claw在甘肃礼县“种”起了苹果
-### LLM-Wiki (10篇)
+### LLM-Wiki (11篇)
 
 - [[ai-knowledge-base-evolution-rag-notebooklm-llmwiki]] — AI 知识库技术演进拆解：从 RAG 到 NotebookLM，再到 LLM Wiki（七层架构深度分析）
 - [[738-Hermes-Obsidian-LLM-Wiki搭建一个会自己长大的本地知识库]] — Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库
@@ -647,6 +648,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[Karpathy-LLM-Wiki-Skill开源]] — Karpathy LLM-Wiki Skill 已开源公开
 - [[Graphify-知识图谱工程化]] — Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品
 - [[Karpathy-的-LLM-Wiki-模式：让-AI-替你维护知识库]] — Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库
+- [[LLM-Wiki-架构解析-Karpathy-Markdown-知识库模式]] — LLM Wiki 架构解析：Karpathy 的 Markdown 知识库模式
 
 ### LangGraph (1篇)
 

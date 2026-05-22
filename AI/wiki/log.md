@@ -2,6 +2,38 @@
 
 Chronological record of all operations.
 
+## 2026-05-22 — WeChat Article Batch 4 Ingestion
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (2 articles processed)
+**Time:** 2026-05-22 18:00
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Agent (1), LLM Wiki (1)
+- **Source pages created:** 2 (wiki/sources/)
+- **Entity pages created:** 1 (CLI-Anything)
+- **Concept pages created:** 2 (Agent-Native, API-First)
+- **index.md updated:** Statistics (Sources 1072→1074, Entities 174→175), Agent section (+1), LLM-Wiki section (+1)
+- **concept-table.md updated:** +2 concepts
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | Agent | 35.6K Stars 的 CLI-Anything 揭示了什么？Agent-Native 时代来了 | 35-6K-Stars-CLI-Anything-Agent-Native |
+| 2 | LLM Wiki | LLM Wiki 架构解析：Karpathy 的 Markdown 知识库模式 | LLM-Wiki-架构解析-Karpathy-Markdown-知识库模式 |
+
+### Notes
+
+- CLI-Anything (35.6K Stars): 让所有软件原生支持 AI Agent 调用的 CLI 工具，Agent-Native 架构趋势的代表项目
+- LLM Wiki 架构解析: Karpathy 的 Markdown 知识库模式深度解析，四层架构（Raw Sources → Ingest → Wiki → Query Loop）
+- 新增实体: CLI-Anything
+- 新增概念: Agent-Native, API-First
+
+---
+
 ## 2026-05-22 — WeChat Article Batch 3 Ingestion
 
 **Operator:** Hermes Agent (batch ingestion task)
