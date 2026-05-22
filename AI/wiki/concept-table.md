@@ -22,6 +22,7 @@
 | [[CICD]] | # CI/CD | 17 |
 | [[Context上下文]] | # Context上下文 | 13 |
 | [[Cron定时任务]] | # Cron定时任务 | 58 |
+| [[CLI-Hub]] | 社区驱动的CLI注册表，支持Agent自主选择安装CLI工具 | 1 |
 | [[DevOps]] | # DevOps | 8 |
 | [[Fallback模型]] | # Fallback模型 | 13 |
 | [[Function-Calling]] | # Function Calling | 14 |
@@ -101,8 +102,10 @@
 || [[知识图谱]] | # 知识图谱 | 25 |
 || [[知识图谱构建]] | # 知识图谱构建 | 3 |
 || [[知识库构建]] | # 知识库构建 | 56 |
+| [[知识库自动化]] | 利用定时任务和Agent实现知识库自动抓取、编译、推送的运转模式 | 1 |
 || [[LLM-Wiki方法论]] | # LLM Wiki方法论 | 6 |
 || [[Managed-Agents]] | # Managed Agents | 1 |
+| [[Memex]] | Vannevar Bush 1945年设想的记忆延伸设备，80年前的问题与当前知识库困境相同 | 1 |
 | [[知识管理]] | # 知识管理 | 24 |
 | [[科研工具]] | # 科研工具 | 24 |
 | [[经验蒸馏]] | # 经验蒸馏 | 24 |

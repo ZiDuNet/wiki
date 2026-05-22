@@ -2,6 +2,46 @@
 
 Chronological record of all operations.
 
+## 2026-05-22 — WeChat Article Batch 5 Ingestion
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (7 articles processed)
+**Time:** 2026-05-22 22:27
+
+### Results
+
+- **Sources processed:** 7
+- **Categories:** Skills (1), Agent (1), 知识库 (1), Obsidian (1), LLM Wiki (2), SkillManager (1)
+- **Source pages created:** 7 (wiki/sources/)
+- **Entity pages created:** 1 (CLI-Anything)
+- **Concept pages created:** 5 (text-to-cad, 参数化设计, CLI-Hub, 知识库自动化, Memex)
+- **index.md updated:** Statistics (Sources 1074→1081, Entities 175→176, Concepts 170→175)
+- **concept-table.md updated:** +5 concepts
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | Skills | 3款AI生成CAD的开源Skills，AI生成BIM | 3款AI生成CAD的开源SKillsAI生成BIM |
+| 2 | Agent | CLI-Anything：把任意软件变成AI能用的CLI工具 | CLI-Anything把任意软件变成AI能用的CLI工具好用爆了 |
+| 3 | 知识库 | 企业自建内部知识库最容易死在8个问题上 | 企业自建内部知识库最容易死在这8个问题上管理技术双维度 |
+| 4 | Obsidian | 别再把Obsidian只当笔记软件了高阶玩家都在这样用 | 别再把Obsidian只当笔记软件了高阶玩家都在这样用 |
+| 5 | LLM Wiki | 给Karpathy的LLMWiki装上自动引擎 | 给Karpathy的LLMWiki装上自动引擎 |
+| 6 | LLM Wiki | Karpathy的LLMWiki火了但他没解决一个问题 | Karpathy的LLMWiki火了但他没解决一个问题 |
+| 7 | SkillManager | AISkill给数字员工配的操作册 | AISkill给数字员工配的操作册 |
+
+### Notes
+
+- text-to-cad: AI生成CAD开源工具，支持STEP/STL/3MF/DXF/URDF/SRDF/SDF格式导出
+- CLI-Anything: HKUDS开发的CLI自动生成工具，7阶段流水线让Agent操作任意软件
+- 企业知识库8大问题: 管理7问题+技术AI只搜索不分析
+- Obsidian高阶用法: CSS/Templater/QuickAdd/Obsidian URI/插件开发
+- LLM Wiki自动引擎: AutoCLI定时抓取+Agent编译+微信推送日报
+- LLM Wiki问题: 被动容器需要人工喂料，三步解决方案让知识库自动运转
+- AI Skill: Agent生态四要素，Skill=标准工作手册
+
+---
+
 ## 2026-05-22 — WeChat Article Batch 4 Ingestion
 
 **Operator:** Hermes Agent (scheduled cron)
