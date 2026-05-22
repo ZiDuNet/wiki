@@ -2,6 +2,44 @@
 
 Chronological record of all operations.
 
+## 2026-05-23 — WeChat Article Batch 6 Ingestion
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (11 articles processed)
+**Time:** 2026-05-23 06:00
+
+### Results
+
+- **Sources processed:** 11
+- **Categories:** Prompt (2), LLM Wiki (1), Skills (1), MarkItDown (1), SkillManager (2), AI生成PPT方案 (1), GitHub (1), RAG (1), Agent (1)
+- **Source pages created:** 11 (wiki/sources/)
+- **Concept pages created:** 4 (Design System, GraphRAG, MinerU, 数字员工)
+- **index.md updated:** Statistics (Sources 1074→1085, Concepts 170→174)
+- **concept-table.md updated:** +4 concepts
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | Prompt | 开源\|一款AI Prompt和Skill管理系统，支持多平台安装、版本控制与多模型测试 | 开源-PromptHub |
+| 2 | LLM Wiki | LLM Wiki知识管理上手更丝滑 | LLM-Wiki知识管理上手更丝滑 |
+| 3 | Skills | hack-skills 助力 AI 智能体成长为实力顶尖的实战渗透高手！ | hack-skills-助力AI智能体成长为实战渗透高手 |
+| 4 | Prompt | 从 Prompt 到 Skill：一套搭建数字员工体系的完整方法论 | 从-Prompt到Skill-数字员工体系方法论 |
+| 5 | MarkItDown | 带图PDF 怎么转 Markdown？我终于找到了的最终方案 | 带图PDF转Markdown-工具对比 |
+| 6 | SkillManager | 2026年最全创作SKILL：从热点到发布，Skill一套5分钟搞定 | 2026年最全创作SKILL-从热点到发布5分钟搞定 |
+| 7 | SkillManager | 再也不用求前端了！这个开源免费的skill让你一秒拥有专业级UI设计能力 | UI-UX-Pro-Max-Skill专业级UI设计 |
+| 8 | AI生成PPT方案 | skill自动生成宣传效果图片和可以编辑的ppt | PPT-Master自动生成宣传图片和可编辑PPT |
+| 9 | GitHub | GitHub 每日推荐 \| 2026年05月22日 星期五 | GitHub-每日推荐-2026-05-22 |
+| 10 | RAG | 基于知识图谱的多模态 GraphRAG 项目实战，系统架构详解 | GraphRAG项目实战-多模态知识图谱系统架构 |
+| 11 | Agent | 别再堆 Agent 了，企业 AI 要先把流程做成 Skill | 别再堆Agent了-企业AI要把流程做成Skill |
+
+### Notes
+
+- Design System: AI编程工具的自动设计系统生成（67种UI风格、161套行业配色）
+- GraphRAG: 向量检索+图遍历混合，多跳推理问答，Neo4j+Milvus双索引
+- MinerU: 多模态PDF解析，109种语言OCR，表格/公式/图片完整保留
+- 数字员工: 基于Skill封装的AI工作团队，使AI能稳定、专业地执行特定任务
+
 ## 2026-05-22 — WeChat Article Batch 5 Ingestion
 
 **Operator:** Hermes Agent (scheduled cron)

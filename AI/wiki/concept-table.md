@@ -23,10 +23,12 @@
 | [[Context上下文]] | # Context上下文 | 13 |
 | [[Cron定时任务]] | # Cron定时任务 | 58 |
 | [[CLI-Hub]] | 社区驱动的CLI注册表，支持Agent自主选择安装CLI工具 | 1 |
+| [[Design System]] | AI编程工具的自动设计系统生成：配色方案、字体组合、UI风格、行业规则匹配，支持67种UI风格和161套行业配色 | 1 |
 | [[DevOps]] | # DevOps | 8 |
 | [[Fallback模型]] | # Fallback模型 | 13 |
 | [[Function-Calling]] | # Function Calling | 14 |
 | [[GitHub开源项目]] | # GitHub开源项目 | 24 |
+| [[GraphRAG]] | 基于知识图谱的多模态RAG：向量检索+图遍历混合，支持多跳推理问答，Neo4j+Milvus双索引存储 | 1 |
 | [[Harness-Engineering]] | # Harness Engineering | 24 |
 | [[Harness框架]] | # Harness框架 | 44 |
 | [[Kanban看板]] | # Kanban看板 | 10 |
@@ -69,6 +71,7 @@
 | [[上下文管理]] | # 上下文管理 | 24 |
 | [[业务映射]] | # 业务映射 | 1 |
 | [[事件驱动]] | # 事件驱动 | 7 |
+| [[数字员工]] | 基于 Skill 构建的 AI 工作团队：封装专业知识与流程，使 AI 能稳定、专业地执行特定任务，区别于通用 Agent | 1 |
 | [[数字员工操作系统]] | Clawith 提出的定位：AI Agent 的运行时操作系统 + 组织管理平台，含身份管理、调度引擎、权限分级、渠道接入 | 1 |
 | [[代码审查]] | # 代码审查 | 62 |
 | [[代码生成]] | # 代码生成 | 39 |
@@ -106,6 +109,7 @@
 || [[LLM-Wiki方法论]] | # LLM Wiki方法论 | 6 |
 || [[Managed-Agents]] | # Managed Agents | 1 |
 | [[Memex]] | Vannevar Bush 1945年设想的记忆延伸设备，80年前的问题与当前知识库困境相同 | 1 |
+| [[MinerU]] | 多模态PDF解析工具：版面分析+OCR+表格识别+公式识别，支持109种语言，云端API每日2000页免费 | 1 |
 | [[知识管理]] | # 知识管理 | 24 |
 | [[科研工具]] | # 科研工具 | 24 |
 | [[经验蒸馏]] | # 经验蒸馏 | 24 |
