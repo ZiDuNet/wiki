@@ -2,6 +2,20 @@
 
 Chronological record of all operations.
 
+## 2026-05-22 — Scrapling 爬虫框架摄入
+
+**Operator:** hermes-pachong（手动触发）
+**Source:** GitHub — D4Vinci/Scrapling
+**Time:** 2026-05-22
+
+### Results
+
+- **Source page:** 已存在 wiki/sources/Scrapling-自适应Web爬虫框架-绕Cloudflare-自适应解析-Spider.md（前序会话创建）
+- **Entity pages created:** 1 — [[Scrapling]]
+- **Entity pages updated:** 0
+- **Concept pages created:** 0
+- **index.md updated:** GitHub 分类 +1
+
 ## 2026-05-21 — 微信公众号文章同步摄入（第十三批次）
 
 **Operator:** Automated ingestion (微信同步 cron)

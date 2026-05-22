@@ -4,8 +4,8 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 
 ## Statistics
 
-- Sources: 1067 (+13 since last sync)
-- Entities: 173 (+0)
+- Sources: 1068 (+1 since last sync)
+- Entities: 174 (+1)
 - Concepts: 173 (+3)
 - Synthesis: 12
 
@@ -346,6 +346,7 @@ Master catalog of all wiki pages. Updated on 2026-05-21.
 - [[🌟-20260421-GitHub-Python-热点项目精选11个]] — 🌟 2026-04-21 GitHub Python 热点项目精选(11个)
 - [[🌟-20260426-GitHub-Python-热点项目精选20个]] — 🌟 2026-04-26 GitHub Python 热点项目精选(20个)
 - [[🌟-20260504-GitHub-Python-热点项目精选17个]] — 🌟 2026-05-04 GitHub Python 热点项目精选(17个)
+- [[Scrapling-自适应Web爬虫框架-绕Cloudflare-自适应解析-Spider]] — Scrapling：自适应Web爬虫框架，绕Cloudflare、自适应解析、Spider
 - [[maigret-3000-website-search]] — GitHub 2.4万Star的Maigret：一个用户名搜遍3000+网站
 - [[yao-open-prompts-116]] — 姚金刚的yao-open-prompts：116个中文提示词冲上GitHub Trending
 - [[github-ai热榜-5月11日-genericagent-omlx]] — GitHub AI 热榜 | 5月11日：榜首易主，GenericAgent 自进化 + omlx Mac 本地推理
