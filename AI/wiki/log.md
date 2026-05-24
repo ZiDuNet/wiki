@@ -2,6 +2,68 @@
 
 Chronological record of all operations.
 
+## 2026-05-25 — diagram-maker Skill 文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/diagram-maker Skill/智能体、MCP、Skill到底是个啥？大白话讲透.md
+**Time:** 2026-05-25 00:10
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** diagram-maker Skill (1)
+- **Source pages created:** 1 (wiki/sources/智能体MCP-Skill到底是啥5句话大白话讲透.md)
+- **index.md:** Article already listed under Skills section (60篇)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug |
+||---|---|---|---|
+|| 1 | diagram-maker Skill | 智能体、MCP、Skill到底是啥？5句话大白话讲透 | 智能体MCP-Skill到底是啥5句话大白话讲透 |
+
+### Key Findings
+
+1. **五大概念类比**: Agent=实习生本人，MCP=开通公司系统账号，Skill=标准操作手册，Rules=规矩，Memory=笔记本
+2. **智能体vs大模型**: 大模型是你问它答，智能体是你交代任务它交付成果；大模型只会聊天，智能体会做事
+3. **订饭店案例**: Memory→Rules→MCP→Skill四步协作，用户只说一句话，智能体完成全部工作
+4. **数字员工公式**: MCP(工具)+Skill(章法)+Rules(底线)+Memory(记性)=能干活、会学习、守规矩、长记性的数字员工
+
+---
+
+## 2026-05-25 — AI运维终端文章重新摄入验证
+
+**Operator:** Hermes Agent (scheduled cron task)
+**Source:** 微信公众号/AI 运维终端/告别传统SSH！一款桌面级 AI 运维终端，体验嘎嘎好.md
+**Time:** 2026-05-25
+
+### 验证结果
+
+该文章已于 2026-05-24 摄入并处理完毕。本次为验证性摄入，确认以下内容：
+
+### 已存在的文件
+
+| 类型 | 文件 | 状态 |
+|---|---|---|
+| Source | wiki/sources/告别传统SSH一款桌面级AI运维终端体验嘎嘎好.md | ✓ 存在且完整 |
+| Entity | wiki/entities/GMSSH.md | ✓ 存在且完整 |
+| Concept | wiki/concepts/SSH隧道.md | ✓ 存在且完整 |
+| Concept | wiki/concepts/运维终端.md | ✓ 存在且完整 |
+
+### 本次更新
+
+| 类型 | 文件 | 更新内容 |
+|---|---|---|
+| Concept | wiki/concepts/MCP协议.md | 添加 GMSSH 关联、增加定义和应用场景章节 |
+
+### Key Findings
+
+1. **GMSSH 架构亮点**: 零侵入设计——所有可视化逻辑在客户端，服务器无需安装任何软件
+2. **进程隔离**: 核心引擎 ga_main 管理独立子进程，插件崩溃不影响其他服务
+3. **MCP 协议集成**: AI 通过 MCP 感知服务器实时状态，预置 50+ 运维技能包
+4. **插件生态**: 核心闭源 + 生态开放策略，支持多语言开发（Python/Go/Node.js/Rust）
+
+---
+
 ## 2026-05-24 — AI运维终端 & Hermes多代理系统文章摄入（2篇）
 
 **Operator:** Hermes Agent (subagent task)
