@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-23.
+Master catalog of all wiki pages. Updated on 2026-05-24.
 
 ## Statistics
 
-- Sources: 1085
+- Sources: 1087
 - Entities: 175
-- Concepts: 174
+- Concepts: 175
 - Synthesis: 15
 
 ## Sources
@@ -312,9 +312,10 @@ Master catalog of all wiki pages. Updated on 2026-05-23.
 - [[web-access-skillAI联网能力升级]] — 这个Skill解决了什么问题
 - [[html-anything-开源-让你感受-Claude-Code-作者提到的-HTML-效果]] — html-anything 开源！让你感受 Claude Code 作者提到的 HTML 效果！
 
-### Dify (1篇)
+### Dify (2篇)
 
 - [[AI-Agent-全景课-02为什么-DifyCozen8n-先跑出来探讨可视化工作流编排平台的价值与边界]] — AI Agent 全景课 02：为什么 Dify、Coze、n8n 先跑出来？探讨可视化工作流编排平台的价值与边界
+- [[dify打造数据可视化图表]] — Dify + mcp-server-chart 实现自然语言驱动的数据可视化
 
 ### GPT-5.5 (1篇)
 
@@ -635,7 +636,7 @@ Master catalog of all wiki pages. Updated on 2026-05-23.
 ### JVS Claw (1篇)
 
 - [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果]] — “龙虾”下乡记：JVS Claw在甘肃礼县“种”起了苹果
-### LLM-Wiki (11篇)
+### LLM-Wiki (12篇)
 
 - [[ai-knowledge-base-evolution-rag-notebooklm-llmwiki]] — AI 知识库技术演进拆解：从 RAG 到 NotebookLM，再到 LLM Wiki（七层架构深度分析）
 - [[738-Hermes-Obsidian-LLM-Wiki搭建一个会自己长大的本地知识库]] — Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库
@@ -649,6 +650,7 @@ Master catalog of all wiki pages. Updated on 2026-05-23.
 - [[Graphify-知识图谱工程化]] — Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品
 - [[Karpathy-的-LLM-Wiki-模式：让-AI-替你维护知识库]] — Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库
 - [[LLM-Wiki-架构解析-Karpathy-Markdown-知识库模式]] — LLM Wiki 架构解析：Karpathy 的 Markdown 知识库模式
+- [[Wechat-Cli-将微信聊天记录导入-Karpathy的-LLM-Wiki]] — Wechat-Cli + Graphify：从加密数据库到结构化知识图谱的完整链路
 
 ### LangGraph (1篇)
 
@@ -671,8 +673,10 @@ Master catalog of all wiki pages. Updated on 2026-05-23.
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (31篇)
+### Obsidian (33篇)
 
+- [[20分钟-让你的-Obsidian-从能用变成想用]] — 20分钟，让你的Obsidian从"能用"变成"想用"：本地优先+双向链接+第二大脑
+- [[Obsidian新手入门-安装仓库插件-从零开始搭建第二大脑]] — Obsidian新手入门：安装、仓库、插件，一篇讲透
 - [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
 - [[hermes-obsidian-knowledge-base-200-articles]] — 收藏200篇文章后：Hermes+Obsidian自动化知识库，Web Clipper+BrowserOS定时入库
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup

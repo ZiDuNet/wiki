@@ -1,14 +1,16 @@
 ---
-type: tool
+type: entity
+name: Obsidian
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-24
+mentions: 33
 ---
 
 # Obsidian
 
 **类型:** 知识管理工具
 **官网:** obsidian.md
-**核心特性:** 本地优先、Markdown 原生、双向链接、插件生态
+**核心特性:** 本地优先、Markdown 原生、双向链接、插件生态、第二大脑
 
 ## 简介
 

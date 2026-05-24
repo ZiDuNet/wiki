@@ -2,6 +2,142 @@
 
 Chronological record of all operations.
 
+## 2026-05-24 — Wechat-Cli + Graphify LLM Wiki 文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/LLM Wiki/Wechat-Cli：将微信聊天记录导入 Karpathy 的 LLM Wiki.md
+**Time:** 2026-05-24 12:12
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** LLM Wiki (1)
+- **Source pages created:** 1 (wiki/sources/Wechat-Cli-将微信聊天记录导入-Karpathy的-LLM-Wiki.md)
+- **Entity pages updated:** 2 (wechat-cli.md, Graphify.md)
+- **Concept pages created:** 3 (暗知识.md, 微信数据导出.md, 增量同步.md)
+- **index.md updated:** Statistics (Sources 1085→1086, Concepts 174→177), LLM-Wiki section (11→12篇)
+- **concept-table.md updated:** +3 concepts (暗知识, 微信数据导出, 增量同步)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | LLM Wiki | Wechat-Cli + Graphify — 从加密数据库到结构化知识图谱的完整链路 | Wechat-Cli-将微信聊天记录导入-Karpathy的-LLM-Wiki |
+
+### Entities Updated
+
+- **wechat-cli** — 提及文章数 1→3，新增核心技术原理（AES-256-CBC解密、task_for_pid）、11条命令详解、安全特性、安装要点
+- **Graphify** — 提及文章数 2→3，新增与wechat-cli配合使用说明、输出产物表格
+
+### Concepts Created
+
+- **暗知识** — 有价值但从未被记录到正式文档中的隐含信息，如群聊中的决策和共识
+- **微信数据导出** — 从微信加密数据库（SQLCipher）提取聊天记录的技术过程，需进程内存扫描提取密钥
+- **增量同步** — 知识库定期自动追加最新内容的维护模式，通过new-messages接口实现零维护成本更新
+
+### Key Technical Findings
+
+1. **解密原理**: 微信Mac版使用SQLCipher加密SQLite数据库，密钥藏在进程内存，wechat-cli用320行C代码通过`task_for_pid`读取
+2. **macOS签名要求**: 需给微信添加`get-task-allow`调试权限，绕开/Applications保护（复制到~/Applications）
+3. **从源码安装必要性**: 需sudo权限扫描进程内存，不应信任预编译二进制
+4. **完整链路**: wechat-cli export → Markdown → Graphify → 知识图谱（graph.html + graph.json + GRAPH_REPORT.md）
+5. **自动化同步**: `new-messages`命令 + cron实现知识库每天自动更新
+
+---
+
+## 2026-05-24 — Obsidian Beginner Articles Ingestion
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (2 Obsidian beginner articles processed)
+**Time:** 2026-05-24 12:00
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Obsidian (2)
+- **Source pages created:** 2 (wiki/sources/)
+- **Entity pages updated:** 1 (Obsidian.md)
+- **Concept pages created:** 1 (第二大脑.md)
+- **Concept pages updated:** 2 (本地优先.md, 双向链接.md)
+- **index.md updated:** Statistics (Sources 1085→1087, Obsidian 31→33)
+- **concept-table.md updated:** +1 concept (第二大脑)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug |
+||---|---|---|---|
+|| 1 | Obsidian | 20分钟，让你的Obsidian从"能用"变成"想用" | 20分钟-让你的-Obsidian-从能用变成想用 |
+|| 2 | Obsidian | Obsidian新手入门：安装、仓库、插件，一篇讲透 | Obsidian新手入门-安装仓库插件-从零开始搭建第二大脑 |
+
+### Key Concepts Identified
+
+- **Obsidian vs Notion/飞书/Logseq对比**：本地优先、数据归属、双向链接、插件生态差异
+- **本地优先哲学**：数据安全、离线可用、无厂商锁定
+- **双向链接**：`[[笔记名]]`语法，反向链接面板，知识网络而非散落纸片
+- **第二大脑**：不是存储内容而是连接知识，训练思维网络
+- **仓库（Vault）**：一个文件夹+配置数据，Obsidian核心概念
+- **核心插件**：Templater、Dataview、Calendar、Kanban
+
+### Entity/Concept Updates
+
+- **Obsidian.md**：更新mentions数，增加"第二大脑"核心特性
+- **本地优先.md**：增加Obsidian实践案例，与Notion/飞书对比
+- **双向链接.md**：完整重写，增加Obsidian实践和工具对比表
+- **第二大脑.md**：新建，系统阐述Obsidian知识管理理念
+
+### Notes
+
+- 两篇文章内容高度重叠，第二篇是第一篇的扩展版本
+- Obsidian定位：个人知识操作系统，而非笔记软件
+- 核心差异点：本地优先（数据自主）vs 云端工具（数据在厂商）
+- 双向链接是Obsidian最强功能，让知识形成网络
+
+---
+
+## 2026-05-24 — Dify 数据可视化 MCP 工具摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/Dify/dify打造数据可视化图表.md
+**Time:** 2026-05-24
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** Dify (1 new)
+- **Source pages created:** 1 (wiki/sources/dify打造数据可视化图表.md)
+- **Entity pages created:** 2 (mcp-server-chart.md, AntV.md)
+- **Concept pages updated:** 3 (数据可视化, 自然语言转SQL, 图表生成, Dify工作流)
+- **index.md updated:** Statistics (Sources 1085→1086, Entities 175→177), Dify section (1→2篇)
+- **concept-table.md updated:** +3 concepts (图表生成, 自然语言转SQL, Dify工作流)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | Dify | Dify打造数据可视化图表：mcp-server-chart MCP 工具实战 | dify打造数据可视化图表 |
+
+### Entities Created
+
+- **mcp-server-chart** — 蚂蚁集团 AntV 团队开源的 MCP Server，支持 15+ 种图表类型，图片链接返回
+- **AntV** — 蚂蚁集团数据可视化团队，提供 mcp-server-chart 和 Dify 插件市场可视化工具
+
+### Concepts Added/Updated
+
+- **数据可视化** — 提及文章数 18→19
+- **图表生成** — AI驱动的数据可视化图表自动生成，支持15+种图表类型
+- **自然语言转SQL** — ROOKIE_TEXT2DATA 插件核心能力
+- **Dify工作流** — 可视化工作流编排，节点式流程设计
+
+### Key Findings
+
+1. **DeepSeek-V3 必需**: Dify 工作流必须使用 DeepSeek-V3 模型才能成功生成图表，其他模型会失败
+2. **SSE 协议限制**: Dify 插件 Agent 策略不支持 streamable_http，必须使用 SSE 协议连接 MCP
+3. **三协议支持**: mcp-server-chart 支持 STDIO、SSE、streamable Http，但不同客户端支持度不同
+4. **图片链接输出**: 所有图表通过支付宝 CDN 返回图片链接，公网可访问
+5. **两种集成方式**: Cherry Studio（streamable Http）vs Dify 工作流（SSE）
+
+---
+
 ## 2026-05-23 — WeChat Article Batch 6 Ingestion
 
 **Operator:** Hermes Agent (scheduled cron)
