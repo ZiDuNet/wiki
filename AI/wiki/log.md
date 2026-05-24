@@ -2,6 +2,144 @@
 
 Chronological record of all operations.
 
+## 2026-05-24 — AI运维终端 & Hermes多代理系统文章摄入（2篇）
+
+**Operator:** Hermes Agent (subagent task)
+**Sources:** 微信公众号/AI 运维终端/, 微信公众号/Hermes/
+**Time:** 2026-05-24 18:12
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** AI运维终端 (1), Hermes (1)
+- **Source pages created:** 2
+- **Entity pages created:** 1 (GMSSH.md)
+- **Concept pages created:** 5 (SSH隧道.md, 运维终端.md, Gateway路由.md, Profile系统.md, 知识库体系.md)
+- **index.md updated:** Statistics (Sources 1092→1093, Entities 179→180, Concepts 186→191), Hermes (197→198), AI运维终端 (新增1篇)
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | AI运维终端 | 告别传统SSH！一款桌面级 AI 运维终端，体验嘎嘎好 | 告别传统SSH一款桌面级AI运维终端体验嘎嘎好 |
+| 2 | Hermes | 团队 Hermes 多代理系统部署指南 | 团队Hermes多代理系统部署指南 |
+
+### Entities Created
+
+- **GMSSH** — 桌面级 AI 驱动运维终端，纯 SSH 隧道零侵入架构，预置50+运维技能包
+
+### Concepts Created
+
+- **SSH隧道** — 零侵入运维通信技术，基于SSH协议的加密通道
+- **运维终端** — AI驱动运维终端，图形化界面+AI辅助诊断
+- **Gateway路由** — Hermes多代理路由系统，四种路由方式（Pairing/Command/Mention/Keyword）
+- **Profile系统** — Hermes多代理配置管理机制，12个专业角色独立配置
+- **知识库体系** — Hermes三层知识库架构（共享/角色/外部知识源）
+
+### Key Findings
+
+1. **GMSSH架构创新**: 零侵入设计——所有可视化逻辑在客户端，服务器无需安装任何软件，通过纯SSH隧道通信
+2. **进程隔离设计**: 核心引擎ga_main管理独立子进程，某插件崩溃不影响其他服务，JSON-RPC 2.0协议支持多语言插件
+3. **AI运维深度集成**: 通过MCP协议感知服务器实时状态，预置50+运维技能包，提供有上下文的诊断建议
+4. **Hermes团队方案**: 12个专业角色代理（PM/UI/后端/前端/AI工程师/DevOps/QA/安全/Tech Lead/数据分析师/算法工程师/原型设计师）
+5. **Gateway路由优先级**: @特定代理 → /命令 → 关键词匹配(阈值0.7) → 用户已配对 → 默认Profile
+6. **三层知识库**: 共享知识库（所有角色可读）→ 角色知识库（仅本角色）→ 外部知识源（MCP协议集成）
+7. **成本优化**: 混合方案（核心角色用企业版，一般开发用Copilot Enterprise）年成本80-120万，性价比最优
+
+---
+
+## 2026-05-24 — Agent/diagram-maker Skill/WorkBuddy Wiki Articles Ingestion (3篇)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/ (3 articles)
+**Time:** 2026-05-24 18:10
+
+### Results
+
+- **Sources processed:** 3
+- **Categories:** Agent (1), Skills (1), WorkBuddy (1)
+- **Source pages created:** 3 (wiki/sources/)
+- **Entity pages created:** 4 (Honcho.md, Plastic-Labs.md, WorkBuddy.md, 用户画像.md)
+- **Concept pages created:** 2 (信息流自动化.md, 用户画像.md)
+- **Concept pages updated:** 3 (记忆系统.md, MCP协议.md, Agent Skills.md)
+- **index.md updated:** Statistics (Sources 1089→1092, Entities 178→180, Concepts 177→178), Agent (97→98), Skills (57→60), WorkBuddy (34→35)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug |
+||---|---|---|---|
+|| 1 | Agent | Honcho：AI Agent记忆库，3年打磨让Agent真正认识用户 | Honcho-AI-Agent记忆库3年打磨让Agent真正认识用户 |
+|| 2 | Skills | 智能体、MCP、Skill到底是啥？5句话大白话讲透 | 智能体MCP-Skill到底是啥5句话大白话讲透 |
+|| 3 | WorkBuddy | 我用 WorkBuddy 建了一个新闻编辑部，一人公司正式开张！ | 我用WorkBuddy建了一个新闻编辑部一人公司正式开张 |
+
+### Entities Created
+
+- **Honcho** — Plastic Labs 开发的 AI Agent 记忆库，3,333 Stars，为 Agent 提供持久记忆
+- **Plastic Labs** — Honcho 开发团队，专注 Agent 记忆问题
+- **WorkBuddy** — 腾讯云 CodeBuddy 团队推出的 AI Agent 办公工具，"腾讯版 OpenClaw"
+
+### Concepts Created
+
+- **用户画像** — Agent 对用户的理解和表征，包括行为模式、偏好、知识等信息，随时间演化
+- **信息流自动化** — 利用 AI Agent 自动抓取、筛选、整理、推送信息的系统，实现全流程自动化
+
+### Key Findings
+
+1. **Honcho 记忆系统**: 不同于简单的对话存储或 RAG 检索，Honcho 提供持续学习、自然语言查询、多实体支持，做了3年打磨（v3.0.6）
+2. **Agent/MCP/Skill 概念解析**: Agent=实习生本人，MCP=开通公司系统账号，Skill=标准操作手册，Rules=规矩，Memory=笔记本
+3. **WorkBuddy 新闻编辑部**: 6人虚拟团队（情报/编辑/视觉/运营/数据/写作 Agent），7×24小时全自动运转
+4. **一人公司公式**: 一个人 + AI 助手 = 一支专业团队
+5. **WorkBuddy 特点**: 执行即交付、多 Agent 并行协作、完全兼容 OpenClaw、本地执行数据安全
+
+---
+
+## 2026-05-24 — Skills Wiki Articles Ingestion (2篇)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/Skills/ (2 articles)
+**Time:** 2026-05-24 18:30
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Skills (2)
+- **Source pages created:** 2 (wiki/sources/)
+- **Entity pages created:** 1 (wiki/entities/Skills-Manager.md)
+- **Concept pages created:** 9 (wiki/concepts/)
+- **index.md updated:** Statistics (Sources 1089→1091, Entities 178→179, Concepts 177→186), Skills section (57→59篇)
+- **concept-table.md updated:** +9 concepts
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | Skills | 20 个 Agent Skills 盘点：先装这 5 个就够了 | 20个-Agent-Skills-盘点-先装这5个就够了 |
+| 2 | Skills | Skills装太多怎么办？用Skills Manager桌面应用统一管理 | Skills装太多怎么办-用Skills-Manager桌面应用统一管理 |
+
+### Entity Created
+
+- **Skills-Manager** — 跨平台桌面应用（Tauri 2 + React + Rust），统一管理15+款AI编码工具的Skills
+
+### Concepts Created
+
+- **中央技能库** — ~/.skills-manager统一存放，再分发到各Agent目录
+- **Preset** — 可复用Skill分组，一键给Agent挂上/卸下整组Skill
+- **多工具同步** — 中央库→Agent目录的同步机制，软链接或复制
+- **Git备份** — skills/子目录版本历史，支持远程push/pull与快照恢复
+- **技能分发** — 中央库→Agent全局/项目目录的分发过程
+- **Skill安装策略** — 分批安装、指标绑定、周度复盘方法论
+- **工程场景分类** — Skills按4类分类：发现/前端/自动化/后端
+- **落地SOP** — Agent Skills的3周落地方案
+
+### Key Findings
+
+1. **Skills-Manager**: 15+工具统一管理，Tauri 2 + React + Rust技术栈，支持Preset/全局工作区/项目工作区
+2. **安装策略**: 先装前5个高收益组合，逐周扩展，绑定验收指标，周度复盘保留/替换/淘汰
+3. **四类分类**: 发现与规划/前端与设计质量/自动化与内容生产/后端平台治理
+4. **避坑**: 不要把skill当插件收藏夹，要当成规则资产；无验收指标的安装等于没落地
+
+---
+
 ## 2026-05-24 — GitHub热门项目盘点文章摄入
 
 **Operator:** Hermes Agent (scheduled cron)

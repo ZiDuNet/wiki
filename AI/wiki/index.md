@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 ## Statistics
 
-- Sources: 1089
-- Entities: 178
-- Concepts: 177
+- Sources: 1093
+- Entities: 180
+- Concepts: 191
 - Synthesis: 15
 
 ## Sources
@@ -51,6 +51,11 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[用自然语言生成ComfyUI工作流-彻底告别手动连线]] — 用自然语言生成 ComfyUI 工作流：我写了一个 AI Skill，彻底告别手动连线
 
 - [[AI-CS智能客服系统-开源私有化部署]] — [开源]一个现代化的智能客服系统，AI + 人工一体、可私有化部署
+
+### AI运维终端 (1篇)
+
+- [[告别传统SSH一款桌面级AI运维终端体验嘎嘎好]] — GMSSH：桌面级 AI 驱动运维终端，纯 SSH 隧道零侵入架构 + AI 辅助诊断
+
 ### AI入门 (3篇)
 
 - [[AI浪潮已至这是一篇让你超过90普通人的AI入门指南]] — AI浪潮已至：这是一篇让你超过90%普通人的AI入门指南
@@ -157,8 +162,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (97篇)
+### Agent (98篇)
 
+- [[Honcho-AI-Agent记忆库3年打磨让Agent真正认识用户]] — Honcho：AI Agent 记忆库，3年打磨让 Agent 真正认识用户
 - [[cli-anything-universal-remote-for-ai-agent]] — CLI-Anything：AI Agent 的万能遥控器，一行命令把任意软件变成 Agent 可操作 CLI
 - [[企业落地-AI-Agent-第一批最容易跑通的10个低风险场景]] — 企业落地 AI Agent，第一批最容易跑通的 10 个低风险场景
 - [[500-ai-agents-projects-别再问-agent-能不能落地了]] — 500-AI-Agents-Projects：别再问 Agent 能不能落地了，先看看这 500+ 个场景
@@ -409,8 +415,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 - [[704-mmx-cli-一句话让AI助手拥有全模态能力]] — mmx-cli: 一句话让AI助手拥有全模态能力
 
-### Hermes (197篇)
+### Hermes (198篇)
 
+- [[团队Hermes多代理系统部署指南]] — 团队 Hermes 多代理系统部署指南：12角色专业化分工+Gateway路由+三层知识库
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
 - [[hermes-obsidian-auto-knowledge-base]] — Hermes+Obsidian自动化知识库：Web Clipper + BrowserOS 定时入库全流程
@@ -961,9 +968,13 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 ### SVG绘图 (1篇)
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
-### Skills (57篇)
+### Skills (60篇)
+
+- [[智能体MCP-Skill到底是啥5句话大白话讲透]] — 智能体、MCP、Skill到底是啥？5句话大白话讲透
 - [[739-2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍]] — 2026年5月最火 AI Agent Skills 完整盘点! 让你的工作效率提升10倍
 - [[733-别再把AgentSkills塞进代码仓库了我做了个一键部署的团队版Skills分发平台]] — 别再把AgentSkills塞进代码仓库了，我做了个一键部署的团队版Skills分发平台
+- [[20个-Agent-Skills-盘点-先装这5个就够了]] — 20 个 Agent Skills 盘点：先装这 5 个就够了
+- [[Skills装太多怎么办-用Skills-Manager桌面应用统一管理]] — Skills装太多怎么办？用Skills Manager桌面应用统一管理
 
 - [[01｜事情的起因]] — 01｜事情的起因
 - [[1-AwesomeClaudeSkills]] — 1. Awesome-Claude-Skills
@@ -1080,8 +1091,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (34篇)
+### WorkBuddy (35篇)
 
+- [[我用WorkBuddy建了一个新闻编辑部一人公司正式开张]] — 我用 WorkBuddy 建了一个新闻编辑部，一人公司正式开张！
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[workbuddy-4-core-techniques]] — WorkBuddy 4个核心技巧：腾讯官方亲授，效率直接拉满
 - [[workbuddy-ima-getting-started-guide]] — ima知识库+WorkBuddy入门指南：30分钟跑通AI工作流
@@ -1438,6 +1450,7 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[GitNexus]]
 - [[Graphify]]
 - [[GSAP]] — GreenSock动画库，HyperFrames时间线动画引擎
+- [[GMSSH]] — 桌面级 AI 驱动运维终端，纯 SSH 隧道零侵入架构
 - [[Harness]] (23篇)
 - [[Hermes-Agent]]
 - [[Hermes-Curator]] — Hermes Skills 整理工具
@@ -1569,6 +1582,8 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[Prompt工程]] (16篇)
 - [[RAG]] (10篇)
 - [[RAG检索增强]]
+- [[Gateway路由]] — Hermes 多代理路由系统
+- [[SSH隧道]] — 零侵入运维通信技术
 - [[SOP]] (28篇)
 - [[SOUL配置]]
 - [[SVG绘图]]
@@ -1610,6 +1625,8 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[客户跟进系统]]
 - [[嵌入向量]] (21篇)
 - [[工作流自动化]] (37篇)
+- [[知识库体系]] — Hermes 三层知识库架构
+- [[运维终端]] — AI 驱动运维终端
 - [[微服务]] (15篇)
 - [[微调]] (42篇)
 - [[思维链]] (7篇)
