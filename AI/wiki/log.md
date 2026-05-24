@@ -2,6 +2,169 @@
 
 Chronological record of all operations.
 
+## 2026-05-24 — GitHub开源项目文章批量摄入（9篇）
+
+**Operator:** Hermes Agent (subagent task)
+**Source:** 微信公众号/ (9 new GitHub articles)
+**Time:** 2026-05-24
+
+### Results
+
+- **Sources processed:** 9
+- **Categories:** AI技术 (3), AI Coding (3), Agent Teams (1), AI入门 (1), 视频制作 (1)
+- **Source pages created:** 9 (wiki/sources/)
+- **Entity pages created:** 12 (wiki/entities/)
+- **Concept pages created:** 16 (wiki/concepts/)
+- **index.md updated:** Statistics (Sources 1088→1097, Entities 178→189, Concepts 177→193)
+- **All sections updated:** AI技术 (15→18), AI Coding (7→10), Agent Teams (3→4), AI入门 (2→3), 视频制作 (3→4)
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | AI技术 | AI科研全家桶133个技能包 | AI科研全家桶133个技能包 |
+| 2 | AI技术 | 学术论文写作全流程管线 | 学术论文写作全流程管线 |
+| 3 | AI技术 | 闪电般快速的端侧离线TTS | 闪电般快速的端侧离线TTS |
+| 4 | AI Coding | 把代码库变成可交互知识图谱 | 把代码库变成可交互知识图谱 |
+| 5 | AI Coding | 给AI提前做功课的代码知识图谱 | 给AI提前做功课的代码知识图谱 |
+| 6 | AI Coding | 内置IDE能力的终端AI编程助手 | 内置IDE能力的终端AI编程助手 |
+| 7 | Agent Teams | 构建可靠AI Agent的十二条军规 | 构建可靠AI Agent的十二条军规 |
+| 8 | AI入门 | 从零开始AI工程428节课 | 从零开始AI工程428节课 |
+| 9 | 视频制作 | 多智能体协作视频生成框架 | 多智能体协作视频生成框架 |
+
+### Entities Created
+
+- **scientific-agent-skills** — 133个科研技能，覆盖9大领域（25k Stars）
+- **academic-research-skills** — 学术论文写作全流程管线（~20k Stars）
+- **supertonic** — 端侧离线TTS系统，99M参数，31语言
+- **Understand-Anything** — 代码知识图谱+Dashboard（~20k Stars）
+- **codegraph** — MCP Server形式的代码知识图谱（~18k Stars）
+- **oh-my-pi** — 终端AI编程助手，32工具40+Provider（~6k Stars）
+- **12-factor-agents** — Agent工程12条原则（~21k Stars）
+- **ai-engineering-from-scratch** — 428节课AI工程学习（~7.5k Stars）
+- **ViMax** — 多智能体协作视频生成框架（港大HKUDS）
+- **HKUDS** — 港大数据智能实验室
+- **MiniMax** — AI大模型提供商（M2.7有1M上下文）
+
+### Concepts Created
+
+- **Agent Skills** — 标准化技能包封装
+- **端侧推理** — 本地设备运行AI模型
+- **MCP Server** — AI Agent标准化工具接口
+- **代码知识图谱** — 结构化代码关系图谱
+- **多智能体协作** — 多Agent角色分工协作
+- **Agent工程原则** — 12-Factor Agent方法论
+- **学术写作管线** — 论文全流程自动化
+- **Hashline编辑** — 内容哈希锚点定位代码
+- **tree-sitter** — 增量AST解析器
+- **FTS5全文搜索** — SQLite全文搜索扩展
+- **Idea2Video** — 灵感到视频自动化
+- **Expression Tags** — TTS情感控制标签
+- **引用审计** — 反幻觉引用验证机制
+- **RAG长脚本生成** — RAG技术生成长脚本
+- **六步教学模式** — AI工程教学方法
+
+### Key Technical Findings
+
+1. **scientific-agent-skills**: 133技能覆盖生物信息学、化学信息学、药物发现等9领域，100+科学数据库统一访问
+2. **academic-research-skills**: 13+12+7代理协作，10阶段编排器，v3.8新增引用审计反幻觉机制
+3. **supertonic**: 99M参数，ONNX Runtime完全离线，CPU媲美A100速度，11平台SDK
+4. **Understand-Anything**: 多代理管道分析，业务逻辑域视图(domains/flows/steps)，15+平台兼容
+5. **codegraph**: 7个代码库基准测试，平均节省35%成本、59% Token、49%时间、70%工具调用
+6. **oh-my-pi**: 27k行Rust原生模块，Hashline编辑减少61% Token，双内核执行
+7. **12-factor-agents**: 借鉴12-Factor Apps，核心理念是把LLM当转换引擎、用确定性代码控制流程
+8. **ai-engineering-from-scratch**: 428节课320小时，六步教学(Motto→Problem→Concept→Build→Use→Ship)
+9. **ViMax**: 四角色协作(Director/Screenwriter/Producer/Video Generator)，支持Idea2Video/Novel2Video/Script2Video
+
+---
+
+## 2026-05-24 — OPC Skills 一人企业方法论文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/SkillManager/把_一人企业方法论_装进 AI：9 个 Skill，帮你从盘点到闭环搭起自己的小生意.md
+**Time:** 2026-05-24 12:20
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** SkillManager (1)
+- **Source pages created:** 1 (wiki/sources/把一人企业方法论装进AI-9个Skill.md)
+- **Entity pages created:** 3 (一人企业方法论.md, OPC技能集.md, 易仁永澄.md)
+- **Concept pages created:** 4 (利基定位.md, MVP设计.md, 资源盘点.md, 九步建盘.md)
+- **index.md updated:** Statistics (Sources 1087→1088, Entities 175→178, Concepts 175→179), AI办公 section (+1 article)
+- **concept-table.md updated:** +4 concepts (九步建盘, 利基定位, MVP设计, 资源盘点)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug ||
+||---|---|---|---||
+|| 1 | SkillManager | 把一人企业方法论装进AI：9个Skill帮你从盘点到闭环搭起自己的小生意 | 把一人企业方法论装进AI-9个Skill |
+
+### Entities Created
+
+- **一人企业方法论** — 易仁永澄提出的一套系统化方法论，将一人企业搭建拆解为九步建盘体系
+- **OPC技能集** — 方糖团队将方法论封装为9个可调用AI Agent Skill，总编排串联各步骤
+- **易仁永澄** — 《一人企业方法论³》创始人
+
+### Concepts Created
+
+- **九步建盘** — 一人企业方法论核心流程框架：线性7步(01→07)严格顺序 + 触发2步(08、09)按需触发
+- **利基定位** — 第02步："三环合一"找细分市场，6维评分筛选候选
+- **MVP设计** — 第06步：决定验证哪个假设、最小形式、成功标准
+- **资源盘点** — 第01步：按8类(经验/人群/能力/关系/渠道/资产/约束/硬性边界)盘点手上有什么
+
+### Key Findings
+
+1. **方法论AI化**: OPC技能集将易仁永澄的《一人企业方法论³》封装为9个可调用的Skill，传播损耗几乎为零
+2. **核心价值**: 最值钱的是"拦着你别瞎做"——AI反复劝退、设边界、定成功标准
+3. **真实案例**: 室内设计师林夏用3小时副业时间走完流程，锁定"报价防坑陪跑+平替设计"组合
+4. **结构化输出**: 每步产出文档(inventory.md、lean-canvas.md、mvp-spec.md等)作为下一步输入和复盘底稿
+5. **安装方式**: npx skills add github.com/easychen/opc-methodology/skills/opc-orchestrator 等命令
+
+---
+
+## 2026-05-24 — Obsidian Sync 方案对比文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/Obsidian/Obsidian 怎么同步？4 套方案深度对比，终于不用折腾了（2026 最新版）.md
+**Time:** 2026-05-24 13:00
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** Obsidian (1)
+- **Source pages created:** 1 (wiki/sources/Obsidian怎么同步-4套方案深度对比-2026最新版.md)
+- **Entity pages created:** 3 (Obsidian-Sync.md, Remotely-Save.md, WebDAV.md)
+- **Concept pages created:** 2 (同步冲突处理.md, 云盘同步.md)
+- **index.md updated:** Statistics (Sources 1087→1088, Entities 175→178, Concepts 175→177), Obsidian section (33→34篇)
+
+### New Articles
+
+|| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | Obsidian | Obsidian 怎么同步？4 套方案深度对比（2026 最新版） | Obsidian怎么同步-4套方案深度对比-2026最新版 |
+
+### Entities Created
+
+- **Obsidian-Sync** — Obsidian官方同步服务，约$48/年，冲突处理能力强，支持端到端加密
+- **Remotely-Save** — Obsidian社区同步插件，通过WebDAV协议实现多端同步，国内用户免费首选
+- **WebDAV** — 远程文件同步协议，"远程文件夹"，支持NAS/坚果云/私有服务器
+
+### Concepts Created
+
+- **同步冲突处理** — 多设备同时修改同一文件时的处理能力，Obsidian Sync/Git强，云盘方案弱
+- **云盘同步** — 用云盘同步Obsidian文件夹的方案，iCloud/OneDrive/坚果云，冲突处理弱
+
+### Key Technical Findings
+
+1. **四种同步方案对比表**：Obsidian Sync(付费强冲突处理)、云盘方案(免费弱冲突)、Git(免费强版本控制)、Remotely Save+WebDAV(免费中冲突)
+2. **云盘方案铁律**：不要同时在两台设备编辑同一个文件，会产生冲突副本需手动合并
+3. **国内用户首选**：Remotely Save + 坚果云 WebDAV，速度快、免费、移动端体验好
+4. **NAS终极方案**：数据完全自主，局域网同步速度快
+5. **本地优先哲学**：Obsidian核心理念"数据首先属于你自己"，代价是同步需自己解决
+
+---
+
 ## 2026-05-24 — Wechat-Cli + Graphify LLM Wiki 文章摄入
 
 **Operator:** Hermes Agent (scheduled cron)

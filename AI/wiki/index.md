@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 ## Statistics
 
-- Sources: 1087
-- Entities: 175
-- Concepts: 175
+- Sources: 1089
+- Entities: 178
+- Concepts: 177
 - Synthesis: 15
 
 ## Sources
@@ -33,7 +33,7 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板]] — 智能体搭建 如何用OpenClaw搭建你的“一人公司”（附完整配置模板）
 - [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]] — 给你的 Hermes & OpenClaw 安装这个工具，能让 Token 消耗立省60%
 
-### AI Coding (7篇)
+### AI Coding (10篇)
 
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
@@ -42,16 +42,20 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[私有组件为什么会把很多-AI-Coding-方案打回原形]] — 私有组件，为什么会把很多 AI Coding 方案打回原形
 - [[taste-skill-gaoduan-qianduan]] — Taste Skill：教AI写出高端前端，告别廉价感
 - [[37.9k-Star-agent-skills-AI-Agent-工程纪律]] — 37.9k Star 的 agent-skills：AI Agent 也该有工程纪律
+- [[把代码库变成可交互知识图谱]] — Understand-Anything：多代理管道分析项目，构建知识图谱
+- [[给AI提前做功课的代码知识图谱]] — codegraph：MCP Server 形式的代码知识图谱
+- [[内置IDE能力的终端AI编程助手]] — oh-my-pi：终端 AI 编程助手，32 工具 40+ Provider
 
 ### ComfyUI (1篇)
 
 - [[用自然语言生成ComfyUI工作流-彻底告别手动连线]] — 用自然语言生成 ComfyUI 工作流：我写了一个 AI Skill，彻底告别手动连线
 
 - [[AI-CS智能客服系统-开源私有化部署]] — [开源]一个现代化的智能客服系统，AI + 人工一体、可私有化部署
-### AI入门 (2篇)
+### AI入门 (3篇)
 
 - [[AI浪潮已至这是一篇让你超过90普通人的AI入门指南]] — AI浪潮已至：这是一篇让你超过90%普通人的AI入门指南
 - [[直接安装无需预先安装clawhub工具npx-clawhublatestinstall-skillvetter]] — 直接安装，无需预先安装clawhub工具npx clawhub@latest install skill-vetter
+- [[从零开始AI工程428节课]] — 428节课、20阶段、320小时，从线性代数到多智能体系统
 
 ### AI办公 (17篇)
 
@@ -75,6 +79,7 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[Agent-Skill保姆级写法]] — 3 个月研究 Skill 编写方法论
 - [[baoyu-translate分层翻译Skill]] — quick/normal/refined 三层翻译
 - [[SkillManager一站式Skill管理]] — 15+ 款 AI 编程工具 Skill 管理
+- [[把一人企业方法论装进AI-9个Skill]] — 把一人企业方法论装进AI：9个Skill帮你从盘点到闭环搭起自己的小生意
 - [[职场人AI赋能全实操0基础上手用效率撬动晋升]] — 职场人AI赋能全实操：0基础上手，用效率撬动晋升
 - [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/ .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
 - [[分享3个宝藏Skills]] — AutoClip / Learning Opportunities Skill / AI Research SKILLs
@@ -99,7 +104,7 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
 - [[drawio-skill-ai-diagrams]] — drawio skill：让AI帮你画流程图、架构图，AI画完还能接着改
 
-### AI技术 (15篇)
+### AI技术 (18篇)
 
 - [[735-进阶AI数据分析AI+Python搭建全能数据分析智能体]] — 进阶AI数据分析：AI+Python搭建全能数据分析智能体
 
@@ -116,6 +121,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[方法论的诞生]] — 方法论的诞生
 - [[AI数据分析Excel从此只用来看结果]] — 手把手教你用AI做数据分析，Excel从此只用来看结果
 - [[一个开源的-GEO-生成式搜索监测系统-关注品牌在-AI-回答中的可见度]] — 一个开源的 GEO 生成式搜索监测系统：关注品牌在 AI 回答中的可见度
+- [[AI科研全家桶133个技能包]] — scientific-agent-skills：133 个科研技能，覆盖 9 大领域
+- [[学术论文写作全流程管线]] — academic-research-skills：查→写→审→改→定稿全流程
+- [[闪电般快速的端侧离线TTS]] — supertonic：99M 参数，31 语言，完全离线
 
 - [[709-用自然语言生成可编辑参数化3DCAD模型]] — 用自然语言生成可编辑参数化3D CAD模型
 ### AI短剧 (2篇)
@@ -257,11 +265,12 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 - [[发明Vibe-Coding的人说它过时了-我想了很久为什么]] — 发明Vibe Coding的人说它过时了，我想了很久为什么
 
-### Agent Teams (3篇)
+### Agent Teams (4篇)
 
 - [[太强了！一个Skills同时检索六大文献数据库：百度学术_Semantic-Scholar_arxiv_Pubmed_Crossref_OpenAlex]] — 太强了！一个Skills同时检索六大文献数据库：百度学术Semantic ScholararxivPubmedCrossrefOpenAlex
 - [[最值得产品经理装的10个skills]] — 最值得产品经理装的10个skills
 - [[SpectrAI-多AI协同工作站]] — SpectrAI：面向开发者与团队的多AI协同工作站
+- [[构建可靠AI Agent的十二条军规]] — 12-factor-agents：借鉴 12-Factor Apps，定义 Agent 工程原则
 
 ### Agent开发 (3篇)
 
@@ -330,8 +339,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (25篇)
+### GitHub (26篇)
 
+- [[不要错过这10个本周火火火的-GitHub-开源项目]] — 不要错过这10个本周火火火的 GitHub 开源项目
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
 - [[GitHub爆火基于Gemini的开源PPT生成神器每页都是AI原创设计]] — GitHub爆火！基于Gemini的开源PPT生成神器，每页都是AI原创设计
@@ -673,10 +683,11 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (33篇)
+### Obsidian (34篇)
 
 - [[20分钟-让你的-Obsidian-从能用变成想用]] — 20分钟，让你的Obsidian从"能用"变成"想用"：本地优先+双向链接+第二大脑
 - [[Obsidian新手入门-安装仓库插件-从零开始搭建第二大脑]] — Obsidian新手入门：安装、仓库、插件，一篇讲透
+- [[Obsidian怎么同步-4套方案深度对比-2026最新版]] — Obsidian怎么同步？4套方案深度对比：官方Sync/iCloud/坚果云/Git/WebDAV
 - [[Obsidian-任务管理三件套-Tasks-Kanban-Day-Planner完整指南]] — Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南
 - [[hermes-obsidian-knowledge-base-200-articles]] — 收藏200篇文章后：Hermes+Obsidian自动化知识库，Web Clipper+BrowserOS定时入库
 - [[1-安装Hermes-Agentcurl-fsSL-httpsrawgithubusercontentcomNousResearchhermesagentmai]] — 1. 安装Hermes Agentcurl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash# 2. 配置环境变量（~/.hermes/.env）export WIKIPATH="$HOME/wiki"                    # LLMWiki路径export OBSIDIANVAULTPATH="$HOME/wiki"         # Obsidian vault路径export OPENROUTERAPIKEY="sk-xxx"             # 或ANTHROPICAPIKEY等# 3. 运行配置向导hermes setup
@@ -1347,11 +1358,12 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[我玩了2天「自进化」龙虾，然后它开始自己调教自己了。真的回不去了！]] — 我玩了2天「自进化」龙虾，然后它开始自己调教自己了。真的回不去了！
 - [[研究了3天Hermes，我偷走了它的_进化能力_，并迁移到了我的龙虾上]] — 研究了3天Hermes，我偷走了它的进化能力，并迁移到了我的龙虾上
 
-### 视频制作 (3篇)
+### 视频制作 (4篇)
 
 - [[一ArcReel-制作视频]] — 一、ArcReel 制作视频
 - [[扔掉-ppt-用这44个-html-动画模板让-ai-帮你做科普视频]] — 扔掉PPT，用这44个HTML动画模板，让AI帮你做科普视频
 - [[seedance2-ai-video-ad]] — Seedance2.0保姆级教程：AI广告视频玩法全覆盖
+- [[多智能体协作视频生成框架]] — ViMax：港大出品，导演/编剧/制片/视频生成四角色协作
 
 ### 记忆系统 (8篇)
 
