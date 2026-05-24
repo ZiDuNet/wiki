@@ -2,6 +2,49 @@
 
 Chronological record of all operations.
 
+## 2026-05-24 — GitHub热门项目盘点文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/GitHub/不要错过这 10 个本周火火火的 GitHub 开源项目。.md
+**Time:** 2026-05-24 14:30
+
+### Results
+
+- **Sources processed:** 1
+- **Categories:** GitHub (1)
+- **Source pages created:** 1 (wiki/sources/不要错过这10个本周火火火的-GitHub-开源项目.md)
+- **Entity pages updated:** 9 (添加来源文章引用)
+- **Concept pages updated:** 2 (Agent工程原则.md, 多智能体协作.md)
+- **index.md updated:** Statistics (Sources 1088→1089), GitHub section (25→26篇)
+
+### New Articles
+
+| ID | 分类 | 标题 | Slug |
+|---|---|---|---|
+| 1 | GitHub | 不要错过这10个本周火火火的 GitHub 开源项目 | 不要错过这10个本周火火火的-GitHub-开源项目 |
+
+### Entities Updated (添加来源引用)
+
+- **scientific-agent-skills** — AI科研全家桶，2.5万+Star，133技能覆盖6大领域
+- **academic-research-skills** — 论文写作流水线，~2万Star，一周涨1万+
+- **Understand-Anything** — 代码库知识图谱，~2万Star，可交互可视化
+- **codegraph** — 本周黑马，~1.8万Star，一周涨1.4万+
+- **oh-my-pi** — 终端AI编程助手，~6000Star，Hashline编辑减少61%token
+- **12-factor-agents** — Agent工程十二条军规，2.1万Star
+- **ai-engineering-from-scratch** — 从零学AI工程，1.2万+Star，428节课320小时
+- **supertonic** — 端侧离线TTS，99M参数，31语言支持
+- **ViMax** — HKUDS多Agent视频剧组，四角色协作
+
+### Key Findings
+
+1. **热度趋势**: 本周多个项目单周涨星1万+，Skill相关项目持续火爆
+2. **核心主题**: Agent工程纪律、代码知识图谱、多Agent协作、端侧推理、Skill生态爆发
+3. **差异化亮点**: oh-my-pi拿编辑精度当差异化武器，Hashline系统解决空白符不匹配问题
+4. **工程化趋势**: 12-factor-agents把LLM当自然语言到工具调用的转换引擎，用确定性代码控制流程
+5. **协作模式**: ViMax把视频制作拆成导演/编剧/制片/视频生成器四个AI角色
+
+---
+
 ## 2026-05-24 — GitHub开源项目文章批量摄入（9篇）
 
 **Operator:** Hermes Agent (subagent task)
