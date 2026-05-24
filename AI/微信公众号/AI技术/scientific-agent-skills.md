@@ -1,0 +1,45 @@
+# scientific-agent-skills — AI 科研全家桶技能包
+
+> GitHub: https://github.com/K-Dense-AI/scientific-agent-skills
+> Stars: 25k+ (2026-05) | 协议: MIT | 语言: Python/Markdown
+> 技术栈: Agent Skills、科学数据库、Python科学计算
+
+## 一句话简介
+
+**将 AI 编程助手（Claude Code、Cursor、Codex 等）转化为"AI科学家"，提供 133 个即用型科研技能，覆盖生物信息学、化学信息学、药物发现、临床研究等 9 大领域。** 统一访问 100+ 科学数据库（PubChem、ChEMBL、UniProt、COSMIC 等），优化 70+ Python 包（RDKit、Scanpy、PyTorch Lightning 等）。
+
+## 核心特点
+
+- **133 个科研技能**: 覆盖癌症基因组学、药物靶点结合、分子动力学、RNA速度、地理空间科学等
+- **100+ 科学数据库统一访问**: PubChem、ChEMBL、UniProt、COSMIC 等一键查询
+- **70+ 优化 Python 包技能**: RDKit、Scanpy、PyTorch Lightning 等科学计算工具
+- **多平台兼容**: 支持 Cursor、Claude Code、Codex、Gemini CLI 等
+- **遵循 Agent Skills 开放标准**: 标准化 SKILL.md 格式，即装即用
+
+## 快速安装
+
+```bash
+npx skills add K-Dense-AI/scientific-agent-skills
+```
+
+## 9 大领域分类
+
+1. 生物信息学 (Bioinformatics)
+2. 化学信息学 (Cheminformatics)
+3. 临床研究 (Clinical Research)
+4. 机器学习 (Machine Learning)
+5. 材料科学 (Materials Science)
+6. 地球与地理空间科学 (Earth & Geospatial)
+7. 药物发现 (Drug Discovery)
+8. 科学计算 (Scientific Computing)
+9. 学术写作 (Academic Writing)
+
+## 适用场景
+
+- 科研人员需要 AI 辅助数据分析和文献综述
+- 生物/化学/医学领域的科学计算自动化
+- 药物发现和靶点筛选流程加速
+- 学术论文中的数据验证和可视化
+
+---
+*来源: 逛逛GitHub - 不要错过这10个本周火火火的GitHub开源项目 (2026-05-24)*
