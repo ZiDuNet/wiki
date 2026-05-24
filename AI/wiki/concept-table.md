@@ -46,6 +46,8 @@
 | [[RAG]] | # RAG | 10 |
 | [[RAG检索增强]] | # RAG检索增强 | 13 |
 | [[RPA]] | 机器人流程自动化：模拟人类电脑操作的软件技术，自动执行规则明确、重复性高的工作 | 1 |
+| [[Skill工程]] | 将 Prompt、模板、版式、校验脚本组织为可复用的 Skill，使 AI 稳定产出而非当场发挥。 | AI 工作流从给提示词到建系统的方法论升级。 | [10.6k Star...] | [[约束设计]], [[Prompt工程]], [[本地优先]] | single-source | 与 Prompt 工程的区别：Skill 工程关注系统化产出而非单次生成。 |
+
 | [[SOP]] | # SOP | 28 |
 | [[SOUL配置]] | # SOUL.md配置 | 19 |
 | [[SVG绘图]] | # SVG绘图 | 23 |
@@ -64,6 +66,8 @@
 | [[TDD]] | # TDD | 14 |
 | [[Token优化]] | # Token优化 | 60 |
 | [[Vibe-Coding]] | # Vibe Coding | 22 |
+| [[WebDAV]] | Web-based Distributed Authoring and Versioning。用于 PromptHub 实现跨设备同步，支持坚果云、Nextcloud 等主流服务。 | PromptHub 本地优先 + 云同步架构的核心协议。 | [开源本地优先...] | [[本地优先]] | single-source | |
+
 | [[Webhook自动化]] | # Webhook自动化 | 13 |
 | [[Workspace工作区]] | # Workspace工作区 | 13 |
 | [[一人公司]] | # 一人公司 | 41 |
@@ -160,4 +164,6 @@
 | [[技能分发]] | 中央库→Agent全局/项目目录的Skill分发过程 | 1 |
 | [[Skill安装策略]] | 分批安装、指标绑定、周度复盘的Skill安装方法论 | 1 |
 | [[工程场景分类]] | 将Skills按工程场景分为4类：发现/前端/自动化/后端 | 1 |
+| [[HTML-PPT]] | AI 生成单文件横向翻页 HTML 演示稿，而非 .pptx 文件。结构透明，AI 可读可改。 | AI 交付物从 Markdown 到可演示页面的关键一跳。 | [10.6k Star...] | [[Skill工程]], [[约束设计]] | single-source | 关注瑞士风 vs 电子杂志风两种风格对比。 |
+
 | [[落地SOP]] | Agent Skills的3周落地方案，最小可执行 | 1 |

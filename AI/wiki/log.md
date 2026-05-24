@@ -2334,3 +2334,26 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - 断链：从 478 降至 ~429（命名类全部修复，剩余为页面不存在类）
 - Index 覆盖率：100%（所有现有页面均已入 index）
 - 孤儿页面（E/C/S）：1 个（SenseNova-Skills）
+
+
+## 2026-05-25 — 微信同步
+
+**收集阶段：** 新增 2 篇入队（Prompt x1, PPT skill x1）
+**处理阶段：** 成功处理 2 篇，写入 wiki/sources/
+
+### 摄入页面
+
+| 类型 | 页面 |
+| --- | --- |
+| source-summary | [[开源-本地优先的-Prompt-Skill-与-AI编程资产工作台-一站式-AI工具箱]] |
+| source-summary | [[10.6k-Star-Claude御用PPT-Skill实测-1个命令让AI直接输出可演示页面]] |
+| entity | [[PromptHub]] |
+| entity | [[guizang-ppt-skill]] |
+| concept | [[HTML-PPT]] |
+| concept | [[Skill工程]] |
+| concept | [[WebDAV]] |
+| concept | [[约束设计]] |
+| concept | [[瑞士国际主义]] |
+| concept | [[版式系统]] |
+
+**Git：** auto commit
