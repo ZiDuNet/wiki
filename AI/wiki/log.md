@@ -2338,22 +2338,26 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 
 ## 2026-05-25 — 微信同步
 
-**收集阶段：** 新增 2 篇入队（Prompt x1, PPT skill x1）
-**处理阶段：** 成功处理 2 篇，写入 wiki/sources/
+## 2026-05-25 — 微信同步 (定时任务)
 
-### 摄入页面
+**Operator:** Hermes Agent (scheduled cron)
+**Time:** 2026-05-25 12:02
 
-| 类型 | 页面 |
-| --- | --- |
-| source-summary | [[开源-本地优先的-Prompt-Skill-与-AI编程资产工作台-一站式-AI工具箱]] |
-| source-summary | [[10.6k-Star-Claude御用PPT-Skill实测-1个命令让AI直接输出可演示页面]] |
-| entity | [[PromptHub]] |
-| entity | [[guizang-ppt-skill]] |
-| concept | [[HTML-PPT]] |
-| concept | [[Skill工程]] |
-| concept | [[WebDAV]] |
-| concept | [[约束设计]] |
-| concept | [[瑞士国际主义]] |
-| concept | [[版式系统]] |
+### Run Summary
 
-**Git：** auto commit
+- **收集阶段:** 0 新增入队 | 队列状态: pending=2, success=818
+- **处理阶段:** 成功处理 2 篇（Prompt x1, PPT skill x1）
+- **摄入状态:** 已在 2026-05-25 上午批次完成，wiki 页面已存在
+
+### Articles (已在上午批次摄入)
+
+||| ID | 分类 | 标题 | 状态 ||
+|||---|---|---|---|||
+||| 1 | Prompt | [开源]本地优先的 Prompt、Skill 与 AI 编程资产工作台 | 已存在 ||
+||| 2 | PPT skill | 10.6k Star！Claude御用PPT Skill实测 | 已存在 ||
+
+### Git Status
+
+- Wiki 页面无变更（上午批次已提交）
+- 仅做拉取同步
+
