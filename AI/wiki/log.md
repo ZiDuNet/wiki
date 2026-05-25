@@ -8,6 +8,19 @@ Chronological record of all operations.
 **Source:** 微信公众号/diagram-maker Skill/智能体、MCP、Skill到底是个啥？大白话讲透.md
 **Time:** 2026-05-25 00:10
 
+## 2026-05-25 — 5篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. Claude/让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。 → wiki/sources/让你的-Claude-Code-满血复活-Anthropic-开源官方插件.md
+2. Agent/PDF 处理 Skill：让 Agent 真正会读、会拆、会抽取 PDF.md → wiki/sources/PDF-处理-Skill-让-Agent-真正会读会拆会抽取.md
+3. AI大神/打工人必装的12个Skill，我全装了... → wiki/sources/打工人必装的12个Skill全装实测-3个真神3个救命6个未知.md
+4. SkillManager/中国专利.skill：从项目文档到技术交底书.md → wiki/sources/中国专利-skill-从项目文档到技术交底书.md
+5. AI生成PPT方案/AI 做 PPT 不难，难的是生成后还能改得动.md → wiki/sources/AI-做-PPT-难的是生成后还能改得动.md
+**Time:** 2026-05-25 18:02
+**New Sources:** 5 | **Entities touched:** Anthropic, claude-plugins-official, pdf-processing-skill-zh, patent-disclosure-skill, SlideMind, find-skills, deep-research, humanizer-zh 等
+**Concepts touched:** Claude-Code-Plugins, PDF-处理流程, Agent-Skill, 专利交底书, HTML-SVG-PPT路线, 设计系统约束
+
 ### Results
 
 - **Sources processed:** 1

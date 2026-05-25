@@ -1,10 +1,10 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-24.
+Master catalog of all wiki pages. Updated on 2026-05-25.
 
 ## Statistics
 
-- Sources: 1093
+- Sources: 1098
 - Entities: 180
 - Concepts: 191
 - Synthesis: 15
@@ -89,9 +89,10 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/ .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
 - [[分享3个宝藏Skills]] — AutoClip / Learning Opportunities Skill / AI Research SKILLs
 
-### AI大神 (1篇)
+### AI大神 (2篇)
 
 - [[AI大神开源的宝藏技能合集]] — AI大神开源的宝藏技能合集
+- [[打工人必装的12个Skill全装实测-3个真神3个救命6个未知]] — 打工人必装的12个Skill，我全装了：3个真神，3个救命，6个还没敢下结论
 
 ### 外贸出海情报系统 (1篇)
 
@@ -162,7 +163,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (98篇)
+### Agent (99篇)
+
+- [[PDF-处理-Skill-让-Agent-真正会读会拆会抽取]] — PDF 处理 Skill：让 Agent 真正会读、会拆、会抽取 PDF
 
 - [[Honcho-AI-Agent记忆库3年打磨让Agent真正认识用户]] — Honcho：AI Agent 记忆库，3年打磨让 Agent 真正认识用户
 - [[cli-anything-universal-remote-for-ai-agent]] — CLI-Anything：AI Agent 的万能遥控器，一行命令把任意软件变成 Agent 可操作 CLI
@@ -288,7 +291,9 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 - [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT新手指南：从注册到上手只需10分钟
 
-### Claude (35篇)
+### Claude (36篇)
+
+- [[让你的-Claude-Code-满血复活-Anthropic-开源官方插件]] — 让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件
 
 - [[01AI生成PPT“血与泪”的故事]] — # 01.AI生成PPT“血与泪”的故事
 - [[1-克隆并链接到Claude-Code的技能目录git-clone-httpsgithubcombrowserusevideousecd-videouseln-]] — 1. 克隆并链接到Claude Code的技能目录git clone https://github.com/browser-use/video-usecd video-useln -s "$(pwd)" ~/.claude/skills/video-use# 2. 安装依赖pip install -e .brew install ffmpeg # 必需brew install yt-dlp # 可选，用于下载在线资源# 3. 添加你的ElevenLabs API密钥cp .env.example .env$EDITOR .env # ELEVENLABSAPIKEY=...
@@ -340,7 +345,7 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 - [[大模型不卷聊天了GPT‑55Deepseek-V4MiMo-V25-Pro-正在卷"干活能力"]] — 大模型不卷聊天了：GPT‑5.5、Deepseek V4、MiMo V2.5 Pro 正在卷"干活能力"
 
-### Agent (92篇)
+### Agent (93篇)
 
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
@@ -376,9 +381,10 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 - [[zhe-ge-GitHub-shen-ji-Skill-yi-ju-hua-ba-ni-kai-fa-de-wang-zhan-fa-bu-dao-xian-shang]] — 这个 GitHub 神级 Skill：一句话把你开发的网站发布到线上（PinMe）
 - [[710-推荐8个本周YYDS的GitHub开源项目]] — 推荐 8 个本周 YYDS 的 GitHub 开源项目
 - [[713-GitHub2万星爆款让AI接管你的浏览器这个开源项目太强了]] — GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了
-### GitHub开源项目 (1篇)
+### GitHub开源项目 (2篇)
 
 - [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！]] — CodeBuddy Cli + skills 实现小红书信息图系列生成器！
+- [[中国专利-skill-从项目文档到技术交底书]] — 中国专利.skill：从项目文档到技术交底书
 
 ### Horizon (1篇)
 
@@ -406,10 +412,11 @@ Master catalog of all wiki pages. Updated on 2026-05-24.
 
 - [[我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工]] — 我只：别手搓Prompt了，用HermesAgent搭个24小时数字员工
 
-### AI生成PPT方案 (2篇)
+### AI生成PPT方案 (3篇)
 
 - [[702-Oh-My-PPT-开源免费纯本地AI幻灯片神器-一句话生成可拖拽编辑HTML-PPT-30-风格-动画-公式-历史回退-创业路演-教学汇报零云依赖]] — Oh My PPT：开源免费纯本地AI幻灯片神器，一句话生成可拖拽编辑HTML PPT，30+风格+动画+公式+历史回退，创业路演 教学汇报零云依赖！
 - [[ai-ppt-template-library]] — AI生成精美PPT模板库：beautiful-html-templates 32个模板让Agent生成高质量PPT
+- [[AI-做-PPT-难的是生成后还能改得动]] — AI 做 PPT 不难，难的是生成后还能改得动
 
 ### mmx-cli (1篇)
 
