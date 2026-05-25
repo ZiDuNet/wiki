@@ -1,156 +1,104 @@
 ---
 name: second-brain
 description: >
-  Set up a new Obsidian knowledge base with the LLM Wiki pattern. Use when
-  the user wants to create a second brain, initialize a vault, set up a
-  personal knowledge base, or says "onboard". Guides through an interactive
-  wizard to configure vault name, location, domain, agent support, and tooling.
-allowed-tools: Bash Read Write Glob Grep
+  LLM Wiki 个人知识库系统。基于 Karpathy 的 LLM Wiki 模式，LLM 持续构建和维护结构化 wiki。
+  支持四种模式：初始化（init）、摄入（ingest）、检索（query）、健康检查（lint）。
+  当用户说"初始化知识库"、"创建知识库"、"onboard"时触发 init；
+  当用户说"摄入"、"处理源文件"、"ingest"、"导入"时触发 ingest；
+  当用户说"检索"、"查询"、"搜索知识库"、"query"时触发 query；
+  当用户说"检查"、"lint"、"健康检查"、"audit"时触发 lint。
+allowed-tools: Bash Read Write Edit Glob Grep
 ---
 
-# Second Brain — Onboarding Wizard
+# Second Brain — LLM Wiki 个人知识库
 
-Set up a new Obsidian knowledge base using the LLM Wiki pattern. The LLM acts as librarian — reading raw sources, compiling them into a structured interlinked wiki, and maintaining it over time.
+LLM 不是在查询时从原始文档重新检索，而是**持续构建和维护一个持久化 wiki**——一个结构化、相互链接的 markdown 文件集合。每次新增源文件，LLM 读取、提取关键信息、整合进现有 wiki——更新实体页、修订主题摘要、标注矛盾。知识被编译一次，然后**持续保持更新**。
 
-## Wizard Flow
+核心区别：**wiki 是持续复利的持久产物。** 交叉引用已经建好，矛盾已经标注，综合已经反映你读过的所有内容。每加一个源文件、每问一个问题，wiki 都在变得更丰富。
 
-Guide the user through these 5 steps. Ask ONE question at a time. Each step has a sensible default — the user can accept it or provide their own value.
+## 模式判断
 
-### Step 1: Vault Name
+根据用户意图自动选择模式：
 
-Ask:
-> "What would you like to name your knowledge base? This will be the folder name."
-> Default: `second-brain`
+| 用户意图 | 模式 | 指令文件 |
+|---|---|---|
+| "初始化知识库"、"创建知识库"、"onboard"、"搭建" | **init** | `<skill-directory>/references/init.md` |
+| "摄入"、"处理源文件"、"ingest"、"导入"、"处理一下" | **ingest** | `<skill-directory>/references/ingest.md` |
+| "检索"、"查询"、"搜索知识库"、"query"、"问一下" | **query** | `<skill-directory>/references/query.md` |
+| "检查"、"lint"、"健康检查"、"audit"、"找问题" | **lint** | `<skill-directory>/references/lint.md` |
 
-Accept any user-provided name. This becomes the folder name and the title in the agent config.
+确定模式后，读取对应的指令文件并执行。
 
-### Step 2: Vault Location
-
-Ask:
-> "Where should I create it? Give me a path, or I'll use the default."
-> Default: `~/Documents/`
-
-Accept any absolute or relative path. Resolve `~` to the user's home directory. The final vault path is `{location}/{vault-name}/`.
-
-### Step 3: Domain / Topic
-
-Ask:
-> "What's this knowledge base about? This helps me set up relevant tags and describe the vault's purpose."
->
-> Examples: "AI research", "competitive intelligence on fintech startups", "personal health and fitness"
-
-Accept free text. Use this to:
-- Write a one-line domain description for the agent config
-- Generate 5-8 suggested domain-specific tags
-
-### Step 4: Agent Config
-
-Auto-detect which agent is running this skill. State it clearly:
-> "I'm running in **[Agent Name]**, so I'll generate a **[config file]** for this vault."
-
-Then ask:
-> "Do you use any other AI agents you'd like config files for? Options: Claude Code, Codex, Cursor, Gemini CLI — or skip."
-
-Skip the agent that was auto-detected. Generate configs for all selected agents.
-
-**Agent detection logic:**
-- If the `CLAUDE.md` convention is being used or the Skill tool is Claude Code's → Claude Code
-- If the environment indicates Codex → Codex
-- If `.cursor/` exists in the working directory → Cursor
-- If `GEMINI.md` convention is being used → Gemini CLI
-- If unsure, ask the user which agent they're using
-
-### Step 5: Optional CLI Tools
-
-Ask:
-> "These tools extend what the LLM can do with your vault. All optional but recommended:"
->
-> 1. **summarize** — summarize links, files, and media from the CLI
-> 2. **qmd** — local search engine for your wiki (helpful as it grows)
-> 3. **agent-browser** — browser automation for web research
->
-> "Install all, pick specific ones (e.g. '1 and 3'), or skip?"
-
-## Post-Wizard: Scaffold the Vault
-
-After collecting all answers, execute these steps in order:
-
-### 1. Create directory structure
-
-Run the onboarding script, passing the full vault path:
+## 三层架构
 
 ```
-bash <skill-directory>/scripts/onboarding.sh <vault-path>
+知识库根目录/
+├── raw/              ← 不可变源文件（或用户自定义目录名）
+├── wiki/             ← LLM 工作区
+│   ├── sources/      ← 源文件摘要
+│   ├── entities/     ← 实体页（人物、组织、产品、工具）
+│   ├── concepts/     ← 概念页（想法、框架、理论、模式）
+│   ├── synthesis/    ← 综合分析（对比、分析、跨主题）
+│   ├── index.md      ← 总目录（每次 ingest 更新）
+│   └── log.md        ← 操作日志（只追加，不修改）
+├── output/           ← 导出产物
+└── SCHEMA.md         ← 知识库规则（可选，agent 通用）
 ```
 
-This creates all directories and the initial `wiki/index.md` and `wiki/log.md` files.
+**raw 目录可以自定义**。用户可以用已有文件夹（如 `政策库/`）作为 raw，不需要改名为 `raw/`，也不需要创建 `raw/` 子目录。
 
-### 2. Generate agent config file(s)
+## 通用规则
 
-For each selected agent, read the corresponding template from `<skill-directory>/references/agent-configs/`:
+1. **raw 文件不可变**——只读，永远不修改
+2. **wiki 是 LLM 的工作区**——创建、更新、维护所有文件
+3. **每次操作都要更新 index.md 和 log.md**
+4. **所有内部引用使用 `[[wikilink]]`**——不用原始文件路径
+5. **每个 wiki 页面必须有 YAML frontmatter**：
 
-| Agent | Template | Output File | Output Location |
-|---|---|---|---|
-| Claude Code | `claude-code.md` | `CLAUDE.md` | Vault root |
-| Codex | `codex.md` | `AGENTS.md` | Vault root |
-| Cursor | `cursor.md` | `second-brain.mdc` | `<vault>/.cursor/rules/` |
-| Gemini CLI | `gemini.md` | `GEMINI.md` | Vault root |
-
-For each template, replace the placeholders:
-
-- `{{VAULT_NAME}}` → the vault name from Step 1
-- `{{DOMAIN_DESCRIPTION}}` → a one-line description derived from Step 3
-- `{{DOMAIN_TAGS}}` → generate 5-8 domain-relevant tags as a bullet list based on the domain from Step 3
-- `{{WIKI_SCHEMA}}` → read `<skill-directory>/references/wiki-schema.md` and insert everything from `## Architecture` onward
-
-Write the generated config to the vault.
-
-### 3. Update wiki/log.md
-
-Append the setup entry:
-
-```
-## [YYYY-MM-DD] setup | Vault initialized
-Created vault "{{VAULT_NAME}}" for {{DOMAIN_DESCRIPTION}}.
-Agent configs: {{list of generated config files}}.
+```yaml
+---
+tags: [tag1, tag2]
+sources: [source-file.md]
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
 ```
 
-### 4. Install CLI tools (if selected)
+6. **好的回答要存回 wiki**——对比、分析、新发现，这些有价值的结果不应消失在对话历史中
+7. **页面命名**：文件名用 `kebab-case.md`，页面标题用 Title Case，wikilink 用页面标题
 
-For each tool the user selected in Step 5, run the install command:
+## 角色分工
 
-- summarize: `npm i -g @steipete/summarize`
-- qmd: `npm i -g @tobilu/qmd`
-- agent-browser: `npm i -g agent-browser && agent-browser install`
+- **人类**：选题、提问、审查、指引方向
+- **LLM**：摘要、交叉引用、归档、维护——所有苦力活
+- **Obsidian 是 IDE，LLM 是程序员，wiki 是代码库**
 
-After each install, verify with `<tool> --version`. Report success or failure for each.
+## BM25 全文检索
 
-### 5. Print summary
+知识库超过 ~100 页后，使用 BM25（SQLite FTS5）进行高效检索。
 
-Show the user:
+**脚本位置**：`<skill-directory>/scripts/wiki_fts.py`
 
-1. **What was created** — directory tree and config files
-2. **Required next step** — install the Obsidian Web Clipper browser extension:
-   > Install the Obsidian Web Clipper to easily save web articles into your vault:
-   > https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf
-3. **How to start** — open the vault folder in Obsidian, clip an article to `raw/`, then run `/second-brain-ingest`
+部署时将脚本复制到 `<wiki-root>/scripts/` 下：
 
-## Reference Files
+```bash
+cp <skill-directory>/scripts/wiki_fts.py <wiki-root>/scripts/
+cd <wiki-root>
+python3 scripts/wiki_fts.py stats      # 查看索引状态
+python3 scripts/wiki_fts.py build      # 构建/重建索引（索引存放在 <wiki-root>/indexes/fts.sqlite）
+python3 scripts/wiki_fts.py search "关键词" --limit 5  # 搜索
+```
 
-These files are bundled with this skill and available at `<skill-directory>/references/`:
+- `<wiki-root>` 即知识库目录下的 `wiki/` 文件夹
+- 索引数据库自动存放在 `<wiki-root>/indexes/fts.sqlite`
+- 可配合 cron 定时任务定期重建索引
 
-- `wiki-schema.md` — canonical wiki rules (single source of truth for all agent configs)
-- `tooling.md` — CLI tool details, install commands, and verification steps
-- `agent-configs/claude-code.md` — CLAUDE.md template
-- `agent-configs/codex.md` — AGENTS.md template
-- `agent-configs/cursor.md` — Cursor rules template
-- `agent-configs/gemini.md` — GEMINI.md template
+## 参考文件
 
-## Next Steps
-
-After setup is complete, the user's workflow is:
-
-1. **Clip articles** to `raw/` using the Obsidian Web Clipper
-2. **Ingest sources** with `/second-brain-ingest` — processes raw files into wiki pages
-3. **Ask questions** with `/second-brain-query` — searches and synthesizes from the wiki
-4. **Health-check** with `/second-brain-lint` — run after every 10 ingests or monthly
+- `<skill-directory>/references/wiki-schema.md` — wiki 规范（所有配置的单一事实来源）
+- `<skill-directory>/references/tooling.md` — CLI 工具详情（含 qmd 搜索引擎）
+- `<skill-directory>/references/agent-configs/` — agent 专属配置模板
+- `<skill-directory>/references/bootstrap.md` — 知识库初始化引导（从 karpathy-llm-wiki 迁移）
+- `<skill-directory>/references/bm25.md` — BM25 全文检索详细工作流（从 karpathy-llm-wiki 迁移）
+- `<skill-directory>/scripts/onboarding.sh` — 初始化脚本
+- `<skill-directory>/scripts/wiki_fts.py` — BM25 索引构建/搜索/统计脚本（SQLite FTS5）

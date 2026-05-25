@@ -4,16 +4,30 @@ set -e
 # Second Brain — Onboarding Script
 # Scaffolds vault directory structure and verifies CLI tooling.
 #
-# Usage: bash onboarding.sh <vault-path>
+# Usage: bash onboarding.sh <vault-path> [raw-dir-name]
+#   vault-path: root directory for the knowledge base
+#   raw-dir-name: (optional) name of existing folder to use as raw.
+#                 If not provided, creates default raw/ directory.
 # Output: JSON summary to stdout. Progress messages to stderr.
 
 VAULT_ROOT="${1:-.}"
+RAW_DIR="${2:-raw}"
 
 echo "=== Second Brain Onboarding ===" >&2
 
 # 1. Create directory structure
 echo "Creating directory structure..." >&2
-mkdir -p "$VAULT_ROOT/raw/assets"
+
+# Only create raw/ if using default; if user specified custom raw dir, skip creation
+if [ "$RAW_DIR" = "raw" ]; then
+  mkdir -p "$VAULT_ROOT/raw/assets"
+  echo "Created default raw/ directory" >&2
+else
+  echo "Using existing directory '$RAW_DIR' as raw (no creation needed)" >&2
+  # Ensure assets subdir exists inside custom raw dir
+  mkdir -p "$VAULT_ROOT/$RAW_DIR/assets"
+fi
+
 mkdir -p "$VAULT_ROOT/wiki/sources"
 mkdir -p "$VAULT_ROOT/wiki/entities"
 mkdir -p "$VAULT_ROOT/wiki/concepts"
@@ -93,9 +107,10 @@ cat << JSONEOF
 {
   "status": "complete",
   "vault_root": "$VAULT_ABS",
+  "raw_dir": "$RAW_DIR",
   "directories": [
-    "raw/",
-    "raw/assets/",
+    "$RAW_DIR/",
+    "$RAW_DIR/assets/",
     "wiki/",
     "wiki/sources/",
     "wiki/entities/",

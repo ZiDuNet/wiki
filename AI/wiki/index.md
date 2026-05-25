@@ -4,7 +4,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 ## Statistics
 
-- Sources: 1098
+- Sources: 1103
 - Entities: 180
 - Concepts: 191
 - Synthesis: 15
@@ -88,6 +88,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[职场人AI赋能全实操0基础上手用效率撬动晋升]] — 职场人AI赋能全实操：0基础上手，用效率撬动晋升
 - [[论文写作-Skills-整理]] — 1. 创建技能目录mkdir -p ~/.claude/skills# 2. 安装核心技能cd ~/.claude/skills# luwill/research-skillsgit clone https://github.com/luwill/research-skills.gitcp -r research-skills/research-proposal .cp -r research-skills/paper-slide-deck .cp -r research-skills/medical-imaging-review .# lishix520/academic-paper-skillsgit clone https://github.com/lishix520/academic-paper-skills.gitcp -r academic-paper-skills/strategist .cp -r academic-paper-skills/composer .# K-Dense-AI/claude-scientific-skillsgit clone https://github.com/K-Dense-AI/claude-scientific-skills.gitcp -r claude-scientific-skills/scientific-skills/scientific-writing .# ndpvt-web/latex-document-skillgit clone https://github.com/ndpvt-web/latex-document-skill.gitcp -r latex-document-skill/skills/ .# 清理rm -rf research-skills academic-paper-skills claude-scientific-skills latex-document-skill
 - [[分享3个宝藏Skills]] — AutoClip / Learning Opportunities Skill / AI Research SKILLs
+- [[免费-AI视频生成实战-30分钟用WorkBuddy做出爆款书籍带货视频-0门槛上手]] — 用WorkBuddy生成书籍带货视频完整SOP：book-viral-script文案+多模态视频+edgeTTS配音+ffmpeg剪辑
+- [[一句话生成PPT-已经能用了-html-ppt-skill实测指南]] — html-ppt-skill实测：36套主题+31种布局+14套deck模板，HTML格式PPT生成技能
+- [[ppt-master-AI-造-PPT的正确姿势]] — PPT Master评测：19,747 stars，生成原生DrawingML可编辑PPTX，v2.8.0 Live Preview进主流程
 
 ### AI大神 (2篇)
 
@@ -331,6 +334,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[sub2api-api网关平台]] — 自己动手搭API中转站之Sub2API：一个网关统管 OpenAI / Claude / Gemini，限流计费全搞定
 - [[web-access-skillAI联网能力升级]] — 这个Skill解决了什么问题
 - [[html-anything-开源-让你感受-Claude-Code-作者提到的-HTML-效果]] — html-anything 开源！让你感受 Claude Code 作者提到的 HTML 效果！
+- [[github上最火的10个MCP服务器-让Claude-Code连接万物保姆级]] — Top 10 MCP Servers for Claude Code：pal-mcp-server、mcp-chrome、git-mcp、firecrawl-mcp 等
 
 ### Dify (2篇)
 
@@ -674,7 +678,8 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[Graphify-知识图谱工程化]] — Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品
 - [[Karpathy-的-LLM-Wiki-模式：让-AI-替你维护知识库]] — Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库
 - [[LLM-Wiki-架构解析-Karpathy-Markdown-知识库模式]] — LLM Wiki 架构解析：Karpathy 的 Markdown 知识库模式
-- [[Wechat-Cli-将微信聊天记录导入-Karpathy的-LLM-Wiki]] — Wechat-Cli + Graphify：从加密数据库到结构化知识图谱的完整链路
+- [[Wechat-Cli-将微信聊天记录导入-Karpathy的LLM-Wiki]] — Wechat-Cli + Graphify：从加密数据库到结构化知识图谱的完整链路
+- [[llm-wiki-项目分享-知识管理的演变洞察]] — LLM Wiki项目对比：nashsu/llm_wiki（桌面应用）vs nvk/llm-wiki（Agent插件），知识图谱四信号相关性模型
 
 ### LangGraph (1篇)
 

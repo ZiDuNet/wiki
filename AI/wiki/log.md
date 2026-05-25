@@ -2374,3 +2374,25 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - Wiki 页面无变更（上午批次已提交）
 - 仅做拉取同步
 
+## 2026-05-25 — 晚间批次：5篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. LLM Wiki/LLM Wiki 项目分享：知识管理的演变洞察.md → wiki/sources/llm-wiki-项目分享-知识管理的演变洞察.md
+2. WorkBuddy/免费！AI视频生成实战：30分钟用WorkBuddy做出爆款书籍带货视频，0门槛上手！.md → wiki/sources/免费-AI视频生成实战-30分钟用WorkBuddy做出爆款书籍带货视频-0门槛上手.md
+3. Claude/GitHub上最火的10个MCP服务器，让Claude Code连接万物（保姆级）.md → wiki/sources/github上最火的10个MCP服务器-让Claude-Code连接万物保姆级.md
+4. AI生成PPT方案/一句话生成PPT，已经能用了：html-ppt-skill实测指南.md → wiki/sources/一句话生成PPT-已经能用了-html-ppt-skill实测指南.md
+5. PPT Master/PPT Master：AI 造 PPT 的正确姿势.md → wiki/sources/ppt-master-AI-造-PPT的正确姿势.md
+**Time:** 2026-05-25 22:58
+**New Sources:** 5 | **Entities touched:** WorkBuddy (mentions: 36→36, updated), PPT Master (full rewrite), html-ppt-skill
+**Concepts touched:** MCP Server (更新Top 10列表), LLM Wiki方法论, AIGC工作流, AI视频生成
+
+### Results
+
+- **Sources processed:** 5
+- **Categories:** LLM Wiki (1), WorkBuddy (1), Claude (1), AI生成PPT方案 (1), PPT Master (1)
+- **Source pages created:** 5
+- **Entities updated:** WorkBuddy (add book-viral-script/edgetTS/ffmpeg capabilities), PPT Master (full rewrite with v2.8.0 details)
+- **Concepts updated:** MCP Server (add Top 10 MCP servers table)
+- **index.md:** Added 5 new source entries under AI办公/Claude/LLM-Wiki sections, Sources: 1098→1103
+

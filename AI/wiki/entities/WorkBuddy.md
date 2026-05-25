@@ -2,14 +2,14 @@
 type: entity
 name: WorkBuddy
 created: 2026-05-24
-updated: 2026-05-24
-mentions: 35
+updated: 2026-05-25
+mentions: 36
 ---
 
 # WorkBuddy
 
 **类型:** 实体 (产品/工具)
-**提及文章数:** 35
+**提及文章数:** 36
 **开发团队:** 腾讯云 CodeBuddy 团队
 
 ## 简介
@@ -36,10 +36,19 @@ WorkBuddy 是腾讯云 CodeBuddy 团队推出的 AI Agent 办公工具，定位�
 
 https://www.codebuddy.cn/work/
 
+- **book-viral-script 技能**：输入书名自动联网搜索书籍信息，按爆款框架生成约2500字口播文案，包含钩子+共鸣段+故事段+价值深化+CTA，用于书籍带货视频文案生成
+- **多模态视频生成**：支持按文案结构规划视频片段生成，并发限制2个，需分批提交
+- **B-roll素材生成**：补充视觉素材（人物肖像、公式动画、时间流逝效果）
+- **edgeTTS集成**：支持 zh-CN-YunxiNeural 音色生成自然配音
+- **ffmpeg无缝合并**：使用 -c copy 参数无损合并视频片段，9.86x 处理速度
+
 ## 相关实体
 
 - [[OpenClaw]] — WorkBuddy 兼容的开源 Agent 平台
 - [[腾讯CodeBuddy]] — WorkBuddy 的开发团队
+- [[book-viral-script]] — 书籍带货文案生成技能
+- [[edgeTTS]] — 微软文本转语音工具
+- [[ffmpeg]] — 音视频处理工具
 
 ## 相关概念
 
@@ -49,7 +58,12 @@ https://www.codebuddy.cn/work/
 - [[知识库构建]] — 自动归档形成专属知识库
 - [[AI办公]] — AI 办公效率工具
 
+- [[AI视频生成]] — 多模态生成视频片段的工作流
+- [[AIGC工作流]] — 书籍带货视频的完整 AI 生成链路
+- [[视频剪辑自动化]] — ffmpeg 无损合并方案
+
 ## 相关文章
 
 - [[我用WorkBuddy建了一个新闻编辑部一人公司正式开张]] — 6人虚拟新闻编辑部实战案例
 - [[智能体MCP-Skill到底是啥5句话大白话讲透]] — Agent概念解析，提及 WorkBuddy 作为智能体例子
+- [[免费-AI视频生成实战-30分钟用WorkBuddy做出爆款书籍带货视频-0门槛上手]] — 书籍带货视频完整SOP实战
