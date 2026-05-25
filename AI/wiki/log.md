@@ -21,6 +21,19 @@ Chronological record of all operations.
 **New Sources:** 5 | **Entities touched:** Anthropic, claude-plugins-official, pdf-processing-skill-zh, patent-disclosure-skill, SlideMind, find-skills, deep-research, humanizer-zh 等
 **Concepts touched:** Claude-Code-Plugins, PDF-处理流程, Agent-Skill, 专利交底书, HTML-SVG-PPT路线, 设计系统约束
 
+## 2026-05-26 — 微信同步 + 3篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. Obsidian/用 Claude Code + Obsidian，打造属于自己的智能信息中枢 → wiki/sources/用-Claude-Code-Obsidian打造属于自己的智能信息中枢.md
+2. GitHub/GitHub 炸了：19 万星的 Agent 配置天花板，一天涨 2k+星 → wiki/sources/GitHub-炸了-19万星的Agent配置天花板一天涨2k星.md
+3. WorkBuddy/WorkBuddy资料库： 把AI训练成你的专属助理 → wiki/sources/WorkBuddy资料库-把AI训练成你的专属助理.md
+**Time:** 2026-05-26 06:00
+**New Sources:** 3
+**New Entities:** [[ECC]], [[Affaan-Mustafa]], [[AgentShield]]
+**New Concepts:** [[信息处理流程]], [[每日收工流程]], [[AI专属助理]], [[Agent-Harness]]
+**Entities updated:** [[Claude Code]], [[Obsidian]], [[WorkBuddy]], [[Claude]], [[Cursor]], [[Codex]]
+
 ### Results
 
 - **Sources processed:** 1

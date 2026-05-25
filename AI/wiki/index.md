@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 ## Statistics
 
-- Sources: 1103
-- Entities: 180
-- Concepts: 191
+- Sources: 1106
+- Entities: 183
+- Concepts: 174
 - Synthesis: 15
 
 ## Sources
@@ -385,6 +385,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[zhe-ge-GitHub-shen-ji-Skill-yi-ju-hua-ba-ni-kai-fa-de-wang-zhan-fa-bu-dao-xian-shang]] — 这个 GitHub 神级 Skill：一句话把你开发的网站发布到线上（PinMe）
 - [[710-推荐8个本周YYDS的GitHub开源项目]] — 推荐 8 个本周 YYDS 的 GitHub 开源项目
 - [[713-GitHub2万星爆款让AI接管你的浏览器这个开源项目太强了]] — GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了
+- [[GitHub-炸了-19万星的Agent配置天花板一天涨2k星]] — GitHub 炸了：19 万星的 Agent 配置天花板，一天涨 2k+星 (1篇)
 ### GitHub开源项目 (2篇)
 
 - [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！]] — CodeBuddy Cli + skills 实现小红书信息图系列生成器！
@@ -732,6 +733,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[早鸟笔记觉醒Obsidian-×-AI-知识工作系统]] — 【早鸟】笔记觉醒：Obsidian × AI 知识工作系统
 - [[用-Hermes-Obsidian-建一个-AI-学习知识库]] — 用 Hermes + Obsidian 建一个 AI 学习知识库
 - [[obsidian-wiki-jichu-jiaocheng]] — 从 0 到 1 搭建 AI 知识库：obsidian-wiki 完整实操（保姆级教程）
+- [[用-Claude-Code-Obsidian打造属于自己的智能信息中枢]] — 用 Claude Code + Obsidian 打造属于自己的智能信息中枢：三机制闭环自动处理 (1篇)
 - [[如何从零搭建Obsidian知识库-AI-Agent不是问答机器，它是执行者]] — 如何从零搭建Obsidian知识库：AI Agent不是问答机器，它是执行者（附日报模板+工具）
 - [[Claude-Code-Obsidian-个人知识库从工具到思维的完整指南]] — Claude Code +Obsidian：个人知识库从工具到思维的完整指南
 - [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
@@ -1143,6 +1145,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[workbuddy-skills-installation]] — WorkBuddy 赋能精准办公：Skills 安装提示词（含必备版+进阶版 TOP5）
 - [[workbuddy-complete-guide]] — WorkBuddy 完整使用指南：让AI真正成为你的工作搭档
 - [[workbuddy-excel-processing]] — WorkBuddy Excel处理：数据清洗和合并，一条指令搞定
+- [[WorkBuddy资料库-把AI训练成你的专属助理]] — WorkBuddy资料库：把AI训练成你的专属助理，资料库+专家/技能/自动化组合用法 (1篇)
 
 
 ### acquire-codebase-knowledge (1篇)
@@ -1422,8 +1425,10 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 ## Entities (174个)
 
 - [[Agency-agents]]
-- [[Agent-Browser]]
+- [[Affaan-Mustafa]] — Anthropic 黑客松冠军，ECC 作者 (1篇)
 - [[Anthropic]]
+- [[Agent-Browser]]
+- [[AgentShield]] — ECC 配套安全扫描工具 (1篇)
 - [[autoresearch]] — Karpathy AI 自主研究项目
 - [[baoyu-translate]] — 分层翻译 Skill
 - [[Browser-Use]] — AI 浏览器自动化
@@ -1446,6 +1451,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[DeepSeek]] (54篇)
 - [[Dify]] (14篇)
 - [[Docker]] (69篇)
+- [[ECC]] — Everything Claude Code，Agent 配置天花板开源工作台 (1篇)
 - [[Excel]] (30篇)
 - [[FFmpeg]] (2篇)
 - [[Figma]] (8篇)
@@ -1568,11 +1574,13 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[AI办公]]
 - [[AI数字员工]]
 - [[AI编程]]
+- [[AI专属助理]] — 让AI从通用助手进化为理解用户背景的个性化助理 (1篇)
 - [[Agent-Teams]]
 - [[Agent工程化]]
 - [[Agent开发]]
 - [[Agent架构]] (6篇)
 - [[Agent路由]]
+- [[Agent-Harness]] — Agent 执行环境问题：让协作方式更稳而非让模型更聪明 (1篇)
 - [[CICD]] (17篇)
 - [[Context上下文]]
 - [[Cron定时任务]]
@@ -1654,6 +1662,8 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[知识图谱]] (25篇)
 - [[知识库构建]]
 - [[知识管理]]
+- [[信息处理流程]] — 被动输入→机器清洗→资产沉淀的三机制闭环 (1篇)
+- [[每日收工流程]] — 强制每日清空中间状态的知识库维护机制 (1篇)
 - [[科研工具]]
 - [[经验蒸馏]]
 - [[自动化工作流]]
