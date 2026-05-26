@@ -2,7 +2,110 @@
 
 Chronological record of all operations.
 
-## 2026-05-25 — diagram-maker Skill 文章摄入
+## 2026-05-26 — 7篇文章摄入 (847-854)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 飞书/通过飞书妙搭构建LLMWiki应用的实战指南 → wiki/sources/通过飞书妙搭构建LLMWiki应用的实战指南.md
+2. WorkBuddy/WorkBuddy方法17 项目进度跟踪与甘特图 → wiki/sources/WorkBuddy方法17-项目进度跟踪与甘特图.md
+3. OpenClaw/如何基于 Openclaw、Hermes、Opencode、pi-agent 来搭建自己的 Deep Research Agent → wiki/sources/如何基于Openclaw-Hermes-Opencode-pi-agent搭建Deep-Research-Agent.md
+4. Claude/科研Skills更新了，Claude Code，Codex和小龙虾都能用 → wiki/sources/科研Skills更新-Claude-Code-Codex-小龙虾都能用.md
+5. Agent/别再问要不要上 AI Agent，先问哪一步最该被替代 → wiki/sources/别再问要不要上AI-Agent-先问哪一步最该被替代.md
+6. Claude/Text-to-CAD：用 AI 生成 3D 零件的开源 CAD 技能集 → wiki/sources/Text-to-CAD-AI生成3D零件开源CAD技能集.md
+7. Hermes/让你的Hermes Agent发挥更大的价值 → wiki/sources/让你的Hermes-Agent发挥更大的价值.md
+**Time:** 2026-05-26 14:00
+**New Sources:** 7
+**New Entities:** [[Karpathy]], [[飞书妙搭]], [[text-to-cad]], [[earthtojake]]
+**New Concepts:** [[LLM-Wiki]], [[传统RAG困境]], [[甘特图自动生成]], [[Deep-Research-Agent]], [[database-lookup]], [[替代动作非人]], [[元提示]], [[Text-to-CAD]]
+**Entities updated:** [[scientific-agent-skills]], [[WorkBuddy]]
+**index.md updated:** Statistics (Sources 1109→1116, Entities 186→190, Concepts 178→186), Hermes (198→199), WorkBuddy (35→36), 飞书 (9→10), Agent (100→101), Claude (36→37), OpenClaw (135→136)
+
+### Key Findings
+
+**Article 847 - LLM Wiki via 飞书妙搭:**
+1. 传统 RAG 困境：每次回答从零理解，没有记忆积累
+2. Karpathy LLM Wiki 三层架构：`Raw Sources → Wiki → Schema`
+3. 飞书妙搭三大优势：文档天然在飞书、用户无学习成本、核心是界面和流程
+4. 最小可行路径：高频问题→第一批页面→对话入口→log.md日志
+
+**Article 848 - WorkBuddy 甘特图:**
+1. Prompt驱动甘特图自动生成，标识延期（红）/即将到期（黄）
+2. 周会准备时间从2小时降到10分钟
+3. 进阶：多项目组合、资源冲突检测、风险预警
+
+**Article 849 - Deep Research Agent搭建:**
+1. 框架对比：Hermes（最推荐，learning loop）、OpenClaw（always-on）、Pi-agent（极简）、OpenCode（coding）
+2. 六步法：基础部署→Multi-Agent→MCP工具→迭代反思→输出持久化→优化生产化
+3. 五角色分工：Planner/Researcher/Critic/Synthesizer/Coder
+
+**Article 850 - Scientific Agent Skills更新:**
+1. 152→139技能，database-lookup统一接口覆盖78数据库
+2. 四类任务实测：文献综述超预期、数据分析看你会不会用、分子计算需验证、文档处理最稳定
+3. 按场景推荐：科研写作/数据分析/生物信息学/药物发现
+
+**Article 851 - Agent落地方法论:**
+1. 替代动作非人：高频+标准化+低风险+ROI易量化
+2. 流程接不住：输入规则输出异常边界都没定义
+3. 四类场景：客服分流、线索初筛、内容初稿、报表汇总
+
+**Article 853 - Text-to-CAD:**
+1. build123d+OpenCascade，WASM浏览器端渲染
+2. 七大技能：CAD生成/标准件/模型浏览/URDF/SDF/SRDF/SendCutSend
+3. 多Agent支持：Codex/Claude Code/Gemini/OpenClaw
+
+**Article 854 - Hermes Agent五大用法:**
+1. /goal+元提示：让AI生成详细提示词再执行
+2. 看板工作流：晨间任务丢进去，回来已完成
+3. 竞品拆解：自动打开浏览器分析技术栈
+4. 记忆Wiki：本地网站记录每次对话
+5. 每日主动学习：早9点询问，积累对用户理解
+
+---
+
+## 2026-05-26 — 微信同步 + 3篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. Obsidian/用 Claude Code + Obsidian，打造属于自己的智能信息中枢 → wiki/sources/用-Claude-Code-Obsidian打造属于自己的智能信息中枢.md
+2. GitHub/GitHub 炸了：19 万星的 Agent 配置天花板，一天涨 2k+星 → wiki/sources/GitHub-炸了-19万星的Agent配置天花板一天涨2k星.md
+3. WorkBuddy/WorkBuddy资料库： 把AI训练成你的专属助理 → wiki/sources/WorkBuddy资料库-把AI训练成你的专属助理.md
+**Time:** 2026-05-26 06:00
+**New Sources:** 3
+**New Entities:** [[ECC]], [[Affaan-Mustafa]], [[AgentShield]]
+**New Concepts:** [[信息处理流程]], [[每日收工流程]], [[AI专属助理]], [[Agent-Harness]]
+**Entities updated:** [[Claude Code]], [[Obsidian]], [[WorkBuddy]], [[Claude]], [[Cursor]], [[Codex]]
+
+## 2026-05-26 — 2篇文章摄入 (855 & 856)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. Agent/连夜打包！黑客松夺冠神作开源：含38个Agent、156项技能、千级安全测试 → wiki/sources/连夜打包-黑客松夺冠神作开源-ECC配置天花板.md
+2. GitHub/今天 GitHub 上涨疯了的这个开源项目，程序员都在收藏 → wiki/sources/今天GitHub上涨疯了的开源项目-程序员都在收藏.md
+**Time:** 2026-05-26 12:30
+**New Sources:** 2
+**New Entities:** [[Understand-Anything]]
+**New Concepts:** [[黑客松]], [[持续学习系统]], [[代码知识图谱]]
+**Entities updated:** [[ECC]], [[Affaan-Mustafa]], [[AgentShield]] (mentions: 1→2)
+**index.md updated:** Statistics (Sources 1109→1111, Entities 186→187, Concepts 178→181), Agent (99→100), GitHub (26→27)
+
+### Key Findings
+
+**Article 855 - ECC 黑客松故事：**
+1. 黑客松夺冠：2025年9月纽约，Anthropic × Forum Ventures，$15,000 奖金，8小时手搓 zenith.chat
+2. ECC 核心数据：18.2万 Stars，60 Agent，232 Skill，75 命令，1282 安全检查
+3. 安装方式：`/plugin marketplace add` + `/plugin install ecc@ecc`，勿与手动安装混用
+4. AgentShield：三 Agent 红蓝对抗（Attacker/Defender/Auditor），扫描 CLAUDE.md/MCP/Hooks/Agent定义
+5. 持续学习系统 v2：置信度机制（0.3→0.6→0.9）自动应用编码习惯，可导出分享团队
+6. AI编程趋势：核心战场从「模型能力」转向「系统集成」
+
+**Article 856 - Understand-Anything：**
+1. GitHub Trending 第一名，单日新增 5,604 Stars，总 31k+
+2. 核心命令：`/understand`（5 Agent扫描）、`/understand-dashboard`（交互图谱）、`/understand-diff`（影响分析）、`/understand-chat`（问答）
+3. 技术路线：Tree-sitter 静态解析 + LLM 语义理解，两步分开结果更可靠
+4. 图谱可提交 Git：JSON 文件团队共享，新人入职直接看图谱
+5. 支持 15+ 工具：Claude Code/Cursor/Codex/Gemini CLI 等
+
+---
 
 **Operator:** Hermes Agent (scheduled cron)
 **Source:** 微信公众号/diagram-maker Skill/智能体、MCP、Skill到底是个啥？大白话讲透.md

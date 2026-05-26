@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-25.
+Master catalog of all wiki pages. Updated on 2026-05-26.
 
 ## Statistics
 
-- Sources: 1109
-- Entities: 186
-- Concepts: 178
+- Sources: 1116
+- Entities: 190
+- Concepts: 186
 - Synthesis: 15
 
 ## Sources
@@ -166,8 +166,10 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (99篇)
+### Agent (101篇)
 
+- [[别再问要不要上AI-Agent-先问哪一步最该被替代]] — Agent落地方法论：替代动作非人、ROI量化逻辑、流程接不住问题分析
+- [[连夜打包-黑客松夺冠神作开源-ECC配置天花板]] — ECC：黑客松冠军项目，18.2万Stars，60 Agent/232 Skill/1282安全检查，持续学习系统
 - [[PDF-处理-Skill-让-Agent-真正会读会拆会抽取]] — PDF 处理 Skill：让 Agent 真正会读、会拆、会抽取 PDF
 
 - [[Honcho-AI-Agent记忆库3年打磨让Agent真正认识用户]] — Honcho：AI Agent 记忆库，3年打磨让 Agent 真正认识用户
@@ -295,8 +297,10 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 - [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT新手指南：从注册到上手只需10分钟
 
-### Claude (36篇)
+### Claude (37篇)
 
+- [[科研Skills更新-Claude-Code-Codex-小龙虾都能用]] — Scientific Agent Skills升级评测：139技能、database-lookup统一接口、四类任务实测
+- [[Text-to-CAD-AI生成3D零件开源CAD技能集]] — Text-to-CAD开源技能集：自然语言生成3D零件，build123d+OpenCascade，七大技能
 - [[让你的-Claude-Code-满血复活-Anthropic-开源官方插件]] — 让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件
 
 - [[01AI生成PPT“血与泪”的故事]] — # 01.AI生成PPT“血与泪”的故事
@@ -355,8 +359,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (26篇)
+### GitHub (27篇)
 
+- [[今天GitHub上涨疯了的开源项目-程序员都在收藏]] — Understand-Anything：GitHub Trending 第一名，单日新增 5604 Stars，代码库知识图谱工具
 - [[不要错过这10个本周火火火的-GitHub-开源项目]] — 不要错过这10个本周火火火的 GitHub 开源项目
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
 - [[llm_wiki-桌面应用实现]] — Karpathy 的知识库构想被人做成桌面应用了，已在 Github 上斩获 5.8k+ Star！
@@ -428,8 +433,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 - [[704-mmx-cli-一句话让AI助手拥有全模态能力]] — mmx-cli: 一句话让AI助手拥有全模态能力
 
-### Hermes (198篇)
+### Hermes (199篇)
 
+- [[让你的Hermes-Agent发挥更大的价值]] — Hermes Agent 五大用法：/goal元提示、看板工作流、竞品拆解、记忆Wiki、每日主动学习
 - [[团队Hermes多代理系统部署指南]] — 团队 Hermes 多代理系统部署指南：12角色专业化分工+Gateway路由+三层知识库
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
@@ -750,8 +756,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[Zero-to-CAD-cong-ling-dao-CAD-sheng-cheng-wan-ke-bian-ji-cheng-xu]] — Zero-to-CAD：从零到CAD生成百万可编辑程序
 
 
-### OpenClaw (135篇)
+### OpenClaw (136篇)
 
+- [[如何基于Openclaw-Hermes-Opencode-pi-agent搭建Deep-Research-Agent]] — Deep Research Agent搭建六步法：框架对比、Multi-Agent架构、MCP工具集成、Learning Loop
 - [[1-Python-310]] — 1. Python 3.10+
 - [[1-停掉-browse-后台进程]] — 1. 停掉 browse 后台进程
 - [[14B模型]] — 14B模型
@@ -1106,8 +1113,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 
-### WorkBuddy (35篇)
+### WorkBuddy (36篇)
 
+- [[WorkBuddy方法17-项目进度跟踪与甘特图]] — WorkBuddy方法17：甘特图自动生成，Prompt驱动项目进度跟踪
 - [[我用WorkBuddy建了一个新闻编辑部一人公司正式开张]] — 我用 WorkBuddy 建了一个新闻编辑部，一人公司正式开张！
 - [[❤️‍🔥腾讯更新密集最新版解读文章已更新在公众号置顶了httpsmpweixinqqcomsw691jJdMjjafoMLExTyw7g]] — ❤️‍🔥腾讯更新密集，最新版解读文章已更新，在公众号置顶了https://mp.weixin.qq.com/s/w691jJdMjjafoMLExTyw7g
 - [[workbuddy-4-core-techniques]] — WorkBuddy 4个核心技巧：腾讯官方亲授，效率直接拉满
@@ -1410,8 +1418,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[写个智能体Skill：refine-markdown-to-mkdocs-_-保证格式一致性的自动主题分类、要点提取与文本合并]] — 写个智能体Skill：refine-markdown-to-mkdocs  保证格式一致性的自动主题分类、要点提取与文本合并
 - [[知识管理，真正要管的是人，而不是知识]] — 一、我们管理的，从来都不是知识
 
-### 飞书 (9篇)
+### 飞书 (10篇)
 
+- [[通过飞书妙搭构建LLMWiki应用的实战指南]] — 用飞书妙搭实现Karpathy LLM Wiki思路：三层架构、Wiki自更新、企业知识管理新路径
 - [[了]] — 了
 - [[从安装到实战]] — 从安装到实战
 - [[安装飞书CLInpm-install-g-larksuitecli]] — 安装飞书CLInpm install -g @larksuite/cli

@@ -2,19 +2,19 @@
 type: entity
 name: WorkBuddy
 created: 2026-05-24
-updated: 2026-05-25
-mentions: 36
+updated: 2026-05-26
+mentions: 37
 ---
 
 # WorkBuddy
 
 **类型:** 实体 (产品/工具)
-**提及文章数:** 36
+**提及文章数:** 37
 **开发团队:** 腾讯云 CodeBuddy 团队
 
 ## 简介
 
-WorkBuddy 是腾讯云 CodeBuddy 团队推出的 AI Agent 办公工具，定位为"腾讯版 OpenClaw"。
+WorkBuddy 是腾讯云 CodeBuddy 团队推出的 AI Agent 办公工具，定位为"腾讯版 OpenClaw"。支持 Prompt 驱动的甘特图自动生成、项目进度跟踪、周报生成等办公场景。
 
 ## 4个核心特点
 
