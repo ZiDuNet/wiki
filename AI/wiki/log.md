@@ -2430,3 +2430,13 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - **Concepts updated:** [[AI编程]]
 - **index.md:** Added 2 new source entries under Agent and 微信全流程 Skill sections, Sources: 1106→1108, Entities: 183→185, Concepts: 174→176
 
+
+## 2026-05-26 — wechat-article-exporter 摄入
+
+**Operator:** Hermes Agent (手动触发)
+**Source:** GitHub/wechat-article-exporter.md
+**Time:** 2026-05-26 14:15
+**New Sources:** 1 | **Entities touched:** wechat-article-exporter
+**Concepts touched:** 微信公众号文章抓取、文章格式还原
+**Summary:** 处理 GitHub/wechat-article-exporter.md。新建 4 个页面（1 source + 1 entity + 2 concepts），更新 1 个页面（index.md）。
+新实体：wechat-article-exporter。新概念：微信公众号文章抓取、文章格式还原。

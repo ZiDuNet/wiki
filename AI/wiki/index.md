@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 ## Statistics
 
-- Sources: 1108
-- Entities: 185
-- Concepts: 176
+- Sources: 1109
+- Entities: 186
+- Concepts: 178
 - Synthesis: 15
 
 ## Sources
@@ -1423,6 +1423,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[飞书多维表格实战]] — 飞书多维表格实战
 
 - [[我的知识库-主题[这里写你的主题，比如"AI应用开发"]-目录说明raw文件夹：原始素材，AI只读不改wiki文件夹：整理后的内容，AI全权维护outputs文]]
+- [[wechat-article-exporter]] — 微信公众号文章批量下载工具，支持6种格式导出和100%样式还原
 
 ## Entities (174个)
 
@@ -1569,6 +1570,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[飞书]] (148篇)
 - [[飞书CLI]]
 
+- [[wechat-article-exporter]] — 微信公众号文章批量下载开源工具（Nuxt 3 + Vue 3）
 ## Concepts (170个)
 
 - [[AGENTS配置]]
@@ -1693,6 +1695,8 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[skill自由-三步链路流水线]] — Skill配方｜我用三个skill 实现了skill 自由
 - [[SuperPowers-规范化开发最佳实践]] — SuperPowers：规范化开发最佳实践
 
+- [[文章格式还原]] — HTML打包图片样式100%还原微信文章排版
+- [[微信公众号文章抓取]] — 利用公众号后台接口批量获取历史文章
 ## Synthesis (12个)
 
 - [[Agent架构实践]] — Agent 架构实践

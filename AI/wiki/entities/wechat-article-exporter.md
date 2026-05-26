@@ -1,37 +1,52 @@
 ---
-type: entity
-name: wechat-article-exporter
+tags: [开源项目, 微信公众号, 文章下载]
+sources: [GitHub/wechat-article-exporter.md]
 created: 2026-05-26
 updated: 2026-05-26
-mentions: 1
 ---
 
 # wechat-article-exporter
 
-**类型:** 实体（开源工具）
-**提及文章数:** 1
+开源的微信公众号文章批量下载工具。
 
-## 简介
+## 基本信息
 
-开源公众号文章批量导出工具，支持将指定公众号的全部历史文章导出为多种格式（Excel、JSON、HTML、Markdown、Text），支持选择性导出原文、阅读量、留言等信息。提供在线版和自建站点两种使用方式。
+- **GitHub:** https://github.com/wechat-article/wechat-article-exporter
+- **在线使用:** https://down.mptext.top
+- **文档站:** https://docs.mptext.top
+- **许可证:** MIT
+- **技术栈:** Nuxt 3 + Vue 3 + TypeScript + Tailwind CSS
 
-## 核心功能
+## 核心能力
 
-- **批量导出**：一次性导出公众号全部历史文章
-- **格式丰富**：Excel、JSON、HTML、Markdown、Text
-- **信息可选**：可选择是否包含原文、阅读量、留言
-- **自建站点**：可部署私有实例，不占用公共资源
+- 搜索公众号（关键字搜索）
+- 6 种导出格式：HTML / JSON / Excel / TXT / MD / DOCX
+- HTML 格式100%还原文章排版与样式
+- 缓存文章列表，减少接口请求
+- 文章过滤：作者、标题、发布时间、原创标识、所属合集
+- 合集下载、图片分享消息、视频分享消息
+- 导出评论、评论回复、阅读量、转发量（需抓包 credentials）
+- 开放 API 接口
 
-## 使用场景
+## 工作原理
 
-- 个人知识管理：快速建立公众号内容离线库
-- AI 辅助分析：结合 LLM 对文章做主题分类和优先级排序
-- 内容源评估：快速判断公众号是否值得持续关注
+利用公众号后台写文章时"搜索其他公众号文章"的功能，实现抓取指定公众号所有文章。
 
-## 相关文章
+## 部署方式
 
-- [[5分钟我要这个公众号的所有文章]] — 用 wechat-article-exporter + AI 分析的工作流
+- **在线：** 直接访问 down.mptext.top
+- **Docker：** `docker run -d -p 3000:3000 wechat-article/wechat-article-exporter`
+- **Cloudflare：** 支持部署到 Cloudflare Workers
 
-## 来源
+## 技术架构
 
-- [[5分钟我要这个公众号的所有文章]] — 介绍用该工具导出公众号文章后结合 AI 分析筛选的完整流程
+- `components/` — Vue 组件（dashboard、grid、preview、search、setting）
+- `composables/` — 组合式函数（批量下载、导出、登录、偏好设置）
+- `server/` — Nuxt 服务端 API（代理请求、Cookie 存储）
+- `store/v2/` — 文章、资源、评论、HTML 数据存储
+- `utils/download/` — 下载器核心（BaseDownloader、Exporter、ProxyManager）
+
+## 关联
+
+- [[微信公众号文章抓取]] — 该工具的核心使用场景
+- [[文章格式还原]] — HTML 格式100%还原能力
