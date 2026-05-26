@@ -2543,3 +2543,24 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 **Concepts touched:** 微信公众号文章抓取、文章格式还原
 **Summary:** 处理 GitHub/wechat-article-exporter.md。新建 4 个页面（1 source + 1 entity + 2 concepts），更新 1 个页面（index.md）。
 新实体：wechat-article-exporter。新概念：微信公众号文章抓取、文章格式还原。
+
+## 2026-05-27 00:00 — 微信同步：4篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. AI工具/一个Skill，搞定12种AI工具的提示词.md → wiki/sources/一个Skill-搞定12种AI工具的提示词.md
+2. WorkBuddy/装上这三个Skill：在WorkBuddy轻松做出有格调的PPT和配图！.md → wiki/sources/装上这三个Skill-在WorkBuddy轻松做出有格调的PPT和配图.md
+3. WorkBuddy/WorkBuddy 100种用法 #56 | "做个西游记PPT" → 15页网页演示上线，全程零操作.md → wiki/sources/WorkBuddy-100种用法-56-西游记PPT.md
+4. diagram-maker Skill/合同初审 Skill：把合同风险点标出来.md → wiki/sources/合同初审-Skill-把合同风险点标出来.md
+**Time:** 2026-05-27 00:00
+**New Sources:** 4 | **Entities touched:** prompt-master (+new), any2html (+new), info-card-designer (+new), CloudStudio (+new), contract-review-skill (+new); WorkBuddy (updated); guizang-ppt-skill (updated)
+**Concepts touched:** Prompt工程, Skill工程, 推理模型, HTML-PPT, AI办公, 自动化部署, 合同审查, 风险管控
+
+### Results
+
+- **Sources processed:** 4
+- **Categories:** AI工具 (1), WorkBuddy (2), diagram-maker Skill (1)
+- **Source pages created:** 4
+- **Entities created:** prompt-master, any2html, info-card-designer, CloudStudio, contract-review-skill
+- **Entities updated:** WorkBuddy (add any2html/info-card-designer/contract-review-skill), guizang-ppt-skill (add CloudStudio/WorkBuddy sources)
+- **index.md:** Added 4 new source entries under AI工具/WorkBuddy sections, Sources: 1116→1120, Entities: 190→195

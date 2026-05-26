@@ -43,7 +43,10 @@ updated: 2026-05-25
 - [[Skill工程]]
 - [[Claude]]
 - [[Codex]]
+- [[CloudStudio]] — 自动部署平台（文章 #56 使用）
+- [[WorkBuddy]] — 运行平台
 
 ## 数据来源
 
 - [[10.6k-Star-Claude御用PPT-Skill实测-1个命令让AI直接输出可演示页面]]
+- [[WorkBuddy-100种用法-56-西游记PPT]]

@@ -40,7 +40,10 @@ https://www.codebuddy.cn/work/
 - **多模态视频生成**：支持按文案结构规划视频片段生成，并发限制2个，需分批提交
 - **B-roll素材生成**：补充视觉素材（人物肖像、公式动画、时间流逝效果）
 - **edgeTTS集成**：支持 zh-CN-YunxiNeural 音色生成自然配音
-- **ffmpeg无缝合并**：使用 -c copy 参数无损合并视频片段，9.86x 处理速度
+- **ffmpeg 无缝合并**：使用 -c copy 参数无损合并视频片段，9.86x 处理速度
+- **any2html Skill**：复古风 HTML 信息卡片，支持竖版/横版/插图版三种输出
+- **info-card-designer Skill**：杂志风文字卡片，Hook 模式自动改写钩子句
+- **contract-review-skill**：合同初审 Skill，输出可复核风险表
 
 ## 相关实体
 

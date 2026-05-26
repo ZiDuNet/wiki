@@ -4,8 +4,8 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 ## Statistics
 
-- Sources: 1116
-- Entities: 190
+- Sources: 1120
+- Entities: 195
 - Concepts: 186
 - Synthesis: 15
 
@@ -109,6 +109,10 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[标题别再手动做PPTAI-10分钟出20页精品]] — 标题：别再手动做PPT！AI 10分钟出20页精品
 - [[MarkItDown-微软万物转Markdown]] — 107K Star 微软万物转 Markdown 工具
 - [[千问PPT-Agent实测]] — 千问 PPT Agent 实测：3 分钟出 PPT
+- [[一个Skill-搞定12种AI工具的提示词]] — prompt-master：一个Skill搞定12种AI工具的提示词，12种模板+35种错误诊断+推理模型自动识别
+- [[装上这三个Skill-在WorkBuddy轻松做出有格调的PPT和配图]] — any2html/info-card-designer/guizang-ppt-skill三款视觉Skill，覆盖信息卡片到完整PPT
+- [[WorkBuddy-100种用法-56-西游记PPT]] — 一句话→15页HTML PPT+自动部署到CloudStudio，全程零操作
+- [[合同初审-Skill-把合同风险点标出来]] — contract-review-skill：输出可复核风险表（风险项+原文位置+修改建议），不能替代律师
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
 - [[drawio-skill-ai-diagrams]] — drawio skill：让AI帮你画流程图、架构图，AI画完还能接着改
@@ -1112,6 +1116,8 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[Hermes-WebUI发布：网页端使用Hermes-AI助手]] — Hermes WebUI发布：网页端使用Hermes AI助手
 - [[Hermes-又多了一个控制台：这次更像生产级-Agent-管理后台]] — Hermes 又多了一个控制台：这次更像生产级 Agent 管理后台
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
+- [[WorkBuddy-100种用法-56-西游记PPT]] — 一句话生成15页HTML PPT，自动部署到CloudStudio公网链接
+- [[装上这三个Skill-在WorkBuddy轻松做出有格调的PPT和配图]] — any2html/info-card-designer/guizang-ppt-skill三款视觉Skill让WorkBuddy做出有格调的配图
 
 ### WorkBuddy (36篇)
 
