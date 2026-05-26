@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 ## Statistics
 
-- Sources: 1120
-- Entities: 195
-- Concepts: 186
+- Sources: 1122
+- Entities: 199
+- Concepts: 189
 - Synthesis: 15
 
 ## Sources
@@ -1161,6 +1161,12 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[workbuddy-complete-guide]] — WorkBuddy 完整使用指南：让AI真正成为你的工作搭档
 - [[workbuddy-excel-processing]] — WorkBuddy Excel处理：数据清洗和合并，一条指令搞定
 - [[WorkBuddy资料库-把AI训练成你的专属助理]] — WorkBuddy资料库：把AI训练成你的专属助理，资料库+专家/技能/自动化组合用法 (1篇)
+
+- [[零基础老师手把手教程-用-WorkBuddy-IMA-让-AI-帮你备课出题写材料]] — 零基础老师教程：用 WorkBuddy + IMA 让 AI 帮你备课、出题、写材料，5分钟安装上手
+
+### Impeccable (1篇)
+
+- [[一天一个SKILL-前端UI设计大师级SKILL-Impeccable]] — Impeccable：给 AI 注入专业设计品味的 Skill 框架，解决 AI 前端生成的"塑料感"问题
 
 
 ### acquire-codebase-knowledge (1篇)

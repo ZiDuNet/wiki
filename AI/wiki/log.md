@@ -2564,3 +2564,22 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - **Entities created:** prompt-master, any2html, info-card-designer, CloudStudio, contract-review-skill
 - **Entities updated:** WorkBuddy (add any2html/info-card-designer/contract-review-skill), guizang-ppt-skill (add CloudStudio/WorkBuddy sources)
 - **index.md:** Added 4 new source entries under AI工具/WorkBuddy sections, Sources: 1116→1120, Entities: 190→195
+
+## 2026-05-27 06:00 — 微信同步：2篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. WorkBuddy/零基础老师手把手教程（一）：用 WorkBuddy + IMA，让 AI 真正帮你备课、出题、写材料.md → wiki/sources/零基础老师手把手教程-用-WorkBuddy-IMA-让-AI-帮你备课出题写材料.md
+2. Impeccable/一天一个SKILL——还在用蓝湖/磨刀？不如用用这个前端UI设计大师级SKILL——Impeccable.md → wiki/sources/一天一个SKILL-前端UI设计大师级SKILL-Impeccable.md
+**Time:** 2026-05-27 06:00
+**New Sources:** 2 | **Entities touched:** WorkBuddy (+new), IMA (+new), Impeccable (+new), Paul Bakaus (+new)
+**Concepts touched:** AI备课 (+new), AI前端生成 (+new), 设计系统 (+new)
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** WorkBuddy (1), Impeccable (1)
+- **Source pages created:** 2
+- **Entities created:** WorkBuddy, IMA, Impeccable, Paul Bakaus
+- **Concepts created:** AI备课, AI前端生成, 设计系统
+- **index.md:** Added 2 new source entries under WorkBuddy and new Impeccable sections, Sources: 1120→1122, Entities: 195→199, Concepts: 186→189
