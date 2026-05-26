@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 ## Statistics
 
-- Sources: 1106
-- Entities: 183
-- Concepts: 174
+- Sources: 1108
+- Entities: 185
+- Concepts: 176
 - Synthesis: 15
 
 ## Sources
@@ -272,6 +272,7 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 - [[Agent替你干活的真相比你想象的简单十倍]] — Agent 替你干活的真相，比你想象的简单十倍
 - [[大明PPT-Agent-Team]] — 朕不想做PPT，于是创造了大明PPT Agent Team
 - [[35-6K-Stars-CLI-Anything-Agent-Native]] — 35.6K Stars 的 CLI-Anything 揭示了什么？Agent-Native 时代来了
+- [[deepseek-reasonix-爆火开源-deepseek-原生的终端-ai-编程agent]] — DeepSeek-Reasonix：DeepSeek 原生的终端 AI 编程 Agent，前缀缓存命中率 99.82%，Token 成本再降 80%
 
 ### Agentic Engineering (1篇)
 
@@ -1167,9 +1168,10 @@ Master catalog of all wiki pages. Updated on 2026-05-25.
 
 - [[你的-AI-skills-有多少在摸鱼？]] — 01｜事情的起因
 
-### 微信全流程 Skill (1篇)
+### 微信全流程 Skill (2篇)
 
 - [[wechat-full-skill-workflow]] — 微信全流程 Skill：选题、写作、配图、排版、发布到草稿箱
+- [[5分钟我要这个公众号的所有文章]] — 5分钟获取公众号全部文章：用 AI 做内容源筛选
 
 ### 企业应用 (3篇)
 - [[737-我来预测下一代企业数字化架构系统CLI化流程Skill化员工Agent化]] — 我来预测下一代企业数字化架构：系统CLI化、流程Skill化、员工Agent化

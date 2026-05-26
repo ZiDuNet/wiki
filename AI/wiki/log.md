@@ -2409,3 +2409,24 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - **Concepts updated:** MCP Server (add Top 10 MCP servers table)
 - **index.md:** Added 5 new source entries under AI办公/Claude/LLM-Wiki sections, Sources: 1098→1103
 
+## 2026-05-26 12:00 — 微信同步：2篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. Agent/DeepSeek-Reasonix 爆火开源，DeepSeek 原生的终端 AI 编程Agent，前缀缓存命中率99.82%，Token成本再降80%.md → wiki/sources/deepseek-reasonix-爆火开源-deepseek-原生的终端-ai-编程agent.md
+2. 微信全流程 Skill/5分钟，我要这个公众号的所有文章.md → wiki/sources/5分钟我要这个公众号的所有文章.md
+**Time:** 2026-05-26 12:00
+**New Sources:** 2 | **Entities touched:** DeepSeek (mentions: 54→55, updated)
+**Concepts touched:** Token成本优化 (new), 内容筛选 (new), 信息获取 (new), AI编程 (updated)
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** Agent (1), 微信全流程 Skill (1)
+- **Source pages created:** 2
+- **Entities created:** [[wechat-article-exporter]]
+- **Entities updated:** [[DeepSeek]]
+- **Concepts created:** [[Token成本优化]], [[内容筛选]], [[信息获取]]
+- **Concepts updated:** [[AI编程]]
+- **index.md:** Added 2 new source entries under Agent and 微信全流程 Skill sections, Sources: 1106→1108, Entities: 183→185, Concepts: 174→176
+

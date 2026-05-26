@@ -1,7 +1,7 @@
 ---
 type: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-26
 ---
 
 # AI编程
@@ -28,3 +28,4 @@ updated: 2026-05-10
 - [[别再手抄设计稿了：我做了个-Skill，把任意网站变成设计文档]]
 - [[太多-Skills-管理麻烦？-不妨试试这款开源的客户端工具]]
 - [[实操案例｜今日实操你们想要的Mck-PMO-Skill]]
+- [[deepseek-reasonix-爆火开源-deepseek-原生的终端-ai-编程agent]]

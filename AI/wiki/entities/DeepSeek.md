@@ -2,14 +2,14 @@
 type: entity
 name: DeepSeek
 created: 2026-05-10
-updated: 2026-05-10
-mentions: 54
+updated: 2026-05-26
+mentions: 55
 ---
 
 # DeepSeek
 
 **类型:** 实体
-**提及文章数:** 54
+**提及文章数:** 55
 
 ## 简介
 
@@ -75,3 +75,8 @@ V4-Flash      - AIAPIBASE=https://api.siliconflow.cn/v1
 - [[📚-目录]]
 - [[🚀 Hermes-Agent-中文新手指南-|-AI-编码助手来了！]]
 - [[🦄Hermes智能体-第5课只用一招让Hermes学会深度思考]]
+- [[deepseek-reasonix-爆火开源-deepseek-原生的终端-ai-编程agent]]
+
+## 来源
+
+- [[deepseek-reasonix-爆火开源-deepseek-原生的终端-ai-编程agent]] — DeepSeek-Reasonix：专门为 DeepSeek 前缀缓存做工程化优化的终端 AI 编程 Agent
