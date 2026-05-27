@@ -2565,6 +2565,26 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - **Entities updated:** WorkBuddy (add any2html/info-card-designer/contract-review-skill), guizang-ppt-skill (add CloudStudio/WorkBuddy sources)
 - **index.md:** Added 4 new source entries under AI工具/WorkBuddy sections, Sources: 1116→1120, Entities: 190→195
 
+## 2026-05-27 12:00 — 微信同步：2篇文章摄入
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. WorkBuddy/WorkBuddy实战：3个自动化工作流，彻底改变办公方式.md → wiki/sources/WorkBuddy实战-3个自动化工作流-彻底改变办公方式.md
+2. WorkBuddy/WorkBuddy方法20 _ 数据透视表自动生成：一句话搞定多维度汇总.md → wiki/sources/WorkBuddy方法20-数据透视表自动生成.md
+**Time:** 2026-05-27 12:00
+**New Sources:** 2 | **Entities touched:** Wayen (+new); WorkBuddy (updated)
+**Concepts touched:** 工作流自动化, 多模态生成, 团队协作, 知识管理, 数据分析, Prompt工程
+
+### Results
+
+- **Sources processed:** 2
+- **Categories:** WorkBuddy (2)
+- **Source pages created:** 2
+- **Entities created:** Wayen (AI职场提效专家)
+- **Entities updated:** WorkBuddy (mentions: 1→3, 新增工作流自动化/多模态生成/数据分析能力)
+- **Concepts used:** 工作流自动化, 多模态生成, 团队协作, 知识管理, 数据分析
+- **index.md:** Added 2 new source entries under WorkBuddy section, Sources: 1122→1124, Entities: 199→200
+
 ## 2026-05-27 06:00 — 微信同步：2篇文章摄入
 
 **Operator:** Hermes Agent (scheduled cron)

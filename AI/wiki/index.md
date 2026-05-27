@@ -4,8 +4,8 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 ## Statistics
 
-- Sources: 1122
-- Entities: 199
+- Sources: 1124
+- Entities: 200
 - Concepts: 189
 - Synthesis: 15
 
@@ -1163,6 +1163,8 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[WorkBuddy资料库-把AI训练成你的专属助理]] — WorkBuddy资料库：把AI训练成你的专属助理，资料库+专家/技能/自动化组合用法 (1篇)
 
 - [[零基础老师手把手教程-用-WorkBuddy-IMA-让-AI-帮你备课出题写材料]] — 零基础老师教程：用 WorkBuddy + IMA 让 AI 帮你备课、出题、写材料，5分钟安装上手
+- [[WorkBuddy实战-3个自动化工作流-彻底改变办公方式]] — WorkBuddy三个自动化工作流：日常办公（+2h/天）、内容创作（3h→30min）、团队协作（+50%效率）
+- [[WorkBuddy方法20-数据透视表自动生成]] — WorkBuddy方法20：一句话生成多维度数据透视表，1-2分钟完成2小时手动操作
 
 ### Impeccable (1篇)
 
