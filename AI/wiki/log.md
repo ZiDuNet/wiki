@@ -2,6 +2,42 @@
 
 Chronological record of all operations.
 
+## 2026-05-27 — 微信同步 + 3篇文章摄入 (865-867)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 办公效率/我是怎么用飞书AI助手把公司办公效率翻倍的 → wiki/sources/飞书AI助手-办公效率翻倍.md
+2. Hermes/用 Hermes Agent 搭一个 AI 销售代表，每天自动找线索、写邮件、跟进客户 → wiki/sources/Hermes-AI-SDR销售代表.md
+3. AI工作流/裁员后一人干掉15人团队：这个跨境卖家的AI工作流，我拆给你看 → wiki/sources/跨境卖家AI工作流-一人团队.md
+**Time:** 2026-05-27 18:00
+**New Sources:** 3
+**New Entities:** [[店小秘]], [[Tidio]], [[Perpetua]], [[Helium-10]]
+**New Concepts:** [[AI-SDR]], [[注意力残留]], [[自动化运营]], [[AI选品]]
+**Entities updated:** [[飞书]], [[OpenClaw]], [[Hermes-Agent]], [[Notion]], [[Supabase]]
+**index.md updated:** Statistics (Sources 1124→1127, Entities 200→205, Concepts 189→193), 办公效率 (1→2), Hermes (199→200), AI工作流 (新建), 飞书 (10→11)
+
+### Key Findings
+
+**Article 865 - 飞书AI助手:**
+1. 痛点：七八个办公系统来回切换，每次损失15秒注意力恢复时间，10人团队每天浪费50分钟
+2. 解法：用 OpenClaw 搭建飞书 AI 机器人，以"团队成员"身份接入，AI 作为中间人连接各系统
+3. 六大场景：文档助手/日程管理/数据查询/任务追踪/消息推送/群聊值班
+4. 门槛低：从零到跑通第一个功能，半天就够
+
+**Article 866 - Hermes AI SDR:**
+1. AI SDR 自动研究潜在客户、写个性化邮件、筛选入站线索、更新 CRM、安排跟进
+2. 效率对比：人类 SDR 每天研究 20-30 个；AI SDR 可同时研究几百个
+3. 四大坑：邮件进垃圾箱/忘记退订/过度承诺/成本失控
+4. Smart Routing：Gemini Flash 做研究（便宜），Claude/GPT 写邮件（质量高）
+
+**Article 867 - 跨境卖家 AI 工作流:**
+1. 案例：15人团队裁到1人，月流水 300万→120万，但净利润率 8%→15%
+2. 五环节 AI 化：选品(3→0人)/文案(2→0人)/客服(5→1人)/广告(2→0人)/分析(1→0人)
+3. AI选品命中率 93% vs 人工 30%；AI卖家 vs 非AI月利润差距 7倍
+4. 四大爆发赛道：家居智能/绿色储能/健康美妆/银发经济
+
+---
+
 ## 2026-05-26 — 7篇文章摄入 (847-854)
 
 **Operator:** Hermes Agent (scheduled cron)

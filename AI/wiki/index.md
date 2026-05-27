@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 ## Statistics
 
-- Sources: 1124
-- Entities: 200
-- Concepts: 189
+- Sources: 1127
+- Entities: 205
+- Concepts: 193
 - Synthesis: 15
 
 ## Sources
@@ -441,6 +441,7 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 - [[让你的Hermes-Agent发挥更大的价值]] — Hermes Agent 五大用法：/goal元提示、看板工作流、竞品拆解、记忆Wiki、每日主动学习
 - [[团队Hermes多代理系统部署指南]] — 团队 Hermes 多代理系统部署指南：12角色专业化分工+Gateway路由+三层知识库
+- [[Hermes-AI-SDR销售代表]] — Hermes Agent 搭建 AI SDR 自动销售代表：每天自动找线索、写邮件、跟进客户
 - [[Hermes-Curator实战]] — Hermes Curator：Skills 从混乱到智慧
 - [[把Hermes-Agent装进微信]] — 扫码 10 秒拥有专属 AI 助理
 - [[hermes-obsidian-auto-knowledge-base]] — Hermes+Obsidian自动化知识库：Web Clipper + BrowserOS 定时入库全流程
@@ -1090,6 +1091,10 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 - [[我在-Tabbit-浏览器里做了一个调研神器从此写文章快了一倍]] — 我在 Tabbit 浏览器里做了一个调研神器，从此写文章快了一倍
 
+### AI工作流 (1篇)
+
+- [[跨境卖家AI工作流-一人团队]] — 15人团队裁到1人：选品/文案/客服/广告/分析五环节全AI化，净利润率8%→15%
+
 ### Vibe Coding (6篇)
 
 - [[Claude-Code推荐]] — Claude Code（推荐）
@@ -1209,9 +1214,10 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 
 - [[开源剪映小助手capcutmatev500发布]] — 开源剪映小助手(capcut-mate)v5.0.0发布
 
-### 办公效率 (1篇)
+### 办公效率 (2篇)
 
 - [[八个工具用下来他终于承认效率没变]] — 八个工具用下来，他终于承认效率没变
+- [[飞书AI助手-办公效率翻倍]] — 用飞书+AI助手打通OA/CRM/ERP/邮箱/IM六大场景，效率翻倍，减少注意力残留
 
 ### 反模式先行 (1篇)
 
@@ -1432,7 +1438,7 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[写个智能体Skill：refine-markdown-to-mkdocs-_-保证格式一致性的自动主题分类、要点提取与文本合并]] — 写个智能体Skill：refine-markdown-to-mkdocs  保证格式一致性的自动主题分类、要点提取与文本合并
 - [[知识管理，真正要管的是人，而不是知识]] — 一、我们管理的，从来都不是知识
 
-### 飞书 (10篇)
+### 飞书 (11篇)
 
 - [[通过飞书妙搭构建LLMWiki应用的实战指南]] — 用飞书妙搭实现Karpathy LLM Wiki思路：三层架构、Wiki自更新、企业知识管理新路径
 - [[了]] — 了
