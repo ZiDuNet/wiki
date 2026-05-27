@@ -2,6 +2,92 @@
 
 Chronological record of all operations.
 
+## 2026-05-28 — PPT Master 教程文章摄入 (869)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/PPT Master/PPT Master 教程：PDF 一键转可编辑 PPT，手把手带你从安装到出片.md
+**Time:** 2026-05-28 12:00
+**New Sources:** 1
+**New Entities:** [[hugohe3]]
+**New Concepts:** [[PDF转PPTX]], [[SVG转PPTX]]
+**Entities updated:** [[ppt-master]], [[PPT制作]]
+**index.md updated:** Statistics (Sources 1128→1129, Entities 206→213, Concepts 195→198), AI办公 (17→18)
+
+### Key Findings
+
+**Article 869 - PPT Master 教程 PDF转PPTX:**
+
+1. **实战案例**：94页扫描版PDF《2023信息技术宝典手册（Python版）》→ 14页可编辑PPT
+2. **能力边界**：
+   - 擅长：Word/Markdown→PPT、网页链接→PPT、可搜索文字PDF→PPT、多格式混输入
+   - 不擅长：扫描版PDF→PPT（需OCR）、复杂数据图表、独立运行（需AI IDE）
+3. **SVG编写要点**：XML转义（<→<）、中文字体指定、数字前缀排序
+4. **AI校验流程**：逐页核查知识点、联网验证细节、Python实际运行验证
+5. **适合人群**：教师（教案转课件）、职场人（方案转演示）、学生（论文转答辩）
+
+### Entities Created
+
+| 实体 | 说明 |
+|-----|------|
+| hugohe3 | PPT Master项目作者，GitHub开源开发者 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| PDF转PPTX | PDF到PPTX的转换工作流，区分可搜索文字PDF和扫描版PDF |
+| SVG转PPTX | SVG作为中间格式转DrawingML，核心技术管线 |
+
+---
+
+## 2026-05-28 — Agent时代商业重构文章摄入 (868)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/Agent/1400亿Agent入场，"流量"这条护城河要塌了.md
+**Time:** 2026-05-28 08:00
+**New Sources:** 1
+**New Entities:** [[蚂蚁集团]], [[韩歆毅]], [[Google]], [[OpenAI]], [[Stripe]], [[Visa]], [[Mastercard]], [[支付宝]]
+**New Concepts:** [[Agent时代]], [[智能体生态]], [[A2A协议]], [[ACP协议]], [[AI支付]]
+**index.md updated:** Statistics (Sources 1127→1128, Entities 205→213, Concepts 193→198), Agent (101→102)
+
+### Key Findings
+
+**Article 868 - 1400亿Agent入场：**
+
+1. **核心判断**：蚂蚁集团CEO韩歆毅提出三大判断——流量逻辑失效/信任逻辑崛起/Agent重构商业决策权
+2. **规模预测**：中国14亿人，但Agent可能会有1400亿个
+3. **三重范式重构**：
+   - "人找服务" → "服务找人"
+   - "商品交易、服务交易" → "任务交易"
+   - "双边市场" → "多边网络"
+4. **全球共识**：Google A2A协议、OpenAI/Stripe ACP协议、Visa Intelligent Commerce、Mastercard Agent Pay、支付宝ACT协议均指向智能体生态需要信任机制
+5. **AI支付两大变革**：执行载体从人变成Agent（可追溯可审计）、价值载体从法定货币扩展到Token
+
+### Entities Created
+
+| 实体 | 说明 |
+|-----|------|
+| 蚂蚁集团 | 金融科技公司，提出Agent时代三大判断 |
+| 韩歆毅 | 蚂蚁集团CEO，演讲核心人物 |
+| Google | 推出A2A协议，搭建跨系统智能体协作网络 |
+| OpenAI | 与Stripe推出ACP协议，把ChatGPT升级为交易入口 |
+| Stripe | 与OpenAI合作ACP协议，补齐商家侧交易闭环 |
+| Visa | 推出Intelligent Commerce，让Agent安全交易 |
+| Mastercard | 推出Agent Pay，提供可信支付基础设施 |
+| 支付宝 | Agent时代三层定位：信任层/连接器/赋能器 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| Agent时代 | 1400亿Agent参与商业链路的时代 |
+| 智能体生态 | Agent数量规模、协同能力、网络化协作效应构成的新护城河 |
+| A2A协议 | Google推出的Agent-to-Agent协议 |
+| ACP协议 | OpenAI/Stripe推出的智能体电商协议 |
+| AI支付 | Agent时代支付从工具升级为智能体商业生态基础设施 |
+
+---
+
 ## 2026-05-27 — 微信同步 + 3篇文章摄入 (865-867)
 
 **Operator:** Hermes Agent (scheduled cron)

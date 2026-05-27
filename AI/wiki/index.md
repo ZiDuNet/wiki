@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-26.
+Master catalog of all wiki pages. Updated on 2026-05-28.
 
 ## Statistics
 
-- Sources: 1127
-- Entities: 205
-- Concepts: 193
+- Sources: 1128
+- Entities: 206
+- Concepts: 195
 - Synthesis: 15
 
 ## Sources
@@ -91,6 +91,7 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[免费-AI视频生成实战-30分钟用WorkBuddy做出爆款书籍带货视频-0门槛上手]] — 用WorkBuddy生成书籍带货视频完整SOP：book-viral-script文案+多模态视频+edgeTTS配音+ffmpeg剪辑
 - [[一句话生成PPT-已经能用了-html-ppt-skill实测指南]] — html-ppt-skill实测：36套主题+31种布局+14套deck模板，HTML格式PPT生成技能
 - [[ppt-master-AI-造-PPT的正确姿势]] — PPT Master评测：19,747 stars，生成原生DrawingML可编辑PPTX，v2.8.0 Live Preview进主流程
+- [[PPT-Master教程-PDF一键转可编辑PPT]] — PPT Master实战教程：94页扫描版PDF→14页可编辑PPT，SVG编写要点，AI校验全流程
 
 ### AI大神 (2篇)
 
@@ -170,8 +171,9 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (101篇)
+### Agent (102篇)
 
+- [[1400亿Agent入场-流量护城河要塌了]] — 蚂蚁集团CEO韩歆毅：流量逻辑失效，信任逻辑崛起，1400亿Agent重构商业
 - [[别再问要不要上AI-Agent-先问哪一步最该被替代]] — Agent落地方法论：替代动作非人、ROI量化逻辑、流程接不住问题分析
 - [[连夜打包-黑客松夺冠神作开源-ECC配置天花板]] — ECC：黑客松冠军项目，18.2万Stars，60 Agent/232 Skill/1282安全检查，持续学习系统
 - [[PDF-处理-Skill-让-Agent-真正会读会拆会抽取]] — PDF 处理 Skill：让 Agent 真正会读、会拆、会抽取 PDF
@@ -2808,6 +2810,7 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[Hermes.md]] — type: entity
 - [[Honcho.md]] — type: entity
 - [[Horizon.md]] — tags: [entity, 开源项目, AI新闻, 信息流]
+- [[hugohe3.md]] — type: developer
 - [[html-ppt-skill.md]] — type: project
 - [[JVS-Claw.md]] — tags: [entity, product]
 - [[Karpathy.md]] — tags: [entity, person, AI大神]
@@ -3030,6 +3033,7 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[Obsidian知识库.md]] — type: concept
 - [[OCR.md]] — type: concept
 - [[OpAgent.md]] — type: concept
+- [[PDF转PPTX.md]] — type: concept
 - [[PPT设计.md]] — type: concept
 - [[PPT未来是HTML.md]] — tags: [concept]
 - [[PPT制作.md]] — type: concept
@@ -3056,6 +3060,7 @@ Master catalog of all wiki pages. Updated on 2026-05-26.
 - [[Sub-Agent.md]] — tags: [concept, 架构模式]
 - [[SubAgent.md]] — type: concept
 - [[SVG绘图.md]] — type: concept
+- [[SVG转PPTX.md]] — type: concept
 - [[TDD.md]] — type: concept
 - [[Token优化.md]] — tags: [concept, 优化策略]
 - [[Vibe-Coding.md]] — type: concept

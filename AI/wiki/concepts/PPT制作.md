@@ -55,7 +55,7 @@ AI 时代 PPT 的未来形态可能是 HTML。通过 [[html-ppt-skill]] 等工�
 
 ## Related Concepts
 
-[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[Agent开发]] [[MCP协议]] [[AI编程]] [[内容创作]] [[数据可视化]]
+[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[Agent开发]] [[MCP协议]] [[AI编程]] [[内容创作]] [[数据可视化]] [[PDF转PPTX]] [[SVG转PPTX]]
 
 ## Mentioned In
 
@@ -67,3 +67,4 @@ AI 时代 PPT 的未来形态可能是 HTML。通过 [[html-ppt-skill]] 等工�
 - [[假期结束，打工人上线：5-个做-PPT-的-AI-工具skill，按场景选就够了]] — 5 个 PPT AI 工具按场景选择
 - [[分享6个宝藏Skills]] — 宝藏 Skills 推荐
 - [[告别AI-PPT1.0，带你沉浸式体验AI-PPT2.0的科技感，进入万物皆可PPT的时代]] — AI PPT 2.0 体验
+- [[PPT-Master教程-PDF一键转可编辑PPT]] — PDF 一键转可编辑 PPT 实战教程

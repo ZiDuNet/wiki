@@ -38,11 +38,11 @@ updated: 2026-05-25
 
 ## 相关实体
 
-[[Claude-Code]] [[Cursor]] [[html-ppt-skill]] [[GitHub]] [[CodeBuddy]] [[OpenClaw]] [[VS-Code-Copilot]] [[DrawingML]]
+[[Claude-Code]] [[Cursor]] [[html-ppt-skill]] [[GitHub]] [[CodeBuddy]] [[OpenClaw]] [[VS-Code-Copilot]] [[DrawingML]] [[hugohe3]]
 
 ## 相关概念
 
-[[Harness-Engineering]] [[PPT制作]] [[AI办公]] [[AI生成PPT]] [[DrawingML]] [[GitHub开源项目]] [[Agent-Teams]]
+[[Harness-Engineering]] [[PPT制作]] [[AI办公]] [[AI生成PPT]] [[DrawingML]] [[GitHub开源项目]] [[Agent-Teams]] [[PDF转PPTX]] [[SVG转PPTX]]
 
 ## Mentioned In
 
@@ -50,6 +50,7 @@ updated: 2026-05-25
 - [[Skill配方｜我终于找到了好用的PPT工具，把已有方案内容自动生成专业可编辑PPTX]] — Skill配方｜我终于找到了好用的PPT工具，把已有方案内容自动生成专业可编辑PPTX
 - [[假期结束，打工人上线：5-个做-PPT-的-AI-工具skill，按场景选就够了]] — 假期结束，打工人上线：5 个做 PPT 的 AI 工具skill，按场景选就够了
 - [[ppt-master-AI-造-PPT的正确姿势]] — 产品评测：AI 造 PPT 的正确姿势
+- [[PPT-Master教程-PDF一键转可编辑PPT]] — 实战教程：PDF 一键转可编辑 PPT
 
 ## 相关链接
 
