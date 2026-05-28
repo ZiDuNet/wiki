@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 
 ## Statistics
 
-- Sources: 1128
+- Sources: 1130
 - Entities: 206
-- Concepts: 195
+- Concepts: 199
 - Synthesis: 15
 
 ## Sources
@@ -675,6 +675,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[装了-Hermes-却只当聊天框用？这-15-个功能你大概率没碰过]] — 装了 Hermes 却只当聊天框用？这 15 个功能你大概率没碰过
 - [[装完-Hermes-之后如何提升使用能力？]] — 装完 Hermes 之后如何提升使用能力？
 - [[Hermes-Agent-2026-年-5-月必装的-10-大神级插件分享]] — 2026 年 5 月必装的 10 大神级插件分享
+- [[45个Hermes-Agent-OpenClaw自动化案例（上）]] — 45个Hermes Agent / OpenClaw自动化案例（上）：内容创作、邮件沟通、信息研究等45个场景的Hermes实现方案
 
 ### JVS Claw (1篇)
 
@@ -904,6 +905,8 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[别乱装！OpenClaw-53个官方技能安全清单]] — 别乱装！OpenClaw 53个官方技能安全清单
 
 - [[715-OpenClaw和Hermes直接画CAD一天25kStartext-to-cad开源了]] — OpenClaw 和 Hermes直接画CAD，一天2.5k Star — text-to-cad开源了
+- [[synthesize-research-Skill全文中文版]] — `synthesize-research` Skill中文版：Anthropic官方用户研究综合工具，从访谈/问卷/反馈中提取结构化发现
+
 ### PPT Master (6篇)
 
 - [[PPT-Master-AI能将任何文档都转成本地可编辑的PPT]] — PPT Master — AI能将任何文档都转成本地可编辑的PPT

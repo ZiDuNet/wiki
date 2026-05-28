@@ -2725,3 +2725,50 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - **Entities created:** WorkBuddy, IMA, Impeccable, Paul Bakaus
 - **Concepts created:** AI备课, AI前端生成, 设计系统
 - **index.md:** Added 2 new source entries under WorkBuddy and new Impeccable sections, Sources: 1120→1122, Entities: 195→199, Concepts: 186→189
+
+## 2026-05-28 — 45个Hermes Agent案例 & synthesize-research Skill 摄入 (870-871)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/OpenClaw/45个Hermes Agent _ OpenClaw自动化案例（上）.md; 微信公众号/SkillManager/`synthesize-research` Skill 全文中文版.md
+**Time:** 2026-05-28 12:01
+**New Sources:** 2
+**New Entities:** (none — entities already exist)
+**New Concepts:** [[工作流自动化]], [[定性研究]], [[定量研究]], [[用户分群]]
+**Entities updated:** [[Hermes-Agent]], [[OpenClaw]], [[Skill]], [[定时任务]]
+**index.md updated:** Statistics (Sources 1129→1130, Concepts 197→199), Hermes Agent section (+1 entry), OpenClaw section (+1 entry)
+
+### Key Findings
+
+**Article 870 - 45个Hermes Agent / OpenClaw自动化案例（上）:**
+
+1. **核心定位**：Hermes/OpenClaw 的核心优势是"让 Agent 在机器上持续运行，自动完成任务"
+2. **45个场景覆盖**：内容创作(01-10)、邮件沟通(11-20)、信息研究(21-30)、日程任务(31-40)、文件数据(41-45)
+3. **自然语言驱动**：cron 设置、内容日历、跟进提醒均通过自然语言描述即可实现
+4. **Skill 复用机制**：工作流通过 Skill 保存，一次配置多次触发
+5. **工具链整合**：Tavily API + 飞书 Bot + MEMORY.md + Skills Hub 形成完整自动化生态
+
+**Article 871 - synthesize-research Skill 全文中文版:**
+
+1. **方法论完整**：Thematic Analysis（六步）、Affinity Mapping（五步）、Triangulation（三角验证）
+2. **定性→定量闭环**：访谈产生假设 → 问卷验证规模 → 再次定性深挖
+3. **5-8条强发现**：克制综合冲动，高频×高影响优先排序
+4. **矛盾即信号**：不同来源讲不同故事时，差异揭示用户分群
+5. **可执行建议**：「在设置流程中加入进度指示器」而非「改进 onboarding」
+
+### Entities Created
+
+(none — all entities already existed in wiki)
+
+### Concepts Created
+
+| 概念 | 来源文章 | 说明 |
+|------|---------|------|
+| [[工作流自动化]] | 870 | 45个场景的核心概念 |
+| [[定性研究]] | 871 | 用户研究方法论基础 |
+| [[定量研究]] | 871 | 与定性互补的验证方法 |
+| [[用户分群]] | 871 | 基于行为的用户分类 |
+
+### Source Pages Created
+
+- `wiki/sources/45个Hermes-Agent-OpenClaw自动化案例（上）.md`
+- `wiki/sources/synthesize-research-Skill全文中文版.md`
