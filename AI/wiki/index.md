@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-28.
+Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇).
 
 ## Statistics
 
-- Sources: 1130
-- Entities: 206
-- Concepts: 199
+- Sources: 1135
+- Entities: 210
+- Concepts: 208
 - Synthesis: 15
 
 ## Sources
@@ -33,7 +33,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板]] — 智能体搭建 如何用OpenClaw搭建你的“一人公司”（附完整配置模板）
 - [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]] — 给你的 Hermes & OpenClaw 安装这个工具，能让 Token 消耗立省60%
 
-### AI Coding (10篇)
+### AI Coding (11篇)
 
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
@@ -45,6 +45,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[把代码库变成可交互知识图谱]] — Understand-Anything：多代理管道分析项目，构建知识图谱
 - [[给AI提前做功课的代码知识图谱]] — codegraph：MCP Server 形式的代码知识图谱
 - [[内置IDE能力的终端AI编程助手]] — oh-my-pi：终端 AI 编程助手，32 工具 40+ Provider
+- [[别让-AI-写出来的网站死在-localhost给小白的上线指南]] — 别让 AI 写出来的网站，死在 localhost：给小白的上线指南
 
 ### ComfyUI (1篇)
 
@@ -420,6 +421,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[厌烦了理论给你Harness真正的工程实践]] — 厌烦了理论，给你Harness真正的工程实践
 - [[从零设计生产级MultiAgentHarness架构评估记忆成本与MCP工具接入全拆解]] — 从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解
 
+- [[Claude-code使用笔记怎样用MCPSkillHarness搭建一个AI公司]] — Claude Code不是聊天框而是AI操作系统，Skill=技能手册，MCP=工具连接器，Harness=项目经理
 ### Harness Engineering (2篇)
 
 - [[fireworks-tech-graph-skill]] — fireworks-tech-graph Skill：一句话画架构图，吊打mermaid和draw.io
@@ -540,6 +542,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[hermes-hyperframes-全攻略-html-直出视频黑科技]] — Hermes HyperFrames 全攻略：HTML 直出视频黑科技
 - [[HeyGen-HyperFrames-15K-Star]] — HeyGen 开源 HyperFrames：让AI用HTML生成视频
 - [[hermes-kanban-解析与-agent-协作模式对比分析]] — Hermes Kanban 解析：与「Agent 协作模式全景解析」的对比分析
+- [[彻底告别HeyGen这个开源数字人方案一口气支持中英日三国语言]] — 彻底告别HeyGen！LongCat-Video-Avatar 1.5 MIT开源支持中英日三国语言
 - [[hermes-v0-13-0-kanban-和-goal-说一句话帮你组个小团队]] — Hermes v0.13.0：Kanban 和 /goal，说一句话帮你组个小团队
 - [[hermes-的-118-个-skill-当-agent-的能力变成了一个文本文件]] — Hermes 的 118 个 Skill：当 Agent 的能力变成了一个文本文件
 - [[hermesteamagentsmdrosterhermesorchestratorplansroutesapprovessynthesizesalanrese]] — ~/.hermes/team-agents.md## roster- hermes (orchestrator): plans, routes, approves, synthesizes- alan (research): source-first, skeptical, uncertainty-tagged- mira (writer): clarity, structure, audience-aware- turing (engineer): implementation, tests, reproducibility## when to use which profile- starting a new project → hermes (scopes and decomposes)- validating a claim → alan (source check, uncertainty tag)- drafting anything external-facing → mira (audience-first)- writing or debugging code → turing (test-first)## handoff rules- alan → mira: ranked claims with source urls. no raw transcripts.- mira → hermes: drafted section + change log. not a finished article.- turing → hermes: feature branch + passing tests + diff summary. not a merge.- hermes → any: scoped task with acceptance criteria and failure action.## good output per profile- alan: every claim has a source url and a confidence tag.- mira: every section has a named audience and a clear thesis.- turing: every change has a passing test and a reproducible diff.- hermes: every synthesis names the contributors and the open questions.## policy ceilings- alan: read-only outside research/- mira: read research/, write drafts/- turing: read repo, write feature branch, run sandboxed tests- hermes: only profile allowed to approve merges, widen permissions, or spend above budget## cron schedule(edit weekly; stagger to avoid 3am collisions)- mon 6am — alan: weekly research digest- tue 6am — mira: draft refresh from alan's digest- wed 6am — turing: test sweep + flaky test report- thu 6am — hermes: weekly synthesis + handoff audit
@@ -754,6 +757,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[Obsidian-Claudian-飞书CLI-知识管理王炸组合]] — Obsidian × Claudian × 飞书CLI = 知识管理王炸组合，我的第二大脑升级之路
 - [[kai-yuan-xiang-mu-84k-stars-llm-wiki-zi-wo-gou-jian-de-ai-ge-ren-zhi-shi-ku]] — LLM Wiki：8.4K Stars！一个能自我构建的AI个人知识库，超越Obsidian
 - [[Obsidian-guan-fang-tong-bu-gui-zai-NAS-shang-zi-jian-fu-wu-qi-duo-duan-bi-ji-wan-mei-tong-bu]] — Obsidian官方同步贵？在NAS上自建服务器，实现多端笔记完美同步
+- [[我把整个-AI-工作流搬到了离线环境Obsidian-LM-Studio-本地大模型]] — 把整个AI工作流搬到离线环境：Obsidian + LM Studio + 本地大模型
 - [[Hermes-Obsidian-LLM-Wiki-da-jian-ben-di-zhi-shi-ku]] — Hermes+Obsidian+LLM Wiki搭建本地知识库
 - [[obsidian-追问自己的知识库]] — Obsidian追问自己的知识库：别再收藏吃灰
 ### Zero-to-CAD (4篇)
@@ -1401,6 +1405,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[项目体验]] — 项目体验
 - [[别再手动整理文章了-用-AIWiki-把链接变成可复用知识库]] — 别再手动整理文章了！用 AIWiki 把链接变成可复用知识库
 
+- [[Karpathy-知识库构建40-万词的-LLM-编译之道]] — Karpathy用LLM搭建100篇文章40万词个人知识库，核心理念：知识编译而非手动编辑
 ### 研究报告 (1篇)
 
 - [[深度报告-_-Hermes-Agent：会自我进化的开源AI-Agent]] — Hermes Agent 横纵分析报告
@@ -1471,6 +1476,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[Browser-Use]] — AI 浏览器自动化
 - [[Bolt]] (2篇)
 - [[B站]] (11篇)
+- [[宝塔面板]] — 宝塔面板：Linux服务器Web管理面板，一键部署网站/Nginx/HTTPS
 - [[CC-Switch]]
 - [[CDP-Bridge-MCP]]
 - [[ChatGPT]] (40篇)
@@ -1520,8 +1526,10 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[LLM-Wiki]]
 - [[LangChain]] (13篇)
 - [[Llama]] (6篇)
+- [[LongCat-Video-Avatar]] — 美团LongCat数字人Avatar方案，MIT开源支持中英日
 - [[lenny-skills]] — 86 个产品管理专属 Skills
 - [[LoRA]] (4篇)
+- [[LM-Studio]] — LM Studio：本地大模型运行平台，支持GGUF格式模型文件
 - [[Lovable]] (3篇)
 - [[MCP]]
 - [[Markdown]]
@@ -1530,6 +1538,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[Midjourney]] (7篇)
 - [[MiniMax]]
 - [[Molili-Claw]]
+- [[美团LongCat团队]] — 美团LongCat团队，开源LongCat-Video-Avatar数字人方案
 - [[Multica]]
 - [[Next.js]] (12篇)
 - [[Node.js]] (48篇)
@@ -1619,20 +1628,26 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[Agent架构]] (6篇)
 - [[Agent路由]]
 - [[Agent-Harness]] — Agent 执行环境问题：让协作方式更稳而非让模型更聪明 (1篇)
+- [[AI操作系统]] — AI操作系统：Claude Code作为AI员工运行的操作系统类比
 - [[CICD]] (17篇)
 - [[Context上下文]]
 - [[Cron定时任务]]
+- [[唇同步]] — 唇同步：数字人视频关键技术，Whisper-Large音频驱动唇型
 - [[DevOps]] (8篇)
 - [[Fallback模型]]
 - [[Function-Calling]] (14篇)
 - [[GitHub开源项目]]
 - [[Harness-Engineering]]
 - [[Harness框架]]
+- [[知识编译]] — 知识编译：Karpathy的LLM Wiki核心理念，LLM持续编辑维护知识
 - [[Kanban看板]]
 - [[Learning-Loop]]
 - [[MCP协议]]
+- [[开源视频Avatar]] — 开源视频Avatar：LongCat-Video-Avatar等开源唇同步视频方案
 - [[Mac本地推理]]
+- [[离线AI工作流]] — 离线AI工作流：Obsidian + LM Studio + 本地LLM插件的离线AI系统
 - [[Multi-Agent]] (129篇)
+- [[多项目隔离]] — 多项目隔离：Claude Code中不同项目上下文互相不污染 (1篇)
 - [[PPT制作]]
 - [[PPT设计]] (3篇)
 - [[Profile系统]]
@@ -1640,6 +1655,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[Prompt工程]] (16篇)
 - [[RAG]] (10篇)
 - [[RAG检索增强]]
+- [[数字人]] — 数字人：AI视频Avatar，唇同步+身份一致性，开源替代HeyGen
 - [[Gateway路由]] — Hermes 多代理路由系统
 - [[SSH隧道]] — 零侵入运维通信技术
 - [[SOP]] (28篇)
@@ -1647,6 +1663,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28.
 - [[SVG绘图]]
 - [[Self-Refinement]]
 - [[Skill-Architect]]
+- [[Skill系统]] — Skill系统：AI员工技能手册，含知识层+流程层+工具调用层
 - [[Skills技能系统]]
 - [[Skill开发]]
 - [[Skill管理]]

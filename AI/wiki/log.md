@@ -2772,3 +2772,65 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 
 - `wiki/sources/45个Hermes-Agent-OpenClaw自动化案例（上）.md`
 - `wiki/sources/synthesize-research-Skill全文中文版.md`
+
+## 2026-05-28 — 微信公众号同步摄入 6 篇新文章
+
+**Operator:** Hermes Agent (scheduled cron)
+**Time:** 2026-05-28 18:00
+**New Sources:** 5
+**New Entities:** [[LM-Studio]], [[宝塔面板]], [[LongCat-Video-Avatar]], [[美团LongCat团队]]
+**New Concepts:** [[AI操作系统]], [[Skill系统]], [[知识编译]], [[唇同步]], [[数字人]], [[多项目隔离]], [[离线AI工作流]], [[开源视频Avatar]]
+**index.md updated:** +4 Sources (HeyGen数字人、Obsidian离线AI、Karpathy知识编译、Claude Code Harness), +4 Entities, +8 Concepts
+
+### Key Findings
+
+**Article A — Obsidian + LM Studio 离线AI工作流:**
+- 技术栈：Obsidian + LM Studio + 本地LLM插件(Copilot/Text Generator/Smart Connections)
+- 核心优势：隐私保护、断网可用、成本可控（无API按token计费）
+- 支持模型：Qwen2.5-7B/Llama-3.1-8B日常对话，CodeQwen/DeepSeek-Coder代码辅助，Phi-3-mini轻量场景
+- 本地API端口 localhost:1234 与 Obsidian 插件通信
+
+**Article B — AI网站上线指南:**
+- 问题根源：localhost 只能本机访问，无法公网访问
+- 解决方案：域名 + 服务器 + 宝塔面板 + DNS + HTTPS
+- 涉及技术：Nginx/Caddy反向代理、SSL证书、域名解析
+
+**Article C — Karpathy LLM Wiki 知识编译:**
+- 规模：100篇文章40万词个人知识库
+- 五层架构：输入层(raw/)→编译层(Wiki生成)→存储层(.md)→查询层(Q/A)→输出层(多格式)
+- 核心理念：LLM编译而非手动编辑、知识是活数据不是死文档
+
+**Article D — LongCat-Video-Avatar 开源数字人:**
+- 美团LongCat团队开源方案，MIT许可
+- 核心升级：Whisper-Large音频编码(DMD2 8步蒸馏+INT8量化)
+- 支持：中文英语日语、身份一致性不漂移、批量内容生产
+
+**Article E — Claude Code + Harness 搭建AI公司:**
+- Claude Code = AI操作系统，不是聊天框
+- Skill = 员工技能手册（三层：知识层+流程层+工具调用层）
+- MCP = 外部工具连接器
+- Harness = 项目经理（决定谁干什么）
+- 核心价值：Skill会积累，越用越懂用户
+
+### Entities Created
+
+| 实体 | 说明 |
+|---|---|
+| LM-Studio | 本地大模型运行平台，支持GGUF格式 |
+| 宝塔面板 | Linux服务器Web管理面板 |
+| LongCat-Video-Avatar | 美团开源数字人Avatar方案 |
+| 美团LongCat团队 | LongCat-Video-Avatar开发团队 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|---|---|
+| AI操作系统 | Claude Code作为AI员工运行的操作系统 |
+| Skill系统 | AI员工技能手册三层模型 |
+| 知识编译 | Karpathy的LLM Wiki核心理念 |
+| 唇同步 | 数字人视频关键技术 |
+| 数字人 | AI视频Avatar，开源替代HeyGen |
+| 多项目隔离 | Claude Code不同项目上下文不污染 |
+| 离线AI工作流 | Obsidian + LM Studio本地AI系统 |
+| 开源视频Avatar | LongCat等开源唇同步视频方案 |
+
