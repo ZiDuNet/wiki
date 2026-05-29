@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-29 (Superpowers + WeChat Radar 摄入).
+Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新文章摄入).
 
 ## Statistics
 
-- Sources: 1147
-- Entities: 222
-- Concepts: 221
+- Sources: 1151
+- Entities: 226
+- Concepts: 226
 - Synthesis: 15
 
 ## Sources
@@ -36,7 +36,7 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Superpowers + WeChat Ra
 ### AI Coding (13篇)
 
 - [[browser-harness-592-lines-ai-browser-control]] — Browser Harness：592 行代码让 AI 操控浏览器，出 Bug 还能自愈
-- [[ai帮我写专利交底书这个716星技能做到了]] — patent-disclosure-skill：716星，AI全自动专利技术交底书
+- [[patent-disclosure-skill-716星专利交底书]] — patent-disclosure-skill：716星，AI全自动专利技术交底书
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
 - [[扔掉PPT用这44个HTML动画模板让AI帮你做科普视频]] — 扔掉PPT，用这44个HTML动画模板，让AI帮你做科普视频
@@ -48,6 +48,7 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Superpowers + WeChat Ra
 - [[给AI提前做功课的代码知识图谱]] — codegraph：MCP Server 形式的代码知识图谱
 - [[内置IDE能力的终端AI编程助手]] — oh-my-pi：终端 AI 编程助手，32 工具 40+ Provider
 - [[别让-AI-写出来的网站死在-localhost给小白的上线指南]] — 别让 AI 写出来的网站，死在 localhost：给小白的上线指南
+- [[bettafish-舆情系统-免费开源方案]] — BettaFish：开源免费舆情系统，多 Agent 协作分析风评与情绪
 
 ### ComfyUI (1篇)
 
@@ -1017,6 +1018,7 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Superpowers + WeChat Ra
 ### SVG绘图 (1篇)
 
 - [[Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图]] — Skill配方｜做方案再也不用磕配图了——我靠两条skill搞定所有配图
+- [[skill写作四大问题-工程思维]] — Skill写作四大问题：工程思维写 Skill，从一次性交付到持续迭代
 ### Skills (60篇)
 
 - [[智能体MCP-Skill到底是啥5句话大白话讲透]] — 智能体、MCP、Skill到底是啥？5句话大白话讲透
@@ -1417,6 +1419,7 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Superpowers + WeChat Ra
 - [[给知识库装上水管：信息自动流进来]] — 给知识库装上水管：信息自动流进来
 - [[项目体验]] — 项目体验
 - [[别再手动整理文章了-用-AIWiki-把链接变成可复用知识库]] — 别再手动整理文章了！用 AIWiki 把链接变成可复用知识库
+- [[企业知识库-24小时AI销售教练]] — 企业知识库 + AI 销售教练：零售培训闭环（质检/陪练/考核）完整落地
 
 - [[Karpathy-知识库构建40-万词的-LLM-编译之道]] — Karpathy用LLM搭建100篇文章40万词个人知识库，核心理念：知识编译而非手动编辑
 ### 研究报告 (1篇)

@@ -2,7 +2,48 @@
 
 Chronological record of all operations.
 
-## 2026-05-29 — 三篇微信公众号文章摄入 (A/B/C)
+## 2026-05-30 — 四篇微信公众号文章摄入 (919-922)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 微信公众号/BettaFish/我帮朋友搭了个免费的舆情系统，省下了每年几万块的订阅费.md → wiki/sources/bettafish-舆情系统-免费开源方案.md
+2. 微信公众号/申请专利/人才+1，有人把申请专利也做成了skill，知识产权的普及度再次增加.md → wiki/sources/patent-disclosure-skill-716星专利交底书.md
+3. 微信公众号/SkillManager/写Skill别急着动手，先问自己这四个问题.md → wiki/sources/skill写作四大问题-工程思维.md
+4. 微信公众号/知识库/把企业知识库做成24小时在线销售教练.md → wiki/sources/企业知识库-24小时AI销售教练.md
+**Time:** 2026-05-30
+**New Sources:** 4
+**New Entities:** [[BettaFish]], [[patent-disclosure-skill]], [[腾讯乐享知识库]], [[Skill工程化]], [[舆情分析]], [[多Agent协作]], [[AI销售教练]], [[销售质检Agent]], [[客户模拟Agent]]
+**New Concepts:** 0 (entities and concepts in same list above)
+**index.md updated:** Statistics (Sources 1147→1151, Entities 222→226, Concepts 221→226), AI Coding (新增bettafish), Skills (新增skill写作四大问题), 知识库 (新增企业知识库-24小时AI销售教练)
+
+### Key Findings
+
+**Article 919 - BettaFish 舆情系统:**
+1. **项目定位**：开源免费舆情分析系统，GitHub 666ghj/BettaFish
+2. **多Agent协作**：一个Agent全网抓内容，一个分析情绪关键词，一个生成报告
+3. **核心功能**：情绪时间线（判断负面偶发vs持续）、关键词聚类、内容来源分布
+4. **部署**：Docker，文档清楚，主要卡点依赖冲突靠AI定位解决
+5. **局限**：部分平台覆盖不全，实时性不如商业产品，适合背景调研
+
+**Article 920 - patent-disclosure-skill:**
+1. **核心价值**：专利技术交底书从3天压缩到30分钟，716 Star
+2. **输入**：扫描代码仓库或设计文档（.docx/.pptx）
+3. **核心功能**：原材料自动清洗（Office→Markdown）、硬核查新（Playwright爬国知局）、图示自动化渲染（Mermaid→PNG）、LaTeX公式一致性闭环、多轮修订审计追踪
+4. **GitHub**：handsomestWei/patent-disclosure-skill
+
+**Article 921 - Skill写作四大问题:**
+1. **核心观点**：Skill不是攒得越多越牛，留下来的都得是经过验证的工程资产
+2. **Skill vs Agent**：Agent做决策，Skill做执行；改进发生在设计阶段而非运行时
+3. **四大问题**：需求值得做吗？补能力vs固偏好？验证方案？敢删吗？
+4. **三大质量验证**：Evals（有vs无Skill）、Comparator（新vs旧A/B盲测）、Benchmark（模型升级后vs前）
+5. **四大骨架**：流程骨架、规范骨架、能力骨架、任务骨架
+6. **两种脑子**：理性脑（JSON/schema）+感性脑（风格种子）
+
+**Article 922 - 企业知识库AI销售教练:**
+1. **场景**：零售连锁门店销售培训，知识库+Agent工具链闭环
+2. **四类能力**：随问随查、自动出题、模拟客户对练、录音质检
+3. **工具链**：腾讯乐享知识库 + Codex/Claude Code/WorkBuddy/Cursor + MCP
+4. **核心价值**：知识库是企业训练AI的"业务底座"，模型会换工具会变但企业客户问题/成交经验不会凭空长出来
 
 **Operator:** Hermes Agent (scheduled cron)
 **Sources:**
