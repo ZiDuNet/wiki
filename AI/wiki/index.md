@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇).
+Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被搬进代码仓库摄入).
 
 ## Statistics
 
-- Sources: 1135
-- Entities: 210
-- Concepts: 208
+- Sources: 1140
+- Entities: 213
+- Concepts: 216
 - Synthesis: 15
 
 ## Sources
@@ -33,8 +33,9 @@ Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇)
 - [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板]] — 智能体搭建 如何用OpenClaw搭建你的“一人公司”（附完整配置模板）
 - [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]] — 给你的 Hermes & OpenClaw 安装这个工具，能让 Token 消耗立省60%
 
-### AI Coding (11篇)
+### AI Coding (12篇)
 
+- [[ai帮我写专利交底书这个716星技能做到了]] — patent-disclosure-skill：716星，AI全自动专利技术交底书
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
 - [[扔掉PPT用这44个HTML动画模板让AI帮你做科普视频]] — 扔掉PPT，用这44个HTML动画模板，让AI帮你做科普视频
@@ -63,8 +64,9 @@ Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇)
 - [[直接安装无需预先安装clawhub工具npx-clawhublatestinstall-skillvetter]] — 直接安装，无需预先安装clawhub工具npx clawhub@latest install skill-vetter
 - [[从零开始AI工程428节课]] — 428节课、20阶段、320小时，从线性代数到多智能体系统
 
-### AI办公 (17篇)
+### AI办公 (18篇)
 
+- [[全网最全html-slides实战教学]] — 全网最全HTML Slides实战教学：从趋势到工具，从美学规范到打造你的专属Skill
 - [[2小时，做一套客户自动跟进系统（自动提醒-+-自动触达）]] — 2小时，做一套客户自动跟进系统（自动提醒 + 自动触达）
 - [[AI办公实现人机协同]] — AI办公实现人机协同
 - [[AI时代，PPT的未来是HTML，一个神奇的-Skills-推荐]] — AI时代，PPT的未来是HTML，一个神奇的 Skills 推荐
@@ -366,7 +368,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇)
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (27篇)
+### GitHub (28篇)
 
 - [[今天GitHub上涨疯了的开源项目-程序员都在收藏]] — Understand-Anything：GitHub Trending 第一名，单日新增 5604 Stars，代码库知识图谱工具
 - [[不要错过这10个本周火火火的-GitHub-开源项目]] — 不要错过这10个本周火火火的 GitHub 开源项目
@@ -399,6 +401,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇)
 - [[710-推荐8个本周YYDS的GitHub开源项目]] — 推荐 8 个本周 YYDS 的 GitHub 开源项目
 - [[713-GitHub2万星爆款让AI接管你的浏览器这个开源项目太强了]] — GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了
 - [[GitHub-炸了-19万星的Agent配置天花板一天涨2k星]] — GitHub 炸了：19 万星的 Agent 配置天花板，一天涨 2k+星 (1篇)
+- [[我把github做成需求雷达开源了]] — 极客杰尼开源 GitHub Demand Radar：从热门项目 Issue/PR 挖掘真实需求
 ### GitHub开源项目 (2篇)
 
 - [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！]] — CodeBuddy Cli + skills 实现小红书信息图系列生成器！
@@ -443,6 +446,7 @@ Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇)
 
 ### Hermes (199篇)
 
+- [[karpathy的llm-wiki思路我用hermes跑通了]] — 两步接力跑通Karpathy LLM Wiki：Claude Code做基建部署Hermes，Hermes做长期知识维护
 - [[让你的Hermes-Agent发挥更大的价值]] — Hermes Agent 五大用法：/goal元提示、看板工作流、竞品拆解、记忆Wiki、每日主动学习
 - [[团队Hermes多代理系统部署指南]] — 团队 Hermes 多代理系统部署指南：12角色专业化分工+Gateway路由+三层知识库
 - [[Hermes-AI-SDR销售代表]] — Hermes Agent 搭建 AI SDR 自动销售代表：每天自动找线索、写邮件、跟进客户
@@ -683,11 +687,12 @@ Master catalog of all wiki pages. Updated on 2026-05-28 (微信同步新增6篇)
 ### JVS Claw (1篇)
 
 - [[oc-“龙虾”下乡记JVS-Claw在甘肃礼县“种”起了苹果]] — “龙虾”下乡记：JVS Claw在甘肃礼县“种”起了苹果
-### LLM-Wiki (12篇)
+### LLM-Wiki (14篇)
 
 - [[ai-knowledge-base-evolution-rag-notebooklm-llmwiki]] — AI 知识库技术演进拆解：从 RAG 到 NotebookLM，再到 LLM Wiki（七层架构深度分析）
 - [[738-Hermes-Obsidian-LLM-Wiki搭建一个会自己长大的本地知识库]] — Hermes + Obsidian + LLM Wiki：搭建一个会自己长大的本地知识库
 - [[obsidian-追问自己的知识库]] — Obsidian追问自己的知识库：别再收藏吃灰，搭一个能追问自己的知识库
+- [[karpathy的llm-wiki被搬进代码仓库]] — GitNexus把LLM Wiki思路搬进代码仓库——CLI索引仓库生成依赖图谱调用链，通过MCP暴露给AI编程工具，解决跨文件关系遗漏
 
 - [[karpathy-的-llm-wiki-部署好-8-步搞定不花一分钱]] — Karpathy 的 LLM Wiki 我帮你部署好了：8 步搞定，不花一分钱
 - [[llm-wiki-karpathy-的知识管理理念变成产品了]] — LLM Wiki：Karpathy的知识管理理念变成产品了，文档扔进去自动长出Wiki

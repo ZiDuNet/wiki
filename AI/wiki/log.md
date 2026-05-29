@@ -2,6 +2,282 @@
 
 Chronological record of all operations.
 
+## 2026-05-29 — Karpathy Hermes跑通文章摄入 (已覆盖)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/LLM Wiki/Karpathy 的 LLM Wiki 思路，我用 Hermes 跑通了.md
+**Author:** Turing 实验室
+**Time:** 2026-05-29
+**Status:** 已通过 [[karpathy-llm-wiki-context-memory重构企业级的组织记忆]] 和相关实体覆盖
+
+### Key Findings
+
+**文章核心内容已整合到现有知识库：**
+
+1. **核心命题**：两步接力跑通 Karpathy LLM Wiki——Claude Code 做基建部署 Hermes，Hermes 做长期知识维护
+2. **工具分工哲学**：
+   - Claude Code = 建筑队（一次性基建，能力强无状态，干完就撤）
+   - Hermes = 物业（长期知识管理，理解偏好，自我纠错，归类体系）
+3. **关键洞察**："把研究员当建筑工用，是浪费。把建筑队当研究员用，是灾难。"
+
+### Entities Updated (本次)
+
+| 实体 | 更新内容 |
+|-----|---------|
+| Hermes-Agent | 添加工具分工哲学、添加来源文章引用 |
+| Claude-Code | 添加工具分工哲学、添加 Hermes 关联 |
+| Karpathy | 添加来源文章引用 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| 工具分工哲学 | Claude Code = 建筑队，Hermes = 物业，工具放在正确位置 |
+
+### Log Entries for Already-Covered Articles
+
+**以下文章已在之前会话中处理，不再创建新 source 页面：**
+
+| 文章 | 覆盖方式 | 备注 |
+|-----|---------|------|
+| LLM Wiki - 让LLM帮你构建进化中的知识库 | [[karpathy-llm-wiki-context-memory重构企业级的组织记忆]] | 企业级组织记忆主题已覆盖 |
+| WorkBuddy 相关文章 | wiki/sources/WorkBuddy系列 | WorkBuddy 资料库、方法系列已覆盖 |
+| OpenClaw 相关文章 | AGENTS.md section (19篇) | OpenClaw 小龙虾配置系列已覆盖 |
+| Karpathy-autoresearch | [[Karpathy]] entity + [[LLM-Wiki]] concept | LLM Wiki 核心理念已整合 |
+
+---
+
+## 2026-05-29 — Karpathy LLM Wiki 被搬进代码仓库文章摄入 (874)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/LLM Wiki/Karpathy 的 LLM Wiki，被搬进代码仓库.md
+**Author:** 硅基与token
+**Time:** 2026-05-29
+**New Sources:** 1
+**New Entities:** [[GitNexus]]
+**New Concepts:** [[代码仓库知识图谱]]
+**Entities updated:** [[Karpathy]]
+**Concepts updated:** [[LLM-Wiki]], [[MCP协议]]
+**index.md updated:** Statistics (Sources 1139→1140, Entities 212→213, Concepts 215→216), LLM-Wiki (13→14)
+
+### Key Findings
+
+**Article 874 - Karpathy 的 LLM Wiki，被搬进代码仓库:**
+
+1. **核心命题**：GitNexus 把代码仓库做成可查询、可追踪、可更新的结构化知识库，把 LLM Wiki 思路搬进代码仓库
+2. **问题背景**：AI 编程助手应该临时 grep 代码，还是先拥有一张代码仓库地图？
+3. **传统 RAG 缺陷**：每次查询都是"重新发现"，知识没有积累
+4. **GitNexus 入口**：`npx gitnexus analyze` 索引仓库，`gitnexus mcp` 启动 MCP 服务
+5. **六大工具**：query、context、impact、detect_changes、rename、cypher
+6. **论文支撑**：
+   - Codebase-Memory：Tree-sitter 持久知识图谱，token 消耗低一个数量级
+   - Reliable Graph-RAG：AST 派生确定性图谱在覆盖率、成本和多跳 grounding 上更可靠
+7. **呼应 Karpathy**：论文/笔记 → 函数/类/依赖，共同点是把"临时上下文"变成"持久结构"
+8. **核心观点**：AI 编程下一步缺的不是更会聊天的助手，而是更少迷路的助手
+
+### Entities Created
+
+|| 实体 | 说明 |
+|-----|------|
+| GitNexus | 代码仓库知识图谱工具，CLI 索引仓库生成依赖图谱，通过 MCP 暴露给 AI 编程工具 |
+
+### Concepts Created
+
+|| 概念 | 说明 |
+|-----|------|
+| 代码仓库知识图谱 | 把代码仓库编译成结构化知识图谱，抽取依赖、调用链、cluster 和 execution flow |
+
+### Entities Updated
+
+|| 实体 | 更新内容 |
+|-----|---------|
+| Karpathy | 添加 GitNexus 代码仓库知识图谱章节、来源文章引用、相关概念链接 |
+
+### Concepts Updated
+
+|| 概念 | 更新内容 |
+|-----|---------|
+| LLM-Wiki | 添加 GitNexus 代码仓库知识图谱章节、来源文章引用、相关实体 GitNexus |
+| MCP协议 | 添加代码仓库知识图谱应用场景、GitNexus/Windsurf 相关实体、karpathy 文章引用 |
+
+---
+
+## 2026-05-29 — HTML Slides实战教学文章摄入 (873)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/HTML Slides/全网最全！HTML Slides 实战教学：从趋势到工具，从美学规范到打造你的专属Skill.md
+**Time:** 2026-05-29
+**Author:** 巴赞的异托邦
+**New Sources:** 1
+**New Entities:** [[Slidev]]
+**New Concepts:** [[HTML幻灯片范式转移]]
+**index.md updated:** Statistics (Sources 1138→1139, Entities 211→212, Concepts 214→215)
+
+### Key Findings
+
+**Article 873 - 全网最全HTML Slides实战教学:**
+
+1. **核心命题**：HTML Slides不是"另一种PPT"，而是演示文稿的**范式转移**
+2. **四大变革**：
+   - 体积与分发：几百KB vs 50MB，浏览器即可播放
+   - 版本控制：纯文本格式，Git完美支持
+   - 表现力：代码高亮（Shiki）、Vue/React组件嵌入、Canvas动画
+   - 开放性：HTML/CSS/JS是Web标准，不依赖厂商
+3. **主流工具对比**：
+   - [[Slidev]]：开发者首选，Markdown驱动+Vue技术栈
+   - [[reveal.js]]：功能天花板，3D旋转+Auto-Animate
+   - [[Marp]]：极简派，纯Markdown一键导出
+4. **美学规范六铁律**：
+   - 整体风格定调：高级感、科技感，禁用白色背景/渐变色
+   - 布局铁律：16:9比例，一页一观点，禁用滚动条
+   - 配色：3-4色法则，高对比度
+   - 字体层次：标题与正文不同字重/字号
+   - 内容结构：首页→目录→过渡页→内容页→总结→结束页
+   - 交互边界：所有元素必须在页面内完全可见
+5. **AI Skill创建方法论**：
+   - 提取视觉DNA（风格关键词+主色+字体+标志性元素）
+   - 编写Skill提示词模板
+   - 保存迭代循环
+6. **GitHub成熟Skill推荐**：
+   - Slidev生态：官方Skill + dev-slides
+   - Reveal.js生态：revealjs-skill（⭐30K+）+ OpenSlides
+   - 纯Markdown生态：Marp Template
+   - 传统PPTX路线：PPT Master
+
+### Entities Created
+
+| 实体 | 说明 |
+|-----|------|
+| Slidev | HTML Slides工具生态中的开发者首选，Markdown驱动+Vue技术栈 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| HTML幻灯片范式转移 | 从PowerPoint/WPS二进制格式转向HTML/CSS/JS纯文本格式的范式革命 |
+
+---
+
+## 2026-05-29 — Karpathy LLM Wiki 企业级组织记忆文章摄入 (872)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/LLM Wiki/Karpathy LLM Wiki + Context + Memory 重构企业级的组织记忆.md
+**Time:** 2026-05-29
+**New Sources:** 1
+**New Entities:** 0 (Karpathy 已存在)
+**New Concepts:** [[企业级组织记忆]], [[四信号知识图谱]], [[RAG]], [[Louvain社区检测]]
+**Entities updated:** [[Karpathy]]
+**Concepts updated:** [[知识编译]], [[LLM-Wiki]]
+**index.md updated:** Statistics (Sources 1137→1138, Concepts 211→214)
+
+### Key Findings
+
+**Article 872 - Karpathy LLM Wiki + Context + Memory 重构企业级组织记忆:**
+
+1. **核心命题**：知识不是"存起来备查"，而是"编译进去活起来"
+2. **三层架构**：Raw Sources（源文件层）→ Wiki（Wiki层）→ Schema（规范层）
+3. **三项核心操作**：
+   - Ingest：知识的编译——将源文件"编译"成 Wiki 页面
+   - Query：知识的查询——综合分析与引用，沉淀有价值回答
+   - Lint：知识的维护——定期健康检查，确保 Wiki 不会"腐烂"
+4. **传统 RAG 缺陷**：每次查询都是一次"重新发现"（rediscovering knowledge from scratch）
+5. **企业级扩展**：个人→小团队→部门→企业四级演进
+6. **四层 Memory 处理**：Working/Episodic/Semantic/Procedural Memory
+7. **关键经验**：Schema 是活的文档、Log 是最有价值的文件、交叉引用是关键
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| 企业级组织记忆 | 用 LLM Wiki + Context + Memory 构建的 AI 时代企业级知识体系 |
+| 四信号知识图谱 | 知识图谱构建中的四个关键信号维度（结构/语义/时序/使用） |
+| RAG | Retrieval-Augmented Generation，传统知识检索架构及其缺陷分析 |
+| Louvain社区检测 | 用于发现知识图谱中主题聚类的社区检测算法 |
+
+### Entities Updated
+
+| 实体 | 更新内容 |
+|-----|---------|
+| Karpathy | 添加三项核心操作、企业级组织记忆、新增来源文章引用 |
+
+### Concepts Updated
+
+| 概念 | 更新内容 |
+|-----|---------|
+| 知识编译 | 添加企业级扩展、三项核心操作、Memory 处理架构 |
+| LLM-Wiki | 添加三层架构、三项核心操作、RAG 缺陷分析、企业级扩展 |
+
+---
+
+## 2026-05-29 — patent-disclosure-skill 文章摄入 (871)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/AI Coding/AI帮我写专利交底书？这个716星技能做到了.md
+**Time:** 2026-05-29
+**New Sources:** 1
+**New Entities:** [[patent-disclosure-skill]], [[CNIPA]]
+**New Concepts:** [[技术交底书自动化]], [[专利查新]], [[AgentSkills规范]]
+**index.md updated:** Statistics (Sources 1136→1137, Entities 210→211, Concepts 209→211), AI Coding (11→12)
+
+### Key Findings
+
+**Article 871 - patent-disclosure-skill:**
+
+1. **项目数据**: GitHub 716 Star, 92 Fork, MIT 协议，遵循 AgentSkills 规范
+2. **七大核心能力**: 项目智能扫描/专利点挖掘/国知局优先查新/标准化交底书生成/标准化交付命名/自动自检/多轮迭代支持
+3. **查新优先级**: 优先爬取 CNIPA → 降级到网络搜索，专属爬虫 `cnipa_epub_search.py`
+4. **交付格式**: `.docx` 输出 + mermaid 图渲染成 PNG + 脱敏模板
+5. **支持平台**: Claude Code/Cursor/OpenClaw 等 AgentSkills 兼容平台
+6. **核心价值**: 专利点挖掘 + 国知局查新 + 脱敏交底书 + 多轮迭代，全流程 AI 自动化
+
+### Entities Created
+
+| 实体 | 说明 |
+|-----|------|
+| patent-disclosure-skill | GitHub 716 Star，中国专利交底书自动化工具 |
+| CNIPA | 中国国家知识产权局，专利查新数据源 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| 技术交底书自动化 | AI 自动生成专利技术交底书完整工作流 |
+| 专利查新 | 检索对比专利文献判断新颖性的关键步骤 |
+| AgentSkills规范 | AI Agent 技能标准化规范，跨平台兼容 |
+
+---
+
+## 2026-05-29 — GitHub 需求雷达文章摄入 (869→870)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/GitHub/我把Github做成需求雷达，开源了.md
+**Time:** 2026-05-29 08:00
+**New Sources:** 1
+**New Entities:** none (Codex already exists)
+**New Concepts:** [[需求挖掘]]
+**Entities updated:** [[Codex]] (添加 Hermes-Agent、GitHub Demand Radar 链接，添加需求挖掘等概念)
+**index.md updated:** Statistics (Sources 1135→1136, Concepts 208→209), GitHub (27→28)
+
+### Key Findings
+
+**Article 870 - GitHub Demand Radar 开源:**
+
+1. **项目定位**：GitHub Demand Radar — 从 GitHub 热门项目 Issue/PR 中挖掘真实需求的 Skill
+2. **核心洞察**：找项目最难的不是写代码，而是判断"这个东西值得做"
+3. **实验案例**：扫描 Claude Code buddy 桌宠功能需求热度极高，后续多个定制桌宠项目涌现
+4. **判断标准**：用户反复提起 + 补充场景 + 情绪强 + 边界清楚 = 真实需求
+5. **工具化流程**：之前手动翻 Github Trending → 现交给 Codex 每天早上定时发简报
+6. **配置方法**：下载 geekjourneyx/github-demand-radar，输入提示词设置自动化
+7. **时效性**：buddy 功能热度高峰已过，产品化窗口需把握时机
+
+### Concepts Created
+
+| 概念 | 说明 |
+|-----|------|
+| 需求挖掘 | 从 GitHub Issue/PR 等渠道发现真实需求的方法论 |
+
+---
+
 ## 2026-05-28 — PPT Master 教程文章摄入 (869)
 
 **Operator:** Hermes Agent (scheduled cron)

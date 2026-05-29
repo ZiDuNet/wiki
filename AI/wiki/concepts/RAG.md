@@ -1,33 +1,64 @@
 ---
 type: concept
 name: RAG
-created: 2026-05-10
-updated: 2026-05-10
-mentions: 10
+created: 2026-05-29
+updated: 2026-05-29
+tags: [知识管理, 检索增强, LLM, 知识编译]
+sources: [karpathy-llm-wiki-context-memory重构企业级的组织记忆.md]
 ---
 
 # RAG
 
 **类型:** 概念
-**提及文章数:** 10
 
-## 简介
+## 定义
 
-Retrieval-Augmented Generation）。你最终得到的能力是：把一堆项目文档、SOP、会议纪要、接口说明放进一个目录，运行一次索引命令，然后在终端或浏览器里问“某某流程的审批节点是什么”“这个接口的字段含义”，系统先从
+Retrieval-Augmented Generation（检索增强生成），一种让 LLM 在生成回答前先检索相关文档的技术架构。
+
+## 传统 RAG 流程
+
+上传文档 → 问问题 → LLM 检索 → 生成答案
+
+## RAG 的本质缺陷
+
+Karpathy 指出传统 RAG 的致命问题：**每次查询都是一次"重新发现"**。
+
+> "rediscovering knowledge from scratch on every question"
+
+每次都在重新发明轮子，没有知识积累机制。
+
+## 问题示例
+
+你花三周研读 20 篇 AI Agent 论文，问 LLM "AI Agent 发展经历了哪几个阶段"，LLM 仍需要在这 20 篇论文中重新检索、重新理解、重新整合。
+
+## LLM Wiki 的解法
+
+| 传统 RAG | LLM Wiki |
+|---------|---------|
+| 每次重新发现 | 知识累积增长 |
+| 知识是消耗品 | 知识是可复合资产 |
+| 人工维护 | LLM 自动维护 |
+| 检索原始碎片 | 回答已整理知识 |
+
+## 企业级混合方案
+
+大规模场景下，可采用定制 RAG + Wiki 混合架构：
+- BM25 传统文本检索
+- 向量搜索语义相似度匹配
+- LLM 重排序智能结果优化
+- Wiki 知识库作为预处理层
+
+## 相关概念
+
+- [[LLM-Wiki]]
+- [[传统RAG困境]]
+- [[知识编译]]
+- [[企业级组织记忆]]
 
 ## 相关实体
 
-[[Anthropic]], [[ChatGPT]], [[Claude]], [[Cursor]], [[Docker]], [[Excel]], [[GPT-4]], [[Gemini]], [[GitHub]], [[Harness]], [[Hermes]], [[LangChain]], [[MCP]], [[Markdown]], [[Node.js]], [[Obsidian]], [[OpenAI]], [[OpenClaw]], [[Python]], [[React]], [[SQLite]], [[小红书]], [[飞书]]
+- [[Karpathy]]
 
-## 相关文章
+## 来源文章
 
-- [[AI行业黑话一览一口气看懂-LLMTokenRAGPromptMCPSkill]]
-- [[oc-OpenClaw-进阶玩法——-用-Skill-让-AI-更聪明]]
-- [[OpenClaw本地知识库搭建让AI读你的文件高效办公必备]]
-- [[RAG-怎么验收AI产品经理先盯三层再抓五个判断点]]
-- [[oc-“影子-Agent”大爆发如何排查潜伏在企业内网深处的那些只有-IP-没有身份的-OpenClaw-实例]]
-- [[克隆项目gitclone项目地址cdagentharness-一键启动startsh]]
-- [[差距从来不在于你有没有AI而在于你有没有用AI彻底重构你的业务底座]]
-- [[用-OpenClaw-构建个人知识库从几百字到-10-万字让-AI-真正懂你]]
-- [[用好-Hermes-的这个技能让你的-Agent-越用越聪明Token-成本暴降-90]]
-- [[转AI-Agent工程师路线图]]
+- [[karpathy-llm-wiki-context-memory重构企业级的组织记忆]]

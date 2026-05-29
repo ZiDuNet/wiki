@@ -1,7 +1,7 @@
 ---
 type: tool
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-29
 ---
 
 # Claude Code
@@ -9,16 +9,26 @@ updated: 2026-05-10
 **Type:** tool
 **Description:** Anthropic 的命令行 AI 编程工具，支持 Skills 系统
 
+## 工具分工哲学
+
+在 LLM Wiki 工程落地中，Claude Code 被定位为"建筑队"：
+- 一次性、强执行的基建任务
+- 能力强，无状态，干完就撤
+- 适合：配环境、装依赖、调网关等脏活
+
+与 Hermes 的分工：Claude Code = 建筑队（一次性基建），Hermes = 物业（长期维护）。
+
 ## Related Entities
 
-[[Claude-Desktop]] [[Cursor]] [[Codex]] [[Windsurf]] [[Gemini-CLI]] [[MCP]] [[ppt-master]] [[html-ppt-skill]]
+[[Claude-Desktop]] [[Cursor]] [[Codex]] [[Windsurf]] [[Gemini-CLI]] [[MCP]] [[ppt-master]] [[html-ppt-skill]] [[Hermes-Agent]]
 
 ## Related Concepts
 
-[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[渐进式披露]] [[Agent开发]] [[MCP协议]]
+[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[渐进式披露]] [[Agent开发]] [[MCP协议]] [[Claude Code基建]] [[工具分工哲学]]
 
 ## Mentioned In
 
+- [[karpathy的llm-wiki思路我用hermes跑通了]] — Claude Code做基建部署Hermes
 - [[AI-Skill-碎片化的解法来了一个中央库统一管理-27-个平台]] — AI Skill 碎片化的解法来了：一个中央库统一管理 27 个平台
 - [[AI时代高效开发的skill技能]] — 1 产品规划的skill
 - [[AI时代，PPT的未来是HTML，一个神奇的-Skills-推荐]] — AI时代，PPT的未来是HTML，一个神奇的 Skills 推荐

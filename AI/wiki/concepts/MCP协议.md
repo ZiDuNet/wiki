@@ -38,13 +38,18 @@ MCP（Model Context Protocol）是一种标准化的协议，用于连接 AI Age
 - 文件系统操作
 - API 调用和数据访问
 
+### 代码仓库知识图谱
+- [[GitNexus]] 通过 MCP 暴露代码仓库知识图谱
+- 提供 query、context、impact、detect_changes、rename、cypher 等工具
+- AI agent 查询结构化代码关系而非临时 grep
+
 ## Related Entities
 
-[[Claude-Code]] [[Claude-Desktop]] [[Cursor]] [[Codex]] [[Gemini-CLI]] [[MCP]] [[baoyu-skills]] [[Anthropic]] [[GMSSH]]
+[[Claude]] [[Claude-Desktop]] [[Cursor]] [[Codex]] [[Gemini-CLI]] [[MCP]] [[baoyu-skills]] [[Anthropic]] [[GMSSH]] [[GitNexus]] [[Windsurf]]
 
 ## Related Concepts
 
-[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[渐进式披露]] [[Agent开发]] [[PPT制作]] [[运维终端]] [[AI运维]]
+[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[渐进式披露]] [[Agent开发]] [[PPT制作]] [[运维终端]] [[AI运维]] [[代码仓库知识图谱]]
 
 ## Mentioned In
 
@@ -56,3 +61,4 @@ MCP（Model Context Protocol）是一种标准化的协议，用于连接 AI Age
 - [[我给龙虾装上好用的PPT-Skill]]
 - [[最值得安装的20个Skills]]
 - [[告别传统SSH一款桌面级AI运维终端体验嘎嘎好]] — GMSSH 通过 MCP 感知服务器实时状态，提供有上下文的诊断建议
+- [[karpathy的llm-wiki被搬进代码仓库]] — GitNexus 通过 MCP 暴露代码仓库知识图谱给 AI 编程工具

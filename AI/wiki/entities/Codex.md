@@ -11,14 +11,15 @@ updated: 2026-05-10
 
 ## Related Entities
 
-[[Claude-Code]] [[Cursor]] [[Windsurf]] [[Gemini-CLI]] [[MCP]] [[baoyu-skills]] [[skills-manage]] [[aweskill]]
+[[Claude-Code]] [[Hermes-Agent]] [[Cursor]] [[Windsurf]] [[Gemini-CLI]] [[MCP]] [[baoyu-skills]] [[skills-manage]] [[aweskill]] [[GitHub Demand Radar]]
 
 ## Related Concepts
 
-[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[渐进式披露]] [[Agent开发]] [[MCP协议]]
+[[Skill设计模式]] [[Harness-Engineering]] [[Skill编排]] [[渐进式披露]] [[Agent开发]] [[MCP协议]] [[需求挖掘]] [[需求雷达]] [[GitHub Issue分析]]
 
 ## Mentioned In
 
+- [[我把github做成需求雷达开源了]] — 作者用 Codex 每天定时推送 GitHub 需求简报
 - [[47个产品经理的skills，这1个要单独评测，否则再好的skill也会退化]] — 47个产品经理的skills，这1个要单独评测，否则再好的skill也会退化
 - [[Agent-Skills-解剖：五个设计决策拯救被上下文淹没的-AI-Agent]] — Agent Skills 解剖：五个设计决策拯救被上下文淹没的 AI Agent
 - [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！]] — CodeBuddy Cli + skills 实现小红书信息图系列生成器！
