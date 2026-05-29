@@ -4,8 +4,8 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 
 ## Statistics
 
-- Sources: 1140
-- Entities: 213
+- Sources: 1144
+- Entities: 217
 - Concepts: 216
 - Synthesis: 15
 
@@ -1469,6 +1469,13 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 - [[我的知识库-主题[这里写你的主题，比如"AI应用开发"]-目录说明raw文件夹：原始素材，AI只读不改wiki文件夹：整理后的内容，AI全权维护outputs文]]
 - [[wechat-article-exporter]] — 微信公众号文章批量下载工具，支持6种格式导出和100%样式还原
 
+### DouYin_Spider (4篇)
+
+- [[开源！抖音无水印视频 + AI 文案提取，这个 MCP 服务太香了]] — douyin-mcp-server：抖音无水印视频下载+AI文案提取MCP服务
+- [[DouYin_Spider：抖音逆向与爬虫实战]] — cv-cat/DouYin_Spider 抖音逆向与爬虫实战教程
+- [[【DouYin_Spider】抖音数据采集，直播间实时监听]] — waydone/DouYin_Spider 抖音数据采集与直播监听工具
+- [[DouYin_Spider：一站式抖音数据采集与直播监听开源项目]] — DouYin_Spider 部署指南（本地+Docker）
+
 ## Entities (174个)
 
 - [[Agency-agents]]
@@ -1619,6 +1626,11 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 - [[飞书CLI]]
 
 - [[wechat-article-exporter]] — 微信公众号文章批量下载开源工具（Nuxt 3 + Vue 3）
+- [[DouYin_Spider]] — cv-cat 维护的抖音逆向与数据采集开源工具（Python+Node.js）
+- [[DouYin_Spider-waydone]] — waydone 维护的抖音数据采集工具变体
+- [[douyin-mcp-server]] — yzfly 维护的抖音无水印视频+AI文案提取MCP服务
+- [[硅基流动]] — AI API服务商，SenseVoice语音识别
+
 ## Concepts (170个)
 
 - [[AGENTS配置]]
