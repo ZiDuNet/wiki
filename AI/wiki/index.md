@@ -1776,6 +1776,8 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 
 - [[文章格式还原]] — HTML打包图片样式100%还原微信文章排版
 - [[微信公众号文章抓取]] — 利用公众号后台接口批量获取历史文章
+- [[数据采集]] — 从网站/App/API自动化获取结构化数据的技术
+- [[AI语音识别]] — AI语音转文字（ASR），如SenseVoice API
 ## Synthesis (12个)
 
 - [[Agent架构实践]] — Agent 架构实践

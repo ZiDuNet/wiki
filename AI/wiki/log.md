@@ -3277,3 +3277,14 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 
 ---
 
+
+## [2026-05-29] lint | 健康检查
+
+发现 0 个错误、0 个警告、2 个建议。已修复：创建缺失的concept页面（数据采集、AI语音识别），更新index。
+
+修复前检查结果：
+- 新页面失效wikilink 3个 → 已通过创建缺失页面修复2个（数据采集、AI语音识别）
+- 抽样10个entity页发现7个broken links（LibTV等，非本次新增，历史遗留）
+- 所有新页面均在index中
+- 所有新entity均有入站引用
+- 抖音entity已交叉引用新页面
