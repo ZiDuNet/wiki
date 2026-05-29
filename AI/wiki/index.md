@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被搬进代码仓库摄入).
+Master catalog of all wiki pages. Updated on 2026-05-29 (Superpowers + WeChat Radar 摄入).
 
 ## Statistics
 
-- Sources: 1144
-- Entities: 217
-- Concepts: 216
+- Sources: 1147
+- Entities: 222
+- Concepts: 221
 - Synthesis: 15
 
 ## Sources
@@ -33,8 +33,9 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 - [[oc-智能体搭建-如何用OpenClaw搭建你的“一人公司”附完整配置模板]] — 智能体搭建 如何用OpenClaw搭建你的“一人公司”（附完整配置模板）
 - [[oc-给你的-Hermes-OpenClaw-安装这个工具能让-Token-消耗立省60]] — 给你的 Hermes & OpenClaw 安装这个工具，能让 Token 消耗立省60%
 
-### AI Coding (12篇)
+### AI Coding (13篇)
 
+- [[browser-harness-592-lines-ai-browser-control]] — Browser Harness：592 行代码让 AI 操控浏览器，出 Bug 还能自愈
 - [[ai帮我写专利交底书这个716星技能做到了]] — patent-disclosure-skill：716星，AI全自动专利技术交底书
 - [[一句话AI-帮你操作浏览器]] — 一句话，AI 帮你操作浏览器
 - [[别再手动做-PPT-了这个开源-AI-直接生成可编辑幻灯片排版文案全搞定]] — 别再手动做 PPT 了！这个开源 AI 直接生成可编辑幻灯片，排版文案全搞定
@@ -100,6 +101,10 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 
 - [[AI大神开源的宝藏技能合集]] — AI大神开源的宝藏技能合集
 - [[打工人必装的12个Skill全装实测-3个真神3个救命6个未知]] — 打工人必装的12个Skill，我全装了：3个真神，3个救命，6个还没敢下结论
+
+### Wechatsync (1篇)
+
+- [[WeChat-Radar-群聊情报看板]] — WeChat Radar：群聊情报看板，话题雷达/链接情报/群日报/本地存储，不用翻群聊记录
 
 ### 外贸出海情报系统 (1篇)
 
@@ -174,8 +179,9 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 - [[创建部署目录mkdir-p-sub2apideploy-cd-sub2apideploy-下载并运行部署准备脚本curl-sSL-httpsrawgithubu]] — 创建部署目录mkdir -p sub2api-deploy && cd sub2api-deploy# 下载并运行部署准备脚本curl -sSL https://raw.githubusercontent.com/Wei-Shaw/sub2api/main/deploy/docker-deploy.sh | bash
 - [[他搭了个API中转站-月入过万]] — 他搭了个API中转站，月入过万
 
-### Agent (102篇)
+### Agent (104篇)
 
+- [[awesome-agentic-ai-zh-240-resources-from-zero-to-multi-agent]] — awesome-agentic-ai-zh：240+ 资源，从零到构建多 Agent 系统的完整学习地图
 - [[1400亿Agent入场-流量护城河要塌了]] — 蚂蚁集团CEO韩歆毅：流量逻辑失效，信任逻辑崛起，1400亿Agent重构商业
 - [[别再问要不要上AI-Agent-先问哪一步最该被替代]] — Agent落地方法论：替代动作非人、ROI量化逻辑、流程接不住问题分析
 - [[连夜打包-黑客松夺冠神作开源-ECC配置天花板]] — ECC：黑客松冠军项目，18.2万Stars，60 Agent/232 Skill/1282安全检查，持续学习系统
@@ -368,8 +374,9 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 - [[clawith-ai-agent-员工管理平台]] — Clawith：把 AI Agent 当员工管理的开源平台
 - [[wordollama-2-agent能力更新]] — WordOllama 2.0 更新：为 Word/WPS 增加 Agent 能力
 
-### GitHub (28篇)
+### GitHub (29篇)
 
+- [[GitHub-159K-Superpowers-AI编程方法论]] — Superpowers：159K星，AI编程代理技能系统，从接到任务到交付代码的14个方法论技能
 - [[今天GitHub上涨疯了的开源项目-程序员都在收藏]] — Understand-Anything：GitHub Trending 第一名，单日新增 5604 Stars，代码库知识图谱工具
 - [[不要错过这10个本周火火火的-GitHub-开源项目]] — 不要错过这10个本周火火火的 GitHub 开源项目
 - [[677k星一个人就是一支团队的开源项目]] — 67.7k星，一个人就是一支团队的开源项目
@@ -726,8 +733,9 @@ Master catalog of all wiki pages. Updated on 2026-05-29 (Karpathy LLM Wiki 被�
 
 - [[OpenCode-Draw.io-MCP-AI生成架构图]] — OpenCode + Draw.io MCP 让 AI 替你搞定架构图
 
-### Obsidian (34篇)
+### Obsidian (35篇)
 
+- [[知识库系列一-用Obsidian把散落的材料收成一棵树]] — 知识库系列（一）：用 Obsidian 把散落的材料收成一棵树
 - [[20分钟-让你的-Obsidian-从能用变成想用]] — 20分钟，让你的Obsidian从"能用"变成"想用"：本地优先+双向链接+第二大脑
 - [[Obsidian新手入门-安装仓库插件-从零开始搭建第二大脑]] — Obsidian新手入门：安装、仓库、插件，一篇讲透
 - [[Obsidian怎么同步-4套方案深度对比-2026最新版]] — Obsidian怎么同步？4套方案深度对比：官方Sync/iCloud/坚果云/Git/WebDAV

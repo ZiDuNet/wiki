@@ -2,6 +2,73 @@
 
 Chronological record of all operations.
 
+## 2026-05-29 — 三篇微信公众号文章摄入 (A/B/C)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 微信公众号/Agent/awesome-agentic-ai-zh：240+ 资源，从零到构建多 Agent 系统的完整学习地图.md → wiki/sources/awesome-agentic-ai-zh-240-resources-from-zero-to-multi-agent.md
+2. 微信公众号/Obsidian/知识库系列（一）：用 Obsidian 把散落的材料收成一棵树.md → wiki/sources/知识库系列一-用Obsidian把散落的材料收成一棵树.md
+3. 微信公众号/AI Coding/7,800 Star！592 行代码让 AI 操控浏览器.md → wiki/sources/browser-harness-592-lines-ai-browser-control.md
+**Time:** 2026-05-29
+**New Sources:** 3
+**New Entities:** [[WenyuChiou]], [[武见]], [[Browser-Harness]], [[何三]], [[CDP]]
+**New Concepts:** [[Agent学习路线图]], [[Context-Engineering]], [[自愈式自动化]], [[CDP协议]], [[Docs-As-Code]]
+**index.md updated:** Statistics (Sources 1144→1147, Entities 217→222, Concepts 216→221), Agent (102→104), AI Coding (12→13), Obsidian (34→35)
+
+### Key Findings
+
+**Article A - awesome-agentic-ai-zh (240+ 资源学习地图):**
+
+1. **项目定位**：GitHub 1,743 Stars，MIT 协议，WenyuChiou 维护的 AI Agent 学习路线图
+2. **三大核心**：学习路线图（8 阶段 2 路径）+ 资源整理（240+ 项目）+ 动手练习（23 个练习）
+3. **两套路径**：
+   - Track A — CLI Power User（8-10 周）：用现成工具提效
+   - Track B — Agent Builder（16-22 周）：从零打造 Agent
+4. **三层概念进化**：Prompt Engineering → Context Engineering → Harness Engineering
+5. **五条延伸路线**：研究员/开发者/教师/知识工作者/日常使用者
+6. **实战亮点**：Paper Summary Bot 约 350 行代码贯穿所有阶段
+
+**Article B - 知识库系列（一）Obsidian:**
+
+1. **核心命题**：用 Obsidian 把散落材料收成一棵树，团队协作基础
+2. **仓库概念**：Docs As Code 的表达——本地文件夹、纯文本 markdown、Git 管理
+3. **工作区四区域**：仓库切换/插件边栏/侧边栏/阅读区
+4. **五个基本用法**：新增文件、[[wikilink]]引用、反向链接、#标签、附件
+5. **高频场景**：会议记录、写材料、索引材料
+6. **进阶增强**：Blue Topaz 主题、Dataview 插件、Excalidraw 画图
+7. **选 Obsidian 理由**：数据自己掌控、Git 管理、关联能力强、本地优先
+
+**Article C - Browser Harness (592 行自愈式自动化):**
+
+1. **项目定位**：7.8k Star，browser-use 团队出品，592 行 Python
+2. **颠覆思路**：基于 CDP 直连 Chrome，无框架无 recipes
+3. **自愈机制**：发现缺功能 → 自己写 helper → 继续执行
+4. **设计哲学**：不给轨道，直接给车——路没了自己修
+5. **使用方式**：粘到 Claude Code/Codex，AI 自己读文档装依赖连浏览器
+6. **同类对比**：Selenium/Playwright 是记录回放，Browser Harness 是自愈式 AI 操控
+
+### Entities Created
+
+| 实体 | 说明 |
+|---|---|
+| WenyuChiou | awesome-agentic-ai-zh 项目维护者 |
+| 武见 | 「武见说」博主，知识管理实践者 |
+| Browser-Harness | 592 行自愈式浏览器自动化项目，7.8k Star |
+| 何三 | 「何三笔记」博主，独立开发者 |
+| CDP | Chrome DevTools Protocol，浏览器底层调试协议 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|---|---|
+| Agent学习路线图 | 8 阶段 2 路径的系统化 Agent 学习路径 |
+| Context-Engineering | 动态组合 system prompt + memory + 检索 + tool schema |
+| 自愈式自动化 | AI 发现缺代码自己写补齐，继续执行 |
+| CDP协议 | Chrome DevTools Protocol，WebSocket 直连浏览器 |
+| Docs-As-Code | 把文档像代码管理——Git 版本控制、本地纯文本 |
+
+---
+
 ## 2026-05-29 — Karpathy Hermes跑通文章摄入 (已覆盖)
 
 **Operator:** Hermes Agent (scheduled cron)
@@ -3109,4 +3176,63 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 | 多项目隔离 | Claude Code不同项目上下文不污染 |
 | 离线AI工作流 | Obsidian + LM Studio本地AI系统 |
 | 开源视频Avatar | LongCat等开源唇同步视频方案 |
+
+---
+
+## 2026-05-29 — Superpowers + WeChat Radar 文章摄入 (D & E)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 微信公众号/GitHub/GitHub上159K颗星！你的AI编程代理不是能力不够，是不知道怎么干活.md → wiki/sources/GitHub-159K-Superpowers-AI编程方法论.md
+2. 微信公众号/Wechatsync/微信群聊看板wechat radar 再也不用翻微信群聊记录了.md → wiki/sources/WeChat-Radar-群聊情报看板.md
+**Time:** 2026-05-29
+**New Sources:** 2
+**New Entities:** [[Superpowers]], [[WeChat-Radar]]
+**New Concepts:** [[AI编程方法论]], [[群聊情报聚合]]
+**index.md updated:** Statistics (Sources 1144→1146, Entities 217→219, Concepts 216→218), GitHub (28→29), Wechatsync (新建)
+
+### Key Findings
+
+**Article D - GitHub 159K Superpowers:**
+
+1. **核心命题**：AI编程代理真正缺的不是能力，而是"怎么干活的方法论"
+2. **14个技能**：覆盖软件开发全流程——头脑风暴、写计划、子Agent开发、TDD、代码审查、系统化调试、完工验证等
+3. **核心差异**：装了和没装的区别——一个上来就干，一个想清楚了再干
+4. **支持工具**：原版支持 Claude Code/Codex/Gemini CLI/OpenCode/Cursor；中文增强版 superpowers-zh 支持 Hermes Agent/OpenClaw
+5. **安装方式**：`/plugin install superpowers@claude-plugins-official` 或 `npx superpowers-zh`
+6. **核心观点**：AI + 好方法论可以替代没有方法论的程序员；不是让AI更聪明，而是让它知道怎么干活
+
+**Article E - WeChat Radar:**
+
+1. **核心命题**：解决"群太多、真正有用的消息被淹没"问题
+2. **四大能力**：
+   - 话题雷达：跨群聚合同一天热门话题
+   - 链接情报：去重整理文章/GitHub/工具链接
+   - 群日报：一键摘要，可丢给AI二次处理
+   - 本地存储：SQLite，不上传云端
+3. **界面特点**：情报驾驶舱，活跃群数/总消息数/链接/@我/高信号人物一屏全收
+4. **项目状态**：2025年5月24号开源，连续更新多版
+5. **使用方式**：编辑 config.yaml，浏览器打开 localhost:7860
+
+### Entities Created
+
+| 实体 | 说明 |
+|---|---|
+| Superpowers | GitHub 159K星，AI编程代理技能系统，14个方法论技能 |
+| WeChat-Radar | 群聊情报看板工具，话题雷达/链接情报/群日报/本地存储 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|---|---|
+| AI编程方法论 | 让AI编程代理知道怎么干活的系统性工作流程和规范 |
+| 群聊情报聚合 | 从多个群聊中自动提取、去重、整理有价值信息的技术和方法 |
+
+### index.md Updates
+
+- Statistics: Sources 1144→1146, Entities 217→219, Concepts 216→218
+- GitHub: 28→29篇（新增 Superpowers）
+- Wechatsync: 新建分类（1篇）
+
+---
 
