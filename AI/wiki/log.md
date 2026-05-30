@@ -3309,3 +3309,39 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - AGENTS.md工程化骨架：从PRD到可执行代码的AI辅助开发流程，含[[AI协作方法论]]和[[工作流固化]]
 - Skill生态：Skill站点（远程）+本地管理工具的协同管理机制
 - 抖音entity已交叉引用新页面
+## 2026-05-31 — 四篇微信公众号文章摄入 (923-926)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 微信公众号/SkillManager/销售线索跟进 Skill：把散乱客户信息变成成交行动清单.md -> wiki/sources/销售线索跟进-skill-把散乱客户信息变成成交行动清单.md
+2. 微信公众号/FunASR/干掉 Whisper：我把 VoiceVault 迁移到 FunASR，本地转录加总结爽的飞起，已然是一枚离线录音加待办神器.md -> wiki/sources/干掉-Whisper-VoiceVault迁移到-FunASR.md
+3. 微信公众号/SkillManager/政策法规监控 Skill：持续跟踪行业新规，把变化变成行动清单.md -> wiki/sources/政策法规监控-skill-持续跟踪行业新规.md
+4. 微信公众号/GitHub/推荐 3 个 GitHub 上刚开源但实用的项目，收藏一波。.md -> wiki/sources/推荐-3个-GitHub-刚开源但实用的项目-收藏一波.md
+**Time:** 2026-05-31
+**New Sources:** 4
+**New Entities:** [[销售线索跟进 Skill]], [[VoiceVault]], [[FunASR]], [[sherpa-onnx]], [[files.md]], [[agents-best-practices]], [[native-feel-skill]], [[政策法规监控 Skill]]
+**New Concepts:** [[线索分级]], [[销售流程标准化]], [[双后端架构]], [[架构演进]], [[合规变化管理]], [[LLM友好笔记]], [[Agent架构]], [[跨平台桌面应用]]
+**index.md updated:** Statistics (Sources 1151->1154, Entities 226->229, Concepts 226->229), AI技术 (新增VoiceVault/FunASR/销售线索/Skill), GitHub (新增推荐3个项目)
+
+### Key Findings
+
+**Article 923 - 销售线索跟进 Skill:**
+1. 核心机制：四层——字段标准、判断规则、输出模板、人工复核点
+2. 典型场景：B2B展会线索、抖音/小红书咨询转化、老客户转介绍
+3. 避坑：不要自己编客户信息、不要只看意向等级、不要把话术写得太激进、不要忽略沉默客户
+
+**Article 924 - VoiceVault 迁移 FunASR:**
+1. 效果：中文推理 ~1.2s/min（Whisper ~4s/min），内置标点恢复，内置VAD，自动语种检测
+2. 架构：trait TranscriptionBackend 抽象双后端，迁移只改 ~50 行
+3. 踩坑：sherpa-onnx模型在类型tag而非版本tag下；Silero VAD是单个.onnx文件
+4. 核心经验：不要相信README里的URL，用curl -sI验证；好的架构是演进出来的
+
+**Article 925 - 政策法规监控 Skill:**
+1. 定位：不是提醒工具，而是合规变化到执行动作的转换器
+2. 四层：信息源清单->变化识别->影响映射->行动清单
+3. 适用：AI硬件（数据合规/录音授权）、跨境电商（平台规则）、金融科技、教育工具
+
+**Article 926 - GitHub三项目推荐:**
+1. files.md：极简Markdown笔记，零依赖自带llms.txt，AI可直接操作笔记库
+2. agents-best-practices：生产级Agent指南，模型提议+Harness执行分离架构
+3. native-feel-skill：跨平台桌面应用原生感设计，基于Raycast逆向工程

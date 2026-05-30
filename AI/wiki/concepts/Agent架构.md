@@ -1,29 +1,37 @@
 ---
+tags: [Agent, 架构, Harness, 分离设计]
+sources: [推荐 3 个 GitHub 上刚开源但实用的项目，收藏一波。.md]
+created: 2026-05-31
+updated: 2026-05-31
 type: concept
-name: Agent架构
-created: 2026-05-10
-updated: 2026-05-10
-mentions: 6
 ---
 
-# Agent架构
+# Agent架构（提议者vs执行者分离）
 
-**类型:** 概念
-**提及文章数:** 6
+**类型:** 概念 / 架构模式
+**来源:** [[推荐 3 个 GitHub 上刚开源但实用的项目，收藏一波]]
 
-## 简介
+## 核心观点
 
-Agent架构是一个在多篇文章中被讨论的概念。
+> "模型负责提议行动，Harness 负责验证、授权、执行和记录。模型不是操作者，它只是建议者。"
 
-## 相关实体
+## 分离设计
 
-[[Anthropic]], [[Claude-Code]], [[Claude]], [[DeepSeek]], [[Dify]], [[Excel]], [[GPT-4]], [[GPT-5]], [[GitHub]], [[Harness]], [[Hermes]], [[OpenAI]], [[OpenClaw]], [[Python]], [[微信]], [[飞书]]
+| 角色 | 职责 |
+|------|------|
+| Model（提议者） | 分析情况，提出下一步行动建议 |
+| Harness（执行者） | 验证建议、执行操作、记录结果、权限控制 |
 
-## 相关文章
+## 优势
 
-- [[1-Python-310]]
-- [[Hermes-Agent-Self-Evolution：开启Agent自我进化之路]]
-- [[OpenClaw做PPT总翻车装上这个Skill输出质量直追麦肯锡顾问]]
-- [[OpenClaw多Agent飞书机器人路由配置实战]]
-- [[导语什么样的架构设计才能真正让AI-Agent从工具进化到员工这不是一篇单纯的技术文档而是一个从业人员对Agent架构设计的系统性反思]]
-- [[真·并行！Hermes多Agent架构如何让7个AI同时工作]]
+- 模型不需要理解执行环境的权限边界
+- Harness 可以强制执行安全策略，即使模型建议了危险操作
+- 便于审计和调试：每个操作都有明确的提议→验证→执行→记录链
+
+## 运行时哲学规则（来自 agents-best-practices）
+
+> "反复失败应成为 Harness 特性"：不要靠反复改 Prompt 来解决问题，而是从验证器、工具、文档层面根治。
+
+## 相关
+
+- [[agents-best-practices]] — 该架构的最佳实践集合

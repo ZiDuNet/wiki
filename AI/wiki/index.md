@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 
 ## Statistics
 
-- Sources: 1151
-- Entities: 226
-- Concepts: 226
+- Sources: 1154
+- Entities: 229
+- Concepts: 229
 - Synthesis: 15
 
 ## Sources
@@ -150,6 +150,9 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[AI科研全家桶133个技能包]] — scientific-agent-skills：133 个科研技能，覆盖 9 大领域
 - [[学术论文写作全流程管线]] — academic-research-skills：查→写→审→改→定稿全流程
 - [[闪电般快速的端侧离线TTS]] — supertonic：99M 参数，31 语言，完全离线
+- [[干掉-Whisper-VoiceVault迁移到-FunASR]] — VoiceVault 从 Whisper 迁移到 FunASR：中文推理3x提升，trait object 双后端架构踩坑全记录
+- [[销售线索跟进-Skill-把散乱客户信息变成成交行动清单]] — 销售线索跟进 Skill：把散乱客户信息变成结构化线索表+跟进话术+风险提示
+- [[政策法规监控-Skill-持续跟踪行业新规]] — 政策法规监控 Skill：把合规变化拆成业务影响+风险等级+执行清单
 
 - [[709-用自然语言生成可编辑参数化3DCAD模型]] — 用自然语言生成可编辑参数化3D CAD模型
 ### AI短剧 (2篇)
@@ -395,6 +398,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[快瞧瞧-4-月-GitHub-上哪些开源项目最火火火火]] — 快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？
 - [[指定风格notion-极简风]] — 指定风格（notion 极简风）
 - [[推荐-3-个-GitHub-画图-Skill一句话生成流程图架构图]] — 推荐 3 个 GitHub 画图 Skill，一句话生成流程图、架构图。
+- [[推荐-3个-GitHub-刚开源但实用的项目-收藏一波]] — 推荐 3 个 GitHub 上刚开源但实用的项目：files.md 极简笔记、agents-best-practices 生产级指南、native-feel-skill 跨平台原生感
 - [[操作微信发消息]] — 操作微信发消息
 - [[每周更新帮你快速了解全球最热门的技术项目]] — 每周更新，帮你快速了解全球最热门的技术项目。
 - [[获取最新文章ID列表url'httpshackernewsfirebaseiocomv0topstoriesjson'rrequestsgeturlstoryi]] — 获取最新文章 ID 列表url = 'https://hacker-news.firebaseio.com/v0/topstories.json'r = requests.get(url)storyids = r.json()    # 返回 [35580378, 35579582, ...]# 按 ID 逐条获取详情storyurl = f'https://hacker-news.firebaseio.com/v0/item/{storyids[0]}.json'r = requests.get(storyurl)story = r.json()print(story['title'])print(story.get('url', 'No URL'))
