@@ -4,9 +4,9 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 
 ## Statistics
 
-- Sources: 1154
-- Entities: 229
-- Concepts: 229
+- Sources: 1155
+- Entities: 232
+- Concepts: 230
 - Synthesis: 15
 
 ## Sources
@@ -1088,6 +1088,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[分享15个自用的Skills]] — 分享15个自用的Skills
 - [[装了这个AI热点Skill之后你再也不需要自己去刷AI新闻了]] — 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。
 - [[分享4个新发现的宝藏Skills]] — 分享4个新发现的宝藏Skills
+- [[分享3个新发现的宝藏Skills]] — Higgsfield AI视频生成 / advise-project-approach架构审查 / claude-video视频分析，三个GitHub宝藏Skills
 - [[78K-Star的AI编程Skills-grill-me-需求访谈Skill]] — 78K Star的AI编程Skills：在开发前，先让grill-me对你做一个"需求访谈"
 - [[cnki-research-toolkit]] — CNKI Research Toolkit：AI驱动的中国知网科研工作流
 - [[754-Agent-Skills-会不会淘汰-Coze-Dify-N8N-等低代码平台]] — Agent Skills 会不会淘汰 Coze、Dify、N8N 等低代码平台？

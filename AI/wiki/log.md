@@ -2,6 +2,40 @@
 
 Chronological record of all operations.
 
+## 2026-05-31 — 微信同步摄入 (923)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Source:** 微信公众号/Skills/分享3个新发现的宝藏Skills.md
+**Time:** 2026-05-31 06:00
+**New Sources:** 1
+**New Entities:** [[Higgsfield-AI]], [[advise-project-approach]], [[claude-video]]
+**New Concepts:** [[本地AI工具链]]
+**index.md updated:** Statistics (Sources 1154→1155, Entities 229→232, Concepts 229→230), Skills
+
+### Key Findings
+
+**Article 923 - 分享3个新发现的宝藏Skills:**
+
+1. **Higgsfield AI Skills**：AI 图像和视频生成，Marketing Studio + Virality Predictor + Soul + product-photoshoot，npx skills add 安装，Claude Code/Cursor 友好，30秒视频10分钟出片
+2. **advise-project-approach**：项目启动前跑一遍，对比真实案例告诉你哪些坑可以避开，适合独立开发者选技术栈、项目中期架构审查、上线前最后一轮检查
+3. **claude-video 系列**：yt-dlp → ffmpeg → Whisper → Claude 分析，1500+ 平台支持，全部本地跑，30分钟视频2分钟分析完
+
+### Entities Created
+
+| 实体 | 说明 |
+|---|---|
+| Higgsfield-AI | AI 图像和视频生成平台，提供 Marketing Studio、Virality Predictor、soul、product-photoshoot 等 Skills |
+| advise-project-approach | 项目启动与架构审查 Skill，帮助独立开发者避免技术选型坑 |
+| claude-video | 视频内容分析 Skill 组合：yt-dlp + ffmpeg + Whisper + Claude 本地分析 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|---|---|
+| 本地AI工具链 | 不依赖云服务 API，全部本地跑的 AI 工具组合 |
+
+---
+
 ## 2026-05-30 — 四篇微信公众号文章摄入 (919-922)
 
 **Operator:** Hermes Agent (scheduled cron)
