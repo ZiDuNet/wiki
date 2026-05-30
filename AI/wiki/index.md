@@ -49,6 +49,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[内置IDE能力的终端AI编程助手]] — oh-my-pi：终端 AI 编程助手，32 工具 40+ Provider
 - [[别让-AI-写出来的网站死在-localhost给小白的上线指南]] — 别让 AI 写出来的网站，死在 localhost：给小白的上线指南
 - [[bettafish-舆情系统-免费开源方案]] — BettaFish：开源免费舆情系统，多 Agent 协作分析风评与情绪
+- [[baihu-panel-白虎面板-轻量替代青龙]] — 白虎面板：Go+Vue3 轻量定时任务面板，AES-GCM 加密日志
 
 ### ComfyUI (1篇)
 
@@ -97,6 +98,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[一句话生成PPT-已经能用了-html-ppt-skill实测指南]] — html-ppt-skill实测：36套主题+31种布局+14套deck模板，HTML格式PPT生成技能
 - [[ppt-master-AI-造-PPT的正确姿势]] — PPT Master评测：19,747 stars，生成原生DrawingML可编辑PPTX，v2.8.0 Live Preview进主流程
 - [[PPT-Master教程-PDF一键转可编辑PPT]] — PPT Master实战教程：94页扫描版PDF→14页可编辑PPT，SVG编写要点，AI校验全流程
+- [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT for PowerPoint：插件嵌入手把手，三步生成可编辑PPT
 
 ### AI大神 (2篇)
 
@@ -122,6 +124,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[一个Skill-搞定12种AI工具的提示词]] — prompt-master：一个Skill搞定12种AI工具的提示词，12种模板+35种错误诊断+推理模型自动识别
 - [[装上这三个Skill-在WorkBuddy轻松做出有格调的PPT和配图]] — any2html/info-card-designer/guizang-ppt-skill三款视觉Skill，覆盖信息卡片到完整PPT
 - [[WorkBuddy-100种用法-56-西游记PPT]] — 一句话→15页HTML PPT+自动部署到CloudStudio，全程零操作
+- [[workbuddy-6条使用经验]] — 我重度使用WorkBuddy后6条经验
 - [[合同初审-Skill-把合同风险点标出来]] — contract-review-skill：输出可复核风险表（风险项+原文位置+修改建议），不能替代律师
 - [[ai-tool-5min-ppt-word]] — 5分钟搞定PPT！用AI把Word文档一键转演示
 - [[字节开源33-7k-UI-TARS-Desktop真的会操作电脑]] — 字节开源33.7k！这个AI真的会操作电脑
@@ -311,7 +314,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 
 ### ChatGPT (1篇)
 
-- [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT新手指南：从注册到上手只需10分钟
+- [[ChatGPT新手指南从注册到上手只需10分钟]] — ChatGPT for PowerPoint：插件嵌入手把手，三步生成可编辑PPT（GPT Images 2.0 生图）
 
 ### Claude (37篇)
 
@@ -790,8 +793,8 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[14B模型]] — 14B模型
 - [[16秒上膛互联网再无围墙OpenClaw-Agent-Browser-暴力实测]] — 16秒上膛，互联网再无围墙：OpenClaw + Agent Browser 暴力实测
 - [[192-个-OpenClaw-Agent-模板免费用复制粘贴就能跑覆盖-24-个职场场景]] — 192 个 OpenClaw Agent 模板免费用：复制粘贴就能跑，覆盖 24 个职场场景
-- [[5个Skills让你的Openclaw搜索技能起飞]] — 5个Skills让你的Openclaw搜索技能起飞
-- [[AGENTSmd-Your-WorkspaceThis-folder-is-home-Treat-it-that-way-Every-SessionBefore]] — AGENTS.md - Your WorkspaceThis folder is home. Treat it that way.## Every SessionBefore doing anything else:1. Read `SOUL.md` — this is who you are2. Read `USER.md` — this is who you're helping3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context4. If in MAIN SESSION: Also read `MEMORY.md`Don't ask permission. Just do it.## MemoryYou wake up fresh each session. These files are your continuity:| 层级 | 文件 | 用途 ||------|------|------|| 索引层 | `MEMORY.md` | 核心信息和记忆索引，保持精简 || 项目层 | `memory/projects.md` | 各项目当前状态与待办 || 教训层 | `memory/lessons.md` | 踩过的坑，按严重程度分级 || 日志层 | `memory/YYYY-MM-DD.md` | 每日记录 |### 写入规则- 日志写入 `memory/YYYY-MM-DD.md`，记结论不记过程- 项目有进展时同步更新 `memory/projects.md`- 踩坑后写入 `memory/lessons.md`- MEMORY.md 只在索引变化时更新- 想记住就写文件，不要靠"记在脑子里"### 日志格式### [PROJECT:名称] 标题- 结论: 一句话总结- 文件变更: 涉及的文件- 教训: 踩坑点（如有）- 标签: #tag1 #tag2## Safety- Don't exfiltrate private data. Ever.- Don't run destructive commands without asking.- `trash` > `rm`- When in doubt, ask.Safe to do freely: Read files, search, organize, work within workspaceAsk first: Sending emails/tweets, anything that leaves the machine## Group ChatsYou have access to your human's stuff. That doesn't mean you share it.In groups, you're a participant — not their voice, not their proxy.## ToolsSkills provide your tools. When you need one, check its SKILL.md.
+- [[AGENTSmd-Your-WorkspaceThis-folder-is-home-Treat-it-that-way-Every-SessionBefore]] — AGENTS.md - Your WorkspaceThis folder is home. Treat it that way.
+- [[agents-md-ai辅助开发工程化骨架]] — AGENTS.md 工程化骨架：从 PRD 到可执行代码的 AI 辅助开发流程
 - [[AIAgent-核心循环-9200行class-AIAgent-def-runconversationself-1-构建系统提示词-systemprompt-p]] — AIAgent 核心循环 (~9,200行)class AIAgent:    def runconversation(self):        # 1. 构建系统提示词        systemprompt = promptbuilder.build()                # 2. 解析 Provider        provider = runtimeprovider.resolve()                # 3. 执行工具调用循环        while not complete:            response = llm.chatcompletion(messages, tools)            if response.toolcalls:                results = modeltools.handlecalls(response.toolcalls)                messages.extend(results)                # 4. 上下文压缩        if tokencount > threshold:            contextcompressor.compress(messages)
 - [[Agent-A-发送任务给-Agent-Bsessionssend-sessionKeyagentbsession-目标-Agent-的-session-mes]] — Agent A 发送任务给 Agent Bsessionssend(    sessionKey="agent-b-session",  # 目标 Agent 的 session    message="请帮我分析这份市场数据...",    timeoutSeconds=300)
 - [[Harness-到底是什么看看-OpenClawHermesClaude-Code-的演绎吧]] — Harness 到底是什么？看看 OpenClaw、Hermes、Claude Code 的演绎吧

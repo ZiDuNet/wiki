@@ -3287,4 +3287,25 @@ OpenClaw, Hermes Agent, Claude, Claude Code, Cursor, 飞书, Telegram, MCP, GitH
 - 抽样10个entity页发现7个broken links（LibTV等，非本次新增，历史遗留）
 - 所有新页面均在index中
 - 所有新entity均有入站引用
+
+## 2026-05-30 — 五篇微信公众号文章摄入 (923-927)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 微信公众号/飞牛NAS/白虎面板/白虎面板—轻量替代青龙的面板.md → wiki/sources/baihu-panel-白虎面板-轻量替代青龙.md
+2. 微信公众号/ChatGPT/用ChatGPT直接在PowerPoint里做ppt.md → wiki/sources/chatgpt-powerpoint-ai-ppt插件.md
+3. 微信公众号/Agent/从PRD到AGENTS.md工程化骨架.md → wiki/sources/agents-md-ai辅助开发工程化骨架.md
+4. 微信公众号/SkillManager/Skill站点与本地管理工具.md → wiki/sources/skill站点与本地管理工具.md
+5. 微信公众号/WorkBuddy/我重度使用WorkBuddy后6条经验.md → wiki/sources/workbuddy-6条使用经验.md
+**Time:** 2026-05-30
+**New Sources:** 5
+**New Entities:** [[白虎面板]], [[WorkBuddy]], [[AGENTS.md]], [[Skill生态]]
+**New Concepts:** [[轻量级定时任务调度]], [[AI协作方法论]], [[工作流固化]], [[任务交付验收]]
+**index.md updated:** Statistics (Sources 1151→1156, Entities 226→230, Concepts 226→230), AI运维终端 (新增baihu-panel), AI工具 (新增workbuddy-6条使用经验), Agent (新增agents-md-ai辅助开发工程化骨架)
+
+### Key Findings
+
+- 白虎面板：Go+Vue3开发的轻量NAS定时任务面板，支持AES-GCM加密日志、容器化部署，兼容青龙接口
+- AGENTS.md工程化骨架：从PRD到可执行代码的AI辅助开发流程，含[[AI协作方法论]]和[[工作流固化]]
+- Skill生态：Skill站点（远程）+本地管理工具的协同管理机制
 - 抖音entity已交叉引用新页面
