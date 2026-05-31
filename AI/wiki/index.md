@@ -1,12 +1,12 @@
 # Index
 
-Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新文章摄入).
+Master catalog of all wiki pages. Updated on 2026-05-31 (微信同步 + 3篇新文章摄入：933/934/935).
 
 ## Statistics
 
-- Sources: 1155
-- Entities: 232
-- Concepts: 230
+- Sources: 1158
+- Entities: 235
+- Concepts: 232
 - Synthesis: 15
 
 ## Sources
@@ -417,6 +417,9 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[713-GitHub2万星爆款让AI接管你的浏览器这个开源项目太强了]] — GitHub 2万星爆款：让AI接管你的浏览器，这个开源项目太强了
 - [[GitHub-炸了-19万星的Agent配置天花板一天涨2k星]] — GitHub 炸了：19 万星的 Agent 配置天花板，一天涨 2k+星 (1篇)
 - [[我把github做成需求雷达开源了]] — 极客杰尼开源 GitHub Demand Radar：从热门项目 Issue/PR 挖掘真实需求
+### GitHub (30篇)
+
+- [[github-4个star不高但有趣的项目]] — PeekDesktop / OpenToonz / Recordly / English-level-up-tips：4个Star不高但好玩的开源项目
 ### GitHub开源项目 (2篇)
 
 - [[CodeBuddy-Cli-+-skills-实现小红书信息图系列生成器！]] — CodeBuddy Cli + skills 实现小红书信息图系列生成器！
@@ -717,8 +720,7 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[Graphify-知识图谱工程化]] — Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品
 - [[Karpathy-的-LLM-Wiki-模式：让-AI-替你维护知识库]] — Karpathy 的 LLM Wiki 模式：让 AI 替你维护知识库
 - [[LLM-Wiki-架构解析-Karpathy-Markdown-知识库模式]] — LLM Wiki 架构解析：Karpathy 的 Markdown 知识库模式
-- [[Wechat-Cli-将微信聊天记录导入-Karpathy的LLM-Wiki]] — Wechat-Cli + Graphify：从加密数据库到结构化知识图谱的完整链路
-- [[llm-wiki-项目分享-知识管理的演变洞察]] — LLM Wiki项目对比：nashsu/llm_wiki（桌面应用）vs nvk/llm-wiki（Agent插件），知识图谱四信号相关性模型
+- [[hermes-agent-llm-wiki-obsidian-个人知识库]] — Hermes Agent + LLM Wiki + Obsidian：三层架构、自动维护、双向链接，打造"会自己长大"的知识库
 
 ### LangGraph (1篇)
 
@@ -1155,8 +1157,9 @@ Master catalog of all wiki pages. Updated on 2026-05-30 (微信同步 + 4篇新�
 - [[汉化Hermes-Web-UI：一个界面，管住所有AI聊天]] — 汉化Hermes Web UI：一个界面，管住所有AI聊天
 - [[WorkBuddy-100种用法-56-西游记PPT]] — 一句话生成15页HTML PPT，自动部署到CloudStudio公网链接
 - [[装上这三个Skill-在WorkBuddy轻松做出有格调的PPT和配图]] — any2html/info-card-designer/guizang-ppt-skill三款视觉Skill让WorkBuddy做出有格调的配图
+- [[workbuddy-ppt本地生图成本归零]] — WorkBuddy升级PPT技能：改Skill调用本地CLI + PyInstaller打包exe，成本归零
 
-### WorkBuddy (36篇)
+### WorkBuddy (37篇)
 
 - [[WorkBuddy方法17-项目进度跟踪与甘特图]] — WorkBuddy方法17：甘特图自动生成，Prompt驱动项目进度跟踪
 - [[我用WorkBuddy建了一个新闻编辑部一人公司正式开张]] — 我用 WorkBuddy 建了一个新闻编辑部，一人公司正式开张！

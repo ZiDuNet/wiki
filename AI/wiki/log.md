@@ -2,6 +2,59 @@
 
 Chronological record of all operations.
 
+## 2026-05-31 — 微信同步摄入 (933/934/935)
+
+**Operator:** Hermes Agent (scheduled cron)
+**Sources:**
+1. 微信公众号/Obsidian/Hermes Agent + LLM Wiki + Obsidian 个人知识库.md → wiki/sources/hermes-agent-llm-wiki-obsidian-个人知识库.md
+2. 微信公众号/GitHub/推荐 4 个 Star 数不高但挺有趣的 GitHub 项目。.md → wiki/sources/github-4个star不高但有趣的项目.md
+3. 微信公众号/WorkBuddy/Workbuddy升级PPT技能，本地生图，成本归零，高效_快速_稳定.md → wiki/sources/workbuddy-ppt本地生图成本归零.md
+**Time:** 2026-05-31 18:00
+**New Sources:** 3
+**New Entities:** [[PeekDesktop]], [[OpenToonz]], [[Recordly]], [[工具复利]]
+**New Concepts:** [[LLM-Wiki]], [[本地AI工具链]], [[CLI打包方案]], [[AI辅助PPT生成]]
+**index.md updated:** Statistics (Sources 1155→1158, Entities 232→235, Concepts 230→232)
+
+### Key Findings
+
+**Article 933 - Hermes Agent + LLM Wiki + Obsidian 个人知识库:**
+- LLM Wiki 三层架构：Raw Sources（只读）→ Wiki（Entity Pages + Concept Pages + 双向链接）→ Schema（操作指令）
+- 核心问题：OpenClaw Active Memory 只是"记录"不是"编译"，RAG 只是"检索"不解决整合
+- Karpathy 理念：让 AI 把知识编译成笔记，而不是只做记录
+
+**Article 934 - 推荐 4 个 Star 数不高但挺有趣的 GitHub 项目:**
+1. PeekDesktop — Windows 窗口透明化工具（Scott Hanselman 开发），解压即用，<5MB 内存
+2. OpenToonz — 吉卜力工作室用了十几年的专业 2D 动画软件，2016 年开源
+3. Recordly — 开源录屏+自动编辑工具，自动缩放/光标美化/时间线编辑
+4. English-level-up-tips — 4.8万 Star 英语学习指南，用 Gemini 做主引擎
+
+**Article 935 - WorkBuddy升级PPT技能，本地生图成本归零:**
+- 改 ppt-nano-master SKILL.md：云端生图 API → 本地 CLI 调用
+- 踩坑：沙箱隔离导致 pip install 超时失败
+- 解决：PyInstaller 打包生图工具成 172MB exe，沙箱直接调用
+- 核心洞察：工具复利 = 昨天开发的生图工具，今天成为 PPT 技能的生图引擎
+
+### Entities Created
+
+| 实体 | 说明 |
+|---|---|
+| PeekDesktop | Windows 窗口透明化工具，Scott Hanselman 开发 |
+| OpenToonz | 专业 2D 动画软件，吉卜力工作室使用，开源 10 周年 |
+| Recordly | 开源录屏+编辑工具，自动后期处理 |
+| 工具复利 | 早期工具持续成为后续功能的零件 |
+
+### Concepts Created
+
+| 概念 | 说明 |
+|---|---|
+| LLM-Wiki | Karpathy 提出的 AI 全自动构建和维护的结构化知识库模式 |
+| 本地AI工具链 | 不依赖云服务 API 的本地 AI 工具组合 |
+| CLI打包方案 | 沙箱隔离环境下的依赖问题解决方案 |
+| AI辅助PPT生成 | AI 生成大纲 + 人类评审的协作模式 |
+| 工具复利 | 投入一次、产出多次的效益叠加 |
+
+---
+
 ## 2026-05-31 — 微信同步摄入 (923)
 
 **Operator:** Hermes Agent (scheduled cron)
